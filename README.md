@@ -14,9 +14,9 @@ The player has access to five spells, which take inspiration from the five wedge
 ### Credits
 
 1. The first steps of the game were done following this tutorial:
-https://www.youtube.com/playlist?list=PLKMRiZuSgt-7wY7hfUzg8JcuTFXAf85jv
+> https://www.youtube.com/playlist?list=PLKMRiZuSgt-7wY7hfUzg8JcuTFXAf85jv
 
 2. I used mostly used sprites downloaded from google images and some free 2D assets downloaded from:
-https://www.gameart2d.com/freebies.html
+> https://www.gameart2d.com/freebies.html
 
 3. Particle effects are mostly free downloads from the official Unreal Engine Marketplace.
