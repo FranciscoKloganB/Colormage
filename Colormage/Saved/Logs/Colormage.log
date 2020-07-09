@@ -1475,3 +1475,1178 @@ FloorV4B_3by45
 [2020.07.09-19.21.38:536][423]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1963D6579432B390242651C8C2B14F7D4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
 [2020.07.09-19.21.38:575][423]AssetCheck: New page: Asset Save: Level1
 [2020.07.09-19.21.38:575][423]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-19.22.22:294][912]LogEditorViewport: Clicking Background
+[2020.07.09-19.22.27:844][574]LogEditorViewport: Clicking Background
+[2020.07.09-19.22.29:963][824]LogEditorViewport: Clicking Background
+[2020.07.09-19.22.38:123][797]LogEditorViewport: Clicking on Actor (LMB): FloorV4B_3by1_C (FloorV4B_3by1)
+[2020.07.09-19.22.58:622][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.07.09-19.22.59:938][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorV3ML" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3ML.uasset" SILENT=true
+[2020.07.09-19.22.59:943][388]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorV3MLE84719924C4246AA5724A492DD5096C1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3ML.uasset'
+[2020.07.09-19.22.59:959][388]AssetCheck: New page: Asset Save: FloorV3ML
+[2020.07.09-19.22.59:959][388]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/FloorV3ML.FloorV3ML
+[2020.07.09-19.23.05:421][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.07.09-19.23.06:069][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-19.23.06:088][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.07.09-19.23.06:148][113]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level13856CCAB400A9C7EB1F8F180F396B761.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-19.23.06:181][113]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-19.23.06:181][113]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-19.23.09:265][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorV3MR" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3MR.uasset" SILENT=true
+[2020.07.09-19.23.09:270][479]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorV3MR50A274AD46989C6003AD06BDF8B78530.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3MR.uasset'
+[2020.07.09-19.23.09:281][479]AssetCheck: New page: Asset Save: FloorV3MR
+[2020.07.09-19.23.09:281][479]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/FloorV3MR.FloorV3MR
+[2020.07.09-19.23.22:236][ 18]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Actors/FloorV3ML.FloorV3ML
+[2020.07.09-19.23.40:559][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile__4__Sprite" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile__4__Sprite.uasset" SILENT=true
+[2020.07.09-19.23.40:596][326]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__4__SpriteC7E91DF2404593555F1DBC96E2341A02.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile__4__Sprite.uasset'
+[2020.07.09-19.23.40:606][326]AssetCheck: New page: Asset Save: Tile__4__Sprite
+[2020.07.09-19.23.40:607][326]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/Tile__4__Sprite.Tile__4__Sprite
+[2020.07.09-19.23.41:056][370]BlueprintLog: New page: Compile FloorV3ML
+[2020.07.09-19.23.41:091][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.07.09-19.23.41:468][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorV3ML" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3ML.uasset" SILENT=true
+[2020.07.09-19.23.41:507][402]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorV3ML6F2470C3435B6890B31F1A804B1E26CE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3ML.uasset'
+[2020.07.09-19.23.41:519][402]AssetCheck: New page: Asset Save: FloorV3ML
+[2020.07.09-19.23.41:519][402]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/FloorV3ML.FloorV3ML
+[2020.07.09-19.23.42:058][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile__4__Sprite" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile__4__Sprite.uasset" SILENT=true
+[2020.07.09-19.23.42:095][444]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__4__SpriteCDD61A734ACCD68D1CABF0B3FA615EF5.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile__4__Sprite.uasset'
+[2020.07.09-19.23.42:105][444]AssetCheck: New page: Asset Save: Tile__4__Sprite
+[2020.07.09-19.23.42:106][444]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/Tile__4__Sprite.Tile__4__Sprite
+[2020.07.09-19.23.43:408][571]LogSlate: Window 'FloorV3ML' being destroyed
+[2020.07.09-19.23.43:413][571]LogSlate: Window 'FloorV3ML' being destroyed
+[2020.07.09-19.23.43:425][571]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.23.43:425][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.23.47:717][ 59]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Actors/FloorV3MR.FloorV3MR
+[2020.07.09-19.23.57:837][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile__6__Sprite" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile__6__Sprite.uasset" SILENT=true
+[2020.07.09-19.23.57:872][871]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__6__Sprite3F2EE055450066A966C689A1DBC0AE94.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile__6__Sprite.uasset'
+[2020.07.09-19.23.57:882][871]AssetCheck: New page: Asset Save: Tile__6__Sprite
+[2020.07.09-19.23.57:882][871]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/Tile__6__Sprite.Tile__6__Sprite
+[2020.07.09-19.24.05:849][637]BlueprintLog: New page: Compile FloorV3MR
+[2020.07.09-19.24.05:884][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.07.09-19.24.06:247][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorV3MR" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3MR.uasset" SILENT=true
+[2020.07.09-19.24.06:287][666]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorV3MR1D2571A142CA617DB7DBB2A4093A1F5D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3MR.uasset'
+[2020.07.09-19.24.06:299][666]AssetCheck: New page: Asset Save: FloorV3MR
+[2020.07.09-19.24.06:299][666]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/FloorV3MR.FloorV3MR
+[2020.07.09-19.24.07:729][789]LogSlate: Window 'FloorV3MR' being destroyed
+[2020.07.09-19.24.07:733][789]LogSlate: Window 'FloorV3MR' being destroyed
+[2020.07.09-19.24.07:752][789]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.24.07:752][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.24.10:969][156]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Actors/FloorV3ML.FloorV3ML
+[2020.07.09-19.24.13:163][330]LogSlate: Window 'FloorV3ML' being destroyed
+[2020.07.09-19.24.13:168][330]LogSlate: Window 'FloorV3ML' being destroyed
+[2020.07.09-19.24.13:175][330]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.24.13:176][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.24.23:434][505]LogEditorViewport: Clicking on Actor (LMB): FloorV4B_3by1_C (FloorV4B_3by3)
+[2020.07.09-19.24.28:328][ 81]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML)
+[2020.07.09-19.24.36:664][ 69]LogEditorViewport: Clicking Background
+[2020.07.09-19.24.39:892][454]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML3)
+[2020.07.09-19.24.45:903][168]Cmd: DELETE
+[2020.07.09-19.24.45:903][168]Cmd: ACTOR DELETE
+[2020.07.09-19.24.45:906][168]LogEditorActor: Deleted Actor: FloorV3ML_C
+[2020.07.09-19.24.45:929][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.07.09-19.24.45:935][168]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.07.09-19.24.46:618][250]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML3)
+[2020.07.09-19.24.50:416][700]LogEditorViewport: Clicking Background
+[2020.07.09-19.24.51:543][834]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML3)
+[2020.07.09-19.24.55:351][286]LogEditorViewport: Clicking Background
+[2020.07.09-19.24.55:826][342]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML2)
+[2020.07.09-19.24.57:229][506]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML3)
+[2020.07.09-19.24.59:020][718]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML2)
+[2020.07.09-19.25.00:256][862]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML)
+[2020.07.09-19.25.24:800][763]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Actors/FloorV4_3by3.FloorV4_3by3
+[2020.07.09-19.25.30:334][263]LogSlate: Window 'FloorV4_3by3' being destroyed
+[2020.07.09-19.25.30:338][263]LogSlate: Window 'FloorV4_3by3' being destroyed
+[2020.07.09-19.25.30:347][263]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.25.30:347][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.25.36:147][941]LogEditorViewport: Clicking Background
+[2020.07.09-19.25.38:114][175]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML3)
+[2020.07.09-19.25.48:948][465]LogEditorViewport: Clicking Background
+[2020.07.09-19.25.49:737][559]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML3)
+[2020.07.09-19.25.52:361][868]LogEditorViewport: Clicking Background
+[2020.07.09-19.25.54:294][ 99]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML3)
+[2020.07.09-19.25.56:455][354]LogEditorViewport: Clicking Background
+[2020.07.09-19.25.56:995][418]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML2)
+[2020.07.09-19.25.58:353][576]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML2)
+[2020.07.09-19.26.02:394][ 54]LogEditorViewport: Clicking Background
+[2020.07.09-19.26.03:735][214]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML2)
+[2020.07.09-19.26.05:842][461]LogEditorViewport: Clicking Background
+[2020.07.09-19.26.07:468][655]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML)
+[2020.07.09-19.26.09:305][872]LogEditorViewport: Clicking on Actor (LMB): FloorV3BL_C (FloorV3BL)
+[2020.07.09-19.26.11:647][149]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML)
+[2020.07.09-19.26.13:602][380]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML2)
+[2020.07.09-19.26.17:354][819]LogEditorViewport: Clicking on Actor (LMB): FloorV4B_3by1_C (FloorV4B_3by2)
+[2020.07.09-19.26.27:356][336]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML2)
+[2020.07.09-19.26.32:424][932]LogEditorViewport: Clicking Background
+[2020.07.09-19.26.33:197][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-19.26.33:219][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.07.09-19.26.33:291][ 22]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1FB58A8794BDC8E2A7DF8A7B81B2C6B13.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-19.26.33:330][ 22]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-19.26.33:331][ 22]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-19.27.43:048][336]LogEditorViewport: Clicking Background
+[2020.07.09-19.28.03:144][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.07.09-19.28.03:899][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorMM1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorMM1.uasset" SILENT=true
+[2020.07.09-19.28.03:904][821]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorMM127A653F84A2F0377ABC22FA1B96729E7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorMM1.uasset'
+[2020.07.09-19.28.03:915][821]AssetCheck: New page: Asset Save: FloorMM1
+[2020.07.09-19.28.03:915][821]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/FloorMM1.FloorMM1
+[2020.07.09-19.28.04:858][931]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Actors/FloorMM1.FloorMM1
+[2020.07.09-19.28.16:294][ 21]BlueprintLog: New page: Compile FloorMM1
+[2020.07.09-19.28.16:329][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.07.09-19.28.16:778][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorMM1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorMM1.uasset" SILENT=true
+[2020.07.09-19.28.16:817][ 63]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorMM186E33E25471DD12BF686F6B072D03429.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorMM1.uasset'
+[2020.07.09-19.28.16:830][ 63]AssetCheck: New page: Asset Save: FloorMM1
+[2020.07.09-19.28.16:830][ 63]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/FloorMM1.FloorMM1
+[2020.07.09-19.28.17:164][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile__5__Sprite" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile__5__Sprite.uasset" SILENT=true
+[2020.07.09-19.28.17:202][ 88]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__5__Sprite531363FD44B5CF0ABDC9E995F0A10662.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile__5__Sprite.uasset'
+[2020.07.09-19.28.17:258][ 88]AssetCheck: New page: Asset Save: Tile__5__Sprite
+[2020.07.09-19.28.17:258][ 88]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/Tile__5__Sprite.Tile__5__Sprite
+[2020.07.09-19.28.17:847][152]LogSlate: Window 'FloorMM1' being destroyed
+[2020.07.09-19.28.17:850][152]LogSlate: Window 'FloorMM1' being destroyed
+[2020.07.09-19.28.17:863][152]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.28.17:863][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.28.23:867][844]LogEditorViewport: Clicking on Actor (LMB): FloorMM1_C (FloorMM1)
+[2020.07.09-19.28.40:085][776]LogEditorViewport: Clicking Background
+[2020.07.09-19.28.41:286][919]LogEditorViewport: Clicking on Actor (LMB): FloorMM1_C (FloorMM1)
+[2020.07.09-19.28.42:474][ 56]LogEditorViewport: Clicking Background
+[2020.07.09-19.28.45:725][443]LogEditorViewport: Clicking Background
+[2020.07.09-19.28.46:053][482]LogEditorViewport: Clicking on Actor (LMB): FloorV4B_3by1_C (FloorV4B_3by1)
+[2020.07.09-19.28.46:588][542]LogEditorViewport: Clicking on Actor (LMB): FloorMM1_C (FloorMM1)
+[2020.07.09-19.28.48:327][743]LogEditorViewport: Clicking on Actor (LMB): FloorMM1_C (FloorMM1)
+[2020.07.09-19.28.48:746][792]LogEditorViewport: Clicking on Actor (LMB): FloorMM1_C (FloorMM1)
+[2020.07.09-19.28.49:237][849]LogEditorViewport: Clicking Background
+[2020.07.09-19.28.49:893][927]LogEditorViewport: Clicking on Actor (LMB): FloorMM1_C (FloorMM1)
+[2020.07.09-19.29.07:096][969]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Actors/FloorMM1.FloorMM1
+[2020.07.09-19.29.15:740][725]LogSlate: Window 'FloorMM1' being destroyed
+[2020.07.09-19.29.15:746][725]LogSlate: Window 'FloorMM1' being destroyed
+[2020.07.09-19.29.15:755][725]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.29.15:755][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.29.16:482][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorMM1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorMM1.uasset" SILENT=true
+[2020.07.09-19.29.16:520][801]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorMM1E3CAB32E4B345947619F929507877995.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorMM1.uasset'
+[2020.07.09-19.29.16:533][801]AssetCheck: New page: Asset Save: FloorMM1
+[2020.07.09-19.29.16:533][801]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/FloorMM1.FloorMM1
+[2020.07.09-19.29.19:756][176]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Actors/FloorV3BR.FloorV3BR
+[2020.07.09-19.29.26:161][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorV3BR" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3BR.uasset" SILENT=true
+[2020.07.09-19.29.26:200][738]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorV3BRB165057543A0384C118709AA3CC9C21D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3BR.uasset'
+[2020.07.09-19.29.26:213][738]AssetCheck: New page: Asset Save: FloorV3BR
+[2020.07.09-19.29.26:213][738]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/FloorV3BR.FloorV3BR
+[2020.07.09-19.29.26:826][801]LogSlate: Window 'FloorV3BR' being destroyed
+[2020.07.09-19.29.26:832][801]LogSlate: Window 'FloorV3BR' being destroyed
+[2020.07.09-19.29.26:832][801]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.29.26:832][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.29.27:527][871]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Actors/FloorV3ML.FloorV3ML
+[2020.07.09-19.29.35:090][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorV3ML" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3ML.uasset" SILENT=true
+[2020.07.09-19.29.35:129][522]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorV3MLEEEA752543A722BC2D9B0FAD58533A8F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3ML.uasset'
+[2020.07.09-19.29.35:142][522]AssetCheck: New page: Asset Save: FloorV3ML
+[2020.07.09-19.29.35:142][522]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/FloorV3ML.FloorV3ML
+[2020.07.09-19.29.36:066][609]LogSlate: Window 'FloorV3ML' being destroyed
+[2020.07.09-19.29.36:072][609]LogSlate: Window 'FloorV3ML' being destroyed
+[2020.07.09-19.29.36:072][609]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.29.36:073][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.29.37:075][717]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Actors/FloorV3MR.FloorV3MR
+[2020.07.09-19.29.42:538][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorV3MR" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3MR.uasset" SILENT=true
+[2020.07.09-19.29.42:579][174]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorV3MR67CC684843BF8CF67FD7DF80B624BEF1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3MR.uasset'
+[2020.07.09-19.29.42:593][174]AssetCheck: New page: Asset Save: FloorV3MR
+[2020.07.09-19.29.42:593][174]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/FloorV3MR.FloorV3MR
+[2020.07.09-19.29.43:977][314]LogSlate: Window 'FloorV3MR' being destroyed
+[2020.07.09-19.29.43:983][314]LogSlate: Window 'FloorV3MR' being destroyed
+[2020.07.09-19.29.43:983][314]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.29.43:984][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.29.45:401][468]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Actors/FloorV4B_3by1.FloorV4B_3by1
+[2020.07.09-19.29.53:008][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorV4B_3by1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV4B_3by1.uasset" SILENT=true
+[2020.07.09-19.29.53:048][135]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorV4B_3by16E8872C04142B8E2E763B6A98A2608AE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV4B_3by1.uasset'
+[2020.07.09-19.29.53:062][135]AssetCheck: New page: Asset Save: FloorV4B_3by1
+[2020.07.09-19.29.53:062][135]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/FloorV4B_3by1.FloorV4B_3by1
+[2020.07.09-19.29.57:729][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorV4B_3by1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV4B_3by1.uasset" SILENT=true
+[2020.07.09-19.29.57:770][539]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorV4B_3by1E7A1A48E428B24EA4DDFBFBD403E449D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV4B_3by1.uasset'
+[2020.07.09-19.29.57:781][539]AssetCheck: New page: Asset Save: FloorV4B_3by1
+[2020.07.09-19.29.57:781][539]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/FloorV4B_3by1.FloorV4B_3by1
+[2020.07.09-19.30.01:709][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorV4B_3by1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV4B_3by1.uasset" SILENT=true
+[2020.07.09-19.30.01:750][845]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorV4B_3by1E27B38764913A63C7F8DC5BAFD42514A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV4B_3by1.uasset'
+[2020.07.09-19.30.01:762][845]AssetCheck: New page: Asset Save: FloorV4B_3by1
+[2020.07.09-19.30.01:762][845]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/FloorV4B_3by1.FloorV4B_3by1
+[2020.07.09-19.30.04:537][103]LogSlate: Window 'FloorV4B_3by1' being destroyed
+[2020.07.09-19.30.04:544][103]LogSlate: Window 'FloorV4B_3by1' being destroyed
+[2020.07.09-19.30.04:553][103]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.30.04:553][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.30.05:218][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorV4B_3by1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV4B_3by1.uasset" SILENT=true
+[2020.07.09-19.30.05:257][171]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorV4B_3by12813E2F8413C59E202B11FB508E9A0A4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV4B_3by1.uasset'
+[2020.07.09-19.30.05:269][171]AssetCheck: New page: Asset Save: FloorV4B_3by1
+[2020.07.09-19.30.05:269][171]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/FloorV4B_3by1.FloorV4B_3by1
+[2020.07.09-19.30.07:439][422]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Actors/FloorV4_3by3.FloorV4_3by3
+[2020.07.09-19.30.13:763][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorV4_3by3" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV4_3by3.uasset" SILENT=true
+[2020.07.09-19.30.13:805][974]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorV4_3by3CC7715B54D449C4CEEB5EEA43ADBA197.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV4_3by3.uasset'
+[2020.07.09-19.30.13:818][974]AssetCheck: New page: Asset Save: FloorV4_3by3
+[2020.07.09-19.30.13:818][974]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/FloorV4_3by3.FloorV4_3by3
+[2020.07.09-19.30.19:550][502]LogSlate: Window 'FloorV4_3by3' being destroyed
+[2020.07.09-19.30.19:555][502]LogSlate: Window 'FloorV4_3by3' being destroyed
+[2020.07.09-19.30.19:555][502]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.30.19:555][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.30.21:493][728]LogEditorViewport: Clicking on Actor (LMB): FloorV3BL_C (FloorV3BL)
+[2020.07.09-19.30.24:045][ 18]LogEditorViewport: Clicking on Actor (LMB): FloorV3BL_C (FloorV3BL)
+[2020.07.09-19.30.24:806][108]LogEditorViewport: Clicking on Actor (context menu): FloorV3BL_C (FloorV3BL)
+[2020.07.09-19.30.26:464][298]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Actors/FloorV3BL.FloorV3BL
+[2020.07.09-19.30.32:144][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorV3BL" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3BL.uasset" SILENT=true
+[2020.07.09-19.30.32:187][782]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorV3BL9CD8534C4F1A4B3FE3EF599DF737063A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3BL.uasset'
+[2020.07.09-19.30.32:199][782]AssetCheck: New page: Asset Save: FloorV3BL
+[2020.07.09-19.30.32:199][782]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/FloorV3BL.FloorV3BL
+[2020.07.09-19.30.33:001][860]LogSlate: Window 'FloorV3BL' being destroyed
+[2020.07.09-19.30.33:005][860]LogSlate: Window 'FloorV3BL' being destroyed
+[2020.07.09-19.30.33:012][860]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.30.33:013][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.30.38:943][564]LogEditorViewport: Clicking on Actor (LMB): FloorV4B_3by1_C (FloorV4B_3by2)
+[2020.07.09-19.30.42:000][926]LogEditorViewport: Clicking on Actor (context menu): FloorV4B_3by1_C (FloorV4B_3by2)
+[2020.07.09-19.30.49:810][738]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Actors/FloorV4B_3by1.FloorV4B_3by1
+[2020.07.09-19.30.59:590][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorV4B_3by1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV4B_3by1.uasset" SILENT=true
+[2020.07.09-19.30.59:634][610]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorV4B_3by10692203349B9E5A2281EDBB2E0156E11.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV4B_3by1.uasset'
+[2020.07.09-19.30.59:647][610]AssetCheck: New page: Asset Save: FloorV4B_3by1
+[2020.07.09-19.30.59:647][610]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/FloorV4B_3by1.FloorV4B_3by1
+[2020.07.09-19.31.03:620][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorV4B_3by1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV4B_3by1.uasset" SILENT=true
+[2020.07.09-19.31.03:661][968]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorV4B_3by13742306840CFCAD573BEB48DC56F972F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV4B_3by1.uasset'
+[2020.07.09-19.31.03:678][968]AssetCheck: New page: Asset Save: FloorV4B_3by1
+[2020.07.09-19.31.03:678][968]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/FloorV4B_3by1.FloorV4B_3by1
+[2020.07.09-19.31.04:409][ 35]LogSlate: Window 'FloorV4B_3by1' being destroyed
+[2020.07.09-19.31.04:413][ 35]LogSlate: Window 'FloorV4B_3by1' being destroyed
+[2020.07.09-19.31.04:414][ 35]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.31.04:414][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.31.07:904][445]LogEditorViewport: Clicking on Actor (LMB): FloorV3BL_C (FloorV3BL)
+[2020.07.09-19.31.18:565][713]LogEditorViewport: Clicking on Actor (context menu): FloorV3BL_C (FloorV3BL)
+[2020.07.09-19.31.20:557][942]LogEditorViewport: Clicking Background
+[2020.07.09-19.31.21:147][ 12]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML3)
+[2020.07.09-19.31.22:157][129]LogEditorViewport: Clicking on Actor (LMB): FloorV3BL_C (FloorV3BL)
+[2020.07.09-19.31.30:375][ 99]LogEditorViewport: Clicking Background
+[2020.07.09-19.31.41:234][356]Cmd: TRANSACTION UNDO
+[2020.07.09-19.31.41:234][356]LogEditorTransaction: Undo Set Location
+[2020.07.09-19.31.44:311][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-19.31.44:349][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.07.09-19.31.44:423][659]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1D157C54B4ABD39AC2E4516B329B1DB42.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-19.31.44:467][659]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-19.31.44:467][659]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-19.31.44:825][700]LogEditorViewport: Clicking Background
+[2020.07.09-19.31.49:208][217]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML3)
+[2020.07.09-19.31.53:057][668]LogEditorViewport: Clicking Background
+[2020.07.09-19.31.53:175][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-19.31.53:204][679]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.07.09-19.31.53:270][679]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level16C691D3448DB5955B3BAEBA14C7FC498.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-19.31.53:320][679]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-19.31.53:320][679]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-19.31.54:124][774]LogEditorViewport: Clicking on Actor (LMB): FloorMM1_C (FloorMM1)
+[2020.07.09-19.32.00:470][520]LogEditorViewport: Clicking Background
+[2020.07.09-19.32.02:977][820]LogEditorViewport: Clicking on Actor (LMB): FloorMM1_C (FloorMM1)
+[2020.07.09-19.32.08:969][530]LogEditorViewport: Clicking on Actor (LMB): FloorMM1_C (FloorMM1)
+[2020.07.09-19.32.11:674][851]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML)
+[2020.07.09-19.32.15:305][276]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML3)
+[2020.07.09-19.32.17:161][491]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML)
+[2020.07.09-19.32.22:853][165]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML2)
+[2020.07.09-19.32.26:006][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-19.32.26:027][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.07.09-19.32.26:095][536]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level12131D512494ED4F4BF346394179D9E69.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-19.32.26:137][536]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-19.32.26:137][536]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-19.32.26:718][604]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML3)
+[2020.07.09-19.32.30:158][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-19.32.30:177][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.07.09-19.32.30:241][  9]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level153D67F294C3C68FFF48DD4839316B5BA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-19.32.30:280][  9]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-19.32.30:280][  9]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-19.32.31:054][101]LogEditorViewport: Clicking on Actor (LMB): FloorV3BL_C (FloorV3BL)
+[2020.07.09-19.32.31:454][145]LogEditorViewport: Clicking on Actor (LMB): FloorMM1_C (FloorMM1)
+[2020.07.09-19.32.34:212][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-19.32.34:231][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.07.09-19.32.34:294][463]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level15FCC6ED74F2A22474F4880A263C960D7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-19.32.34:334][463]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-19.32.34:334][463]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-19.32.34:792][515]LogEditorViewport: Clicking Background
+[2020.07.09-19.32.37:896][885]LogEditorViewport: Clicking on Actor (LMB): FloorMM1_C (FloorMM1)
+[2020.07.09-19.32.38:339][935]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML2)
+[2020.07.09-19.46.10:762][577]LogEditorViewport: Clicking on Actor (LMB): FloorMM1_C (FloorMM1)
+[2020.07.09-19.46.15:335][113]LogEditorViewport: Clicking on Actor (LMB): FloorMM1_C (FloorMM2)
+[2020.07.09-19.46.15:680][153]LogEditorViewport: Clicking Background
+[2020.07.09-19.46.16:437][243]LogEditorViewport: Clicking on Actor (LMB): FloorMM1_C (FloorMM2)
+[2020.07.09-19.46.46:692][852]LogEditorViewport: Clicking Background
+[2020.07.09-19.46.49:723][214]LogEditorViewport: Clicking on Actor (LMB): FloorMM1_C (FloorMM2)
+[2020.07.09-19.47.16:348][381]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML3)
+[2020.07.09-19.47.20:923][920]Cmd: DELETE
+[2020.07.09-19.47.20:923][920]Cmd: ACTOR DELETE
+[2020.07.09-19.47.20:925][920]LogEditorActor: Deleted Actor: FloorV3ML_C
+[2020.07.09-19.47.20:945][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.07.09-19.47.20:954][920]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.07.09-19.47.34:602][463]Cmd: DELETE
+[2020.07.09-19.47.34:602][463]Cmd: ACTOR DELETE
+[2020.07.09-19.47.34:605][463]LogEditorActor: Deleted Actor: FloorV2_2by1_C
+[2020.07.09-19.47.34:631][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.07.09-19.47.34:634][463]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.07.09-19.47.50:543][330]LogEditorViewport: Clicking Background
+[2020.07.09-19.47.51:562][451]LogEditorViewport: Clicking on Actor (LMB): FloorV1_2by1_C (FloorV1_2by1)
+[2020.07.09-19.47.52:519][562]LogEditorViewport: Clicking on Actor (LMB): FloorV3ML_C (FloorV3ML2)
+[2020.07.09-19.47.55:247][876]LogEditorViewport: Clicking on Actor (LMB): FloorV1_2by1_C (FloorV1_2by1)
+[2020.07.09-19.47.59:883][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-19.47.59:906][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.07.09-19.47.59:976][418]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level14E3425D04DD4DC094FC446B5CF11071E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-19.48.00:018][418]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-19.48.00:018][418]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-19.48.03:784][863]LogEditorViewport: Clicking Background
+[2020.07.09-19.48.40:573][232]LogEditorViewport: Clicking Background
+[2020.07.09-19.48.41:789][377]LogEditorViewport: Clicking on Actor (LMB): FloorV3BR_C (FloorV3BR2)
+[2020.07.09-19.48.44:045][642]LogEditorViewport: Clicking Background
+[2020.07.09-19.48.45:036][760]LogEditorViewport: Clicking on Actor (LMB): FloorV3BR_C (FloorV3BR2)
+[2020.07.09-19.48.47:091][  2]LogEditorViewport: Clicking Background
+[2020.07.09-19.48.48:048][116]LogEditorViewport: Clicking on Actor (LMB): FloorV3BR_C (FloorV3BR2)
+[2020.07.09-19.48.51:105][478]Cmd: DELETE
+[2020.07.09-19.48.51:105][478]Cmd: ACTOR DELETE
+[2020.07.09-19.48.51:108][478]LogEditorActor: Deleted Actor: FloorV3BR_C
+[2020.07.09-19.48.51:128][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.07.09-19.48.51:133][478]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.07.09-19.49.10:291][755]LogEditorViewport: Clicking Background
+[2020.07.09-19.49.14:455][247]Cmd: DELETE
+[2020.07.09-19.49.14:455][247]Cmd: ACTOR DELETE
+[2020.07.09-19.49.14:457][247]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2020.07.09-19.49.14:475][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.07.09-19.49.14:479][247]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2020.07.09-19.49.33:125][469]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Actors/FloorV3BL.FloorV3BL
+[2020.07.09-19.49.37:166][853]LogSlate: Window 'FloorV3BL' being destroyed
+[2020.07.09-19.49.37:170][853]LogSlate: Window 'FloorV3BL' being destroyed
+[2020.07.09-19.49.37:178][853]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.49.37:178][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.49.37:922][932]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Actors/FloorV3BR.FloorV3BR
+[2020.07.09-19.49.42:872][400]LogSlate: Window 'FloorV3BR' being destroyed
+[2020.07.09-19.49.42:877][400]LogSlate: Window 'FloorV3BR' being destroyed
+[2020.07.09-19.49.42:877][400]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.49.42:877][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.50.14:610][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.07.09-19.50.14:997][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/Floor10" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Floor10.uasset" SILENT=true
+[2020.07.09-19.50.15:002][221]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Floor103C52F27040ECA8AE3B536FB4AEAE0B6E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Floor10.uasset'
+[2020.07.09-19.50.15:014][221]AssetCheck: New page: Asset Save: Floor10
+[2020.07.09-19.50.15:014][221]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/Floor10.Floor10
+[2020.07.09-19.50.16:207][362]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Actors/Floor10.Floor10
+[2020.07.09-19.50.29:575][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile__10__Sprite" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile__10__Sprite.uasset" SILENT=true
+[2020.07.09-19.50.29:614][577]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__10__Sprite425FD22448E52494F16736A32586ED02.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile__10__Sprite.uasset'
+[2020.07.09-19.50.29:672][577]AssetCheck: New page: Asset Save: Tile__10__Sprite
+[2020.07.09-19.50.29:672][577]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/Tile__10__Sprite.Tile__10__Sprite
+[2020.07.09-19.50.33:365][970]LogSlate: Window 'Floor10' being destroyed
+[2020.07.09-19.50.33:369][970]LogSlate: Window 'Floor10' being destroyed
+[2020.07.09-19.50.33:381][970]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.50.33:381][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.50.37:214][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/Floor10" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Floor10.uasset" SILENT=true
+[2020.07.09-19.50.37:252][408]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Floor1003F4F5A3449A605E8D69D5932E3C9832.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Floor10.uasset'
+[2020.07.09-19.50.37:266][408]AssetCheck: New page: Asset Save: Floor10
+[2020.07.09-19.50.37:266][408]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/Floor10.Floor10
+[2020.07.09-19.50.48:429][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.07.09-19.50.49:510][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/Floor11" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Floor11.uasset" SILENT=true
+[2020.07.09-19.50.49:515][867]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Floor1106BBFA3D437B91E553A55086339D74F1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Floor11.uasset'
+[2020.07.09-19.50.49:531][867]AssetCheck: New page: Asset Save: Floor11
+[2020.07.09-19.50.49:531][867]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/Floor11.Floor11
+[2020.07.09-19.51.07:033][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.07.09-19.51.07:036][558]LogMetaData: Removing '/Game/LevelItems/Floors/Actors/Floor8.SKEL_Floor8_C' ref from Metadata '/Game/LevelItems/Floors/Actors/Floor11.PackageMetaData'
+[2020.07.09-19.51.07:036][558]LogMetaData: Removing '/Game/LevelItems/Floors/Actors/Floor8.Floor8_C' ref from Metadata '/Game/LevelItems/Floors/Actors/Floor11.PackageMetaData'
+[2020.07.09-19.51.07:063][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/Floor8" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Floor8.uasset" SILENT=true
+[2020.07.09-19.51.07:069][558]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Floor82D0FC3D94D3E56206BC4F9A4F408EA47.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Floor8.uasset'
+[2020.07.09-19.51.07:217][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.07.09-19.51.07:245][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.07.09-19.51.07:263][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.07.09-19.51.07:290][558]AssetCheck: New page: Asset Save: Floor8
+[2020.07.09-19.51.07:290][558]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/Floor8.Floor8
+[2020.07.09-19.51.07:334][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/Floor8" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Floor8.uasset" SILENT=true
+[2020.07.09-19.51.07:373][560]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Floor8EC8D84D94951BC3B9411BCA7FD5059BC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Floor8.uasset'
+[2020.07.09-19.51.07:383][560]AssetCheck: New page: Asset Save: Floor8
+[2020.07.09-19.51.07:383][560]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/Floor8.Floor8
+[2020.07.09-19.51.11:377][ 37]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1862)].
+[2020.07.09-19.51.11:403][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.07.09-19.51.11:406][ 37]LogMetaData: Removing '/Game/LevelItems/Floors/Actors/Tile8.Tile8_C' ref from Metadata '/Game/LevelItems/Floors/Actors/Floor8.PackageMetaData'
+[2020.07.09-19.51.11:406][ 37]LogMetaData: Removing '/Game/LevelItems/Floors/Actors/Tile8.SKEL_Tile8_C' ref from Metadata '/Game/LevelItems/Floors/Actors/Floor8.PackageMetaData'
+[2020.07.09-19.51.11:410][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/Tile8" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile8.uasset" SILENT=true
+[2020.07.09-19.51.11:416][ 37]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile8F0108EAD426406F19F98DFA07649051C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile8.uasset'
+[2020.07.09-19.51.11:524][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.07.09-19.51.11:543][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.07.09-19.51.11:563][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.07.09-19.51.11:592][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-19.51.11:611][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.07.09-19.51.11:678][ 37]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1B419BE114CAEEE7F41A4AE9050E8E5C2.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-19.51.11:720][ 37]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-19.51.11:720][ 37]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/Tile8.Tile8
+[2020.07.09-19.51.11:720][ 37]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-19.51.15:006][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.07.09-19.51.15:008][424]LogMetaData: Removing '/Game/LevelItems/Floors/Actors/Tile10.SKEL_Tile10_C' ref from Metadata '/Game/LevelItems/Floors/Actors/Floor10.PackageMetaData'
+[2020.07.09-19.51.15:008][424]LogMetaData: Removing '/Game/LevelItems/Floors/Actors/Tile10.Tile10_C' ref from Metadata '/Game/LevelItems/Floors/Actors/Floor10.PackageMetaData'
+[2020.07.09-19.51.15:036][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/Tile10" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile10.uasset" SILENT=true
+[2020.07.09-19.51.15:041][424]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile102E9508624746A121C1DEC2A0503E21BB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile10.uasset'
+[2020.07.09-19.51.15:186][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.07.09-19.51.15:214][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.07.09-19.51.15:232][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.07.09-19.51.15:259][424]AssetCheck: New page: Asset Save: Tile10
+[2020.07.09-19.51.15:259][424]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/Tile10.Tile10
+[2020.07.09-19.51.15:601][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/Tile10" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile10.uasset" SILENT=true
+[2020.07.09-19.51.15:639][463]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile10426A540A455DDD17FB5F21A519DC010C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile10.uasset'
+[2020.07.09-19.51.15:649][463]AssetCheck: New page: Asset Save: Tile10
+[2020.07.09-19.51.15:649][463]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/Tile10.Tile10
+[2020.07.09-19.51.16:560][569]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Actors/Tile8.Tile8
+[2020.07.09-19.51.29:386][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile__8__Sprite" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile__8__Sprite.uasset" SILENT=true
+[2020.07.09-19.51.29:425][924]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__8__SpriteF0B168E046301F4002E1E6950C8A6A57.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile__8__Sprite.uasset'
+[2020.07.09-19.51.29:480][924]AssetCheck: New page: Asset Save: Tile__8__Sprite
+[2020.07.09-19.51.29:480][924]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/Tile__8__Sprite.Tile__8__Sprite
+[2020.07.09-19.51.31:424][137]BlueprintLog: New page: Compile Tile8
+[2020.07.09-19.51.31:456][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.07.09-19.51.32:030][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/Tile8" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile8.uasset" SILENT=true
+[2020.07.09-19.51.32:068][192]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile898B545674F7C7DE1D11B4B9E851BDD74.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile8.uasset'
+[2020.07.09-19.51.32:079][192]AssetCheck: New page: Asset Save: Tile8
+[2020.07.09-19.51.32:079][192]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/Tile8.Tile8
+[2020.07.09-19.51.33:141][302]LogSlate: Window 'Tile8' being destroyed
+[2020.07.09-19.51.33:146][302]LogSlate: Window 'Tile8' being destroyed
+[2020.07.09-19.51.33:164][302]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.51.33:164][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.51.38:864][945]Cmd: TRANSACTION UNDO
+[2020.07.09-19.51.38:864][945]LogEditorTransaction: Undo Create Actors
+[2020.07.09-19.51.39:667][  5]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Actors/Tile10.Tile10
+[2020.07.09-19.51.42:636][276]LogSlate: Window 'Tile10' being destroyed
+[2020.07.09-19.51.42:640][276]LogSlate: Window 'Tile10' being destroyed
+[2020.07.09-19.51.42:659][276]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.51.42:659][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.51.47:796][860]LogEditorViewport: Clicking on Actor (LMB): FloorMM1_C (FloorMM1)
+[2020.07.09-19.51.51:363][280]LogEditorViewport: Clicking on Actor (LMB): Tile10_C (Tile10)
+[2020.07.09-19.51.57:294][982]LogEditorViewport: Clicking Background
+[2020.07.09-19.51.57:576][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-19.51.57:600][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.07.09-19.51.57:668][ 13]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1B3106C1149E3C4D910D667BBFFE9EFED.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-19.51.57:709][ 13]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-19.51.57:709][ 13]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-19.51.58:605][117]LogEditorViewport: Clicking on Actor (LMB): Tile10_C (Tile10)
+[2020.07.09-19.51.58:978][159]LogEditorViewport: Clicking on Actor (LMB): FloorV1_2by1_C (FloorV1_2by1)
+[2020.07.09-19.52.00:027][279]LogEditorViewport: Clicking Background
+[2020.07.09-19.52.03:511][693]LogEditorViewport: Clicking Background
+[2020.07.09-19.52.04:752][841]LogEditorViewport: Clicking on Actor (LMB): FloorMM1_C (FloorMM2)
+[2020.07.09-19.52.14:492][987]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Actors/FloorV3MR.FloorV3MR
+[2020.07.09-19.52.17:601][240]LogSlate: Window 'FloorV3MR' being destroyed
+[2020.07.09-19.52.17:606][240]LogSlate: Window 'FloorV3MR' being destroyed
+[2020.07.09-19.52.17:606][240]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.52.17:606][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.52.37:557][596]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Actors/FloorV4B_3by1.FloorV4B_3by1
+[2020.07.09-19.52.39:419][745]LogSlate: Window 'FloorV4B_3by1' being destroyed
+[2020.07.09-19.52.39:425][745]LogSlate: Window 'FloorV4B_3by1' being destroyed
+[2020.07.09-19.52.39:432][745]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.52.39:432][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.52.43:080][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.07.09-19.52.43:083][165]LogMetaData: Removing '/Game/LevelItems/Floors/Actors/Tile6.SKEL_Tile6_C' ref from Metadata '/Game/LevelItems/Floors/Actors/FloorV3MR.PackageMetaData'
+[2020.07.09-19.52.43:084][165]LogMetaData: Removing '/Game/LevelItems/Floors/Actors/Tile6.Tile6_C' ref from Metadata '/Game/LevelItems/Floors/Actors/FloorV3MR.PackageMetaData'
+[2020.07.09-19.52.43:122][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/Tile6" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile6.uasset" SILENT=true
+[2020.07.09-19.52.43:127][165]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile6E0DD0DAB4B39BDCE294224A16E5D364A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile6.uasset'
+[2020.07.09-19.52.43:270][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.07.09-19.52.43:299][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.07.09-19.52.43:316][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.07.09-19.52.43:343][165]AssetCheck: New page: Asset Save: Tile6
+[2020.07.09-19.52.43:343][165]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/Tile6.Tile6
+[2020.07.09-19.52.43:647][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/Tile6" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile6.uasset" SILENT=true
+[2020.07.09-19.52.43:686][198]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile62454524B49F8F393BE3BA1A3E8928131.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile6.uasset'
+[2020.07.09-19.52.43:697][198]AssetCheck: New page: Asset Save: Tile6
+[2020.07.09-19.52.43:697][198]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/Tile6.Tile6
+[2020.07.09-19.52.46:019][457]Cmd: TRANSACTION UNDO
+[2020.07.09-19.52.46:019][457]LogEditorTransaction: Undo Create Actors
+[2020.07.09-19.52.51:434][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-19.52.51:453][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.07.09-19.52.51:521][ 51]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level102B5B945442CD6B8D2498D84FE48E6E2.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-19.52.51:560][ 51]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-19.52.51:561][ 51]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-19.52.57:304][698]Cmd: TRANSACTION UNDO
+[2020.07.09-19.52.57:304][698]LogEditorTransaction: Undo Create Actors
+[2020.07.09-19.53.06:404][719]LogEditorViewport: Clicking on Actor (context menu): FloorV3ML_C (FloorV3ML3)
+[2020.07.09-19.53.13:899][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.07.09-19.53.13:903][595]LogMetaData: Removing '/Game/LevelItems/Floors/Actors/Tile4.SKEL_Tile4_C' ref from Metadata '/Game/LevelItems/Floors/Actors/FloorV3ML.PackageMetaData'
+[2020.07.09-19.53.13:903][595]LogMetaData: Removing '/Game/LevelItems/Floors/Actors/Tile4.Tile4_C' ref from Metadata '/Game/LevelItems/Floors/Actors/FloorV3ML.PackageMetaData'
+[2020.07.09-19.53.13:932][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/Tile4" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile4.uasset" SILENT=true
+[2020.07.09-19.53.13:937][595]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile46C2F34924F7F39FC85AAAA9D4D1A89BB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile4.uasset'
+[2020.07.09-19.53.13:939][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorV3ML" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3ML.uasset" SILENT=true
+[2020.07.09-19.53.13:975][595]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorV3ML32D4460042B9001724BBB6925C4004EA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3ML.uasset'
+[2020.07.09-19.53.14:013][595]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-19.53.14:013][595]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/Tile4.Tile4
+[2020.07.09-19.53.14:013][595]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelItems/Floors/Actors/FloorV3ML.FloorV3ML
+[2020.07.09-19.53.14:013][595]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelItems/Floors/Actors/FloorV3ML.FloorV3ML_C
+[2020.07.09-19.53.14:361][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/Tile4" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile4.uasset" SILENT=true
+[2020.07.09-19.53.14:400][631]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile463D56CC44069EF4606CE159A40DA2F48.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile4.uasset'
+[2020.07.09-19.53.14:414][631]AssetCheck: New page: Asset Save: Tile4
+[2020.07.09-19.53.14:414][631]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/Tile4.Tile4
+[2020.07.09-19.53.16:029][822]Cmd: DELETE
+[2020.07.09-19.53.16:029][822]Cmd: ACTOR DELETE
+[2020.07.09-19.53.16:031][822]LogEditorActor: Deleted Actor: Tile4_C
+[2020.07.09-19.53.16:050][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.07.09-19.53.16:052][822]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.07.09-19.53.17:090][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-19.53.17:108][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.09-19.53.17:173][944]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1EA8BE55C457CD58E711B529AA39C9453.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-19.53.17:212][944]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-19.53.17:212][944]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-19.53.19:437][209]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Actors/FloorV3BR.FloorV3BR
+[2020.07.09-19.53.24:690][731]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Actors/FloorV3BL.FloorV3BL
+[2020.07.09-19.53.30:566][320]LogSlate: Window 'FloorV3BL' being destroyed
+[2020.07.09-19.53.30:571][320]LogSlate: Window 'FloorV3BL' being destroyed
+[2020.07.09-19.53.30:577][320]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.53.30:577][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.53.30:630][320]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.09-19.53.30:630][320]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.53.30:630][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.53.39:688][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.07.09-19.53.39:692][384]LogMetaData: Removing '/Game/LevelItems/Floors/Actors/Tile12.SKEL_Tile12_C' ref from Metadata '/Game/LevelItems/Floors/Actors/FloorV3BL.PackageMetaData'
+[2020.07.09-19.53.39:692][384]LogMetaData: Removing '/Game/LevelItems/Floors/Actors/Tile12.Tile12_C' ref from Metadata '/Game/LevelItems/Floors/Actors/FloorV3BL.PackageMetaData'
+[2020.07.09-19.53.39:726][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/Tile12" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile12.uasset" SILENT=true
+[2020.07.09-19.53.39:731][384]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile12FC2E1C9A41D58698A6364DB471274C84.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile12.uasset'
+[2020.07.09-19.53.39:733][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorV3BL" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3BL.uasset" SILENT=true
+[2020.07.09-19.53.39:768][384]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorV3BL149866A34512DDAB164AD7AED83D496A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3BL.uasset'
+[2020.07.09-19.53.39:804][384]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-19.53.39:804][384]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/Tile12.Tile12
+[2020.07.09-19.53.39:804][384]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelItems/Floors/Actors/FloorV3BL.FloorV3BL
+[2020.07.09-19.53.39:804][384]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelItems/Floors/Actors/FloorV3BL.FloorV3BL_C
+[2020.07.09-19.53.43:627][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.07.09-19.53.43:630][835]LogMetaData: Removing '/Game/LevelItems/Floors/Actors/Tile13.SKEL_Tile13_C' ref from Metadata '/Game/LevelItems/Floors/Actors/FloorV3BR.PackageMetaData'
+[2020.07.09-19.53.43:630][835]LogMetaData: Removing '/Game/LevelItems/Floors/Actors/Tile13.Tile13_C' ref from Metadata '/Game/LevelItems/Floors/Actors/FloorV3BR.PackageMetaData'
+[2020.07.09-19.53.43:655][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/Tile13" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile13.uasset" SILENT=true
+[2020.07.09-19.53.43:661][835]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile1373B6B89847F902EE0F53519EC7F335BF.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile13.uasset'
+[2020.07.09-19.53.43:663][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorV3BR" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3BR.uasset" SILENT=true
+[2020.07.09-19.53.43:699][835]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorV3BR2258D2B143C8DCBB27F885982D9EC367.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3BR.uasset'
+[2020.07.09-19.53.43:738][835]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-19.53.43:738][835]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/Tile13.Tile13
+[2020.07.09-19.53.43:738][835]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelItems/Floors/Actors/FloorV3BR.FloorV3BR
+[2020.07.09-19.53.43:738][835]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelItems/Floors/Actors/FloorV3BR.FloorV3BR_C
+[2020.07.09-19.53.44:097][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/Tile13" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile13.uasset" SILENT=true
+[2020.07.09-19.53.44:136][875]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile13CE46D45C40F699B8A89F1596A560066D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile13.uasset'
+[2020.07.09-19.53.44:146][875]AssetCheck: New page: Asset Save: Tile13
+[2020.07.09-19.53.44:146][875]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/Tile13.Tile13
+[2020.07.09-19.53.55:839][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.07.09-19.53.55:842][102]LogMetaData: Removing '/Game/LevelItems/Floors/Actors/Tile5.SKEL_Tile5_C' ref from Metadata '/Game/LevelItems/Floors/Actors/FloorMM1.PackageMetaData'
+[2020.07.09-19.53.55:842][102]LogMetaData: Removing '/Game/LevelItems/Floors/Actors/Tile5.Tile5_C' ref from Metadata '/Game/LevelItems/Floors/Actors/FloorMM1.PackageMetaData'
+[2020.07.09-19.53.55:870][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/Tile5" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile5.uasset" SILENT=true
+[2020.07.09-19.53.55:876][102]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile54DE60DFA422FA5CF33154393EE0C46DA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile5.uasset'
+[2020.07.09-19.53.55:878][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorMM1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorMM1.uasset" SILENT=true
+[2020.07.09-19.53.55:914][102]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorMM18C8E6D2D4D500D7B4A3C53A13EFA0E97.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorMM1.uasset'
+[2020.07.09-19.53.55:952][102]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-19.53.55:952][102]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/Tile5.Tile5
+[2020.07.09-19.53.55:952][102]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelItems/Floors/Actors/FloorMM1.FloorMM1
+[2020.07.09-19.53.55:952][102]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelItems/Floors/Actors/FloorMM1.FloorMM1_C
+[2020.07.09-19.53.56:242][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/Tile5" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile5.uasset" SILENT=true
+[2020.07.09-19.53.56:282][134]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile5C0F7750B441B2549C5CC7AA0439C6898.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile5.uasset'
+[2020.07.09-19.53.56:293][134]AssetCheck: New page: Asset Save: Tile5
+[2020.07.09-19.53.56:293][134]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Actors/Tile5.Tile5
+[2020.07.09-19.54.01:577][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile10.Tile10_C' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile10.PackageMetaData'
+[2020.07.09-19.54.01:578][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile10.SKEL_Tile10_C' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile10.PackageMetaData'
+[2020.07.09-19.54.01:578][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile10.SKEL_Tile10_C:ReceiveBeginPlay' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile10.PackageMetaData'
+[2020.07.09-19.54.01:578][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile10.SKEL_Tile10_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile10.PackageMetaData'
+[2020.07.09-19.54.01:578][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile10.SKEL_Tile10_C:ReceiveTick' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile10.PackageMetaData'
+[2020.07.09-19.54.01:578][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile10.SKEL_Tile10_C:UserConstructionScript' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile10.PackageMetaData'
+[2020.07.09-19.54.01:586][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile12.Tile12_C' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile12.PackageMetaData'
+[2020.07.09-19.54.01:586][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile12.SKEL_Tile12_C' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile12.PackageMetaData'
+[2020.07.09-19.54.01:586][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile12.SKEL_Tile12_C:ReceiveBeginPlay' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile12.PackageMetaData'
+[2020.07.09-19.54.01:586][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile12.SKEL_Tile12_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile12.PackageMetaData'
+[2020.07.09-19.54.01:586][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile12.SKEL_Tile12_C:ReceiveTick' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile12.PackageMetaData'
+[2020.07.09-19.54.01:586][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile12.SKEL_Tile12_C:UserConstructionScript' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile12.PackageMetaData'
+[2020.07.09-19.54.01:591][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile13.Tile13_C' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile13.PackageMetaData'
+[2020.07.09-19.54.01:591][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile13.SKEL_Tile13_C' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile13.PackageMetaData'
+[2020.07.09-19.54.01:591][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile13.SKEL_Tile13_C:ReceiveBeginPlay' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile13.PackageMetaData'
+[2020.07.09-19.54.01:592][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile13.SKEL_Tile13_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile13.PackageMetaData'
+[2020.07.09-19.54.01:592][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile13.SKEL_Tile13_C:ReceiveTick' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile13.PackageMetaData'
+[2020.07.09-19.54.01:592][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile13.SKEL_Tile13_C:UserConstructionScript' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile13.PackageMetaData'
+[2020.07.09-19.54.01:597][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile4.Tile4_C' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile4.PackageMetaData'
+[2020.07.09-19.54.01:597][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile4.SKEL_Tile4_C' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile4.PackageMetaData'
+[2020.07.09-19.54.01:597][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile4.SKEL_Tile4_C:ReceiveBeginPlay' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile4.PackageMetaData'
+[2020.07.09-19.54.01:597][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile4.SKEL_Tile4_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile4.PackageMetaData'
+[2020.07.09-19.54.01:597][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile4.SKEL_Tile4_C:ReceiveTick' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile4.PackageMetaData'
+[2020.07.09-19.54.01:597][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile4.SKEL_Tile4_C:UserConstructionScript' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile4.PackageMetaData'
+[2020.07.09-19.54.01:604][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile5.Tile5_C' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile5.PackageMetaData'
+[2020.07.09-19.54.01:605][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile5.SKEL_Tile5_C' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile5.PackageMetaData'
+[2020.07.09-19.54.01:605][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile5.SKEL_Tile5_C:ReceiveBeginPlay' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile5.PackageMetaData'
+[2020.07.09-19.54.01:605][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile5.SKEL_Tile5_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile5.PackageMetaData'
+[2020.07.09-19.54.01:605][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile5.SKEL_Tile5_C:ReceiveTick' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile5.PackageMetaData'
+[2020.07.09-19.54.01:605][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile5.SKEL_Tile5_C:UserConstructionScript' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile5.PackageMetaData'
+[2020.07.09-19.54.01:610][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile6.Tile6_C' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile6.PackageMetaData'
+[2020.07.09-19.54.01:610][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile6.SKEL_Tile6_C' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile6.PackageMetaData'
+[2020.07.09-19.54.01:610][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile6.SKEL_Tile6_C:ReceiveBeginPlay' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile6.PackageMetaData'
+[2020.07.09-19.54.01:610][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile6.SKEL_Tile6_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile6.PackageMetaData'
+[2020.07.09-19.54.01:610][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile6.SKEL_Tile6_C:ReceiveTick' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile6.PackageMetaData'
+[2020.07.09-19.54.01:610][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile6.SKEL_Tile6_C:UserConstructionScript' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile6.PackageMetaData'
+[2020.07.09-19.54.01:616][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile8.Tile8_C' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile8.PackageMetaData'
+[2020.07.09-19.54.01:617][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile8.SKEL_Tile8_C' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile8.PackageMetaData'
+[2020.07.09-19.54.01:617][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile8.SKEL_Tile8_C:UserConstructionScript' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile8.PackageMetaData'
+[2020.07.09-19.54.01:617][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile8.SKEL_Tile8_C:ReceiveTick' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile8.PackageMetaData'
+[2020.07.09-19.54.01:617][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile8.SKEL_Tile8_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile8.PackageMetaData'
+[2020.07.09-19.54.01:617][760]LogMetaData: Removing '/Game/LevelItems/Floors/Sprites/Tile8.SKEL_Tile8_C:ReceiveBeginPlay' ref from Metadata '/Game/LevelItems/Floors/Actors/Tile8.PackageMetaData'
+[2020.07.09-19.54.01:650][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile10" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile10.uasset" SILENT=true
+[2020.07.09-19.54.01:656][760]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile10F52ECCC24D9BC18327A08299FBC18CA9.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile10.uasset'
+[2020.07.09-19.54.01:658][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/Tile10" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile10.uasset" SILENT=true
+[2020.07.09-19.54.01:697][760]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile100379498341487D32EA6FB296CF7D43BD.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile10.uasset'
+[2020.07.09-19.54.01:699][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile12" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile12.uasset" SILENT=true
+[2020.07.09-19.54.01:705][760]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile12AF380C004DCAF7C131254E946086DE76.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile12.uasset'
+[2020.07.09-19.54.01:707][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile13" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile13.uasset" SILENT=true
+[2020.07.09-19.54.01:713][760]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile137B1A46194971CC08979E68BABB5844BC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile13.uasset'
+[2020.07.09-19.54.01:715][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile4" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile4.uasset" SILENT=true
+[2020.07.09-19.54.01:721][760]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile413D6C5824310F8436008E3845CAF1A61.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile4.uasset'
+[2020.07.09-19.54.01:724][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/Tile4" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile4.uasset" SILENT=true
+[2020.07.09-19.54.01:761][760]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile452DEB3514DAB48E2376DAD9054931A25.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile4.uasset'
+[2020.07.09-19.54.01:763][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile5" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile5.uasset" SILENT=true
+[2020.07.09-19.54.01:769][760]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile5CCBD9E22468FF4240F0658BC5C6F72A8.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile5.uasset'
+[2020.07.09-19.54.01:771][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile6" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile6.uasset" SILENT=true
+[2020.07.09-19.54.01:777][760]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile674014FF54A695C9A3FADDBAA5147CD88.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile6.uasset'
+[2020.07.09-19.54.01:779][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile8" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile8.uasset" SILENT=true
+[2020.07.09-19.54.01:786][760]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile8D3406CEC47F55798A70C79AE37434DDE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile8.uasset'
+[2020.07.09-19.54.02:313][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.07.09-19.54.02:332][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.07.09-19.54.02:351][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.07.09-19.54.02:369][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.07.09-19.54.02:386][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.09-19.54.02:413][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.07.09-19.54.02:431][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.09-19.54.02:446][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorV3BL" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3BL.uasset" SILENT=true
+[2020.07.09-19.54.02:482][760]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorV3BL665356574C7353BE13F34CA9C3BC11EF.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3BL.uasset'
+[2020.07.09-19.54.02:482][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorV3BR" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3BR.uasset" SILENT=true
+[2020.07.09-19.54.02:518][760]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorV3BRC808E119416BF446B8C5119C08EAE060.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorV3BR.uasset'
+[2020.07.09-19.54.02:518][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/FloorMM1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorMM1.uasset" SILENT=true
+[2020.07.09-19.54.02:556][760]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/FloorMM14CFD37EC440C064B33A1DE8A8CC3BE13.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/FloorMM1.uasset'
+[2020.07.09-19.54.02:641][760]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-19.54.02:641][760]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile10.Tile10
+[2020.07.09-19.54.02:641][760]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelItems/Floors/Actors/Tile10.Tile10
+[2020.07.09-19.54.02:641][760]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelItems/Floors/Actors/Tile10.Default__Tile10_C
+[2020.07.09-19.54.02:641][760]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelItems/Floors/Actors/Tile10.Tile10_C
+[2020.07.09-19.54.02:641][760]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile12.Tile12
+[2020.07.09-19.54.02:641][760]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile13.Tile13
+[2020.07.09-19.54.02:641][760]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile4.Tile4
+[2020.07.09-19.54.02:641][760]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelItems/Floors/Actors/Tile4.Tile4
+[2020.07.09-19.54.02:641][760]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelItems/Floors/Actors/Tile4.Default__Tile4_C
+[2020.07.09-19.54.02:641][760]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelItems/Floors/Actors/Tile4.Tile4_C
+[2020.07.09-19.54.02:641][760]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile5.Tile5
+[2020.07.09-19.54.02:641][760]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile6.Tile6
+[2020.07.09-19.54.02:641][760]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile8.Tile8
+[2020.07.09-19.54.02:641][760]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelItems/Floors/Actors/FloorV3BL.FloorV3BL
+[2020.07.09-19.54.02:641][760]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelItems/Floors/Actors/FloorV3BL.FloorV3BL_C
+[2020.07.09-19.54.02:641][760]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelItems/Floors/Actors/FloorV3BR.FloorV3BR
+[2020.07.09-19.54.02:641][760]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelItems/Floors/Actors/FloorV3BR.FloorV3BR_C
+[2020.07.09-19.54.02:641][760]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelItems/Floors/Actors/FloorMM1.FloorMM1
+[2020.07.09-19.54.02:641][760]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelItems/Floors/Actors/FloorMM1.FloorMM1_C
+[2020.07.09-19.54.03:591][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-19.54.03:610][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.07.09-19.54.03:675][866]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1D1CCC9BB493322A6E9FD769531E2F22E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-19.54.03:713][866]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-19.54.03:713][866]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-19.54.04:212][925]LogEditorViewport: Clicking Background
+[2020.07.09-19.54.23:800][269]LogEditorViewport: Clicking on Actor (LMB): Tile5_C (FloorMM3)
+[2020.07.09-19.54.24:527][353]LogEditorViewport: Clicking on Actor (context menu): Tile5_C (FloorMM3)
+[2020.07.09-19.54.25:713][492]LogEditorViewport: Clicking Background
+[2020.07.09-19.54.36:643][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.07.09-19.54.51:302][788]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.09-19.54.52:324][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-19.54.52:343][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.07.09-19.54.52:409][905]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1BC6BED124BB657059EB852B1BE38475F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-19.54.52:445][905]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-19.54.52:445][905]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-19.57.55:521][100]LogEditorViewport: Clicking Background
+[2020.07.09-19.57.56:638][232]LogEditorViewport: Clicking on Actor (LMB): Tile10_C (Tile10)
+[2020.07.09-19.57.57:484][326]LogEditorViewport: Clicking on Actor (LMB): Tile5_C (FloorMM3)
+[2020.07.09-19.57.59:227][526]LogEditorViewport: Clicking on Actor (LMB): Tile5_C (FloorMM1)
+[2020.07.09-19.58.00:284][646]LogEditorViewport: Clicking Background
+[2020.07.09-19.58.01:042][736]LogEditorViewport: Clicking on Actor (LMB): Tile5_C (FloorMM1)
+[2020.07.09-19.58.02:093][858]LogEditorViewport: Clicking on Actor (LMB): Tile10_C (Tile10)
+[2020.07.09-19.58.05:165][216]LogEditorViewport: Clicking on Actor (LMB): Tile5_C (FloorMM1)
+[2020.07.09-19.58.09:147][682]LogEditorViewport: Clicking on Actor (LMB): Tile10_C (Tile10)
+[2020.07.09-19.58.10:617][851]LogEditorViewport: Clicking on Actor (LMB): Tile5_C (FloorMM1)
+[2020.07.09-19.58.12:674][ 92]LogEditorViewport: Clicking Background
+[2020.07.09-19.58.13:372][175]LogEditorViewport: Clicking on Actor (LMB): Tile10_C (Tile10)
+[2020.07.09-19.58.13:978][240]LogEditorViewport: Clicking on Actor (LMB): Tile5_C (FloorMM1)
+[2020.07.09-19.58.16:665][557]LogEditorViewport: Clicking on Actor (LMB): Tile10_C (Tile10)
+[2020.07.09-19.58.18:600][785]LogEditorViewport: Clicking on Actor (LMB): Tile5_C (FloorMM1)
+[2020.07.09-19.58.20:158][966]LogEditorViewport: Clicking on Actor (LMB): Tile5_C (FloorMM3)
+[2020.07.09-19.58.41:524][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.07.09-19.58.42:361][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile11" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile11.uasset" SILENT=true
+[2020.07.09-19.58.42:367][545]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile116D536A2A46967D6293F9B3944F96A66F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile11.uasset'
+[2020.07.09-19.58.42:379][545]AssetCheck: New page: Asset Save: Tile11
+[2020.07.09-19.58.42:379][545]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile11.Tile11
+[2020.07.09-19.58.43:144][629]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Sprites/Tile11.Tile11
+[2020.07.09-19.58.56:131][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile__11__Sprite" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile__11__Sprite.uasset" SILENT=true
+[2020.07.09-19.58.56:172][615]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__11__Sprite6D7E9A9C4E3EDDCD527E269DBF5071C1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile__11__Sprite.uasset'
+[2020.07.09-19.58.56:231][615]AssetCheck: New page: Asset Save: Tile__11__Sprite
+[2020.07.09-19.58.56:232][615]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/Tile__11__Sprite.Tile__11__Sprite
+[2020.07.09-19.58.57:120][688]LogSlate: Window 'Tile11' being destroyed
+[2020.07.09-19.58.57:124][688]LogSlate: Window 'Tile11' being destroyed
+[2020.07.09-19.58.57:137][688]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.58.57:137][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.58.58:359][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-19.58.58:382][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.07.09-19.58.58:450][822]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1F59018924D789087F7340A9C66ED4D34.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-19.58.58:486][822]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-19.58.58:486][822]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-19.59.00:376][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile11" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile11.uasset" SILENT=true
+[2020.07.09-19.59.00:415][ 31]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile112601E6D24866856650CFA79C551B97CE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile11.uasset'
+[2020.07.09-19.59.00:427][ 31]AssetCheck: New page: Asset Save: Tile11
+[2020.07.09-19.59.00:427][ 31]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile11.Tile11
+[2020.07.09-19.59.01:123][107]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Sprites/Tile11.Tile11
+[2020.07.09-19.59.02:295][175]BlueprintLog: New page: Compile Tile11
+[2020.07.09-19.59.02:331][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.07.09-19.59.02:884][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile11" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile11.uasset" SILENT=true
+[2020.07.09-19.59.02:924][222]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile1163085DF34327608BB0985AA7DAFA32AB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile11.uasset'
+[2020.07.09-19.59.02:936][222]AssetCheck: New page: Asset Save: Tile11
+[2020.07.09-19.59.02:936][222]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile11.Tile11
+[2020.07.09-19.59.03:787][297]LogSlate: Window 'Tile11' being destroyed
+[2020.07.09-19.59.03:794][297]LogSlate: Window 'Tile11' being destroyed
+[2020.07.09-19.59.03:802][297]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.59.03:802][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.59.25:251][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.07.09-19.59.26:236][906]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Sprites/Tile7.Tile7
+[2020.07.09-19.59.34:458][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile__7__Sprite" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile__7__Sprite.uasset" SILENT=true
+[2020.07.09-19.59.34:501][443]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__7__Sprite875AC100450932458040F9948114E0C3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile__7__Sprite.uasset'
+[2020.07.09-19.59.34:563][443]AssetCheck: New page: Asset Save: Tile__7__Sprite
+[2020.07.09-19.59.34:563][443]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/Tile__7__Sprite.Tile__7__Sprite
+[2020.07.09-19.59.35:528][524]BlueprintLog: New page: Compile Tile7
+[2020.07.09-19.59.35:561][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.07.09-19.59.36:189][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile7" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile7.uasset" SILENT=true
+[2020.07.09-19.59.36:195][575]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile7CCF4D0BB40FD98771BA586A01482A78B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile7.uasset'
+[2020.07.09-19.59.36:207][575]AssetCheck: New page: Asset Save: Tile7
+[2020.07.09-19.59.36:208][575]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile7.Tile7
+[2020.07.09-19.59.36:695][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-19.59.36:719][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.07.09-19.59.36:786][606]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level14FDD7D9840AAA4172691DF8D346B1F8E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-19.59.36:820][606]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-19.59.36:820][606]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-19.59.38:783][754]LogSlate: Window 'Tile7' being destroyed
+[2020.07.09-19.59.38:788][754]LogSlate: Window 'Tile7' being destroyed
+[2020.07.09-19.59.38:807][754]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-19.59.38:807][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-19.59.40:009][888]LogEditorViewport: Clicking Background
+[2020.07.09-19.59.53:202][410]LogEditorViewport: Clicking Background
+[2020.07.09-19.59.55:196][648]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__11__Sprite)
+[2020.07.09-20.00.01:024][325]LogEditorViewport: Clicking on Actor (LMB): Tile10_C (Tile10)
+[2020.07.09-20.00.05:089][806]LogEditorViewport: Clicking on Actor (LMB): Tile4_C (FloorV3ML2)
+[2020.07.09-20.00.10:143][399]LogEditorViewport: Clicking on Actor (LMB): Tile10_C (Tile10)
+[2020.07.09-20.00.10:618][452]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__11__Sprite)
+[2020.07.09-20.00.13:640][806]LogEditorViewport: Clicking Background
+[2020.07.09-20.00.16:617][161]LogEditorViewport: Clicking Background
+[2020.07.09-20.00.20:735][652]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__11__Sprite)
+[2020.07.09-20.00.22:641][874]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__11__Sprite)
+[2020.07.09-20.00.23:656][992]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__11__Sprite)
+[2020.07.09-20.00.26:315][301]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__11__Sprite)
+[2020.07.09-20.00.26:873][366]LogEditorViewport: Clicking on Actor (LMB): FloorV1_2by1_C (FloorV1_2by1)
+[2020.07.09-20.00.27:339][418]LogEditorViewport: Clicking Background
+[2020.07.09-20.00.27:716][462]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__11__Sprite)
+[2020.07.09-20.00.29:436][661]LogEditorViewport: Clicking on Actor (LMB): Tile5_C (FloorMM3)
+[2020.07.09-20.00.30:410][773]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__11__Sprite)
+[2020.07.09-20.00.41:265][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.07.09-20.00.41:664][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile2" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile2.uasset" SILENT=true
+[2020.07.09-20.00.41:671][ 19]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile2F434DB564F10D8A86A28EDB08A3547D1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile2.uasset'
+[2020.07.09-20.00.41:682][ 19]AssetCheck: New page: Asset Save: Tile2
+[2020.07.09-20.00.41:682][ 19]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile2.Tile2
+[2020.07.09-20.00.45:117][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile__2__Sprite" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile__2__Sprite.uasset" SILENT=true
+[2020.07.09-20.00.45:174][401]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__2__Sprite7657EC764D0FEE9DC78402AAFA26B23B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile__2__Sprite.uasset'
+[2020.07.09-20.00.45:249][401]AssetCheck: New page: Asset Save: Tile__2__Sprite
+[2020.07.09-20.00.45:249][401]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/Tile__2__Sprite.Tile__2__Sprite
+[2020.07.09-20.02.20:188][783]LogEditorViewport: Clicking Background
+[2020.07.09-20.02.20:671][840]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__2__Sprite)
+[2020.07.09-20.02.25:249][377]LogEditorViewport: Clicking Background
+[2020.07.09-20.02.26:164][486]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__2__Sprite)
+[2020.07.09-20.02.31:985][150]LogEditorViewport: Clicking Background
+[2020.07.09-20.02.35:118][524]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__11__Sprite)
+[2020.07.09-20.02.42:828][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.07.09-20.02.45:436][422]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.09-20.02.46:405][535]LogEditorViewport: Clicking Background
+[2020.07.09-20.02.47:112][618]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__11__Sprite)
+[2020.07.09-20.02.48:687][795]Cmd: DELETE
+[2020.07.09-20.02.48:687][795]Cmd: ACTOR DELETE
+[2020.07.09-20.02.48:690][795]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2020.07.09-20.02.48:708][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.07.09-20.02.48:710][795]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.07.09-20.03.04:007][572]LogEditorViewport: Clicking Background
+[2020.07.09-20.03.04:559][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-20.03.04:581][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.07.09-20.03.04:652][635]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1CD0AE699448546D9C77F728EC864D737.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-20.03.04:689][635]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-20.03.04:689][635]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-20.03.08:344][835]LogEditorViewport: Clicking on Actor (LMB): Tile5_C (FloorMM2)
+[2020.07.09-20.03.14:584][563]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__2__Sprite)
+[2020.07.09-20.03.17:244][865]LogEditorViewport: Clicking Background
+[2020.07.09-20.03.18:949][ 68]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__2__Sprite)
+[2020.07.09-20.03.21:125][325]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__2__Sprite)
+[2020.07.09-20.03.22:466][484]LogEditorViewport: Clicking Background
+[2020.07.09-20.03.23:539][612]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__2__Sprite)
+[2020.07.09-20.03.24:092][672]LogEditorViewport: Clicking Background
+[2020.07.09-20.03.26:412][949]LogEditorViewport: Clicking on Actor (LMB): Tile5_C (FloorMM3)
+[2020.07.09-20.03.33:890][840]LogEditorViewport: Clicking Background
+[2020.07.09-20.03.38:815][428]LogEditorViewport: Clicking on Actor (LMB): Tile5_C (FloorMM3)
+[2020.07.09-20.03.39:561][515]LogEditorViewport: Clicking on Actor (LMB): Tile10_C (Tile10)
+[2020.07.09-20.03.42:160][821]LogEditorViewport: Clicking on Actor (LMB): Tile4_C (FloorV3ML2)
+[2020.07.09-20.03.43:274][951]LogEditorViewport: Clicking on Actor (LMB): Tile10_C (Tile10)
+[2020.07.09-20.03.44:585][104]LogEditorViewport: Clicking on Actor (LMB): Tile11_C (Tile11)
+[2020.07.09-20.03.45:171][172]LogEditorViewport: Clicking on Actor (LMB): Tile10_C (Tile10)
+[2020.07.09-20.03.47:951][500]LogEditorViewport: Clicking on Actor (LMB): Tile5_C (FloorMM1)
+[2020.07.09-20.03.48:568][571]LogEditorViewport: Clicking on Actor (LMB): Tile5_C (FloorMM3)
+[2020.07.09-20.03.50:100][752]LogEditorViewport: Clicking on Actor (LMB): Tile5_C (FloorMM1)
+[2020.07.09-20.03.59:865][904]LogEditorViewport: Clicking on Actor (LMB): FloorV4B_3by1_C (FloorV4B_3by1)
+[2020.07.09-20.04.00:749][  7]LogEditorViewport: Clicking on Actor (LMB): FloorV4B_3by1_C (FloorV4B_3by1)
+[2020.07.09-20.04.03:573][343]LogEditorViewport: Clicking on Actor (LMB): Tile5_C (FloorMM2)
+[2020.07.09-20.04.07:813][845]LogEditorViewport: Clicking Background
+[2020.07.09-20.04.12:671][426]LogEditorViewport: Clicking on Actor (LMB): Tile10_C (Tile10)
+[2020.07.09-20.04.17:079][948]LogEditorViewport: Clicking on Actor (LMB): Tile11_C (Tile11)
+[2020.07.09-20.04.21:429][456]LogEditorViewport: Clicking Background
+[2020.07.09-20.04.23:590][714]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__2__Sprite)
+[2020.07.09-20.04.38:097][469]LogEditorViewport: Clicking Background
+[2020.07.09-20.04.39:764][668]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__2__Sprite)
+[2020.07.09-20.04.43:179][ 64]LogEditorViewport: Clicking Background
+[2020.07.09-20.04.45:184][304]LogEditorViewport: Clicking on Actor (LMB): Tile11_C (Tile11)
+[2020.07.09-20.04.46:064][407]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__2__Sprite)
+[2020.07.09-20.04.47:006][516]Cmd: TRANSACTION UNDO
+[2020.07.09-20.04.47:006][516]LogEditorTransaction: Undo Clicking on Actors
+[2020.07.09-20.04.47:883][583]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__2__Sprite)
+[2020.07.09-20.04.51:460][996]LogEditorViewport: Clicking Background
+[2020.07.09-20.04.56:899][647]LogEditorViewport: Clicking on Actor (LMB): FloorV1_2by1_C (FloorV1_2by1)
+[2020.07.09-20.04.57:776][749]LogEditorViewport: Clicking on Actor (LMB): FloorV1_2by1_C (FloorV1_2by1)
+[2020.07.09-20.04.58:302][811]LogEditorViewport: Clicking Background
+[2020.07.09-20.04.58:616][848]LogEditorViewport: Clicking on Actor (LMB): FloorV1_2by1_C (FloorV1_2by1)
+[2020.07.09-20.05.18:548][281]LogEditorViewport: Clicking on Actor (LMB): Tile11_C (Tile11)
+[2020.07.09-20.05.19:377][377]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__2__Sprite)
+[2020.07.09-20.05.22:558][747]LogEditorViewport: Clicking on Actor (LMB): FloorV4B_3by1_C (FloorV4B_3by1)
+[2020.07.09-20.05.31:921][846]Cmd: DELETE
+[2020.07.09-20.05.31:921][846]Cmd: ACTOR DELETE
+[2020.07.09-20.05.31:926][846]LogEditorActor: Deleted Actor: Tile5_C
+[2020.07.09-20.05.31:927][846]LogEditorActor: Deleted Actor: Tile5_C
+[2020.07.09-20.05.31:928][846]LogEditorActor: Deleted Actor: Tile5_C
+[2020.07.09-20.05.31:928][846]LogEditorActor: Deleted Actor: FloorV1_2by1_C
+[2020.07.09-20.05.31:929][846]LogEditorActor: Deleted Actor: Tile12_C
+[2020.07.09-20.05.31:929][846]LogEditorActor: Deleted Actor: Tile13_C
+[2020.07.09-20.05.31:930][846]LogEditorActor: Deleted Actor: Tile4_C
+[2020.07.09-20.05.31:930][846]LogEditorActor: Deleted Actor: Tile4_C
+[2020.07.09-20.05.31:931][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:931][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:932][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:932][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:933][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:934][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:934][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:935][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:935][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:936][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:936][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:937][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:937][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:937][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:938][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:938][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:939][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:939][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:940][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:940][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:941][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:941][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:942][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:942][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:943][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:943][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:944][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:944][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:945][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:945][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:946][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:946][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:947][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:947][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:948][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:948][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:949][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:949][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:950][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:950][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:951][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:951][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:952][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:953][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:953][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:954][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:954][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:955][846]LogEditorActor: Deleted Actor: FloorV4B_3by1_C
+[2020.07.09-20.05.31:955][846]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2020.07.09-20.05.31:956][846]LogEditorActor: Deleted Actor: Tile10_C
+[2020.07.09-20.05.31:956][846]LogEditorActor: Deleted Actor: Tile11_C
+[2020.07.09-20.05.31:976][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.07.09-20.05.31:986][846]LogEditorActor: Deleted 59 Actors (0.065 secs)
+[2020.07.09-20.05.33:138][983]LogEditorViewport: Clicking Background
+[2020.07.09-20.05.52:688][288]LogEditorViewport: Clicking Background
+[2020.07.09-20.05.53:442][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-20.05.53:462][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.07.09-20.05.53:504][376]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1FAE1A5544835E02B56E3E8BAAF47CE7C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-20.05.53:545][376]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-20.05.53:545][376]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-20.05.54:155][448]LogEditorViewport: Clicking on Actor (LMB): Tile12_C (Tile12)
+[2020.07.09-20.05.55:621][619]LogEditorViewport: Clicking Background
+[2020.07.09-20.06.08:153][ 98]LogEditorViewport: Clicking Background
+[2020.07.09-20.06.09:359][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-20.06.09:380][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.07.09-20.06.09:422][240]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1F01188A044A022F9FF9A1192861F4634.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-20.06.09:460][240]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-20.06.09:460][240]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-20.06.09:838][284]LogEditorViewport: Clicking Background
+[2020.07.09-20.06.10:282][337]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__5__Sprite)
+[2020.07.09-20.06.11:203][443]Cmd: DELETE
+[2020.07.09-20.06.11:203][443]Cmd: ACTOR DELETE
+[2020.07.09-20.06.11:203][443]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2020.07.09-20.06.11:221][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.09-20.06.11:222][443]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.07.09-20.07.52:510][178]Cmd: TRANSACTION UNDO
+[2020.07.09-20.07.52:510][178]LogEditorTransaction: Undo Create Actors
+[2020.07.09-20.09.32:494][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.07.09-20.09.33:383][921]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Sprites/Tile9.Tile9
+[2020.07.09-20.09.39:920][546]BlueprintLog: New page: Compile Tile9
+[2020.07.09-20.09.39:955][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.07.09-20.09.40:458][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile9" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile9.uasset" SILENT=true
+[2020.07.09-20.09.40:463][594]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile94FF454124AC1041381F005B0F3E90A0C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile9.uasset'
+[2020.07.09-20.09.40:474][594]AssetCheck: New page: Asset Save: Tile9
+[2020.07.09-20.09.40:474][594]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile9.Tile9
+[2020.07.09-20.09.41:430][690]LogSlate: Window 'Tile9' being destroyed
+[2020.07.09-20.09.41:434][690]LogSlate: Window 'Tile9' being destroyed
+[2020.07.09-20.09.41:447][690]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-20.09.41:447][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-20.09.53:287][ 73]LogEditorViewport: Clicking Background
+[2020.07.09-20.09.53:956][152]LogEditorViewport: Clicking on Actor (LMB): Tile9_C (Tile10)
+[2020.07.09-20.09.59:754][841]LogEditorViewport: Clicking Background
+[2020.07.09-20.10.00:464][925]LogEditorViewport: Clicking on Actor (LMB): Tile9_C (Tile9)
+[2020.07.09-20.10.11:468][230]LogEditorViewport: Clicking on Actor (LMB): Tile9_C (Tile11)
+[2020.07.09-20.10.24:115][ 56]LogEditorViewport: Clicking on Actor (LMB): Tile9_C (Tile13)
+[2020.07.09-20.10.30:438][805]LogEditorViewport: Clicking on Actor (LMB): Tile9_C (Tile11)
+[2020.07.09-20.10.34:443][108]LogEditorViewport: Clicking on Actor (LMB): Tile9_C (Tile13)
+[2020.07.09-20.10.34:883][154]LogEditorViewport: Clicking on Actor (LMB): Tile9_C (Tile13)
+[2020.07.09-20.10.37:922][513]LogEditorViewport: Clicking Background
+[2020.07.09-20.10.40:535][823]LogEditorViewport: Clicking on Actor (LMB): Tile9_C (Tile9)
+[2020.07.09-20.10.52:797][269]LogSlate: Window 'Tile9_2 - Property Editor' being destroyed
+[2020.07.09-20.10.52:804][269]LogSlate: Window 'Tile9_2 - Property Editor' being destroyed
+[2020.07.09-20.10.53:371][335]LogEditorViewport: Clicking Background
+[2020.07.09-20.10.53:643][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-20.10.53:666][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.07.09-20.10.53:714][365]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level16B3B84664D3268306905E2ADFA95F5EF.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-20.10.53:752][365]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-20.10.53:752][365]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-20.10.54:095][405]LogEditorViewport: Clicking on Actor (LMB): Tile9_C (Tile13)
+[2020.07.09-20.10.57:432][799]LogEditorViewport: Clicking on Actor (LMB): Tile9_C (Tile9)
+[2020.07.09-20.10.59:222][  6]LogEditorViewport: Clicking on Actor (LMB): Tile9_C (Tile10)
+[2020.07.09-20.10.59:939][ 88]LogEditorViewport: Clicking on Actor (LMB): Tile9_C (Tile11)
+[2020.07.09-20.11.26:211][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.07.09-20.11.26:770][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile9_4x" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile9_4x.uasset" SILENT=true
+[2020.07.09-20.11.26:775][268]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile9_4x51305A6542B3D30F2C3BD197B1DCBFAF.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile9_4x.uasset'
+[2020.07.09-20.11.26:795][268]AssetCheck: New page: Asset Save: Tile9_4x
+[2020.07.09-20.11.26:795][268]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile9_4x.Tile9_4x
+[2020.07.09-20.11.28:414][456]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Sprites/Tile9_4x.Tile9_4x
+[2020.07.09-20.11.49:321][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile9_4x" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile9_4x.uasset" SILENT=true
+[2020.07.09-20.11.49:367][315]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile9_4x4C5925794786EC250BC215AEA502C4EC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile9_4x.uasset'
+[2020.07.09-20.11.49:380][315]AssetCheck: New page: Asset Save: Tile9_4x
+[2020.07.09-20.11.49:380][315]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile9_4x.Tile9_4x
+[2020.07.09-20.12.02:433][143]BlueprintLog: New page: Compile Tile9_4x
+[2020.07.09-20.12.02:469][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.07.09-20.12.02:944][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile9_4x" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile9_4x.uasset" SILENT=true
+[2020.07.09-20.12.02:984][180]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile9_4x6D5E19054FFA8E6B42770BBBC928CB36.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile9_4x.uasset'
+[2020.07.09-20.12.03:004][180]AssetCheck: New page: Asset Save: Tile9_4x
+[2020.07.09-20.12.03:004][180]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile9_4x.Tile9_4x
+[2020.07.09-20.12.03:666][237]LogSlate: Window 'Tile9_4x' being destroyed
+[2020.07.09-20.12.03:672][237]LogSlate: Window 'Tile9_4x' being destroyed
+[2020.07.09-20.12.03:692][237]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-20.12.03:692][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-20.12.04:803][363]LogEditorViewport: Clicking Background
+[2020.07.09-20.12.15:803][633]LogEditorViewport: Clicking Background
+[2020.07.09-20.12.16:359][699]LogEditorViewport: Clicking on Actor (LMB): Tile9_4x_C (Tile9_4x2)
+[2020.07.09-20.12.17:978][889]LogEditorViewport: Clicking on Actor (LMB): Tile9_4x_C (Tile9_4x)
+[2020.07.09-20.12.37:885][235]LogEditorViewport: Clicking on Actor (LMB): Tile9_4x_C (Tile9_4x2)
+[2020.07.09-20.12.42:829][821]LogEditorViewport: Clicking Background
+[2020.07.09-20.12.43:362][884]LogEditorViewport: Clicking on Actor (LMB): Tile9_4x_C (Tile9_4x2)
+[2020.07.09-20.12.43:836][938]Cmd: TRANSACTION UNDO
+[2020.07.09-20.12.43:836][938]LogEditorTransaction: Undo Clicking on Actors
+[2020.07.09-20.12.44:552][991]LogEditorViewport: Clicking on Actor (LMB): Tile9_4x_C (Tile9_4x2)
+[2020.07.09-20.13.07:550][812]LogEditorViewport: Clicking Background
+[2020.07.09-20.13.08:183][887]LogEditorViewport: Clicking on Actor (LMB): Tile9_4x_C (Tile9_4x2)
+[2020.07.09-20.13.20:914][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.07.09-20.13.21:382][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile9_8x" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile9_8x.uasset" SILENT=true
+[2020.07.09-20.13.21:389][287]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile9_8x6052DC8C469766CBF1EFEC8C45438A60.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile9_8x.uasset'
+[2020.07.09-20.13.21:400][287]AssetCheck: New page: Asset Save: Tile9_8x
+[2020.07.09-20.13.21:400][287]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile9_8x.Tile9_8x
+[2020.07.09-20.13.22:192][378]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Sprites/Tile9_8x.Tile9_8x
+[2020.07.09-20.13.39:454][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile9_8x" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile9_8x.uasset" SILENT=true
+[2020.07.09-20.13.39:495][934]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile9_8xB9C253464DFF8B7EE760E185E805C470.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile9_8x.uasset'
+[2020.07.09-20.13.39:507][934]AssetCheck: New page: Asset Save: Tile9_8x
+[2020.07.09-20.13.39:507][934]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile9_8x.Tile9_8x
+[2020.07.09-20.13.53:140][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile9_8x" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile9_8x.uasset" SILENT=true
+[2020.07.09-20.13.53:181][622]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile9_8x92C57AE84B318B45CDDB0B98CB3D1620.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile9_8x.uasset'
+[2020.07.09-20.13.53:196][622]AssetCheck: New page: Asset Save: Tile9_8x
+[2020.07.09-20.13.53:196][622]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile9_8x.Tile9_8x
+[2020.07.09-20.14.02:458][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile9_8x" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile9_8x.uasset" SILENT=true
+[2020.07.09-20.14.02:499][455]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile9_8xD928639E4A86AE7C92E5FFB975CC185C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile9_8x.uasset'
+[2020.07.09-20.14.02:512][455]AssetCheck: New page: Asset Save: Tile9_8x
+[2020.07.09-20.14.02:512][455]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile9_8x.Tile9_8x
+[2020.07.09-20.14.20:842][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-20.14.20:865][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.07.09-20.14.20:910][381]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1FFF99A0C4ECB17626D643CB979B0D19A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-20.14.20:936][381]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 1
+SessionName : 
+Reason      : Map Saved
+
+Purging the undo buffer...
+
+[2020.07.09-20.14.20:948][381]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-20.14.20:948][381]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-20.14.24:772][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-20.14.24:794][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.07.09-20.14.24:836][715]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level175480A854400A99889AEAFBDD75B11D3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-20.14.24:879][715]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-20.14.24:879][715]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-20.15.48:566][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile9_8x" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile9_8x.uasset" SILENT=true
+[2020.07.09-20.15.48:607][655]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile9_8xD6477190476C698C693682A10E250C7F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile9_8x.uasset'
+[2020.07.09-20.15.48:618][655]AssetCheck: New page: Asset Save: Tile9_8x
+[2020.07.09-20.15.48:618][655]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile9_8x.Tile9_8x
+[2020.07.09-20.15.59:853][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile9_8x" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile9_8x.uasset" SILENT=true
+[2020.07.09-20.15.59:896][174]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile9_8x98294FED453704C69B4EAAB482C1C5E6.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile9_8x.uasset'
+[2020.07.09-20.15.59:905][174]AssetCheck: New page: Asset Save: Tile9_8x
+[2020.07.09-20.15.59:905][174]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile9_8x.Tile9_8x
+[2020.07.09-20.16.11:308][399]BlueprintLog: New page: Compile Tile9_8x
+[2020.07.09-20.16.11:352][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.07.09-20.16.11:795][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile9_8x" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile9_8x.uasset" SILENT=true
+[2020.07.09-20.16.11:835][431]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile9_8xF56482CC4CB1E31932D6C08FFB07480A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile9_8x.uasset'
+[2020.07.09-20.16.11:851][431]AssetCheck: New page: Asset Save: Tile9_8x
+[2020.07.09-20.16.11:851][431]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile9_8x.Tile9_8x
+[2020.07.09-20.16.16:755][838]LogSlate: Window 'Tile9_8x' being destroyed
+[2020.07.09-20.16.16:760][838]LogSlate: Window 'Tile9_8x' being destroyed
+[2020.07.09-20.16.16:780][838]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-20.16.16:780][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-20.16.18:882][ 77]LogEditorViewport: Clicking on Actor (LMB): Tile9_C (Tile10)
+[2020.07.09-20.16.19:574][157]LogEditorViewport: Clicking on Actor (LMB): Tile9_C (Tile9)
+[2020.07.09-20.16.23:778][654]LogEditorViewport: Clicking on Actor (LMB): Tile9_C (Tile10)
+[2020.07.09-20.16.24:403][725]LogEditorViewport: Clicking on Actor (LMB): Tile9_C (Tile11)
+[2020.07.09-20.16.28:831][254]LogEditorViewport: Clicking on Actor (LMB): Tile9_C (Tile13)
+[2020.07.09-20.16.31:792][601]LogEditorViewport: Clicking Background
+[2020.07.09-20.16.32:225][652]LogEditorViewport: Clicking on Actor (LMB): Tile9_4x_C (Tile9_4x)
+[2020.07.09-20.16.33:644][820]Cmd: DELETE
+[2020.07.09-20.16.33:644][820]Cmd: ACTOR DELETE
+[2020.07.09-20.16.33:645][820]LogEditorActor: Deleted Actor: Tile9_4x_C
+[2020.07.09-20.16.33:666][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.07.09-20.16.33:670][820]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.07.09-20.16.33:954][853]LogEditorViewport: Clicking on Actor (LMB): Tile9_4x_C (Tile9_4x2)
+[2020.07.09-20.16.34:046][860]Cmd: DELETE
+[2020.07.09-20.16.34:046][860]Cmd: ACTOR DELETE
+[2020.07.09-20.16.34:047][860]LogEditorActor: Deleted Actor: Tile9_4x_C
+[2020.07.09-20.16.34:067][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.07.09-20.16.34:068][860]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.07.09-20.16.35:377][ 16]LogEditorViewport: Clicking on Actor (LMB): Tile12_C (Tile12)
+[2020.07.09-20.16.35:676][ 48]LogEditorViewport: Clicking on Actor (LMB): Tile9_C (Tile10)
+[2020.07.09-20.16.35:934][ 76]LogEditorViewport: Clicking on Actor (LMB): Tile9_C (Tile11)
+[2020.07.09-20.16.36:521][143]LogEditorViewport: Clicking on Actor (LMB): Tile9_C (Tile13)
+[2020.07.09-20.16.36:849][180]Cmd: DELETE
+[2020.07.09-20.16.36:849][180]Cmd: ACTOR DELETE
+[2020.07.09-20.16.36:850][180]LogEditorActor: Deleted Actor: Tile9_C
+[2020.07.09-20.16.36:869][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.07.09-20.16.36:870][180]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2020.07.09-20.16.37:594][267]LogEditorViewport: Clicking on Actor (LMB): Tile9_C (Tile11)
+[2020.07.09-20.16.45:869][196]Cmd: DELETE
+[2020.07.09-20.16.45:870][196]Cmd: ACTOR DELETE
+[2020.07.09-20.16.45:871][196]LogEditorActor: Deleted Actor: Tile9_8x_C
+[2020.07.09-20.16.45:895][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.07.09-20.16.45:899][196]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.07.09-20.16.49:816][625]LogEditorViewport: Clicking on Actor (LMB): Tile9_4x_C (Tile9_4x)
+[2020.07.09-20.16.53:844][100]LogEditorViewport: Clicking Background
+[2020.07.09-20.16.57:925][540]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x)
+[2020.07.09-20.17.05:006][369]LogEditorViewport: Clicking on Actor (LMB): Tile9_4x_C (Tile9_4x)
+[2020.07.09-20.17.05:643][443]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x)
+[2020.07.09-20.17.18:195][417]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x2)
+[2020.07.09-20.17.23:368][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-20.17.23:396][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.07.09-20.17.23:449][ 24]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1227DC27D4F763298B60D73B113D8AEDE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-20.17.23:490][ 24]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-20.17.23:491][ 24]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-20.17.29:358][330]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x3)
+[2020.07.09-20.17.43:994][669]Cmd: TRANSACTION UNDO
+[2020.07.09-20.17.43:994][669]LogEditorTransaction: Undo Move Actors
+[2020.07.09-20.17.51:314][142]LogEditorViewport: Clicking Background
+[2020.07.09-20.17.51:879][209]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x5)
+[2020.07.09-20.18.03:275][155]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x6)
+[2020.07.09-20.18.19:084][403]LogEditorViewport: Clicking Background
+[2020.07.09-20.18.19:993][510]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x7)
+[2020.07.09-20.18.27:354][373]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x8)
+[2020.07.09-20.18.34:984][271]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x8)
+[2020.07.09-20.18.35:427][323]LogEditorViewport: Clicking Background
+[2020.07.09-20.18.36:396][438]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x8)
+[2020.07.09-20.18.37:172][528]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x7)
+[2020.07.09-20.18.46:191][278]LogEditorViewport: Clicking Background
+[2020.07.09-20.18.52:773][ 53]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x)
+[2020.07.09-20.18.57:144][570]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x2)
+[2020.07.09-20.18.58:672][749]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x3)
+[2020.07.09-20.19.12:467][ 85]LogEditorViewport: Clicking Background
+[2020.07.09-20.19.14:178][288]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x4)
+[2020.07.09-20.19.15:848][484]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x5)
+[2020.07.09-20.19.36:558][650]LogEditorViewport: Clicking Background
+[2020.07.09-20.19.37:377][745]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x4)
+[2020.07.09-20.19.39:211][960]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x3)
+[2020.07.09-20.19.45:718][186]LogEditorViewport: Clicking Background
+[2020.07.09-20.19.46:232][247]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x4)
+[2020.07.09-20.19.49:880][368]LogEditorViewport: Clicking Background
+[2020.07.09-20.19.50:190][404]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x5)
+[2020.07.09-20.19.53:831][522]LogEditorViewport: Clicking Background
+[2020.07.09-20.19.54:727][626]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x6)
+[2020.07.09-20.19.55:289][690]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x5)
+[2020.07.09-20.20.00:721][788]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x6)
+[2020.07.09-20.20.02:340][976]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x7)
+[2020.07.09-20.20.05:533][ 42]LogEditorViewport: Clicking Background
+[2020.07.09-20.20.05:902][ 84]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x7)
+[2020.07.09-20.20.12:585][599]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x8)
+[2020.07.09-20.20.19:233][ 30]LogEditorViewport: Clicking Background
+[2020.07.09-20.20.23:353][517]LogEditorViewport: Clicking on Actor (LMB): Tile9_C (Tile9)
+[2020.07.09-20.20.25:778][803]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x8)
+[2020.07.09-20.20.32:460][129]LogEditorViewport: Clicking Background
+[2020.07.09-20.20.33:014][194]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x8)
+[2020.07.09-20.21.09:664][380]LogEditorViewport: Clicking Background
+[2020.07.09-20.23.10:476][282]LogEditorViewport: Clicking Background
+[2020.07.09-20.23.11:014][345]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x10)
+[2020.07.09-20.23.19:318][326]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x9)
+[2020.07.09-20.23.25:141][ 17]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x8)
+[2020.07.09-20.23.31:467][760]LogEditorViewport: Clicking Background
+[2020.07.09-20.24.16:863][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.07.09-20.24.17:465][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile1.uasset" SILENT=true
+[2020.07.09-20.24.17:470][122]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile186CFB2054720687BD1C4499F4AA10526.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile1.uasset'
+[2020.07.09-20.24.17:481][122]AssetCheck: New page: Asset Save: Tile1
+[2020.07.09-20.24.17:481][122]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile1.Tile1
+[2020.07.09-20.24.18:362][219]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Sprites/Tile1.Tile1
+[2020.07.09-20.24.38:099][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile__1__Sprite" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile__1__Sprite.uasset" SILENT=true
+[2020.07.09-20.24.38:140][635]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__1__Sprite013AB46E490D5A436C03539EC36E6366.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile__1__Sprite.uasset'
+[2020.07.09-20.24.38:202][635]AssetCheck: New page: Asset Save: Tile__1__Sprite
+[2020.07.09-20.24.38:202][635]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/Tile__1__Sprite.Tile__1__Sprite
+[2020.07.09-20.24.46:031][540]LogEditorViewport: Clicking Background
+[2020.07.09-20.24.46:520][598]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__4__Sprite2)
+[2020.07.09-20.24.51:982][225]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__4__Sprite)
+[2020.07.09-20.24.55:644][637]LogEditorViewport: Clicking Background
+[2020.07.09-20.24.55:864][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-20.24.55:888][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.07.09-20.24.55:943][661]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1CC3968EB444C1FF5E94273A4FD433DCB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-20.24.55:983][661]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-20.24.55:983][661]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-20.25.00:805][237]LogEditorViewport: Clicking Background
+[2020.07.09-20.25.16:988][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.07.09-20.25.18:013][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile3" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile3.uasset" SILENT=true
+[2020.07.09-20.25.18:019][283]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile30799F8634C4DE70A7D3A67A50026A49C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile3.uasset'
+[2020.07.09-20.25.18:031][283]AssetCheck: New page: Asset Save: Tile3
+[2020.07.09-20.25.18:031][283]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile3.Tile3
+[2020.07.09-20.25.21:459][688]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Sprites/Tile3.Tile3
+[2020.07.09-20.25.32:902][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile__3__Sprite" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile__3__Sprite.uasset" SILENT=true
+[2020.07.09-20.25.32:941][559]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__3__SpriteCC4CFEA04726A3E929041696E4B491F7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile__3__Sprite.uasset'
+[2020.07.09-20.25.32:956][559]AssetCheck: New page: Asset Save: Tile__3__Sprite
+[2020.07.09-20.25.32:956][559]LogContentValidation: Display: Validating PaperSprite /Game/LevelItems/Floors/Sprites/Tile__3__Sprite.Tile__3__Sprite
+[2020.07.09-20.25.33:803][648]LogSlate: Window 'Tile3' being destroyed
+[2020.07.09-20.25.33:806][648]LogSlate: Window 'Tile3' being destroyed
+[2020.07.09-20.25.33:819][648]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-20.25.33:819][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-20.25.33:870][648]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.09-20.25.33:870][648]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-20.25.33:870][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-20.25.38:435][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile3" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile3.uasset" SILENT=true
+[2020.07.09-20.25.38:476][178]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile3A4A035964CA278C7A7578CA5D9BDECFD.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile3.uasset'
+[2020.07.09-20.25.38:491][178]AssetCheck: New page: Asset Save: Tile3
+[2020.07.09-20.25.38:491][178]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile3.Tile3
+[2020.07.09-20.25.42:204][595]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__4__Sprite2)
+[2020.07.09-20.25.43:166][702]LogEditorViewport: Clicking on Actor (LMB): Tile3_C (Tile3)
+[2020.07.09-20.25.45:036][922]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__4__Sprite2)
+[2020.07.09-20.25.46:623][107]LogEditorViewport: Clicking on Actor (LMB): Tile3_C (Tile3)
+[2020.07.09-20.25.54:307][  7]LogEditorViewport: Clicking Background
+[2020.07.09-20.25.54:642][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-20.25.54:666][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.07.09-20.25.54:723][ 44]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1406335A940010A395E20B4A20DE43357.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-20.25.54:763][ 44]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-20.25.54:763][ 44]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-20.26.24:965][618]LogEditorViewport: Clicking Background
+[2020.07.09-20.26.26:205][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-20.26.26:226][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.07.09-20.26.26:281][764]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1D06E713B4A4E30F5BDEF06A314234F7A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-20.26.26:318][764]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-20.26.26:318][764]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-20.26.36:845][997]LogEditorViewport: Clicking Background
+[2020.07.09-20.26.38:500][194]LogEditorViewport: Clicking Background
+[2020.07.09-20.26.44:207][874]LogEditorViewport: Clicking on Actor (LMB): Tile10_C (Tile13)
+[2020.07.09-20.26.44:742][934]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__4__Sprite3)
+[2020.07.09-20.26.45:258][989]LogEditorViewport: Clicking on Actor (LMB): Tile10_C (Tile13)
+[2020.07.09-20.26.45:643][ 30]LogEditorViewport: Clicking on Actor (LMB): Tile3_C (Tile3)
+[2020.07.09-20.26.47:766][278]LogEditorViewport: Clicking on Actor (LMB): Tile5_C (Tile5)
