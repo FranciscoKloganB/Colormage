@@ -2287,3 +2287,32 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.09-15.32.40:687][375]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ManaPotionBFACD2224E7AFAFA5C864293CA5BD269.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Items/Pickups/Potions/ManaPotion.uasset'
 [2020.07.09-15.32.40:702][375]AssetCheck: New page: Asset Save: ManaPotion
 [2020.07.09-15.32.40:702][375]LogContentValidation: Display: Validating Blueprint /Game/Items/Pickups/Potions/ManaPotion.ManaPotion
+[2020.07.09-15.33.17:060][415]LogSlate: Window 'ManaPotion' being destroyed
+[2020.07.09-15.33.17:066][415]LogSlate: Window 'ManaPotion' being destroyed
+[2020.07.09-15.33.17:090][415]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-15.33.17:090][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-15.33.24:752][286]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.09-15.34.00:109][323]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.09-15.34.00:116][323]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.09-15.34.00:149][323]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-15.34.00:150][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-15.34.04:634][831]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Items/Pickups/Potions/ManaPotion.ManaPotion
+[2020.07.09-15.34.14:951][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Pickups/Potions/ManaPotion" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Items/Pickups/Potions/ManaPotion.uasset" SILENT=true
+[2020.07.09-15.34.15:000][752]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ManaPotion28615C4C4031D3828E7CC2AB71834A00.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Items/Pickups/Potions/ManaPotion.uasset'
+[2020.07.09-15.34.15:016][752]AssetCheck: New page: Asset Save: ManaPotion
+[2020.07.09-15.34.15:016][752]LogContentValidation: Display: Validating Blueprint /Game/Items/Pickups/Potions/ManaPotion.ManaPotion
+[2020.07.09-15.34.17:375][960]BlueprintLog: New page: Compile ManaPotion
+[2020.07.09-15.34.17:423][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.07.09-15.34.20:867][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Pickups/Potions/ManaPotion" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Items/Pickups/Potions/ManaPotion.uasset" SILENT=true
+[2020.07.09-15.34.20:914][247]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ManaPotionA913E58B4355848F6EC8569F0438FB41.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Items/Pickups/Potions/ManaPotion.uasset'
+[2020.07.09-15.34.20:926][247]AssetCheck: New page: Asset Save: ManaPotion
+[2020.07.09-15.34.20:927][247]LogContentValidation: Display: Validating Blueprint /Game/Items/Pickups/Potions/ManaPotion.ManaPotion
+[2020.07.09-15.34.21:817][327]LogSlate: Window 'ManaPotion' being destroyed
+[2020.07.09-15.34.21:823][327]LogSlate: Window 'ManaPotion' being destroyed
+[2020.07.09-15.34.21:823][327]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-15.34.21:824][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-15.34.24:842][660]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.09-15.35.11:936][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.09-15.35.12:040][940]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacter3147654D4ACD02518CCA40A2512093CE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.09-15.35.12:059][940]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.07.09-15.35.12:059][940]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
