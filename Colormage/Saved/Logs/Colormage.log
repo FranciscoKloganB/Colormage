@@ -3262,3 +3262,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.09-17.07.18:470][325]LogSlate: Window '2DSideScrollerCharacter' being destroyed
 [2020.07.09-17.07.18:471][325]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
 [2020.07.09-17.07.18:471][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-17.08.16:677][274]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.09-17.08.20:099][468]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.09-17.08.20:105][468]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.09-17.08.20:106][468]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-17.08.20:106][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
