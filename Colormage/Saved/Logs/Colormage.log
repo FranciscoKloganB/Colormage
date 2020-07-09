@@ -3961,3 +3961,604 @@ Purging the undo buffer...
 [2020.07.09-22.02.29:990][110]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1F9D74F3D4F3A8DEF577D7CA1FCC5789C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
 [2020.07.09-22.02.30:036][110]AssetCheck: New page: Asset Save: Level1
 [2020.07.09-22.02.30:036][110]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-22.03.16:511][600]LogEditorViewport: Clicking Background
+[2020.07.09-22.04.11:083][238]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/2DSideScroller/Textures/2DBackgroundBlockAtlas.2DBackgroundBlockAtlas
+[2020.07.09-22.04.11:099][238]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0018 seconds. Added 1 classes and 2 folders.
+[2020.07.09-22.04.21:540][391]LogSlate: Window '2DBackgroundBlockAtlas' being destroyed
+[2020.07.09-22.04.21:545][391]LogSlate: Window '2DBackgroundBlockAtlas' being destroyed
+[2020.07.09-22.04.53:189][ 94]LogSlate: Window 'Reference Viewer' being destroyed
+[2020.07.09-22.04.53:192][ 94]LogSlate: Window 'Reference Viewer' being destroyed
+[2020.07.09-22.06.00:132][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-22.06.00:210][953]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.07.09-22.06.00:301][953]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1784E1B8F4E08DB90777D12822DE493AE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-22.06.00:349][953]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-22.06.00:349][953]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-22.06.04:317][418]LogSlate: Window 'Reference Viewer' being destroyed
+[2020.07.09-22.06.04:320][418]LogSlate: Window 'Reference Viewer' being destroyed
+[2020.07.09-22.06.05:849][550]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2020.07.09-22.06.05:904][550]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.07.09-22.06.07:507][550]LogSlate: Window 'Save Content' being destroyed
+[2020.07.09-22.06.07:520][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Actors/Tile10" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile10.uasset" SILENT=true
+[2020.07.09-22.06.07:565][550]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile1002141D724D195F0CA5E3BFBF4D05E01D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Actors/Tile10.uasset'
+[2020.07.09-22.06.07:566][550]Cmd: MAP LOAD FILE="../../../../../../GitHub/Colormage/Colormage/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.09-22.06.07:567][550]LightingResults: New page: Lighting Build
+[2020.07.09-22.06.07:567][550]LoadErrors: New page: Loading map: 2DSideScrollerExampleMap.umap
+[2020.07.09-22.06.07:569][550]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-22.06.07:569][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-22.06.07:569][550]MapCheck: New page: Map Check
+[2020.07.09-22.06.07:569][550]LightingResults: New page: Lighting Build
+[2020.07.09-22.06.07:591][550]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002518CE996C0), frame # 816550
+[2020.07.09-22.06.07:591][550]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000251D80C6E00), frame # 816550
+[2020.07.09-22.06.07:594][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.07.09-22.06.07:601][550]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.09-22.06.07:601][550]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.07.09-22.06.07:601][550]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025215E36200), frame # 816550
+[2020.07.09-22.06.07:601][550]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000251E9D69440), frame # 816550
+[2020.07.09-22.06.07:622][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.07.09-22.06.07:651][550]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.09-22.06.07:651][550]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2020.07.09-22.06.07:651][550]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.085
+[2020.07.09-22.06.07:719][550]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-22.06.08:968][695]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2020.07.09-22.08.37:310][162]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/First/Level1.Level1
+[2020.07.09-22.08.37:344][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.07.09-22.08.37:348][162]Cmd: MAP LOAD FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.09-22.08.37:348][162]LightingResults: New page: Lighting Build
+[2020.07.09-22.08.37:348][162]LoadErrors: New page: Loading map: Level1.umap
+[2020.07.09-22.08.37:350][162]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-22.08.37:350][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-22.08.37:350][162]MapCheck: New page: Map Check
+[2020.07.09-22.08.37:350][162]LightingResults: New page: Lighting Build
+[2020.07.09-22.08.37:368][162]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000251E9D69440), frame # 825162
+[2020.07.09-22.08.37:368][162]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025215E36200), frame # 825162
+[2020.07.09-22.08.37:370][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.07.09-22.08.37:376][162]LogPhysics: Warning: Scale for /Game/Levels/First/Level1.Level1:PersistentLevel.Tile52.PaperSprite14 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=-1.000
+[2020.07.09-22.08.37:412][162]LogPhysics: Warning: Scale for /Game/Levels/First/Level1.Level1:PersistentLevel.Tile52.PaperSprite14 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=-1.000
+[2020.07.09-22.08.37:412][162]LogPhysics: Warning: Scale for /Game/Levels/First/Level1.Level1:PersistentLevel.Tile52.PaperSprite14 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=-1.000
+[2020.07.09-22.08.37:425][162]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.09-22.08.37:425][162]LogAIModule: Creating AISystem for world Level1
+[2020.07.09-22.08.37:425][162]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002522F147C00), frame # 825162
+[2020.07.09-22.08.37:425][162]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000251877B4680), frame # 825162
+[2020.07.09-22.08.37:479][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.07.09-22.08.37:521][162]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.09-22.08.37:521][162]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.155ms to complete.
+[2020.07.09-22.08.37:521][162]LogFileHelpers: Loading map 'Level1' took 0.173
+[2020.07.09-22.08.52:349][651]LogEditorViewport: Clicking on Actor (LMB): Tile11_C (Tile47)
+[2020.07.09-22.09.53:912][891]LogEditorViewport: Clicking Background
+[2020.07.09-22.10.02:673][915]LogEditorViewport: Clicking Background
+[2020.07.09-22.10.04:554][138]LogEditorViewport: Clicking on Actor (LMB): Tile3_C (Tile55)
+[2020.07.09-22.10.07:754][487]LogEditorViewport: Clicking Background
+[2020.07.09-22.10.16:668][547]LogEditorViewport: Clicking on Actor (LMB): Tile8_C (Tile45)
+[2020.07.09-22.10.17:397][630]LogEditorViewport: Clicking on Actor (LMB): Tile5x2by2_C (Tile5x2by2)
+[2020.07.09-22.10.37:034][803]LogEditorViewport: Clicking Background
+[2020.07.09-22.10.48:041][ 71]LogEditorViewport: Clicking Background
+[2020.07.09-22.10.55:321][936]LogEditorViewport: Clicking on Actor (LMB): Tile2x8_C (Tile2x10)
+[2020.07.09-22.11.00:914][544]LogEditorViewport: Clicking on Actor (LMB): Tile11_C (Tile62)
+[2020.07.09-22.11.01:229][579]LogEditorViewport: Clicking Background
+[2020.07.09-22.11.24:316][179]LogEditorViewport: Clicking Background
+[2020.07.09-22.11.33:649][197]LogEditorViewport: Clicking Background
+[2020.07.09-22.11.35:641][410]LogEditorViewport: Clicking Background
+[2020.07.09-22.11.45:241][540]LogEditorViewport: Clicking Background
+[2020.07.09-22.11.45:777][603]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x9)
+[2020.07.09-22.11.51:349][228]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x10)
+[2020.07.09-22.11.54:316][575]LogEditorViewport: Clicking Background
+[2020.07.09-22.12.44:726][522]LogEditorViewport: Clicking Background
+[2020.07.09-22.12.46:926][780]LogEditorViewport: Clicking on Actor (LMB): Tile8_C (Tile63)
+[2020.07.09-22.12.48:740][990]Cmd: DELETE
+[2020.07.09-22.12.48:740][990]Cmd: ACTOR DELETE
+[2020.07.09-22.12.48:745][990]LogEditorActor: Deleted Actor: Tile8_C
+[2020.07.09-22.12.48:782][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.07.09-22.12.48:793][990]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2020.07.09-22.12.52:743][434]LogEditorViewport: Clicking Background
+[2020.07.09-22.12.59:089][164]LogEditorViewport: Clicking Background
+[2020.07.09-22.13.50:420][146]LogEditorViewport: Clicking Background
+[2020.07.09-22.14.27:712][551]LogEditorViewport: Clicking Background
+[2020.07.09-22.14.28:175][605]LogEditorViewport: Clicking on Actor (LMB): Tile6_C (Tile66)
+[2020.07.09-22.14.58:075][139]LogEditorViewport: Clicking Background
+[2020.07.09-22.14.58:394][176]LogEditorViewport: Clicking on Actor (LMB): Tile6_C (Tile66)
+[2020.07.09-22.14.58:569][193]Cmd: DELETE
+[2020.07.09-22.14.58:569][193]Cmd: ACTOR DELETE
+[2020.07.09-22.14.58:573][193]LogEditorActor: Deleted Actor: Tile6_C
+[2020.07.09-22.14.58:598][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.07.09-22.14.58:603][193]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.07.09-22.15.00:013][359]LogEditorViewport: Clicking on Actor (LMB): Tile2x8_C (Tile2x10)
+[2020.07.09-22.15.12:272][731]Cmd: DELETE
+[2020.07.09-22.15.12:272][731]Cmd: ACTOR DELETE
+[2020.07.09-22.15.12:276][731]LogEditorActor: Deleted Actor: Tile2_C
+[2020.07.09-22.15.12:299][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.07.09-22.15.12:302][731]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.07.09-22.15.28:041][431]LogEditorViewport: Clicking Background
+[2020.07.09-22.15.48:346][810]LogEditorViewport: Clicking on Actor (LMB): Tile8_C (Tile65)
+[2020.07.09-22.16.07:571][ 24]LogEditorViewport: Clicking Background
+[2020.07.09-22.16.08:490][133]LogEditorViewport: Clicking on Actor (LMB): Tile12_C (Tile68)
+[2020.07.09-22.16.16:748][106]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x3_C (FloatTile_x6)
+[2020.07.09-22.16.18:065][248]LogEditorViewport: Clicking Background
+[2020.07.09-22.16.18:474][296]LogEditorViewport: Clicking on Actor (LMB): Tile12_C (Tile68)
+[2020.07.09-22.16.20:330][513]Cmd: DELETE
+[2020.07.09-22.16.20:330][513]Cmd: ACTOR DELETE
+[2020.07.09-22.16.20:334][513]LogEditorActor: Deleted Actor: Tile12_C
+[2020.07.09-22.16.20:357][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.07.09-22.16.20:361][513]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.07.09-22.16.31:650][829]LogEditorViewport: Clicking on Actor (LMB): Tile8_C (Tile65)
+[2020.07.09-22.16.32:788][961]LogEditorViewport: Clicking on Actor (LMB): Tile10_C (Tile68)
+[2020.07.09-22.17.59:313][137]LogEditorViewport: Clicking Background
+[2020.07.09-22.18.08:732][235]LogEditorViewport: Clicking on Actor (LMB): Tile4x2_C (Tile4x3)
+[2020.07.09-22.18.30:101][ 30]LogSlate: Window 'Reference Viewer' being destroyed
+[2020.07.09-22.18.30:109][ 30]LogSlate: Window 'Reference Viewer' being destroyed
+[2020.07.09-22.18.30:620][ 89]LogEditorViewport: Clicking Background
+[2020.07.09-22.19.29:625][ 39]LogEditorViewport: Clicking Background
+[2020.07.09-22.19.48:655][173]LogEditorViewport: Clicking Background
+[2020.07.09-22.19.55:172][911]LogEditorViewport: Clicking Background
+[2020.07.09-22.20.18:470][614]LogEditorViewport: Clicking Background
+[2020.07.09-22.20.33:028][351]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x3_C (FloatTile_x6)
+[2020.07.09-22.21.24:229][132]LogEditorViewport: Clicking Background
+[2020.07.09-22.21.26:802][436]Cmd: TRANSACTION UNDO
+[2020.07.09-22.21.26:802][436]LogEditorTransaction: Undo Clicking Background
+[2020.07.09-22.21.27:236][456]Cmd: TRANSACTION UNDO
+[2020.07.09-22.21.27:236][456]LogEditorTransaction: Undo Set Scale
+[2020.07.09-22.21.29:219][679]LogEditorViewport: Clicking Background
+[2020.07.09-22.21.30:904][869]Cmd: DELETE
+[2020.07.09-22.21.30:904][869]Cmd: ACTOR DELETE
+[2020.07.09-22.21.30:909][869]LogEditorActor: Deleted Actor: Tile1_C
+[2020.07.09-22.21.30:910][869]LogEditorActor: Deleted Actor: Tile4_C
+[2020.07.09-22.21.30:910][869]LogEditorActor: Deleted Actor: Tile1_C
+[2020.07.09-22.21.30:939][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.07.09-22.21.30:947][869]LogEditorActor: Deleted 3 Actors (0.043 secs)
+[2020.07.09-22.21.32:111][  8]LogEditorViewport: Clicking on Actor (LMB): Tile2x4_C (Tile2x11)
+[2020.07.09-22.21.34:335][255]LogEditorViewport: Clicking Background
+[2020.07.09-22.21.37:102][561]LogEditorViewport: Clicking Background
+[2020.07.09-22.21.38:751][757]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__3__Sprite2)
+[2020.07.09-22.21.40:936][ 10]LogEditorViewport: Clicking on Actor (LMB): Tile7_C (Tile74)
+[2020.07.09-22.21.43:101][263]Cmd: DELETE
+[2020.07.09-22.21.43:101][263]Cmd: ACTOR DELETE
+[2020.07.09-22.21.43:105][263]LogEditorActor: Deleted Actor: Tile7_C
+[2020.07.09-22.21.43:126][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.07.09-22.21.43:128][263]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.07.09-22.21.45:082][494]LogEditorViewport: Clicking on Actor (LMB): Tile2x4_C (Tile2x11)
+[2020.07.09-22.21.47:705][789]LogEditorViewport: Clicking on Actor (LMB): Tile8_C (Tile73)
+[2020.07.09-22.21.48:413][868]LogEditorViewport: Clicking Background
+[2020.07.09-22.21.55:846][748]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__3__Sprite2)
+[2020.07.09-22.22.02:639][482]LogEditorViewport: Clicking Background
+[2020.07.09-22.22.07:331][ 40]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__3__Sprite2)
+[2020.07.09-22.22.11:988][583]Cmd: DELETE
+[2020.07.09-22.22.11:988][583]Cmd: ACTOR DELETE
+[2020.07.09-22.22.11:993][583]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2020.07.09-22.22.12:013][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.07.09-22.22.12:016][583]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.07.09-22.22.12:609][651]LogEditorViewport: Clicking on Actor (LMB): Tile4_C (Tile77)
+[2020.07.09-22.22.21:112][581]LogEditorViewport: Clicking Background
+[2020.07.09-22.22.32:016][782]LogEditorViewport: Clicking Background
+[2020.07.09-22.22.37:571][429]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x7)
+[2020.07.09-22.22.43:164][ 31]LogEditorViewport: Clicking Background
+[2020.07.09-22.22.45:791][344]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x11)
+[2020.07.09-22.22.46:865][467]Cmd: DELETE
+[2020.07.09-22.22.46:866][467]Cmd: ACTOR DELETE
+[2020.07.09-22.22.46:871][467]LogEditorActor: Deleted Actor: Tile9_8x_C
+[2020.07.09-22.22.46:893][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.07.09-22.22.46:896][467]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.07.09-22.22.57:865][708]Cmd: DELETE
+[2020.07.09-22.22.57:865][708]Cmd: ACTOR DELETE
+[2020.07.09-22.22.57:870][708]LogEditorActor: Deleted Actor: Tile2x4_C
+[2020.07.09-22.22.57:894][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.07.09-22.22.57:897][708]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.07.09-22.23.23:527][584]LogEditorViewport: Clicking Background
+[2020.07.09-22.23.35:328][945]LogEditorViewport: Clicking Background
+[2020.07.09-22.23.36:658][103]LogEditorViewport: Clicking on Actor (LMB): Tile5x4_C (Tile5x6)
+[2020.07.09-22.23.40:160][510]Cmd: DELETE
+[2020.07.09-22.23.40:160][510]Cmd: ACTOR DELETE
+[2020.07.09-22.23.40:165][510]LogEditorActor: Deleted Actor: Tile5x4_C
+[2020.07.09-22.23.40:189][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.07.09-22.23.40:192][510]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.07.09-22.23.44:268][942]LogEditorViewport: Clicking Background
+[2020.07.09-22.23.48:170][384]LogEditorViewport: Clicking Background
+[2020.07.09-22.23.56:593][165]LogEditorViewport: Clicking Background
+[2020.07.09-22.23.57:713][297]LogEditorViewport: Clicking on Actor (LMB): Tile2_C (Tile86)
+[2020.07.09-22.24.05:210][163]Cmd: DELETE
+[2020.07.09-22.24.05:210][163]Cmd: ACTOR DELETE
+[2020.07.09-22.24.05:214][163]LogEditorActor: Deleted Actor: Tile2_C
+[2020.07.09-22.24.05:237][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.07.09-22.24.05:240][163]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.07.09-22.24.06:729][317]LogEditorViewport: Clicking Background
+[2020.07.09-22.24.09:954][699]LogEditorViewport: Clicking on Actor (LMB): Tile4_C (Tile77)
+[2020.07.09-22.24.16:218][432]Cmd: DELETE
+[2020.07.09-22.24.16:218][432]Cmd: ACTOR DELETE
+[2020.07.09-22.24.16:224][432]LogEditorActor: Deleted Actor: Tile4_C
+[2020.07.09-22.24.16:243][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.07.09-22.24.16:245][432]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.07.09-22.24.33:999][482]Cmd: DELETE
+[2020.07.09-22.24.33:999][482]Cmd: ACTOR DELETE
+[2020.07.09-22.24.34:005][482]LogEditorActor: Deleted Actor: Tile10_C
+[2020.07.09-22.24.34:027][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.07.09-22.24.34:031][482]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.07.09-22.24.38:197][946]LogEditorViewport: Clicking Background
+[2020.07.09-22.25.04:877][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.07.09-22.25.04:881][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Levels/First/Level1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.07.09-22.25.05:012][286]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1_Auto5A65258AF45E219C115CF18BF2D60691D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Levels/First/Level1_Auto5.umap'
+[2020.07.09-22.25.05:014][286]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.168
+[2020.07.09-22.25.05:014][286]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.168
+[2020.07.09-22.25.28:742][974]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x7)
+[2020.07.09-22.25.39:661][112]LogEditorViewport: Clicking Background
+[2020.07.09-22.25.53:386][719]LogEditorViewport: Clicking on Actor (LMB): Tile8_C (Tile73)
+[2020.07.09-22.25.58:357][252]Cmd: DELETE
+[2020.07.09-22.25.58:357][252]Cmd: ACTOR DELETE
+[2020.07.09-22.25.58:362][252]LogEditorActor: Deleted Actor: Tile8_C
+[2020.07.09-22.25.58:385][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.07.09-22.25.58:390][252]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.07.09-22.26.08:332][431]Cmd: DELETE
+[2020.07.09-22.26.08:332][431]Cmd: ACTOR DELETE
+[2020.07.09-22.26.08:336][431]LogEditorActor: Deleted Actor: Tile5x4_C
+[2020.07.09-22.26.08:356][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.07.09-22.26.08:358][431]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.07.09-22.26.09:052][514]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Tile__7__Sprite)
+[2020.07.09-22.26.09:411][552]Cmd: DELETE
+[2020.07.09-22.26.09:411][552]Cmd: ACTOR DELETE
+[2020.07.09-22.26.09:415][552]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2020.07.09-22.26.09:435][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.07.09-22.26.09:436][552]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.07.09-22.26.10:570][688]LogEditorViewport: Clicking on Actor (LMB): Tile2x4_C (Tile2x11)
+[2020.07.09-22.26.14:990][181]LogEditorViewport: Clicking Background
+[2020.07.09-22.26.15:153][199]Cmd: TRANSACTION UNDO
+[2020.07.09-22.26.15:153][199]LogEditorTransaction: Undo Clicking Background
+[2020.07.09-22.26.15:664][222]Cmd: TRANSACTION UNDO
+[2020.07.09-22.26.15:664][222]LogEditorTransaction: Undo Clicking on Actors
+[2020.07.09-22.26.16:057][267]Cmd: TRANSACTION UNDO
+[2020.07.09-22.26.16:058][267]LogEditorTransaction: Undo Delete Actors
+[2020.07.09-22.26.16:638][325]LogEditorViewport: Clicking Background
+[2020.07.09-22.26.28:276][680]LogEditorViewport: Clicking Background
+[2020.07.09-22.26.29:572][831]Cmd: TRANSACTION UNDO
+[2020.07.09-22.26.29:572][831]LogEditorTransaction: Undo Clicking Background
+[2020.07.09-22.26.30:115][856]Cmd: TRANSACTION UNDO
+[2020.07.09-22.26.30:115][856]LogEditorTransaction: Undo Create Actors
+[2020.07.09-22.26.35:572][479]Cmd: DELETE
+[2020.07.09-22.26.35:572][479]Cmd: ACTOR DELETE
+[2020.07.09-22.26.35:578][479]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2020.07.09-22.26.35:597][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.07.09-22.26.35:600][479]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.07.09-22.26.40:020][949]LogEditorViewport: Clicking Background
+[2020.07.09-22.26.53:450][493]LogEditorViewport: Clicking Background
+[2020.07.09-22.27.26:719][284]LogEditorViewport: Clicking Background
+[2020.07.09-22.27.35:270][264]LogEditorViewport: Clicking Background
+[2020.07.09-22.27.43:574][214]LogEditorViewport: Clicking Background
+[2020.07.09-22.28.00:185][114]LogEditorViewport: Clicking Background
+[2020.07.09-22.28.09:219][155]LogEditorViewport: Clicking Background
+[2020.07.09-22.28.17:185][ 71]LogEditorViewport: Clicking Background
+[2020.07.09-22.28.35:606][218]LogEditorViewport: Clicking Background
+[2020.07.09-22.28.42:430][997]LogEditorViewport: Clicking Background
+[2020.07.09-22.28.57:937][805]LogEditorViewport: Clicking Background
+[2020.07.09-22.29.02:724][348]LogEditorViewport: Clicking Background
+[2020.07.09-22.29.30:032][430]LogEditorViewport: Clicking Background
+[2020.07.09-22.29.33:950][888]LogEditorViewport: Clicking on Actor (LMB): Tile5x4_C (Tile5x5)
+[2020.07.09-22.30.11:359][577]LogEditorViewport: Clicking Background
+[2020.07.09-22.30.18:791][443]LogEditorViewport: Clicking on Actor (LMB): Tile12_C (Tile12)
+[2020.07.09-22.30.24:312][ 25]LogEditorViewport: Clicking Background
+[2020.07.09-22.30.54:031][476]LogEditorViewport: Clicking Background
+[2020.07.09-22.30.56:949][818]LogEditorViewport: Clicking on Actor (LMB): Tile7_C (Tile100)
+[2020.07.09-22.30.58:130][952]Cmd: DELETE
+[2020.07.09-22.30.58:130][952]Cmd: ACTOR DELETE
+[2020.07.09-22.30.58:139][952]LogEditorActor: Deleted Actor: Tile7_C
+[2020.07.09-22.30.58:188][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.07.09-22.30.58:197][952]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2020.07.09-22.31.04:236][618]LogEditorViewport: Clicking Background
+[2020.07.09-22.31.24:282][959]LogEditorViewport: Clicking Background
+[2020.07.09-22.31.29:678][532]LogEditorViewport: Clicking Background
+[2020.07.09-22.31.36:095][296]LogEditorViewport: Clicking on Actor (LMB): Tile5x2by2_C (Tile5x2by28)
+[2020.07.09-22.31.40:489][744]LogEditorViewport: Clicking Background
+[2020.07.09-22.31.47:420][530]LogEditorViewport: Clicking Background
+[2020.07.09-22.31.58:220][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-22.31.58:249][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.07.09-22.31.58:385][735]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1568F45DB4BD533D8DF22B69F21E009D4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-22.31.58:437][735]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-22.31.58:437][735]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-22.32.16:546][753]LogEditorViewport: Clicking Background
+[2020.07.09-22.32.25:578][786]LogEditorViewport: Clicking on Actor (LMB): Tile5x2by2_C (Tile5x2by29)
+[2020.07.09-22.32.27:965][ 45]LogEditorViewport: Clicking on Actor (LMB): Tile5x4_C (Tile5x6)
+[2020.07.09-22.32.41:987][445]LogEditorViewport: Clicking Background
+[2020.07.09-22.32.58:278][327]LogEditorViewport: Clicking Background
+[2020.07.09-22.33.00:269][560]LogEditorViewport: Clicking on Actor (LMB): Tile8_C (Tile106)
+[2020.07.09-22.33.00:732][610]LogEditorViewport: Clicking on Actor (LMB): Tile2_C (Tile105)
+[2020.07.09-22.33.01:705][722]Cmd: DELETE
+[2020.07.09-22.33.01:705][722]Cmd: ACTOR DELETE
+[2020.07.09-22.33.01:712][722]LogEditorActor: Deleted Actor: Tile2_C
+[2020.07.09-22.33.01:746][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.07.09-22.33.01:753][722]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2020.07.09-22.33.02:241][780]LogEditorViewport: Clicking on Actor (LMB): Tile8_C (Tile106)
+[2020.07.09-22.33.02:359][790]Cmd: DELETE
+[2020.07.09-22.33.02:359][790]Cmd: ACTOR DELETE
+[2020.07.09-22.33.02:366][790]LogEditorActor: Deleted Actor: Tile8_C
+[2020.07.09-22.33.02:386][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.07.09-22.33.02:387][790]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.07.09-22.33.24:736][806]LogEditorViewport: Clicking Background
+[2020.07.09-22.33.32:977][758]LogEditorViewport: Clicking Background
+[2020.07.09-22.34.30:080][710]LogEditorViewport: Clicking Background
+[2020.07.09-22.34.46:290][557]LogEditorViewport: Clicking Background
+[2020.07.09-22.34.54:943][470]LogEditorViewport: Clicking Background
+[2020.07.09-22.35.55:234][556]LogEditorViewport: Clicking on Actor (LMB): Tile2x4_C (Tile2x14)
+[2020.07.09-22.35.55:849][625]LogEditorViewport: Clicking on Actor (LMB): Tile8_C (Tile108)
+[2020.07.09-22.36.08:094][937]Cmd: DELETE
+[2020.07.09-22.36.08:094][937]Cmd: ACTOR DELETE
+[2020.07.09-22.36.08:101][937]LogEditorActor: Deleted Actor: Tile5x4_C
+[2020.07.09-22.36.08:133][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.07.09-22.36.08:139][937]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2020.07.09-22.36.48:263][281]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x10)
+[2020.07.09-22.36.55:005][962]LogEditorViewport: Clicking Background
+[2020.07.09-22.36.56:303][115]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x13)
+[2020.07.09-22.36.59:100][387]LogEditorViewport: Clicking Background
+[2020.07.09-22.36.59:122][388]LogEditorViewport: Clicking Background
+[2020.07.09-22.37.00:181][515]LogEditorViewport: Clicking Background
+[2020.07.09-22.37.00:594][564]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x13)
+[2020.07.09-22.37.01:173][628]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x5_C (FloatTile_x11)
+[2020.07.09-22.37.03:311][856]LogEditorViewport: Clicking Background
+[2020.07.09-22.37.08:974][533]LogEditorViewport: Clicking Background
+[2020.07.09-22.37.20:436][857]Cmd: DELETE
+[2020.07.09-22.37.20:436][857]Cmd: ACTOR DELETE
+[2020.07.09-22.37.20:444][857]LogEditorActor: Deleted Actor: Tile6_C
+[2020.07.09-22.37.20:473][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.07.09-22.37.20:478][857]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2020.07.09-22.37.26:311][501]LogEditorViewport: Clicking Background
+[2020.07.09-22.37.38:318][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.07.09-22.37.40:345][878]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.09-22.37.41:226][971]LogEditorViewport: Clicking Background
+[2020.07.09-22.37.41:762][ 34]LogEditorViewport: Clicking on Actor (LMB): Tile4_C (Tile119)
+[2020.07.09-22.37.42:043][ 64]Cmd: DELETE
+[2020.07.09-22.37.42:043][ 64]Cmd: ACTOR DELETE
+[2020.07.09-22.37.42:050][ 64]LogEditorActor: Deleted Actor: Tile4_C
+[2020.07.09-22.37.42:070][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.07.09-22.37.42:071][ 64]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.07.09-22.37.44:026][270]LogEditorViewport: Clicking Background
+[2020.07.09-22.37.47:530][685]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x13)
+[2020.07.09-22.37.52:679][240]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x14)
+[2020.07.09-22.37.59:805][  5]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x15)
+[2020.07.09-22.38.04:165][462]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x14)
+[2020.07.09-22.38.10:234][133]LogEditorViewport: Clicking on Actor (LMB): Tile7_C (Tile109)
+[2020.07.09-22.38.12:464][378]LogEditorViewport: Clicking Background
+[2020.07.09-22.38.13:070][446]LogEditorViewport: Clicking on Actor (LMB): Tile2x4_C (Tile2x14)
+[2020.07.09-22.38.19:155][ 87]LogEditorViewport: Clicking Background
+[2020.07.09-22.38.20:453][239]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x13)
+[2020.07.09-22.38.25:170][737]LogEditorViewport: Clicking Background
+[2020.07.09-22.38.25:925][822]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x5_C (FloatTile_x11)
+[2020.07.09-22.38.30:040][267]LogEditorViewport: Clicking Background
+[2020.07.09-22.38.32:789][595]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x5_C (FloatTile_x11)
+[2020.07.09-22.38.36:347][951]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x13)
+[2020.07.09-22.38.37:616][ 90]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x14)
+[2020.07.09-22.38.40:955][449]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x15)
+[2020.07.09-22.38.46:167][ 24]LogEditorViewport: Clicking on Actor (LMB): Tile4x2_C (Tile4x5)
+[2020.07.09-22.38.48:902][343]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x14)
+[2020.07.09-22.38.50:153][487]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x13)
+[2020.07.09-22.38.52:999][806]LogEditorViewport: Clicking Background
+[2020.07.09-22.38.53:511][866]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x14)
+[2020.07.09-22.38.57:922][369]LogEditorViewport: Clicking Background
+[2020.07.09-22.39.00:338][654]LogEditorViewport: Clicking Background
+[2020.07.09-22.39.00:936][725]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x12)
+[2020.07.09-22.39.04:022][ 90]Cmd: DELETE
+[2020.07.09-22.39.04:022][ 90]Cmd: ACTOR DELETE
+[2020.07.09-22.39.04:030][ 90]LogEditorActor: Deleted Actor: FloatTile_x2_C
+[2020.07.09-22.39.04:052][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.07.09-22.39.04:058][ 90]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.07.09-22.39.08:209][579]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x13)
+[2020.07.09-22.39.12:297][962]LogEditorViewport: Clicking on Actor (LMB): Tile4x2_C (Tile4x4)
+[2020.07.09-22.39.15:002][268]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x13)
+[2020.07.09-22.40.10:427][410]LogEditorViewport: Clicking on Actor (LMB): Tile5x2by2_C (Tile5x2by30)
+[2020.07.09-22.40.16:503][ 32]LogEditorViewport: Clicking Background
+[2020.07.09-22.40.31:080][498]LogEditorViewport: Clicking Background
+[2020.07.09-22.40.39:016][437]LogEditorViewport: Clicking on Actor (LMB): Tile2x4_C (Tile2x15)
+[2020.07.09-22.40.40:529][600]LogEditorViewport: Clicking Background
+[2020.07.09-22.40.48:936][559]LogEditorViewport: Clicking Background
+[2020.07.09-22.40.58:481][622]LogEditorViewport: Clicking Background
+[2020.07.09-22.41.15:757][571]LogEditorViewport: Clicking Background
+[2020.07.09-22.41.31:694][359]Cmd: DELETE
+[2020.07.09-22.41.31:694][359]Cmd: ACTOR DELETE
+[2020.07.09-22.41.31:703][359]LogEditorActor: Deleted Actor: Tile11_C
+[2020.07.09-22.41.31:745][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.07.09-22.41.31:753][359]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2020.07.09-22.41.38:972][190]LogEditorViewport: Clicking Background
+[2020.07.09-22.41.49:385][401]LogEditorViewport: Clicking Background
+[2020.07.09-22.41.50:376][518]LogEditorViewport: Clicking on Actor (LMB): Tile2x2_C (Tile2x16)
+[2020.07.09-22.41.52:162][727]Cmd: DELETE
+[2020.07.09-22.41.52:162][727]Cmd: ACTOR DELETE
+[2020.07.09-22.41.52:169][727]LogEditorActor: Deleted Actor: Tile2x2_C
+[2020.07.09-22.41.52:190][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.07.09-22.41.52:193][727]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.07.09-22.41.58:997][470]Cmd: DELETE
+[2020.07.09-22.41.58:997][470]Cmd: ACTOR DELETE
+[2020.07.09-22.41.59:005][470]LogEditorActor: Deleted Actor: Tile6_C
+[2020.07.09-22.41.59:025][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.07.09-22.41.59:028][470]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.07.09-22.42.13:435][110]Cmd: DELETE
+[2020.07.09-22.42.13:435][110]Cmd: ACTOR DELETE
+[2020.07.09-22.42.13:443][110]LogEditorActor: Deleted Actor: Tile5x2by2_C
+[2020.07.09-22.42.13:467][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.07.09-22.42.13:470][110]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.07.09-22.42.15:574][332]LogEditorViewport: Clicking Background
+[2020.07.09-22.42.16:529][445]LogEditorViewport: Clicking on Actor (LMB): Tile5x2by2_C (Tile5x2by32)
+[2020.07.09-22.42.19:231][761]Cmd: DELETE
+[2020.07.09-22.42.19:231][761]Cmd: ACTOR DELETE
+[2020.07.09-22.42.19:240][761]LogEditorActor: Deleted Actor: Tile5x2by2_C
+[2020.07.09-22.42.19:262][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.07.09-22.42.19:264][761]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.07.09-22.42.19:782][823]LogEditorViewport: Clicking on Actor (LMB): Tile5_C (Tile123)
+[2020.07.09-22.42.20:080][852]Cmd: DELETE
+[2020.07.09-22.42.20:080][852]Cmd: ACTOR DELETE
+[2020.07.09-22.42.20:089][852]LogEditorActor: Deleted Actor: Tile5_C
+[2020.07.09-22.42.20:109][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.07.09-22.42.20:110][852]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.07.09-22.42.23:207][185]LogEditorViewport: Clicking on Actor (LMB): Tile5x8_C (Tile5x18)
+[2020.07.09-22.42.24:012][276]LogEditorViewport: Clicking on Actor (LMB): Tile5x4_C (Tile5x20)
+[2020.07.09-22.42.30:056][895]LogEditorViewport: Clicking on Actor (LMB): Tile5x4_C (Tile5x20)
+[2020.07.09-22.42.30:479][941]LogEditorViewport: Clicking on Actor (LMB): Tile5_C (Tile123)
+[2020.07.09-22.42.31:556][ 65]Cmd: DELETE
+[2020.07.09-22.42.31:556][ 65]Cmd: ACTOR DELETE
+[2020.07.09-22.42.31:565][ 65]LogEditorActor: Deleted Actor: Tile5_C
+[2020.07.09-22.42.31:586][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.07.09-22.42.31:588][ 65]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.07.09-22.42.32:617][186]LogEditorViewport: Clicking on Actor (LMB): Tile10_C (Tile129)
+[2020.07.09-22.42.34:588][388]LogEditorViewport: Clicking Background
+[2020.07.09-22.42.35:021][438]LogEditorViewport: Clicking Background
+[2020.07.09-22.42.56:580][818]Cmd: DELETE
+[2020.07.09-22.42.56:580][818]Cmd: ACTOR DELETE
+[2020.07.09-22.42.56:589][818]LogEditorActor: Deleted Actor: Tile13_C
+[2020.07.09-22.42.56:590][818]LogEditorActor: Deleted Actor: Tile6_C
+[2020.07.09-22.42.56:591][818]LogEditorActor: Deleted Actor: Tile6_C
+[2020.07.09-22.42.56:591][818]LogEditorActor: Deleted Actor: Tile6_C
+[2020.07.09-22.42.56:591][818]LogEditorActor: Deleted Actor: Tile6_C
+[2020.07.09-22.42.56:592][818]LogEditorActor: Deleted Actor: Tile6_C
+[2020.07.09-22.42.56:592][818]LogEditorActor: Deleted Actor: Tile6_C
+[2020.07.09-22.42.56:593][818]LogEditorActor: Deleted Actor: Tile6_C
+[2020.07.09-22.42.56:593][818]LogEditorActor: Deleted Actor: Tile6_C
+[2020.07.09-22.42.56:613][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.07.09-22.42.56:616][818]LogEditorActor: Deleted 9 Actors (0.036 secs)
+[2020.07.09-22.42.57:526][926]LogEditorViewport: Clicking on Actor (LMB): Tile5x4_C (Tile5x21)
+[2020.07.09-22.43.00:793][265]Cmd: DELETE
+[2020.07.09-22.43.00:793][265]Cmd: ACTOR DELETE
+[2020.07.09-22.43.00:801][265]LogEditorActor: Deleted Actor: Tile5x4_C
+[2020.07.09-22.43.00:821][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.07.09-22.43.00:824][265]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.07.09-22.43.02:833][452]LogEditorViewport: Clicking on Actor (LMB): Tile5x8_C (Tile5x21)
+[2020.07.09-22.43.16:456][710]LogEditorViewport: Clicking Background
+[2020.07.09-22.43.31:459][363]Cmd: DELETE
+[2020.07.09-22.43.31:459][363]Cmd: ACTOR DELETE
+[2020.07.09-22.43.31:468][363]LogEditorActor: Deleted Actor: Tile5x4_C
+[2020.07.09-22.43.31:496][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.07.09-22.43.31:499][363]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.07.09-22.43.36:559][880]LogEditorViewport: Clicking Background
+[2020.07.09-22.43.36:870][915]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x10)
+[2020.07.09-22.43.40:122][223]LogEditorViewport: Clicking on Actor (LMB): Tile5x8_C (Tile5x22)
+[2020.07.09-22.43.41:028][325]Cmd: DELETE
+[2020.07.09-22.43.41:028][325]Cmd: ACTOR DELETE
+[2020.07.09-22.43.41:038][325]LogEditorActor: Deleted Actor: Tile5x8_C
+[2020.07.09-22.43.41:060][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.07.09-22.43.41:062][325]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.07.09-22.43.41:470][372]LogEditorViewport: Clicking on Actor (LMB): Tile9_8x_C (Tile9_8x10)
+[2020.07.09-22.43.44:140][621]LogEditorViewport: Clicking Background
+[2020.07.09-22.43.51:054][354]Cmd: DELETE
+[2020.07.09-22.43.51:054][354]Cmd: ACTOR DELETE
+[2020.07.09-22.43.51:063][354]LogEditorActor: Deleted Actor: Tile5_C
+[2020.07.09-22.43.51:064][354]LogEditorActor: Deleted Actor: Tile5_C
+[2020.07.09-22.43.51:085][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.07.09-22.43.51:088][354]LogEditorActor: Deleted 2 Actors (0.034 secs)
+[2020.07.09-22.44.09:380][415]LogEditorViewport: Clicking Background
+[2020.07.09-22.44.23:023][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.07.09-22.44.23:595][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile6x8" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile6x8.uasset" SILENT=true
+[2020.07.09-22.44.23:600][103]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile6x85E677ACE424B58ECD92176AF3895C4B3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile6x8.uasset'
+[2020.07.09-22.44.23:612][103]AssetCheck: New page: Asset Save: Tile6x8
+[2020.07.09-22.44.23:612][103]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile6x8.Tile6x8
+[2020.07.09-22.44.24:966][263]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Sprites/Tile6x8.Tile6x8
+[2020.07.09-22.45.02:357][718]BlueprintLog: New page: Compile Tile6x8
+[2020.07.09-22.45.02:407][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.07.09-22.45.02:740][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile6x8" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile6x8.uasset" SILENT=true
+[2020.07.09-22.45.02:785][744]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile6x8EC853FB54E33EBDC8FA767AB5CAC9B8B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile6x8.uasset'
+[2020.07.09-22.45.02:806][744]AssetCheck: New page: Asset Save: Tile6x8
+[2020.07.09-22.45.02:806][744]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile6x8.Tile6x8
+[2020.07.09-22.45.03:053][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile6x8" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile6x8.uasset" SILENT=true
+[2020.07.09-22.45.03:095][758]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile6x859A13233493702B8DA322FB442233AB8.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile6x8.uasset'
+[2020.07.09-22.45.03:106][758]AssetCheck: New page: Asset Save: Tile6x8
+[2020.07.09-22.45.03:106][758]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile6x8.Tile6x8
+[2020.07.09-22.45.03:686][814]LogSlate: Window 'Tile6x8' being destroyed
+[2020.07.09-22.45.03:691][814]LogSlate: Window 'Tile6x8' being destroyed
+[2020.07.09-22.45.03:706][814]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-22.45.03:706][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-22.45.12:251][671]LogEditorViewport: Clicking Background
+[2020.07.09-22.45.14:164][897]LogEditorViewport: Clicking on Actor (LMB): Tile6x8_C (Tile6x10)
+[2020.07.09-22.45.16:716][170]LogEditorViewport: Clicking Background
+[2020.07.09-22.45.30:163][723]LogEditorViewport: Clicking Background
+[2020.07.09-22.45.49:920][753]LogEditorViewport: Clicking Background
+[2020.07.09-22.45.53:873][202]LogEditorViewport: Clicking on Actor (LMB): Tile5x8_C (Tile5x28)
+[2020.07.09-22.45.54:602][283]LogEditorViewport: Clicking on Actor (LMB): Tile5x8_C (Tile5x32)
+[2020.07.09-22.45.56:130][457]LogEditorViewport: Clicking on Actor (LMB): Tile1_C (Tile114)
+[2020.07.09-22.45.57:741][643]LogEditorViewport: Clicking on Actor (LMB): Tile2x2_C (Tile2x17)
+[2020.07.09-22.45.59:550][848]LogEditorViewport: Clicking on Actor (LMB): Tile2_C (Tile115)
+[2020.07.09-22.46.00:050][901]Cmd: DELETE
+[2020.07.09-22.46.00:050][901]Cmd: ACTOR DELETE
+[2020.07.09-22.46.00:060][901]LogEditorActor: Deleted Actor: Tile2_C
+[2020.07.09-22.46.00:095][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.07.09-22.46.00:101][901]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2020.07.09-22.46.02:060][125]Cmd: DELETE
+[2020.07.09-22.46.02:060][125]Cmd: ACTOR DELETE
+[2020.07.09-22.46.02:070][125]LogEditorActor: Deleted Actor: Tile1_C
+[2020.07.09-22.46.02:070][125]LogEditorActor: Deleted Actor: Tile2x2_C
+[2020.07.09-22.46.02:090][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.07.09-22.46.02:092][125]LogEditorActor: Deleted 2 Actors (0.032 secs)
+[2020.07.09-22.46.10:745][959]Cmd: DELETE
+[2020.07.09-22.46.10:745][959]Cmd: ACTOR DELETE
+[2020.07.09-22.46.10:755][959]LogEditorActor: Deleted Actor: Tile2_C
+[2020.07.09-22.46.10:780][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.07.09-22.46.10:782][959]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.07.09-22.46.29:262][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.07.09-22.46.29:851][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile4x8" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile4x8.uasset" SILENT=true
+[2020.07.09-22.46.29:857][ 63]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile4x89F5F01C34C5AA2BDCB410AB2340D6C53.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile4x8.uasset'
+[2020.07.09-22.46.29:869][ 63]AssetCheck: New page: Asset Save: Tile4x8
+[2020.07.09-22.46.29:869][ 63]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile4x8.Tile4x8
+[2020.07.09-22.46.30:502][133]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Floors/Sprites/Tile4x8.Tile4x8
+[2020.07.09-22.47.07:516][130]BlueprintLog: New page: Compile Tile4x8
+[2020.07.09-22.47.07:565][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.07.09-22.47.07:915][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile4x8" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile4x8.uasset" SILENT=true
+[2020.07.09-22.47.07:963][154]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile4x8F06E61CD4405C4121EDD7FA733B9B8CB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile4x8.uasset'
+[2020.07.09-22.47.07:981][154]AssetCheck: New page: Asset Save: Tile4x8
+[2020.07.09-22.47.07:981][154]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile4x8.Tile4x8
+[2020.07.09-22.47.08:248][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Floors/Sprites/Tile4x8" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile4x8.uasset" SILENT=true
+[2020.07.09-22.47.08:292][168]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile4x8F7AE29F84DDA47A2BD02E7A64E1D9E8A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Floors/Sprites/Tile4x8.uasset'
+[2020.07.09-22.47.08:306][168]AssetCheck: New page: Asset Save: Tile4x8
+[2020.07.09-22.47.08:306][168]LogContentValidation: Display: Validating Blueprint /Game/LevelItems/Floors/Sprites/Tile4x8.Tile4x8
+[2020.07.09-22.47.10:694][376]LogSlate: Window 'Tile4x8' being destroyed
+[2020.07.09-22.47.10:699][376]LogSlate: Window 'Tile4x8' being destroyed
+[2020.07.09-22.47.10:713][376]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-22.47.10:713][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-22.47.20:975][358]Cmd: TRANSACTION UNDO
+[2020.07.09-22.47.20:975][358]LogEditorTransaction: Undo Create Actors
+[2020.07.09-22.47.24:867][736]LogEditorViewport: Clicking on Actor (LMB): Tile7_C (Tile133)
+[2020.07.09-22.47.49:143][358]Cmd: TRANSACTION UNDO
+[2020.07.09-22.47.49:143][358]LogEditorTransaction: Undo Create Actors
+[2020.07.09-22.48.04:795][ 84]LogEditorViewport: Clicking Background
+[2020.07.09-22.48.05:909][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-22.48.05:944][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.07.09-22.48.06:143][212]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1A957178B4BD3FB553BDB28A46396634B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-22.48.06:191][212]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-22.48.06:192][212]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-22.48.23:893][199]LogEditorViewport: Clicking Background
+[2020.07.09-22.48.27:935][652]LogEditorViewport: Clicking Background
+[2020.07.09-22.48.28:598][730]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x16)
+[2020.07.09-22.48.29:805][860]LogEditorViewport: Clicking Background
+[2020.07.09-22.48.36:241][623]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x16)
+[2020.07.09-22.48.41:483][178]LogEditorViewport: Clicking Background
+[2020.07.09-22.48.53:225][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-22.48.53:254][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.07.09-22.48.53:432][540]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level11C2A33F14CFD54BF7F83DD8E7C26263C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-22.48.53:473][540]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-22.48.53:473][540]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-22.50.01:440][217]LogEditorViewport: Clicking Background
+[2020.07.09-22.50.04:177][531]LogEditorViewport: Clicking on Actor (LMB): Crate_C (Crate)
+[2020.07.09-22.50.11:481][388]LogEditorViewport: Clicking on Actor (LMB): Tile3_C (Tile19)
+[2020.07.09-22.50.12:788][539]LogEditorViewport: Clicking on Actor (LMB): Tile11_C (Tile42)
+[2020.07.09-22.50.14:165][698]Cmd: DELETE
+[2020.07.09-22.50.14:165][698]Cmd: ACTOR DELETE
+[2020.07.09-22.50.14:175][698]LogEditorActor: Deleted Actor: Tile11_C
+[2020.07.09-22.50.14:204][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.07.09-22.50.14:209][698]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2020.07.09-22.50.24:692][876]LogEditorViewport: Clicking Background
+[2020.07.09-22.50.31:321][650]LogEditorViewport: Clicking on Actor (LMB): Crate_C (Crate)
+[2020.07.09-22.51.08:318][986]LogEditorViewport: Clicking Background
+[2020.07.09-22.51.09:021][ 69]LogEditorViewport: Clicking on Actor (LMB): Crate_C (Crate)
+[2020.07.09-22.51.28:789][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-22.51.28:813][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.07.09-22.51.28:992][408]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1C2BA63B046B73190E8E8FA9A8F02647B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-22.51.29:037][408]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-22.51.29:037][408]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-22.51.57:536][656]LogEditorViewport: Clicking on Actor (LMB): Crate_C (Crate2)
+[2020.07.09-22.51.58:277][741]Cmd: DELETE
+[2020.07.09-22.51.58:277][741]Cmd: ACTOR DELETE
+[2020.07.09-22.51.58:289][741]LogEditorActor: Deleted Actor: Crate_C
+[2020.07.09-22.51.58:310][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.07.09-22.51.58:314][741]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.07.09-22.51.58:852][805]LogEditorViewport: Clicking on Actor (LMB): Crate_C (Crate3)
+[2020.07.09-22.52.09:962][ 52]LogEditorViewport: Clicking on Actor (LMB): Crate_C (Crate3)
+[2020.07.09-22.52.16:005][693]LogEditorViewport: Clicking Background
+[2020.07.09-22.52.31:251][455]Cmd: TRANSACTION UNDO
+[2020.07.09-22.52.31:251][455]LogEditorTransaction: Undo Create Actors
+[2020.07.09-22.52.32:235][534]LogEditorViewport: Clicking on Actor (LMB): Crate_C (Crate)
+[2020.07.09-22.52.36:777][974]LogEditorViewport: Clicking Background
+[2020.07.09-22.52.43:311][745]LogEditorViewport: Clicking on Actor (LMB): Crate_C (Crate6)
+[2020.07.09-22.53.08:589][427]LogEditorViewport: Clicking Background
+[2020.07.09-22.53.17:354][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-22.53.17:378][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.07.09-22.53.17:567][382]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1BEBBECC94A0E2DFE2EF8B8BDDFEB36F7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-22.53.17:611][382]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-22.53.17:611][382]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
