@@ -4562,3 +4562,109 @@ Purging the undo buffer...
 [2020.07.09-22.53.17:567][382]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1BEBBECC94A0E2DFE2EF8B8BDDFEB36F7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
 [2020.07.09-22.53.17:611][382]AssetCheck: New page: Asset Save: Level1
 [2020.07.09-22.53.17:611][382]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-22.54.33:952][615]LogEditorViewport: Clicking Background
+[2020.07.09-22.54.34:379][662]LogEditorViewport: Clicking Background
+[2020.07.09-22.54.34:804][711]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/UI/LevelEditor/Viewports/ViewportControls/index.html
+[2020.07.09-22.55.54:241][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-22.55.54:264][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.07.09-22.55.54:445][590]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level15EE14DB44FCF6B4BD9BF77ACF7C2C686.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-22.55.54:494][590]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-22.55.54:494][590]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-22.57.05:146][140]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.07.09-22.57.05:483][178]LogEditorViewport: Clicking Background
+[2020.07.09-22.57.06:321][276]LogEditorViewport: Clicking Background
+[2020.07.09-22.57.07:109][368]LogEditorViewport: Clicking Background
+[2020.07.09-22.57.07:491][413]LogEditorViewport: Clicking Background
+[2020.07.09-22.57.07:936][465]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.07.09-22.57.10:450][743]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.07.09-22.57.13:627][ 79]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.07.09-22.57.15:256][260]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.07.09-22.57.18:250][590]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.07.09-22.57.18:839][657]LogEditorViewport: Clicking Background
+[2020.07.09-22.57.24:091][121]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.07.09-22.59.40:504][845]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.09-22.59.40:520][845]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.07.09-22.59.40:520][845]LogPlayLevel: [PlayLevel] Compiling FloorV3_2by1 before play...
+[2020.07.09-22.59.40:523][845]LogPlayLevel: [PlayLevel] Compiling FloorV3_3by1 before play...
+[2020.07.09-22.59.40:526][845]LogPlayLevel: [PlayLevel] Compiling FloorV3_4by1 before play...
+[2020.07.09-22.59.40:530][845]LogPlayLevel: [PlayLevel] Compiling FloorV3_5by1 before play...
+[2020.07.09-22.59.40:533][845]LogPlayLevel: [PlayLevel] Compiling Tile3 before play...
+[2020.07.09-22.59.40:544][845]LogPhysics: Warning: Scale for /Game/Levels/First/Level1.Level1:PersistentLevel.Tile52.PaperSprite14 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=-1.000
+[2020.07.09-22.59.40:544][845]LogPhysics: Warning: Scale for /Game/Levels/First/Level1.Level1:PersistentLevel.Tile52.PaperSprite14 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=-1.000
+[2020.07.09-22.59.40:585][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.07.09-22.59.40:590][845]LogPlayLevel: PlayLevel: Blueprint regeneration took 70 ms (5 blueprints)
+[2020.07.09-22.59.40:591][845]PIE: New page: PIE session: Level1 (Jul 10, 2020, 12:59:40 AM)
+[2020.07.09-22.59.40:592][845]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.07.09-22.59.40:594][845]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.07.09-22.59.40:594][845]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.09-22.59.40:629][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034652s)
+[2020.07.09-22.59.40:630][845]LogAIModule: Creating AISystem for world Level1
+[2020.07.09-22.59.40:630][845]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025187C76C00), frame # 1124845
+[2020.07.09-22.59.40:630][845]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025200573C40), frame # 1124845
+[2020.07.09-22.59.40:630][845]LogPlayLevel: PIE: World Init took: (0.001409s)
+[2020.07.09-22.59.40:631][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.036283s)
+[2020.07.09-22.59.40:654][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.07.09-22.59.40:655][845]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.09-22.59.40:655][845]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.09-22.59.40:655][845]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.09-22.59.40:655][845]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.09-22.59.40:655][845]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.09-22.59.40:655][845]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.09-22.59.40:655][845]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.09-22.59.40:655][845]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.09-22.59.40:656][845]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.09-22.59.40:656][845]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.09-22.59.40:668][845]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.09-22.59.40:668][845]LogAudioMixer: Display: 1: FrontRight
+[2020.07.09-22.59.40:713][845]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.09-22.59.40:714][845]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.09-22.59.40:714][845]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.09-22.59.40:714][845]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.09-22.59.40:714][845]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.09-22.59.40:728][845]LogInit: FAudioDevice initialized.
+[2020.07.09-22.59.40:735][845]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.09-22.59.40:756][845]LogPhysics: Warning: Scale for /Game/Levels/First/UEDPIE_0_Level1.Level1:PersistentLevel.Tile52.PaperSprite14 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=-1.000
+[2020.07.09-22.59.40:756][845]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.09-23.59.40
+[2020.07.09-22.59.40:757][845]LogWorld: Bringing up level for play took: 0.020287
+[2020.07.09-22.59.40:757][845]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2020.07.09-22.59.40:764][845]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0018 seconds. Added 20 classes and 0 folders.
+[2020.07.09-22.59.40:777][845]PIE: Server logged in
+[2020.07.09-22.59.40:779][845]PIE: Play in editor total start time 0.26 seconds.
+[2020.07.09-23.01.09:740][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-23.01.09:740][680]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.09-23.01.09:740][680]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.09-23.01.09:744][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-23.01.09:751][680]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.09-23.01.09:756][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-23.01.09:801][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.09-23.01.09:829][680]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025200573C40), frame # 1134680
+[2020.07.09-23.01.09:829][680]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025187C76C00), frame # 1134680
+[2020.07.09-23.01.09:836][680]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.07.09-23.01.09:867][681]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2020.07.09-23.01.16:612][444]LogEditorViewport: Clicking Background
+[2020.07.09-23.01.16:993][488]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x2)
+[2020.07.09-23.01.28:046][777]LogEditorViewport: Clicking Background
+[2020.07.09-23.01.28:963][885]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x2)
+[2020.07.09-23.01.36:479][749]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x4)
+[2020.07.09-23.01.38:522][968]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x3_C (FloatTile_x5)
+[2020.07.09-23.01.43:302][477]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x3_C (FloatTile_x3)
+[2020.07.09-23.01.49:159][101]LogEditorViewport: Clicking Background
+[2020.07.09-23.01.49:677][161]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x9)
+[2020.07.09-23.01.52:635][465]LogEditorViewport: Clicking Background
+[2020.07.09-23.01.52:994][506]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x10)
+[2020.07.09-23.01.55:313][747]LogEditorViewport: Clicking Background
+[2020.07.09-23.01.57:152][958]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x3_C (FloatTile_x6)
+[2020.07.09-23.01.58:978][158]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x5_C (FloatTile_x7)
+[2020.07.09-23.02.05:260][810]LogEditorViewport: Clicking Background
+[2020.07.09-23.02.06:630][972]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x8)
+[2020.07.09-23.02.08:691][200]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x9)
+[2020.07.09-23.02.11:032][462]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x10)
+[2020.07.09-23.02.12:494][617]LogEditorViewport: Clicking Background
+[2020.07.09-23.02.44:088][295]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x3_C (FloatTile_x12)
+[2020.07.09-23.02.56:819][758]LogEditorViewport: Clicking on Actor (LMB): FloatTile_x2_C (FloatTile_x15)
+[2020.07.09-23.02.59:148][  6]LogEditorViewport: Clicking Background
+[2020.07.09-23.03.02:637][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-23.03.02:661][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.07.09-23.03.02:864][417]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1A1E0B80A429F8B0F8402B7A1F7E87EDC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-23.03.02:910][417]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-23.03.02:910][417]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
