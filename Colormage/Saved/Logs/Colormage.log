@@ -3267,3 +3267,407 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.09-17.08.20:105][468]LogSlate: Window '2DSideScrollerCharacter' being destroyed
 [2020.07.09-17.08.20:106][468]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
 [2020.07.09-17.08.20:106][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.09-17.21.07:209][748]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_29)
+[2020.07.09-17.22.21:167][792]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Tiles\Tile (3).png)
+[2020.07.09-17.22.21:170][792]LogTexture: Display: Building textures: Tile__3_ (AutoDXT, 128X128)
+[2020.07.09-17.22.21:187][792]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Tiles\Tile (4).png)
+[2020.07.09-17.22.21:189][792]LogTexture: Display: Building textures: Tile__4_ (AutoDXT, 128X128)
+[2020.07.09-17.22.21:202][792]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Tiles\Tile (5).png)
+[2020.07.09-17.22.21:204][792]LogTexture: Display: Building textures: Tile__5_ (AutoDXT, 128X128)
+[2020.07.09-17.22.21:211][792]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Tiles\Tile (6).png)
+[2020.07.09-17.22.21:213][792]LogTexture: Display: Building textures: Tile__6_ (AutoDXT, 128X128)
+[2020.07.09-17.22.21:228][792]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Tiles\Tile (7).png)
+[2020.07.09-17.22.21:230][792]LogTexture: Display: Building textures: Tile__7_ (AutoDXT, 128X128)
+[2020.07.09-17.22.21:239][792]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Tiles\Tile (8).png)
+[2020.07.09-17.22.21:241][792]LogTexture: Display: Building textures: Tile__8_ (AutoDXT, 128X128)
+[2020.07.09-17.22.21:248][792]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Tiles\Tile (9).png)
+[2020.07.09-17.22.21:250][792]LogTexture: Display: Building textures: Tile__9_ (AutoDXT, 128X128)
+[2020.07.09-17.22.21:264][792]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Tiles\Tile (10).png)
+[2020.07.09-17.22.21:267][792]LogTexture: Display: Building textures: Tile__10_ (AutoDXT, 128X128)
+[2020.07.09-17.22.21:274][792]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Tiles\Tile (11).png)
+[2020.07.09-17.22.21:276][792]LogTexture: Display: Building textures: Tile__11_ (AutoDXT, 128X128)
+[2020.07.09-17.22.21:284][792]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Tiles\Tile (12).png)
+[2020.07.09-17.22.21:287][792]LogTexture: Display: Building textures: Tile__12_ (AutoDXT, 128X128)
+[2020.07.09-17.22.21:302][792]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Tiles\Tile (13).png)
+[2020.07.09-17.22.21:304][792]LogTexture: Display: Building textures: Tile__13_ (AutoDXT, 128X128)
+[2020.07.09-17.22.21:320][792]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Tiles\Tile (14).png)
+[2020.07.09-17.22.21:322][792]LogTexture: Display: Building textures: Tile__14_ (AutoDXT, 128X128)
+[2020.07.09-17.22.21:338][792]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Tiles\Tile (15).png)
+[2020.07.09-17.22.21:341][792]LogTexture: Display: Building textures: Tile__15_ (AutoDXT, 128X128)
+[2020.07.09-17.22.21:356][792]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Tiles\Tile (16).png)
+[2020.07.09-17.22.21:358][792]LogTexture: Display: Building textures: Tile__16_ (AutoDXT, 128X128)
+[2020.07.09-17.22.21:377][792]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Tiles\Bone (1).png)
+[2020.07.09-17.22.21:379][792]LogTexture: Display: Building textures: Bone__1_ (AutoDXT, 128X128)
+[2020.07.09-17.22.21:394][792]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Tiles\Bone (2).png)
+[2020.07.09-17.22.21:396][792]LogTexture: Display: Building textures: Bone__2_ (AutoDXT, 128X128)
+[2020.07.09-17.22.21:410][792]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Tiles\Bone (3).png)
+[2020.07.09-17.22.21:412][792]LogTexture: Display: Building textures: Bone__3_ (AutoDXT, 128X128)
+[2020.07.09-17.22.21:426][792]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Tiles\Bone (4).png)
+[2020.07.09-17.22.21:428][792]LogTexture: Display: Building textures: Bone__4_ (AutoDXT, 128X128)
+[2020.07.09-17.22.21:441][792]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Tiles\Tile (1).png)
+[2020.07.09-17.22.21:444][792]LogTexture: Display: Building textures: Tile__1_ (AutoDXT, 128X128)
+[2020.07.09-17.22.21:461][792]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Tiles\Tile (2).png)
+[2020.07.09-17.22.21:463][792]LogTexture: Display: Building textures: Tile__2_ (AutoDXT, 128X128)
+[2020.07.09-17.22.32:391][ 10]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Objects\ArrowSign.png)
+[2020.07.09-17.22.32:393][ 10]LogTexture: Display: Building textures: ArrowSign (BGRA8, 86X87)
+[2020.07.09-17.22.32:399][ 10]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Objects\Bush (1).png)
+[2020.07.09-17.22.32:401][ 10]LogTexture: Display: Building textures: Bush__1_ (BGRA8, 182X90)
+[2020.07.09-17.22.32:406][ 10]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Objects\Bush (2).png)
+[2020.07.09-17.22.32:409][ 10]LogTexture: Display: Building textures: Bush__2_ (AutoDXT, 100X64)
+[2020.07.09-17.22.32:417][ 10]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Objects\Crate.png)
+[2020.07.09-17.22.32:419][ 10]LogTexture: Display: Building textures: Crate (BGRA8, 106X106)
+[2020.07.09-17.22.32:427][ 10]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Objects\DeadBush.png)
+[2020.07.09-17.22.32:430][ 10]LogTexture: Display: Building textures: DeadBush (BGRA8, 132X74)
+[2020.07.09-17.22.32:437][ 10]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Objects\Sign.png)
+[2020.07.09-17.22.32:439][ 10]LogTexture: Display: Building textures: Sign (BGRA8, 91X93)
+[2020.07.09-17.22.32:446][ 10]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Objects\Skeleton.png)
+[2020.07.09-17.22.32:448][ 10]LogTexture: Display: Building textures: Skeleton (BGRA8, 102X50)
+[2020.07.09-17.22.32:454][ 10]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Objects\TombStone (1).png)
+[2020.07.09-17.22.32:456][ 10]LogTexture: Display: Building textures: TombStone__1_ (BGRA8, 54X55)
+[2020.07.09-17.22.32:462][ 10]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Objects\TombStone (2).png)
+[2020.07.09-17.22.32:464][ 10]LogTexture: Display: Building textures: TombStone__2_ (BGRA8, 53X76)
+[2020.07.09-17.22.32:470][ 10]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\Objects\Tree.png)
+[2020.07.09-17.22.32:473][ 10]LogTexture: Display: Building textures: Tree (BGRA8, 286X239)
+[2020.07.09-17.22.51:237][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\GitHub\Colormage\Colormage\Source\Tileset\png\BG.png)
+[2020.07.09-17.22.51:284][354]LogTexture: Display: Building textures: BG (BGRA8, 2000X1143)
+[2020.07.09-17.22.52:913][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.07.09-17.22.52:967][434]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerExampleMap797266DE42889032B8A591968ED8451A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2020.07.09-17.22.53:020][434]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerExampleMap_BuiltDaC54E26B4450F8EB95AE7A2B2BA47E751.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2020.07.09-17.22.53:042][434]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-17.22.53:042][434]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2020.07.09-17.22.53:042][434]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2020.07.09-17.22.54:490][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Background/BG" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Background/BG.uasset" SILENT=true
+[2020.07.09-17.22.54:528][601]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BG8FBA43E24254FFD5A052D4A2B5C1A69E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Background/BG.uasset'
+[2020.07.09-17.22.54:588][601]AssetCheck: New page: Asset Save: BG
+[2020.07.09-17.22.54:588][601]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Background/BG.BG
+[2020.07.09-17.23.28:274][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/DeadBush" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/DeadBush.uasset" SILENT=true
+[2020.07.09-17.23.28:277][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/DeadBush780DDFA340D60393A8209EA4B96279A5.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/DeadBush.uasset'
+[2020.07.09-17.23.28:280][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Crate" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Crate.uasset" SILENT=true
+[2020.07.09-17.23.28:283][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/CrateB0653A0546D46B22BFA111BC8C3FEBCA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Crate.uasset'
+[2020.07.09-17.23.28:285][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Bush__2_" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Bush__2_.uasset" SILENT=true
+[2020.07.09-17.23.28:288][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Bush__2_CAD9216F499C567382ED94A35D615EA6.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Bush__2_.uasset'
+[2020.07.09-17.23.28:291][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Bush__1_" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Bush__1_.uasset" SILENT=true
+[2020.07.09-17.23.28:294][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Bush__1_6988CA9F4D4F4E00A267948A89DF3908.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Bush__1_.uasset'
+[2020.07.09-17.23.28:296][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/ArrowSign" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/ArrowSign.uasset" SILENT=true
+[2020.07.09-17.23.28:300][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ArrowSign1E86BB2D473A731AC91020A89CC7C775.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/ArrowSign.uasset'
+[2020.07.09-17.23.28:303][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Tile__2_" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__2_.uasset" SILENT=true
+[2020.07.09-17.23.28:307][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__2_52AC27C44AEF03DFA20DED99772AB21D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__2_.uasset'
+[2020.07.09-17.23.28:312][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Tile__1_" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__1_.uasset" SILENT=true
+[2020.07.09-17.23.28:316][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__1_47B5FCDC4861E2F2F94A24BDDA2E0E4F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__1_.uasset'
+[2020.07.09-17.23.28:319][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Bone__4_" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Bone__4_.uasset" SILENT=true
+[2020.07.09-17.23.28:322][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Bone__4_58DB42074802786D6664B1A6E6850EFF.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Bone__4_.uasset'
+[2020.07.09-17.23.28:326][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Bone__3_" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Bone__3_.uasset" SILENT=true
+[2020.07.09-17.23.28:329][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Bone__3_9ACD77D64D57CCFD66F8608629681605.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Bone__3_.uasset'
+[2020.07.09-17.23.28:332][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Bone__2_" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Bone__2_.uasset" SILENT=true
+[2020.07.09-17.23.28:337][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Bone__2_6318A4CC4BEB8255381EF7A92C5EC46B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Bone__2_.uasset'
+[2020.07.09-17.23.28:340][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Bone__1_" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Bone__1_.uasset" SILENT=true
+[2020.07.09-17.23.28:345][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Bone__1_26C64E534C9399A6D6320FB0A0960B83.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Bone__1_.uasset'
+[2020.07.09-17.23.28:348][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Tile__16_" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__16_.uasset" SILENT=true
+[2020.07.09-17.23.28:352][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__16_7EBAC277468B1682A29538A284618C98.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__16_.uasset'
+[2020.07.09-17.23.28:355][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Tile__15_" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__15_.uasset" SILENT=true
+[2020.07.09-17.23.28:359][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__15_DD5F6BAB4E203CB1FAE1BE907BF1F94D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__15_.uasset'
+[2020.07.09-17.23.28:362][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Tile__14_" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__14_.uasset" SILENT=true
+[2020.07.09-17.23.28:366][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__14_892E6A354766E685CA8F568C45F386F1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__14_.uasset'
+[2020.07.09-17.23.28:369][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Tile__13_" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__13_.uasset" SILENT=true
+[2020.07.09-17.23.28:373][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__13_A349CBEF4CB3B8FFA5CB72A9F79F7E9C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__13_.uasset'
+[2020.07.09-17.23.28:376][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Tile__12_" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__12_.uasset" SILENT=true
+[2020.07.09-17.23.28:380][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__12_879ACCF54BA8F7B5E575E5AB9E78C9BC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__12_.uasset'
+[2020.07.09-17.23.28:383][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Tile__11_" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__11_.uasset" SILENT=true
+[2020.07.09-17.23.28:388][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__11_FEF9884A4ACF00816E10B9BFCB5D7514.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__11_.uasset'
+[2020.07.09-17.23.28:391][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Tile__10_" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__10_.uasset" SILENT=true
+[2020.07.09-17.23.28:395][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__10_F06F93FA40BE97934FE8E1AFA7B65D75.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__10_.uasset'
+[2020.07.09-17.23.28:398][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Tile__9_" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__9_.uasset" SILENT=true
+[2020.07.09-17.23.28:401][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__9_3B0058BE48033E25549D1C897A0D0289.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__9_.uasset'
+[2020.07.09-17.23.28:404][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Tile__8_" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__8_.uasset" SILENT=true
+[2020.07.09-17.23.28:408][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__8_09E7F29F43380F6A7EF7F396EDCC1A7F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__8_.uasset'
+[2020.07.09-17.23.28:411][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Tile__7_" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__7_.uasset" SILENT=true
+[2020.07.09-17.23.28:416][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__7_1E60CF1A4ACC02448CF17ABF6E21A35B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__7_.uasset'
+[2020.07.09-17.23.28:419][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Tile__6_" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__6_.uasset" SILENT=true
+[2020.07.09-17.23.28:423][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__6_CF1FE6B4402EE1C57A6300A7525143E5.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__6_.uasset'
+[2020.07.09-17.23.28:426][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Tile__5_" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__5_.uasset" SILENT=true
+[2020.07.09-17.23.28:429][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__5_4989022545EF4804F95F20AE676BDC87.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__5_.uasset'
+[2020.07.09-17.23.28:432][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Tile__4_" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__4_.uasset" SILENT=true
+[2020.07.09-17.23.28:435][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__4_9094F5814142021406EA38A93BD30A9D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__4_.uasset'
+[2020.07.09-17.23.28:439][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Tree" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tree.uasset" SILENT=true
+[2020.07.09-17.23.28:445][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/TreeDC23F3E3445D6BCAA55E5F92550A0D30.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tree.uasset'
+[2020.07.09-17.23.28:451][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/TombStone__2_FA5FEB7444CF8B02600F0095A90495C1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/TombStone__2_.uasset'
+[2020.07.09-17.23.28:456][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/TombStone__1_A410AC2B40D16DB1E6760197A422F7DE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/TombStone__1_.uasset'
+[2020.07.09-17.23.28:459][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Skeleton" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Skeleton.uasset" SILENT=true
+[2020.07.09-17.23.28:462][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Skeleton522C45BE496FD2D8FA729695006F72F5.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Skeleton.uasset'
+[2020.07.09-17.23.28:464][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Sign" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Sign.uasset" SILENT=true
+[2020.07.09-17.23.28:467][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SignE15B83BB41D59F5F92D4DDBEA39F7EAC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Sign.uasset'
+[2020.07.09-17.23.28:470][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel/Floors/Sprites/Tile__3_" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__3_.uasset" SILENT=true
+[2020.07.09-17.23.28:478][373]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__3_215EAB0D4871789186985F9AEEDA57A7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__3_.uasset'
+[2020.07.09-17.23.28:647][373]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/DeadBush.DeadBush
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Crate.Crate
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Bush__2_.Bush__2_
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Bush__1_.Bush__1_
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/ArrowSign.ArrowSign
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Tile__2_.Tile__2_
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Tile__1_.Tile__1_
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Bone__4_.Bone__4_
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Bone__3_.Bone__3_
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Bone__2_.Bone__2_
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Bone__1_.Bone__1_
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Tile__16_.Tile__16_
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Tile__15_.Tile__15_
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Tile__14_.Tile__14_
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Tile__13_.Tile__13_
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Tile__12_.Tile__12_
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Tile__11_.Tile__11_
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Tile__10_.Tile__10_
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Tile__9_.Tile__9_
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Tile__8_.Tile__8_
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Tile__7_.Tile__7_
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Tile__6_.Tile__6_
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Tile__5_.Tile__5_
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Tile__4_.Tile__4_
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Tree.Tree
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/TombStone__2_.TombStone__2_
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/TombStone__1_.TombStone__1_
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Skeleton.Skeleton
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Sign.Sign
+[2020.07.09-17.23.28:647][373]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Tile__3_.Tile__3_
+[2020.07.09-17.23.34:085][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ArrowSign_Sprite275A05BC45B0785073D6B3AE010871A5.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/ArrowSign_Sprite.uasset'
+[2020.07.09-17.23.34:097][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Bone__1__SpriteB8CC4943447D2B9D6CFD318EBA27414C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Bone__1__Sprite.uasset'
+[2020.07.09-17.23.34:109][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Bone__2__SpriteBD69A5A34D0DEDDFD404BBAADDF4B594.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Bone__2__Sprite.uasset'
+[2020.07.09-17.23.34:120][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Bone__3__Sprite3CC3590C46FDB823F6BA22873364CD69.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Bone__3__Sprite.uasset'
+[2020.07.09-17.23.34:131][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Bone__4__Sprite1682B1A24F6CEC85D3A7B1AC8303AF58.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Bone__4__Sprite.uasset'
+[2020.07.09-17.23.34:142][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Bush__1__Sprite67AAE24748478676E19957B841DC86B3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Bush__1__Sprite.uasset'
+[2020.07.09-17.23.34:155][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Bush__2__SpriteF9DFB12C461C53D90067CA86D9BBEAF3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Bush__2__Sprite.uasset'
+[2020.07.09-17.23.34:169][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Crate_Sprite964055FF46CD7893A98888B8BF5916A1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Crate_Sprite.uasset'
+[2020.07.09-17.23.34:198][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/DeadBush_SpriteB21466A043A805E87169019025A7DEC1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/DeadBush_Sprite.uasset'
+[2020.07.09-17.23.34:209][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Sign_SpriteAF8E3D51442DF283D409409786B306F6.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Sign_Sprite.uasset'
+[2020.07.09-17.23.34:221][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Skeleton_Sprite4FB2630A459D79D863309E8A5C402A4A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Skeleton_Sprite.uasset'
+[2020.07.09-17.23.34:234][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__10__Sprite97136329448A2B9D7BBBE8BD572D2998.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__10__Sprite.uasset'
+[2020.07.09-17.23.34:246][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__11__SpriteCEAB4A09441DD7965AC2959873DD2DF6.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__11__Sprite.uasset'
+[2020.07.09-17.23.34:258][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__12__Sprite9494E9B04BE71E0B1640F9853295BB2A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__12__Sprite.uasset'
+[2020.07.09-17.23.34:274][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__13__Sprite86DEE4BF4439198FCFE87696061AE338.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__13__Sprite.uasset'
+[2020.07.09-17.23.34:287][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__14__SpriteBD2B70C643FC863A0A0EE2B89249B332.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__14__Sprite.uasset'
+[2020.07.09-17.23.34:299][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__15__Sprite04C564684515C6B13B48BEA6DD7C14E3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__15__Sprite.uasset'
+[2020.07.09-17.23.34:311][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__16__Sprite8D5290BE401811A8BD5A80BAD2C7F031.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__16__Sprite.uasset'
+[2020.07.09-17.23.34:322][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__1__SpriteF9F217374A60FBDF1E4E598DA85637A9.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__1__Sprite.uasset'
+[2020.07.09-17.23.34:334][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__2__Sprite6D5AA50745CAA2321EEB3E90658FB30D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__2__Sprite.uasset'
+[2020.07.09-17.23.34:346][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__3__Sprite30DE3A7D4E9638C0934FEBA5EE9444BE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__3__Sprite.uasset'
+[2020.07.09-17.23.34:357][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__4__SpriteB4C950C24FFF54219A4485B783592081.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__4__Sprite.uasset'
+[2020.07.09-17.23.34:369][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__5__Sprite47E744A543BD83B2F8D174857119AC3B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__5__Sprite.uasset'
+[2020.07.09-17.23.34:380][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__6__Sprite3C0D3EB044A76AF37A1FBD94F9433A67.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__6__Sprite.uasset'
+[2020.07.09-17.23.34:391][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__7__Sprite5BB889DE47B248769B6F3F9982EEE838.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__7__Sprite.uasset'
+[2020.07.09-17.23.34:402][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__8__SpriteDD64582B43E117C7F2010DB4971ADE23.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__8__Sprite.uasset'
+[2020.07.09-17.23.34:414][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__9__Sprite32021E384A0B2EA10C1210AC48B27BE1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__9__Sprite.uasset'
+[2020.07.09-17.23.34:427][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/TombStone__1__Sprite053F0C3B4CFA0D83AAAC10BFA4CF1097.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/TombStone__1__Sprite.uasset'
+[2020.07.09-17.23.34:440][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/TombStone__2__SpriteFE519B0748C6397F1C43109F75157DA7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/TombStone__2__Sprite.uasset'
+[2020.07.09-17.23.34:454][807]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tree_Sprite0D40A7B44B6716CA63E183AB8AEBDA5E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tree_Sprite.uasset'
+[2020.07.09-17.23.34:645][807]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-17.23.34:645][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/ArrowSign_Sprite.ArrowSign_Sprite
+[2020.07.09-17.23.34:645][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Bone__1__Sprite.Bone__1__Sprite
+[2020.07.09-17.23.34:645][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Bone__2__Sprite.Bone__2__Sprite
+[2020.07.09-17.23.34:645][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Bone__3__Sprite.Bone__3__Sprite
+[2020.07.09-17.23.34:645][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Bone__4__Sprite.Bone__4__Sprite
+[2020.07.09-17.23.34:645][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Bush__1__Sprite.Bush__1__Sprite
+[2020.07.09-17.23.34:645][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Bush__2__Sprite.Bush__2__Sprite
+[2020.07.09-17.23.34:645][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Crate_Sprite.Crate_Sprite
+[2020.07.09-17.23.34:645][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/DeadBush_Sprite.DeadBush_Sprite
+[2020.07.09-17.23.34:645][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Sign_Sprite.Sign_Sprite
+[2020.07.09-17.23.34:645][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Skeleton_Sprite.Skeleton_Sprite
+[2020.07.09-17.23.34:645][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__10__Sprite.Tile__10__Sprite
+[2020.07.09-17.23.34:646][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__11__Sprite.Tile__11__Sprite
+[2020.07.09-17.23.34:646][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__12__Sprite.Tile__12__Sprite
+[2020.07.09-17.23.34:646][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__13__Sprite.Tile__13__Sprite
+[2020.07.09-17.23.34:646][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__14__Sprite.Tile__14__Sprite
+[2020.07.09-17.23.34:646][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__15__Sprite.Tile__15__Sprite
+[2020.07.09-17.23.34:646][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__16__Sprite.Tile__16__Sprite
+[2020.07.09-17.23.34:646][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__1__Sprite.Tile__1__Sprite
+[2020.07.09-17.23.34:646][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__2__Sprite.Tile__2__Sprite
+[2020.07.09-17.23.34:646][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__3__Sprite.Tile__3__Sprite
+[2020.07.09-17.23.34:646][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__4__Sprite.Tile__4__Sprite
+[2020.07.09-17.23.34:646][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__5__Sprite.Tile__5__Sprite
+[2020.07.09-17.23.34:646][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__6__Sprite.Tile__6__Sprite
+[2020.07.09-17.23.34:646][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__7__Sprite.Tile__7__Sprite
+[2020.07.09-17.23.34:646][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__8__Sprite.Tile__8__Sprite
+[2020.07.09-17.23.34:646][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__9__Sprite.Tile__9__Sprite
+[2020.07.09-17.23.34:646][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/TombStone__1__Sprite.TombStone__1__Sprite
+[2020.07.09-17.23.34:646][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/TombStone__2__Sprite.TombStone__2__Sprite
+[2020.07.09-17.23.34:646][807]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tree_Sprite.Tree_Sprite
+[2020.07.09-17.23.54:616][187]Cmd: EDIT CUT
+[2020.07.09-17.23.54:637][187]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2020.07.09-17.23.54:659][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.07.09-17.23.54:666][187]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.07.09-17.24.33:504][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ArrowSignB761ABB64A2D369CC49040879216FACB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/ArrowSign.uasset'
+[2020.07.09-17.24.33:510][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Bone__1_F9727E3F484AB448BF939EBD28B53CE7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Bone__1_.uasset'
+[2020.07.09-17.24.33:517][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Bone__2_A49C21524BBAF3FD5676F6B0B4E5E1B4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Bone__2_.uasset'
+[2020.07.09-17.24.33:524][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Bone__3_AFF3310A43321566EE6535A324394637.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Bone__3_.uasset'
+[2020.07.09-17.24.33:531][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Bone__4_C1EFCC6343D69083CD3F538CAABAE5BB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Bone__4_.uasset'
+[2020.07.09-17.24.33:538][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Bush__1_7304CEA04A51B47063B81EAAC3AE3648.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Bush__1_.uasset'
+[2020.07.09-17.24.33:543][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Bush__2_4C66F7674991FBB334B75AA70709E79D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Bush__2_.uasset'
+[2020.07.09-17.24.33:550][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Crate28272BD74CC5496A1B8AA296CDFD7727.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Crate.uasset'
+[2020.07.09-17.24.33:556][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/DeadBush21C588F64885AD64266C698DCC822CC3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/DeadBush.uasset'
+[2020.07.09-17.24.33:563][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SignC63813E34825345A76884FB7DF671BAC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Sign.uasset'
+[2020.07.09-17.24.33:569][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SkeletonF2B6934F4C9D2074F4F7AE9D3082054C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Skeleton.uasset'
+[2020.07.09-17.24.33:576][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__10_DB1949C247B729AD6112B49FC8C33CF5.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Tile__10_.uasset'
+[2020.07.09-17.24.33:583][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__11_721FCF4440868F88702019A3EF9E6146.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Tile__11_.uasset'
+[2020.07.09-17.24.33:590][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__12_ABAB032445F6652D7666FE9112057D3C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Tile__12_.uasset'
+[2020.07.09-17.24.33:598][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__13_B25A3F574AC87D9DF345DBABD1E004BF.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Tile__13_.uasset'
+[2020.07.09-17.24.33:605][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__14_886B8DEB4458B383A3CA3DB9576B9987.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Tile__14_.uasset'
+[2020.07.09-17.24.33:612][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__15_43A9E6B142668D4059CB1190E0B752A0.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Tile__15_.uasset'
+[2020.07.09-17.24.33:619][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__1_E13D3A5D4E85A101B0E0A78618DA9928.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Tile__1_.uasset'
+[2020.07.09-17.24.33:626][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__2_E6FA3EDC41CAF5B18E8ED9B6B6931F13.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Tile__2_.uasset'
+[2020.07.09-17.24.33:633][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__3_1DAA1A104DA76FA779302AB8E2EF316D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Tile__3_.uasset'
+[2020.07.09-17.24.33:642][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__4_940AB5E7448E8811108B828EF1A2334E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Tile__4_.uasset'
+[2020.07.09-17.24.33:649][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__5_BFF2A2A646DEE185A5EB71B51B9DA851.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Tile__5_.uasset'
+[2020.07.09-17.24.33:656][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__6_4563AA4E44C797DFE9D67690B81EE277.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Tile__6_.uasset'
+[2020.07.09-17.24.33:663][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__7_43B37C95426CBD58E390DFAB02B96747.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Tile__7_.uasset'
+[2020.07.09-17.24.33:671][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__8_FE8146024CABDECB2F8771BCA0DB4D2D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Tile__8_.uasset'
+[2020.07.09-17.24.33:678][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__9_4BFAF32C4C648C396DC247BCBC23817D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Tile__9_.uasset'
+[2020.07.09-17.24.36:182][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.07.09-17.24.36:206][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.09-17.24.36:226][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.07.09-17.24.36:244][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.09-17.24.36:262][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.09-17.24.36:280][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.09-17.24.36:299][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.09-17.24.36:317][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.09-17.24.36:335][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.09-17.24.36:353][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.09-17.24.36:370][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.09-17.24.36:394][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.09-17.24.36:412][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.09-17.24.36:430][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.09-17.24.36:447][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.09-17.24.36:466][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.09-17.24.36:483][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.09-17.24.36:501][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.09-17.24.36:518][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.09-17.24.36:536][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.09-17.24.36:554][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.07.09-17.24.36:571][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.09-17.24.36:591][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.09-17.24.36:609][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.09-17.24.36:627][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.07.09-17.24.36:644][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.09-17.24.36:669][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.07.09-17.24.36:687][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.09-17.24.36:741][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ArrowSign_Sprite30733D734C9CF98E9843D1B40BE25FC1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/ArrowSign_Sprite.uasset'
+[2020.07.09-17.24.36:770][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Bone__1__Sprite1D3DC2774031F08BCE870FA91F941D9C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Bone__1__Sprite.uasset'
+[2020.07.09-17.24.36:800][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Bone__2__SpriteF76567484CBE8862B56025A9A2BD35BC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Bone__2__Sprite.uasset'
+[2020.07.09-17.24.36:830][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Bone__3__Sprite3B9885D34C652E3ED44C83B667A634D8.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Bone__3__Sprite.uasset'
+[2020.07.09-17.24.36:860][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Bone__4__SpriteE2921EA24D2C4C7BC3944F81385775EA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Bone__4__Sprite.uasset'
+[2020.07.09-17.24.36:890][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Bush__1__Sprite25D3678A4688FF1667646F803DD1E060.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Bush__1__Sprite.uasset'
+[2020.07.09-17.24.36:923][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Bush__2__SpriteCC8475B4457546B9F2927B88B3760206.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Bush__2__Sprite.uasset'
+[2020.07.09-17.24.36:953][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Crate_Sprite0BEDF8674BA89397A77360A3C6836EDF.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Crate_Sprite.uasset'
+[2020.07.09-17.24.36:984][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/DeadBush_Sprite633201E749DA0F40C5A3C4A28AF5C7C1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/DeadBush_Sprite.uasset'
+[2020.07.09-17.24.37:015][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Sign_Sprite57C2FC7D47FFC1F906514FA53DE8D929.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Sign_Sprite.uasset'
+[2020.07.09-17.24.37:047][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Skeleton_SpriteACB88F164B8788FE24C35DABBB381B46.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Skeleton_Sprite.uasset'
+[2020.07.09-17.24.37:079][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__10__SpriteE501DD804E5683B2B333CBB6370B31DB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__10__Sprite.uasset'
+[2020.07.09-17.24.37:111][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__11__SpriteEA8E8D4F4A83E176C184C2ACDE339809.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__11__Sprite.uasset'
+[2020.07.09-17.24.37:143][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__12__Sprite616E3D9D4B9F3D01364462A648934113.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__12__Sprite.uasset'
+[2020.07.09-17.24.37:175][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__13__Sprite19E609B0417E740324077C9FE244F0DE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__13__Sprite.uasset'
+[2020.07.09-17.24.37:206][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__14__SpriteD6F483DD4B6F3C198101E7A15B73D706.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__14__Sprite.uasset'
+[2020.07.09-17.24.37:237][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__15__Sprite13DC8DBD4051A6CDD42FBB998FD7E0E6.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__15__Sprite.uasset'
+[2020.07.09-17.24.37:268][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__1__Sprite0C1072AC4B0FF913ECD11495B4C52DF4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__1__Sprite.uasset'
+[2020.07.09-17.24.37:299][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__2__Sprite2AE0E993423FF6163A8943B9B577F2C0.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__2__Sprite.uasset'
+[2020.07.09-17.24.37:332][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__3__Sprite30CCA79541E5F16E82C96B98F3D23A20.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__3__Sprite.uasset'
+[2020.07.09-17.24.37:365][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__4__Sprite12C84D0D4457A3D543D6B19C67779EDD.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__4__Sprite.uasset'
+[2020.07.09-17.24.37:396][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__5__SpriteFA3ACD5740A885C3EE32298ABD55BFF0.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__5__Sprite.uasset'
+[2020.07.09-17.24.37:427][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__6__SpriteC05649CF40371E2C7BD283B7F3CF97EC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__6__Sprite.uasset'
+[2020.07.09-17.24.37:458][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__7__Sprite2BC575404ECB958A2C74B4908010D875.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__7__Sprite.uasset'
+[2020.07.09-17.24.37:489][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__8__SpriteD091816149AA6667AFEC2AB3F9565621.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__8__Sprite.uasset'
+[2020.07.09-17.24.37:520][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__9__SpriteBED9EB054ACC643BEDD54EBDDE845548.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__9__Sprite.uasset'
+[2020.07.09-17.24.37:810][216]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/ArrowSign.ArrowSign
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Bone__1_.Bone__1_
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Bone__2_.Bone__2_
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Bone__3_.Bone__3_
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Bone__4_.Bone__4_
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Bush__1_.Bush__1_
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Bush__2_.Bush__2_
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Crate.Crate
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/DeadBush.DeadBush
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Sign.Sign
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Skeleton.Skeleton
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Tile__10_.Tile__10_
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Tile__11_.Tile__11_
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Tile__12_.Tile__12_
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Tile__13_.Tile__13_
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Tile__14_.Tile__14_
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Tile__15_.Tile__15_
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Tile__1_.Tile__1_
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Tile__2_.Tile__2_
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Tile__3_.Tile__3_
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Tile__4_.Tile__4_
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Tile__5_.Tile__5_
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Tile__6_.Tile__6_
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Tile__7_.Tile__7_
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Tile__8_.Tile__8_
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Tile__9_.Tile__9_
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/ArrowSign_Sprite.ArrowSign_Sprite
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Bone__1__Sprite.Bone__1__Sprite
+[2020.07.09-17.24.37:810][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Bone__2__Sprite.Bone__2__Sprite
+[2020.07.09-17.24.37:811][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Bone__3__Sprite.Bone__3__Sprite
+[2020.07.09-17.24.37:811][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Bone__4__Sprite.Bone__4__Sprite
+[2020.07.09-17.24.37:811][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Bush__1__Sprite.Bush__1__Sprite
+[2020.07.09-17.24.37:811][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Bush__2__Sprite.Bush__2__Sprite
+[2020.07.09-17.24.37:811][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Crate_Sprite.Crate_Sprite
+[2020.07.09-17.24.37:811][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/DeadBush_Sprite.DeadBush_Sprite
+[2020.07.09-17.24.37:811][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Sign_Sprite.Sign_Sprite
+[2020.07.09-17.24.37:811][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Skeleton_Sprite.Skeleton_Sprite
+[2020.07.09-17.24.37:811][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__10__Sprite.Tile__10__Sprite
+[2020.07.09-17.24.37:811][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__11__Sprite.Tile__11__Sprite
+[2020.07.09-17.24.37:811][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__12__Sprite.Tile__12__Sprite
+[2020.07.09-17.24.37:811][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__13__Sprite.Tile__13__Sprite
+[2020.07.09-17.24.37:811][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__14__Sprite.Tile__14__Sprite
+[2020.07.09-17.24.37:811][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__15__Sprite.Tile__15__Sprite
+[2020.07.09-17.24.37:811][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__1__Sprite.Tile__1__Sprite
+[2020.07.09-17.24.37:811][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__2__Sprite.Tile__2__Sprite
+[2020.07.09-17.24.37:811][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__3__Sprite.Tile__3__Sprite
+[2020.07.09-17.24.37:811][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__4__Sprite.Tile__4__Sprite
+[2020.07.09-17.24.37:811][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__5__Sprite.Tile__5__Sprite
+[2020.07.09-17.24.37:811][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__6__Sprite.Tile__6__Sprite
+[2020.07.09-17.24.37:811][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__7__Sprite.Tile__7__Sprite
+[2020.07.09-17.24.37:811][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__8__Sprite.Tile__8__Sprite
+[2020.07.09-17.24.37:811][216]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__9__Sprite.Tile__9__Sprite
+[2020.07.09-17.24.40:438][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.09-17.24.40:477][493]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerExampleMapBE263DD248D361654DD9F19A5F7B27BB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2020.07.09-17.24.40:531][493]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerExampleMap_BuiltDaE9DEFF6C407DD373BF5F9082F1BB48DB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2020.07.09-17.24.40:552][493]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-17.24.40:552][493]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2020.07.09-17.24.40:552][493]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2020.07.09-17.24.47:903][316]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/TombStone__1_FA9B98EC44C6AA9A2E2C6FA2E3F0AF4C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/TombStone__1_.uasset'
+[2020.07.09-17.24.47:908][316]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/TombStone__2_9EE059F04FB877B23142B9892DFCBEE3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/TombStone__2_.uasset'
+[2020.07.09-17.24.47:918][316]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tree33B6CCF74A8AA27CD4E36986FDDB90AB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Tree.uasset'
+[2020.07.09-17.24.48:262][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.07.09-17.24.48:285][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.09-17.24.48:304][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.09-17.24.48:333][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.07.09-17.24.48:351][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.09-17.24.48:403][316]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/TombStone__1__Sprite2BBBAA0547A0D951377D9492296EC1A5.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/TombStone__1__Sprite.uasset'
+[2020.07.09-17.24.48:436][316]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/TombStone__2__SpriteE7CB41094EEC5007B0A4B99CC3528D44.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/TombStone__2__Sprite.uasset'
+[2020.07.09-17.24.48:468][316]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tree_SpriteED34D5A942DF4A961DE4C98BB39A7859.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tree_Sprite.uasset'
+[2020.07.09-17.24.48:537][316]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-17.24.48:537][316]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/TombStone__1_.TombStone__1_
+[2020.07.09-17.24.48:537][316]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/TombStone__2_.TombStone__2_
+[2020.07.09-17.24.48:537][316]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Tree.Tree
+[2020.07.09-17.24.48:537][316]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/TombStone__1__Sprite.TombStone__1__Sprite
+[2020.07.09-17.24.48:537][316]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/TombStone__2__Sprite.TombStone__2__Sprite
+[2020.07.09-17.24.48:537][316]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tree_Sprite.Tree_Sprite
+[2020.07.09-17.24.49:495][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.09-17.24.49:541][417]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerExampleMapDEB9F67F4DCEEB6297995EBE999C4B54.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2020.07.09-17.24.49:594][417]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerExampleMap_BuiltDaA98E17E84CE945CDADB8B9A999D1E92E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2020.07.09-17.24.49:616][417]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-17.24.49:616][417]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2020.07.09-17.24.49:616][417]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2020.07.09-17.24.53:431][838]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__16_0C91825D4E84EF8A88637DBE85613723.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Textures/Tile__16_.uasset'
+[2020.07.09-17.24.53:590][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.07.09-17.24.53:625][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.07.09-17.24.53:643][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.09-17.24.53:694][838]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Tile__16__SpriteEC83DB5149F0AB49C9078299C3CF0657.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/FirstLevel/Floors/Sprites/Tile__16__Sprite.uasset'
+[2020.07.09-17.24.53:739][838]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-17.24.53:739][838]LogContentValidation: Display: Validating Texture2D /Game/Levels/FirstLevel/Floors/Sprites/Textures/Tile__16_.Tile__16_
+[2020.07.09-17.24.53:739][838]LogContentValidation: Display: Validating PaperSprite /Game/Levels/FirstLevel/Floors/Sprites/Tile__16__Sprite.Tile__16__Sprite
+[2020.07.09-17.24.54:263][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.07.09-17.24.54:305][893]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerExampleMap7C76AAEF442A160CF69619868D76B726.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2020.07.09-17.24.54:359][893]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerExampleMap_BuiltDa7370C4A142488B315E3DC799F139D5C6.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2020.07.09-17.24.54:379][893]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-17.24.54:379][893]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2020.07.09-17.24.54:379][893]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
