@@ -2924,3 +2924,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.10-10.22.08:316][354]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021795027C00), frame # 629354
 [2020.07.10-10.22.08:319][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
 [2020.07.10-10.22.08:365][355]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2020.07.10-10.27.30:570][838]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-10.27.30:670][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
