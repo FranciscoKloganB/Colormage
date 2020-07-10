@@ -8697,3 +8697,620 @@ Make sure 'KnightV1Character_C' has been compiled for  On Spell Casted
 [2020.07.10-15.51.06:708][204]LogOnline: OSS: Creating online subsystem instance for: :Context_99
 [2020.07.10-15.51.06:727][204]PIE: Server logged in
 [2020.07.10-15.51.06:728][204]PIE: Play in editor total start time 0.18 seconds.
+[2020.07.10-15.56.31:008][805]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-15.56.31:008][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-15.56.32:379][915]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.10-15.56.32:379][915]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-15.56.32:379][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-15.56.35:587][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-15.56.35:587][203]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-15.56.35:588][203]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-15.56.35:591][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-15.56.35:600][203]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-15.56.35:605][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-15.56.35:624][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-15.56.35:644][203]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000217927DFC40), frame # 1510203
+[2020.07.10-15.56.35:644][203]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000218DA6C8E00), frame # 1510203
+[2020.07.10-15.56.35:647][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.07.10-15.56.35:679][204]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2020.07.10-16.07.05:951][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.07.10-16.07.05:957][ 33]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.028
+[2020.07.10-16.07.05:957][ 33]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Enemies/KnightV1/KnightV1_BT] ([1] browsable assets)...
+[2020.07.10-16.07.05:957][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemies/KnightV1/KnightV1_BT]
+[2020.07.10-16.07.06:016][ 33]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1_BT_Auto5012512A44DEBB9F9F51FE3B424E451C1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/Enemies/KnightV1/KnightV1_BT_Auto5.uasset'
+[2020.07.10-16.07.06:017][ 33]LogFileHelpers: Auto-saving content packages took 0.060
+[2020.07.10-16.09.16:979][244]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2020.07.10-16.09.17:370][244]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Characters/Enemies/KnightV1/BTTask_BlueprintBase_New.
+[2020.07.10-16.11.02:334][370]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.10-16.12.09:661][737]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BTTask_BlueprintBase_NewF353E8164955B2C23CCF97B90FF6AD28.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/BTTask_BlueprintBase_New.uasset'
+[2020.07.10-16.12.09:685][737]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/Enemies/KnightV1/BTTask_BlueprintBase_New.
+[2020.07.10-16.12.09:698][737]AssetCheck: New page: Asset Save: BTTask_BlueprintBase_New
+[2020.07.10-16.12.09:698][737]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2020.07.10-16.12.09:966][765]BlueprintLog: New page: Compile BTTask_BlueprintBase_New
+[2020.07.10-16.12.09:996][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.07.10-16.13.18:578][412]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.10-16.13.32:848][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/KnightV1_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BT.uasset" SILENT=true
+[2020.07.10-16.13.32:898][622]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1_BT8554D6B9452C0DD5EB82A69EF3212DA3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BT.uasset'
+[2020.07.10-16.13.32:899][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/KnightV1_BB" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BB.uasset" SILENT=true
+[2020.07.10-16.13.32:952][622]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1_BBF0E51AC04AAB436F6A5BC590C0442715.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BB.uasset'
+[2020.07.10-16.13.32:974][622]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-16.13.32:975][622]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/Enemies/KnightV1/KnightV1_BT.KnightV1_BT
+[2020.07.10-16.13.32:975][622]LogContentValidation: Display: Validating BlackboardData /Game/Characters/Enemies/KnightV1/KnightV1_BB.KnightV1_BB
+[2020.07.10-16.14.26:845][759]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/KnightV1_AI.KnightV1_AI
+[2020.07.10-16.17.45:612][302]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BTTask_BlueprintBase_New903FDD8A49F7B1EE68C0A0A1BC8D24E5.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/BTTask_BlueprintBase_New.uasset'
+[2020.07.10-16.17.45:631][302]AssetCheck: New page: Asset Save: BTTask_BlueprintBase_New
+[2020.07.10-16.17.45:631][302]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2020.07.10-16.18.09:377][804]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BTTask_BlueprintBase_NewCDC32346473D095817EB188C8571E236.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/BTTask_BlueprintBase_New.uasset'
+[2020.07.10-16.18.09:395][804]AssetCheck: New page: Asset Save: BTTask_BlueprintBase_New
+[2020.07.10-16.18.09:395][804]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2020.07.10-16.18.30:945][183]BlueprintLog: New page: Compile BTTask_BlueprintBase_New
+[2020.07.10-16.18.30:978][183]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.07.10-16.18.34:310][506]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BTTask_BlueprintBase_NewAA513ED6437A70F22500FB9C676697CE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/BTTask_BlueprintBase_New.uasset'
+[2020.07.10-16.18.34:325][506]AssetCheck: New page: Asset Save: BTTask_BlueprintBase_New
+[2020.07.10-16.18.34:325][506]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2020.07.10-16.18.51:690][ 35]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-16.18.51:690][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-16.19.02:529][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.07.10-16.19.02:534][754]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/Wander.SKEL_Wander_C' ref from Metadata '/Game/Characters/Enemies/KnightV1/BTTask_BlueprintBase_New.PackageMetaData'
+[2020.07.10-16.19.02:535][754]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/Wander.Wander_C' ref from Metadata '/Game/Characters/Enemies/KnightV1/BTTask_BlueprintBase_New.PackageMetaData'
+[2020.07.10-16.19.02:583][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/Wander" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/Wander.uasset" SILENT=true
+[2020.07.10-16.19.02:591][754]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/WanderF33FA20A487D075B33B3238000ADA50D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/Wander.uasset'
+[2020.07.10-16.19.02:898][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.07.10-16.19.02:938][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.07.10-16.19.02:962][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.10-16.19.03:028][754]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/Enemies/KnightV1/Wander.
+[2020.07.10-16.19.03:039][754]AssetCheck: New page: Asset Save: Wander
+[2020.07.10-16.19.03:039][754]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/Wander.Wander
+[2020.07.10-16.19.04:028][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/Wander" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/Wander.uasset" SILENT=true
+[2020.07.10-16.19.04:081][868]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Wander34F30A774C41238344C09097BA6E209B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/Wander.uasset'
+[2020.07.10-16.19.04:096][868]AssetCheck: New page: Asset Save: Wander
+[2020.07.10-16.19.04:096][868]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/Wander.Wander
+[2020.07.10-16.19.44:848][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.07.10-16.19.44:851][446]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.029
+[2020.07.10-16.19.44:851][446]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/HUD] ([1] browsable assets)...
+[2020.07.10-16.19.44:851][446]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/HUD]
+[2020.07.10-16.19.44:851][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/HUD" FILE="../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Widgets/HUD_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.07.10-16.19.44:926][446]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/HUD_Auto60C7798874DE6DA3B865D4486E043B8A4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Widgets/HUD_Auto6.uasset'
+[2020.07.10-16.19.44:927][446]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode] ([1] browsable assets)...
+[2020.07.10-16.19.44:927][446]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode]
+[2020.07.10-16.19.44:978][446]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerGameMode_Auto68195CFFF459486BEE9D561A8299C938D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode_Auto6.uasset'
+[2020.07.10-16.19.44:979][446]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Items/Pickups/Potions/ManaPotion] ([1] browsable assets)...
+[2020.07.10-16.19.44:979][446]OBJ SavePackage: Finished generating thumbnails for package [/Game/Items/Pickups/Potions/ManaPotion]
+[2020.07.10-16.19.45:043][446]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ManaPotion_Auto6B80009D44783B4E406F41E8607AFA25C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Items/Pickups/Potions/ManaPotion_Auto6.uasset'
+[2020.07.10-16.19.45:044][446]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Enemies/KnightV1/KnightV1_BT] ([1] browsable assets)...
+[2020.07.10-16.19.45:044][446]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemies/KnightV1/KnightV1_BT]
+[2020.07.10-16.19.45:098][446]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1_BT_Auto6C6E8AF8B4E1BCF289AB4DAB4E11A2886.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/Enemies/KnightV1/KnightV1_BT_Auto6.uasset'
+[2020.07.10-16.19.45:098][446]LogFileHelpers: Auto-saving content packages took 0.248
+[2020.07.10-16.19.58:573][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.07.10-16.19.58:579][518]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/GetWanderLocation.GetWanderLocation_C' ref from Metadata '/Game/Characters/Enemies/KnightV1/Wander.PackageMetaData'
+[2020.07.10-16.19.58:579][518]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/GetWanderLocation.SKEL_GetWanderLocation_C' ref from Metadata '/Game/Characters/Enemies/KnightV1/Wander.PackageMetaData'
+[2020.07.10-16.19.58:631][518]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetWanderLocation7813E1614598FCAAF1506387F57A9608.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/GetWanderLocation.uasset'
+[2020.07.10-16.19.58:821][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.07.10-16.19.58:859][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.07.10-16.19.58:881][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-16.19.58:944][518]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/Enemies/KnightV1/GetWanderLocation.
+[2020.07.10-16.19.58:955][518]AssetCheck: New page: Asset Save: GetWanderLocation
+[2020.07.10-16.19.58:955][518]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/GetWanderLocation.GetWanderLocation
+[2020.07.10-16.20.00:212][655]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetWanderLocationF6F2509B478E5DFA525C22AA22E911FA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/GetWanderLocation.uasset'
+[2020.07.10-16.20.00:228][655]AssetCheck: New page: Asset Save: GetWanderLocation
+[2020.07.10-16.20.00:228][655]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/GetWanderLocation.GetWanderLocation
+[2020.07.10-16.20.16:887][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/KnightV1_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BT.uasset" SILENT=true
+[2020.07.10-16.20.16:937][155]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1_BT17A927614BE8A2FA22CC0F9F381DE255.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BT.uasset'
+[2020.07.10-16.20.16:957][155]AssetCheck: New page: Asset Save: KnightV1_BT
+[2020.07.10-16.20.16:957][155]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/Enemies/KnightV1/KnightV1_BT.KnightV1_BT
+[2020.07.10-16.21.13:824][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/KnightV1_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BT.uasset" SILENT=true
+[2020.07.10-16.21.13:876][207]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1_BTF6E9E19E4B73CF0A15578CA6015285F4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BT.uasset'
+[2020.07.10-16.21.13:896][207]AssetCheck: New page: Asset Save: KnightV1_BT
+[2020.07.10-16.21.13:896][207]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/Enemies/KnightV1/KnightV1_BT.KnightV1_BT
+[2020.07.10-16.21.18:931][652]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-16.21.18:954][652]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.07.10-16.21.18:954][652]LogPlayLevel: [PlayLevel] Compiling ManaPotion before play...
+[2020.07.10-16.21.18:972][652]LogPlayLevel: [PlayLevel] Compiling HUD before play...
+[2020.07.10-16.21.19:029][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.07.10-16.21.19:032][652]LogPlayLevel: PlayLevel: Blueprint regeneration took 78 ms (2 blueprints)
+[2020.07.10-16.21.19:032][652]PIE: New page: PIE session: Level1 (Jul 10, 2020, 6:21:19 PM)
+[2020.07.10-16.21.19:032][652]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-16.21.19:073][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040795s)
+[2020.07.10-16.21.19:074][652]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-16.21.19:074][652]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002190F47D000), frame # 1569652
+[2020.07.10-16.21.19:074][652]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000217030E4F40), frame # 1569652
+[2020.07.10-16.21.19:075][652]LogPlayLevel: PIE: World Init took: (0.001629s)
+[2020.07.10-16.21.19:075][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.042602s)
+[2020.07.10-16.21.19:100][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.07.10-16.21.19:101][652]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-16.21.19:101][652]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-16.21.19:101][652]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-16.21.19:101][652]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-16.21.19:101][652]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-16.21.19:101][652]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-16.21.19:101][652]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-16.21.19:101][652]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-16.21.19:102][652]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-16.21.19:102][652]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-16.21.19:114][652]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-16.21.19:114][652]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-16.21.19:154][652]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-16.21.19:154][652]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-16.21.19:155][652]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-16.21.19:155][652]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-16.21.19:155][652]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-16.21.19:169][652]LogInit: FAudioDevice initialized.
+[2020.07.10-16.21.19:176][652]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-16.21.19:195][652]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-17.21.19
+[2020.07.10-16.21.19:195][652]LogWorld: Bringing up level for play took: 0.018135
+[2020.07.10-16.21.19:195][652]LogOnline: OSS: Creating online subsystem instance for: :Context_102
+[2020.07.10-16.21.19:218][652]PIE: Server logged in
+[2020.07.10-16.21.19:219][652]PIE: Play in editor total start time 0.268 seconds.
+[2020.07.10-16.21.29:327][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-16.21.29:327][842]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-16.21.29:327][842]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-16.21.29:330][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-16.21.29:337][842]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-16.21.29:342][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-16.21.29:367][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-16.21.29:389][842]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000217030E4F40), frame # 1570842
+[2020.07.10-16.21.29:389][842]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002190F47D000), frame # 1570842
+[2020.07.10-16.21.29:392][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.07.10-16.21.29:432][843]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2020.07.10-16.21.32:034][148]LogEditorViewport: Clicking on Actor (LMB): KnightV1Character_C (KnightV1Character)
+[2020.07.10-16.21.39:126][876]LogEditorViewport: Clicking Background
+[2020.07.10-16.23.07:897][180]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/GetWanderLocation.GetWanderLocation
+[2020.07.10-16.23.17:363][172]BlueprintLog: New page: Compile GetWanderLocation
+[2020.07.10-16.23.17:406][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.07.10-16.23.18:255][255]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetWanderLocationFCE2C0094C37F92711D288B40D4B24AB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/GetWanderLocation.uasset'
+[2020.07.10-16.23.18:273][255]AssetCheck: New page: Asset Save: GetWanderLocation
+[2020.07.10-16.23.18:273][255]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/GetWanderLocation.GetWanderLocation
+[2020.07.10-16.23.24:233][900]BlueprintLog: New page: Compile GetWanderLocation
+[2020.07.10-16.23.24:274][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.07.10-16.23.24:790][943]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetWanderLocationC473894D46DA9DEB34EF3C9F4A12DEA9.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/GetWanderLocation.uasset'
+[2020.07.10-16.23.24:808][943]AssetCheck: New page: Asset Save: GetWanderLocation
+[2020.07.10-16.23.24:808][943]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/GetWanderLocation.GetWanderLocation
+[2020.07.10-16.23.28:488][254]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-16.23.28:506][254]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-16.23.28:506][254]PIE: New page: PIE session: Level1 (Jul 10, 2020, 6:23:28 PM)
+[2020.07.10-16.23.28:506][254]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-16.23.28:540][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033246s)
+[2020.07.10-16.23.28:540][254]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-16.23.28:541][254]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000218C1542C00), frame # 1576254
+[2020.07.10-16.23.28:541][254]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002170304D940), frame # 1576254
+[2020.07.10-16.23.28:541][254]LogPlayLevel: PIE: World Init took: (0.001166s)
+[2020.07.10-16.23.28:541][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.034577s)
+[2020.07.10-16.23.28:567][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.07.10-16.23.28:568][254]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-16.23.28:568][254]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-16.23.28:568][254]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-16.23.28:568][254]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-16.23.28:568][254]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-16.23.28:568][254]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-16.23.28:568][254]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-16.23.28:568][254]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-16.23.28:569][254]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-16.23.28:569][254]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-16.23.28:578][254]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-16.23.28:578][254]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-16.23.28:609][254]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-16.23.28:610][254]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-16.23.28:610][254]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-16.23.28:610][254]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-16.23.28:610][254]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-16.23.28:623][254]LogInit: FAudioDevice initialized.
+[2020.07.10-16.23.28:633][254]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-16.23.28:651][254]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-17.23.28
+[2020.07.10-16.23.28:651][254]LogWorld: Bringing up level for play took: 0.016995
+[2020.07.10-16.23.28:651][254]LogOnline: OSS: Creating online subsystem instance for: :Context_104
+[2020.07.10-16.23.28:668][254]PIE: Server logged in
+[2020.07.10-16.23.28:669][254]PIE: Play in editor total start time 0.166 seconds.
+[2020.07.10-16.25.12:576][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-16.25.12:576][734]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-16.25.12:576][734]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-16.25.12:579][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-16.25.12:590][734]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-16.25.12:594][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-16.25.12:636][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-16.25.12:638][734]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002170304D940), frame # 1581734
+[2020.07.10-16.25.12:638][734]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000218C1542C00), frame # 1581734
+[2020.07.10-16.25.12:640][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.07.10-16.25.12:681][735]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2020.07.10-16.25.39:584][583]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetWanderLocationBBE8B19F4F3BEF015EAA0B8A5E8C98C0.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/GetWanderLocation.uasset'
+[2020.07.10-16.25.39:601][583]AssetCheck: New page: Asset Save: GetWanderLocation
+[2020.07.10-16.25.39:601][583]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/GetWanderLocation.GetWanderLocation
+[2020.07.10-16.25.40:697][692]BlueprintLog: New page: Compile GetWanderLocation
+[2020.07.10-16.25.40:737][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.07.10-16.25.41:559][765]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetWanderLocation778A3FBD458373ED6A1E26B12903B743.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/GetWanderLocation.uasset'
+[2020.07.10-16.25.41:576][765]AssetCheck: New page: Asset Save: GetWanderLocation
+[2020.07.10-16.25.41:576][765]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/GetWanderLocation.GetWanderLocation
+[2020.07.10-16.25.56:646][380]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.10-16.26.02:736][ 94]LogBehaviorTree: Warning: GetWanderLocation[2]> Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/Characters/Enemies/KnightV1/KnightV1_BB.KnightV1_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-16.26.02:760][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/KnightV1_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BT.uasset" SILENT=true
+[2020.07.10-16.26.02:810][ 94]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1_BTCA7A92BB412C73F453A9E3B1B7E9BFF4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BT.uasset'
+[2020.07.10-16.26.02:812][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/KnightV1_BB" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BB.uasset" SILENT=true
+[2020.07.10-16.26.02:863][ 94]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1_BB85D41FD64DBA03E8A3F81BAF10053443.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BB.uasset'
+[2020.07.10-16.26.02:886][ 94]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-16.26.02:886][ 94]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/Enemies/KnightV1/KnightV1_BT.KnightV1_BT
+[2020.07.10-16.26.02:886][ 94]LogContentValidation: Display: Validating BlackboardData /Game/Characters/Enemies/KnightV1/KnightV1_BB.KnightV1_BB
+[2020.07.10-16.28.51:226][523]BlueprintLog: New page: Compile GetWanderLocation
+[2020.07.10-16.28.51:270][523]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.07.10-16.28.52:041][596]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetWanderLocation3CF263F64441E7CE5A1412A6111EC58B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/GetWanderLocation.uasset'
+[2020.07.10-16.28.52:058][596]AssetCheck: New page: Asset Save: GetWanderLocation
+[2020.07.10-16.28.52:058][596]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/GetWanderLocation.GetWanderLocation
+[2020.07.10-16.29.10:769][548]LogBehaviorTree: Warning: GetWanderLocation[2]> Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/Characters/Enemies/KnightV1/KnightV1_BB.KnightV1_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-16.29.18:903][241]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-16.29.18:920][241]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-16.29.18:921][241]PIE: New page: PIE session: Level1 (Jul 10, 2020, 6:29:18 PM)
+[2020.07.10-16.29.18:921][241]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-16.29.18:954][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033075s)
+[2020.07.10-16.29.18:955][241]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-16.29.18:955][241]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002186F83D600), frame # 1604241
+[2020.07.10-16.29.18:955][241]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000217BA5DC680), frame # 1604241
+[2020.07.10-16.29.18:955][241]LogPlayLevel: PIE: World Init took: (0.001199s)
+[2020.07.10-16.29.18:955][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.034446s)
+[2020.07.10-16.29.18:982][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.07.10-16.29.18:984][241]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-16.29.18:984][241]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-16.29.18:984][241]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-16.29.18:984][241]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-16.29.18:984][241]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-16.29.18:984][241]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-16.29.18:984][241]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-16.29.18:984][241]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-16.29.18:984][241]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-16.29.18:984][241]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-16.29.18:994][241]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-16.29.18:994][241]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-16.29.19:024][241]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-16.29.19:024][241]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-16.29.19:024][241]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-16.29.19:024][241]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-16.29.19:025][241]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-16.29.19:037][241]LogInit: FAudioDevice initialized.
+[2020.07.10-16.29.19:048][241]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-16.29.19:066][241]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-17.29.19
+[2020.07.10-16.29.19:067][241]LogWorld: Bringing up level for play took: 0.017126
+[2020.07.10-16.29.19:067][241]LogOnline: OSS: Creating online subsystem instance for: :Context_105
+[2020.07.10-16.29.19:071][241]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/Characters/Enemies/KnightV1/KnightV1_BB.KnightV1_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-16.29.19:071][241]LogBehaviorTree: Warning: > Failed to find key 'TargetLocation' in BB asset BlackboardData /Game/Characters/Enemies/KnightV1/KnightV1_BB.KnightV1_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-16.29.19:086][241]PIE: Server logged in
+[2020.07.10-16.29.19:087][241]PIE: Play in editor total start time 0.169 seconds.
+[2020.07.10-16.31.43:728][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-16.31.43:728][478]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-16.31.43:728][478]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-16.31.43:731][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-16.31.43:738][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-16.31.43:742][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-16.31.43:789][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-16.31.43:790][478]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000217BA5DC680), frame # 1610478
+[2020.07.10-16.31.43:790][478]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002186F83D600), frame # 1610478
+[2020.07.10-16.31.43:793][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.07.10-16.31.43:830][479]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2020.07.10-16.32.08:585][147]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetWanderLocation917B48EF4F0BFFFF2071868CCC8BA421.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/GetWanderLocation.uasset'
+[2020.07.10-16.32.08:604][147]AssetCheck: New page: Asset Save: GetWanderLocation
+[2020.07.10-16.32.08:604][147]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/GetWanderLocation.GetWanderLocation
+[2020.07.10-16.32.09:149][200]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.10-16.33.06:194][950]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetWanderLocationA1CF0C6E496EB11444C629BB73F7D064.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/GetWanderLocation.uasset'
+[2020.07.10-16.33.06:208][950]AssetCheck: New page: Asset Save: GetWanderLocation
+[2020.07.10-16.33.06:208][950]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/GetWanderLocation.GetWanderLocation
+[2020.07.10-16.33.06:590][989]BlueprintLog: New page: Compile GetWanderLocation
+[2020.07.10-16.33.06:633][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.07.10-16.33.07:229][ 38]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetWanderLocation5028D7784FCB42C0F1767183C8B279D2.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/GetWanderLocation.uasset'
+[2020.07.10-16.33.07:247][ 38]AssetCheck: New page: Asset Save: GetWanderLocation
+[2020.07.10-16.33.07:247][ 38]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/GetWanderLocation.GetWanderLocation
+[2020.07.10-16.33.45:475][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/KnightV1_BB" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BB.uasset" SILENT=true
+[2020.07.10-16.33.45:522][190]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1_BB1E734408454D28011F78C687891CAF48.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BB.uasset'
+[2020.07.10-16.33.45:541][190]AssetCheck: New page: Asset Save: KnightV1_BB
+[2020.07.10-16.33.45:541][190]LogContentValidation: Display: Validating BlackboardData /Game/Characters/Enemies/KnightV1/KnightV1_BB.KnightV1_BB
+[2020.07.10-16.34.01:893][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/KnightV1_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BT.uasset" SILENT=true
+[2020.07.10-16.34.01:943][863]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1_BT39D932DF418FA0535A4F7C8F9E5C078A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BT.uasset'
+[2020.07.10-16.34.01:962][863]AssetCheck: New page: Asset Save: KnightV1_BT
+[2020.07.10-16.34.01:962][863]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/Enemies/KnightV1/KnightV1_BT.KnightV1_BT
+[2020.07.10-16.34.54:791][298]BlueprintLog: New page: Compile GetWanderLocation
+[2020.07.10-16.34.54:837][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.07.10-16.34.55:501][345]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetWanderLocation3802D05347C55E3BFC3E568978E71D37.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/GetWanderLocation.uasset'
+[2020.07.10-16.34.55:519][345]AssetCheck: New page: Asset Save: GetWanderLocation
+[2020.07.10-16.34.55:519][345]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/GetWanderLocation.GetWanderLocation
+[2020.07.10-16.34.56:623][442]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetWanderLocationFF17C2064B17941FD00B08BE9E07DC4E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/GetWanderLocation.uasset'
+[2020.07.10-16.34.56:639][442]AssetCheck: New page: Asset Save: GetWanderLocation
+[2020.07.10-16.34.56:639][442]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/GetWanderLocation.GetWanderLocation
+[2020.07.10-16.35.08:853][615]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-16.35.08:874][615]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-16.35.08:874][615]PIE: New page: PIE session: Level1 (Jul 10, 2020, 6:35:08 PM)
+[2020.07.10-16.35.08:874][615]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-16.35.08:910][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036260s)
+[2020.07.10-16.35.08:911][615]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-16.35.08:911][615]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000218BCA99800), frame # 1622615
+[2020.07.10-16.35.08:911][615]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021793DAE980), frame # 1622615
+[2020.07.10-16.35.08:912][615]LogPlayLevel: PIE: World Init took: (0.001291s)
+[2020.07.10-16.35.08:912][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.037733s)
+[2020.07.10-16.35.08:944][615]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.07.10-16.35.08:945][615]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-16.35.08:946][615]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-16.35.08:946][615]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-16.35.08:946][615]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-16.35.08:946][615]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-16.35.08:946][615]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-16.35.08:946][615]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-16.35.08:946][615]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-16.35.08:946][615]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-16.35.08:946][615]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-16.35.08:958][615]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-16.35.08:958][615]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-16.35.09:000][615]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-16.35.09:000][615]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-16.35.09:000][615]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-16.35.09:000][615]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-16.35.09:000][615]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-16.35.09:016][615]LogInit: FAudioDevice initialized.
+[2020.07.10-16.35.09:022][615]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-16.35.09:042][615]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-17.35.09
+[2020.07.10-16.35.09:042][615]LogWorld: Bringing up level for play took: 0.019160
+[2020.07.10-16.35.09:043][615]LogOnline: OSS: Creating online subsystem instance for: :Context_106
+[2020.07.10-16.35.09:073][615]PIE: Server logged in
+[2020.07.10-16.35.09:074][615]PIE: Play in editor total start time 0.204 seconds.
+[2020.07.10-16.35.32:126][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-16.35.32:126][175]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-16.35.32:127][175]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-16.35.32:130][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-16.35.32:136][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-16.35.32:140][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-16.35.32:193][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-16.35.32:197][175]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021793DAE980), frame # 1624175
+[2020.07.10-16.35.32:197][175]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000218BCA99800), frame # 1624175
+[2020.07.10-16.35.32:200][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.07.10-16.35.32:247][176]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2020.07.10-16.35.41:393][158]LogEditorViewport: Clicking Background
+[2020.07.10-16.35.54:728][579]LogEditorViewport: Clicking Background
+[2020.07.10-16.35.55:718][685]LogEditorViewport: Clicking Background
+[2020.07.10-16.35.56:275][744]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2020.07.10-16.35.56:770][781]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2020.07.10-16.36.19:155][  2]LogEditorViewport: Clicking on Actor (LMB): Tile11_C (Tile15)
+[2020.07.10-16.36.55:330][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.07.10-16.36.55:333][616]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.027
+[2020.07.10-16.36.55:333][616]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/HUD] ([1] browsable assets)...
+[2020.07.10-16.36.55:333][616]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/HUD]
+[2020.07.10-16.36.55:333][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/HUD" FILE="../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Widgets/HUD_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2020.07.10-16.36.55:400][616]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/HUD_Auto70615F69A412FB739DDB9B98CAFEF8036.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Widgets/HUD_Auto7.uasset'
+[2020.07.10-16.36.55:401][616]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode] ([1] browsable assets)...
+[2020.07.10-16.36.55:401][616]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode]
+[2020.07.10-16.36.55:454][616]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerGameMode_Auto7534FEB044CFA5D346149729F42A18C59.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode_Auto7.uasset'
+[2020.07.10-16.36.55:455][616]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Items/Pickups/Potions/ManaPotion] ([1] browsable assets)...
+[2020.07.10-16.36.55:455][616]OBJ SavePackage: Finished generating thumbnails for package [/Game/Items/Pickups/Potions/ManaPotion]
+[2020.07.10-16.36.55:517][616]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ManaPotion_Auto7B0FD6F324A4DEFE4204B8B8208B36936.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Items/Pickups/Potions/ManaPotion_Auto7.uasset'
+[2020.07.10-16.36.55:518][616]LogFileHelpers: Auto-saving content packages took 0.185
+[2020.07.10-16.38.45:685][682]LogEditorViewport: Clicking on Actor (LMB): Tile2x4_C (Tile2x4)
+[2020.07.10-16.38.46:438][764]LogEditorViewport: Clicking Background
+[2020.07.10-16.38.46:964][825]LogEditorViewport: Clicking Background
+[2020.07.10-16.38.47:640][905]LogEditorViewport: Clicking on Actor (LMB): Tile2x4_C (Tile2x4)
+[2020.07.10-16.38.48:825][ 39]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2020.07.10-16.38.49:290][ 88]LogEditorViewport: Clicking Background
+[2020.07.10-16.41.08:898][405]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Actors/Volumes/index.html?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors#Volume Types
+[2020.07.10-16.44.56:401][490]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelItems/Decoration/Actors/Crate.Crate
+[2020.07.10-16.45.00:468][790]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-16.45.00:468][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-16.46.36:997][748]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.10-16.46.55:355][652]LogEditorViewport: Clicking on Actor (LMB): Tile2x8_C (Tile2x9)
+[2020.07.10-16.47.07:636][968]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2020.07.10-16.47.08:240][ 33]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2020.07.10-16.47.08:840][101]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2020.07.10-16.47.09:457][172]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2020.07.10-16.47.13:768][677]LogEditorViewport: Clicking Background
+[2020.07.10-16.47.14:773][795]LogEditorViewport: Clicking Background
+[2020.07.10-16.47.21:705][610]LogEditorViewport: Clicking on Actor (LMB): Tile2_C (Tile51)
+[2020.07.10-16.47.22:297][671]LogEditorViewport: Clicking Background
+[2020.07.10-16.47.22:884][739]LogEditorViewport: Clicking Background
+[2020.07.10-16.47.23:304][788]LogEditorViewport: Clicking on Actor (LMB): Tile2x4_C (Tile2x5)
+[2020.07.10-16.47.24:262][892]LogEditorViewport: Clicking Background
+[2020.07.10-16.47.24:664][938]LogEditorViewport: Clicking Background
+[2020.07.10-16.47.25:159][996]LogEditorViewport: Clicking on Actor (LMB): Tile3_C (Tile50)
+[2020.07.10-16.47.51:408][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-16.47.51:481][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.07.10-16.47.51:689][ 22]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level11882A0A54E82D15739C00786D5329BF2.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-16.47.51:757][ 22]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-16.47.51:757][ 22]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-16.47.52:408][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-16.47.52:434][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.07.10-16.47.52:633][ 91]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level188799F584CC0BDA56BE368A19BC9A672.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-16.47.52:679][ 91]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-16.47.52:679][ 91]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-16.48.09:195][ 32]LogEditorViewport: Clicking on Actor (LMB): Tile2x8_C (Tile2x9)
+[2020.07.10-16.48.09:923][109]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2020.07.10-16.48.10:552][178]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2020.07.10-16.48.28:194][954]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2020.07.10-16.48.28:713][ 13]LogEditorViewport: Clicking Background
+[2020.07.10-16.48.29:218][ 71]LogEditorViewport: Clicking Background
+[2020.07.10-16.48.32:522][456]LogEditorViewport: Clicking Background
+[2020.07.10-16.48.33:028][514]LogEditorViewport: Clicking Background
+[2020.07.10-16.48.34:077][638]LogEditorViewport: Clicking Background
+[2020.07.10-16.48.34:454][682]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2020.07.10-16.48.35:052][747]LogEditorViewport: Clicking Background
+[2020.07.10-16.48.50:388][457]LogEditorViewport: Clicking Background
+[2020.07.10-16.49.07:656][460]LogEditorViewport: Clicking on Actor (LMB): Crate_C (Crate10)
+[2020.07.10-16.49.22:755][ 71]LogEditorViewport: Clicking Background
+[2020.07.10-16.49.46:587][739]LogEditorViewport: Clicking Background
+[2020.07.10-16.49.47:119][800]LogEditorViewport: Clicking on Actor (LMB): KnightV1Character_C (KnightV1Character)
+[2020.07.10-16.49.53:952][532]LogEditorViewport: Clicking Background
+[2020.07.10-16.50.12:547][581]LogEditorViewport: Clicking Background
+[2020.07.10-16.50.32:869][869]LogEditorViewport: Clicking on Actor (LMB): Tile2x4_C (Tile2x6)
+[2020.07.10-16.50.34:248][ 15]LogEditorViewport: Clicking Background
+[2020.07.10-16.50.34:660][ 62]LogEditorViewport: Clicking on Actor (LMB): Tile1_C (Tile1)
+[2020.07.10-16.50.40:575][721]LogEditorViewport: Clicking on Actor (LMB): Tile5_C (Tile33)
+[2020.07.10-16.50.41:214][788]LogEditorViewport: Clicking Background
+[2020.07.10-16.50.41:567][828]LogEditorViewport: Clicking on Actor (LMB): Tile1_C (Tile1)
+[2020.07.10-16.50.47:591][497]LogEditorViewport: Clicking on Actor (LMB): Tile4_C (Tile23)
+[2020.07.10-16.50.58:255][670]LogEditorViewport: Clicking on Actor (LMB): Tile10_C (Tile28)
+[2020.07.10-16.51.00:153][883]LogEditorViewport: Clicking on Actor (LMB): Tile6_C (Tile27)
+[2020.07.10-16.51.02:171][105]LogEditorViewport: Clicking on Actor (LMB): Tile4_C (Tile22)
+[2020.07.10-16.51.15:383][535]LogEditorViewport: Clicking on Actor (LMB): Crate_C (Crate)
+[2020.07.10-16.51.25:434][693]LogEditorViewport: Clicking on Actor (LMB): Tile5x4_C (Tile5x4)
+[2020.07.10-16.51.28:243][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-16.51.28:275][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.07.10-16.51.28:484][983]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1787241B24DB1CAC45FC8729B8C9025BE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-16.51.28:536][983]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-16.51.28:536][983]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-16.51.33:270][476]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-16.51.33:288][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-16.51.33:288][476]PIE: New page: PIE session: Level1 (Jul 10, 2020, 6:51:33 PM)
+[2020.07.10-16.51.33:288][476]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-16.51.33:322][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033640s)
+[2020.07.10-16.51.33:323][476]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-16.51.33:323][476]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002186F83DC00), frame # 1713476
+[2020.07.10-16.51.33:323][476]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002178BFF7EC0), frame # 1713476
+[2020.07.10-16.51.33:323][476]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2020.07.10-16.51.33:324][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.035080s)
+[2020.07.10-16.51.33:349][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.07.10-16.51.33:350][476]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-16.51.33:350][476]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-16.51.33:350][476]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-16.51.33:350][476]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-16.51.33:350][476]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-16.51.33:350][476]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-16.51.33:350][476]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-16.51.33:350][476]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-16.51.33:351][476]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-16.51.33:351][476]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-16.51.33:362][476]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-16.51.33:362][476]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-16.51.33:393][476]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-16.51.33:393][476]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-16.51.33:393][476]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-16.51.33:393][476]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-16.51.33:394][476]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-16.51.33:405][476]LogInit: FAudioDevice initialized.
+[2020.07.10-16.51.33:411][476]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-16.51.33:428][476]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-17.51.33
+[2020.07.10-16.51.33:428][476]LogWorld: Bringing up level for play took: 0.017086
+[2020.07.10-16.51.33:429][476]LogOnline: OSS: Creating online subsystem instance for: :Context_108
+[2020.07.10-16.51.33:445][476]PIE: Server logged in
+[2020.07.10-16.51.33:446][476]PIE: Play in editor total start time 0.161 seconds.
+[2020.07.10-16.52.12:065][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-16.52.12:065][ 81]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-16.52.12:065][ 81]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-16.52.12:069][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-16.52.12:080][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-16.52.12:085][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-16.52.12:110][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-16.52.12:134][ 81]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002178BFF7EC0), frame # 1718081
+[2020.07.10-16.52.12:134][ 81]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002186F83DC00), frame # 1718081
+[2020.07.10-16.52.12:137][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.07.10-16.52.12:202][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2020.07.10-16.52.16:089][503]LogEditorViewport: Clicking Background
+[2020.07.10-16.52.17:070][615]LogEditorViewport: Clicking Background
+[2020.07.10-16.52.32:490][406]LogEditorViewport: Clicking Background
+[2020.07.10-16.52.33:101][476]LogEditorViewport: Clicking Background
+[2020.07.10-16.52.33:675][543]LogEditorViewport: Clicking Background
+[2020.07.10-16.52.39:345][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-16.52.39:371][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.07.10-16.52.39:573][183]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level154E977B54C80B642FCB7BDA5EBFB3A6A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-16.52.39:621][183]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-16.52.39:621][183]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-16.53.17:316][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-16.53.17:340][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.10-16.53.17:546][914]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level135831E92469E2E890072EF912FAF66AF.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-16.53.17:597][914]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-16.53.17:597][914]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-16.55.13:687][ 55]LogEditorTransaction: Undo Create Pin Link
+[2020.07.10-16.55.19:580][575]BlueprintLog: New page: Compile GetWanderLocation
+[2020.07.10-16.55.19:623][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.07.10-16.55.20:099][610]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetWanderLocation9E29A4B4414DEBA5B8D439BD43468D92.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/GetWanderLocation.uasset'
+[2020.07.10-16.55.20:113][610]AssetCheck: New page: Asset Save: GetWanderLocation
+[2020.07.10-16.55.20:113][610]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/GetWanderLocation.GetWanderLocation
+[2020.07.10-16.55.21:970][794]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-16.55.21:989][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-16.55.21:989][794]PIE: New page: PIE session: Level1 (Jul 10, 2020, 6:55:21 PM)
+[2020.07.10-16.55.21:990][794]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-16.55.22:023][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033487s)
+[2020.07.10-16.55.22:024][794]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-16.55.22:024][794]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000218E03A8800), frame # 1724794
+[2020.07.10-16.55.22:024][794]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021703048680), frame # 1724794
+[2020.07.10-16.55.22:025][794]LogPlayLevel: PIE: World Init took: (0.001287s)
+[2020.07.10-16.55.22:025][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.035008s)
+[2020.07.10-16.55.22:052][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.07.10-16.55.22:053][794]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-16.55.22:053][794]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-16.55.22:053][794]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-16.55.22:053][794]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-16.55.22:053][794]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-16.55.22:053][794]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-16.55.22:053][794]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-16.55.22:053][794]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-16.55.22:054][794]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-16.55.22:054][794]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-16.55.22:064][794]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-16.55.22:064][794]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-16.55.22:095][794]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-16.55.22:095][794]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-16.55.22:095][794]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-16.55.22:095][794]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-16.55.22:096][794]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-16.55.22:109][794]LogInit: FAudioDevice initialized.
+[2020.07.10-16.55.22:122][794]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-16.55.22:140][794]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-17.55.22
+[2020.07.10-16.55.22:141][794]LogWorld: Bringing up level for play took: 0.018120
+[2020.07.10-16.55.22:141][794]LogOnline: OSS: Creating online subsystem instance for: :Context_109
+[2020.07.10-16.55.22:161][794]PIE: Server logged in
+[2020.07.10-16.55.22:162][794]PIE: Play in editor total start time 0.176 seconds.
+[2020.07.10-16.56.44:025][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-16.56.44:025][452]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-16.56.44:026][452]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-16.56.44:028][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-16.56.44:035][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-16.56.44:039][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-16.56.44:088][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-16.56.44:090][452]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021703048680), frame # 1730452
+[2020.07.10-16.56.44:090][452]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000218E03A8800), frame # 1730452
+[2020.07.10-16.56.44:093][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.07.10-16.56.44:144][453]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2020.07.10-16.56.51:285][134]BlueprintLog: New page: Compile GetWanderLocation
+[2020.07.10-16.56.51:325][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.07.10-16.56.51:925][175]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetWanderLocationADEA875D4D7AF34F09CB298908604175.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/GetWanderLocation.uasset'
+[2020.07.10-16.56.51:940][175]AssetCheck: New page: Asset Save: GetWanderLocation
+[2020.07.10-16.56.51:940][175]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/GetWanderLocation.GetWanderLocation
+[2020.07.10-16.57.01:372][955]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-16.57.01:390][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-16.57.01:391][955]PIE: New page: PIE session: Level1 (Jul 10, 2020, 6:57:01 PM)
+[2020.07.10-16.57.01:391][955]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-16.57.01:426][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035351s)
+[2020.07.10-16.57.01:427][955]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-16.57.01:427][955]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000218E1F26000), frame # 1731955
+[2020.07.10-16.57.01:427][955]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021706C92C00), frame # 1731955
+[2020.07.10-16.57.01:427][955]LogPlayLevel: PIE: World Init took: (0.001207s)
+[2020.07.10-16.57.01:427][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.036714s)
+[2020.07.10-16.57.01:454][955]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.07.10-16.57.01:456][955]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-16.57.01:456][955]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-16.57.01:456][955]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-16.57.01:456][955]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-16.57.01:456][955]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-16.57.01:456][955]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-16.57.01:456][955]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-16.57.01:456][955]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-16.57.01:456][955]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-16.57.01:456][955]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-16.57.01:466][955]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-16.57.01:466][955]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-16.57.01:499][955]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-16.57.01:499][955]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-16.57.01:499][955]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-16.57.01:499][955]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-16.57.01:499][955]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-16.57.01:514][955]LogInit: FAudioDevice initialized.
+[2020.07.10-16.57.01:525][955]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-16.57.01:545][955]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-17.57.01
+[2020.07.10-16.57.01:546][955]LogWorld: Bringing up level for play took: 0.020186
+[2020.07.10-16.57.01:546][955]LogOnline: OSS: Creating online subsystem instance for: :Context_110
+[2020.07.10-16.57.01:572][955]PIE: Server logged in
+[2020.07.10-16.57.01:572][955]PIE: Play in editor total start time 0.185 seconds.
+[2020.07.10-16.57.54:955][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-16.57.54:955][162]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-16.57.54:955][162]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-16.57.54:958][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-16.57.54:967][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-16.57.54:971][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-16.57.55:015][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-16.57.55:017][162]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021706C92C00), frame # 1738162
+[2020.07.10-16.57.55:017][162]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000218E1F26000), frame # 1738162
+[2020.07.10-16.57.55:020][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.07.10-16.57.55:071][163]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2020.07.10-16.58.03:780][846]BlueprintLog: New page: Compile GetWanderLocation
+[2020.07.10-16.58.03:821][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.07.10-16.58.04:188][872]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetWanderLocationD4B0672442192A35AF1B4FAAF6F78A54.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/GetWanderLocation.uasset'
+[2020.07.10-16.58.04:206][872]AssetCheck: New page: Asset Save: GetWanderLocation
+[2020.07.10-16.58.04:206][872]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/GetWanderLocation.GetWanderLocation
