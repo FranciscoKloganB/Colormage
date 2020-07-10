@@ -7921,3 +7921,11 @@ Make sure 'KnightV1Character_C' has been compiled for  On Spell Casted
 [2020.07.10-14.23.11:308][672]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1SideScrollerAI0AA2C9194EF319A2B0C6789060B4BB95.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1SideScrollerAI.uasset'
 [2020.07.10-14.23.11:324][672]AssetCheck: New page: Asset Save: KnightV1SideScrollerAI
 [2020.07.10-14.23.11:324][672]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1SideScrollerAI.KnightV1SideScrollerAI
+[2020.07.10-14.23.55:693][874]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/KnightV1SideScrollerAI.KnightV1SideScrollerAI
+[2020.07.10-14.25.40:293][932]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1SideScrollerAIF4BC78284065551BF58EB59C7303DE28.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1SideScrollerAI.uasset'
+[2020.07.10-14.25.40:309][932]AssetCheck: New page: Asset Save: KnightV1SideScrollerAI
+[2020.07.10-14.25.40:309][932]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1SideScrollerAI.KnightV1SideScrollerAI
+[2020.07.10-14.27.25:030][203]LogSlate: Window 'KnightV1SideScrollerAI' being destroyed
+[2020.07.10-14.27.25:061][203]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-14.27.25:062][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-14.27.30:806][840]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/KnightV1SideScrollerAI.KnightV1SideScrollerAI
