@@ -2971,3 +2971,744 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.10-10.50.46:328][614]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacter5E585F074CFDE98398CA5F9DA91138B6.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
 [2020.07.10-10.50.46:345][614]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
 [2020.07.10-10.50.46:345][614]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-10.53.41:069][609]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.07.10-10.53.41:071][609]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.034
+[2020.07.10-10.53.41:072][609]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Players/2DSideScrollerCharacter] ([1] browsable assets)...
+[2020.07.10-10.53.41:072][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Players/2DSideScrollerCharacter]
+[2020.07.10-10.53.41:218][609]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacter_Auto032E92C324850D538CBEB529119BF14A5.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/Players/2DSideScrollerCharacter_Auto0.uasset'
+[2020.07.10-10.53.41:219][609]LogFileHelpers: Auto-saving content packages took 0.148
+[2020.07.10-10.56.44:848][426]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.10-10.56.44:848][426]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.10-10.56.51:497][ 57]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-10.56.51:590][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.07.10-10.56.59:062][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-10.56.59:192][750]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacterB48FD8C7479BD8A16EAA02973F3BBE56.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-10.56.59:208][750]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.07.10-10.56.59:208][750]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-10.57.01:392][967]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.10-10.57.01:397][967]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.10-10.57.01:399][967]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-10.57.01:399][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-10.57.23:236][506]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/Players/Animations/Flipbooks/Dead.Dead
+[2020.07.10-10.59.29:840][740]LogSlate: Window 'Dead' being destroyed
+[2020.07.10-10.59.29:846][740]LogSlate: Window 'Dead' being destroyed
+[2020.07.10-10.59.29:861][740]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-10.59.29:861][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-10.59.40:168][924]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-11.02.00:983][328]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.10-11.02.00:983][328]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.10-11.04.44:385][214]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-11.04.44:483][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.07.10-11.05.13:335][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.07.10-11.05.13:336][848]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.024
+[2020.07.10-11.05.13:337][848]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Players/2DSideScrollerCharacter] ([1] browsable assets)...
+[2020.07.10-11.05.13:337][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Players/2DSideScrollerCharacter]
+[2020.07.10-11.05.13:466][848]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacter_Auto1968394DE4AEE78EEDBAABBABDB2A83D1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/Players/2DSideScrollerCharacter_Auto1.uasset'
+[2020.07.10-11.05.13:467][848]LogFileHelpers: Auto-saving content packages took 0.131
+[2020.07.10-11.05.48:097][373]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.10-11.05.48:106][373]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.10-11.05.48:107][373]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-11.05.48:107][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.05.56:386][306]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(784)].
+[2020.07.10-11.06.00:648][793]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/StayDead38EB9FBC4CA291804D4FF283139C09C4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Dead/StayDead.uasset'
+[2020.07.10-11.06.00:676][793]AssetCheck: New page: Asset Save: StayDead
+[2020.07.10-11.06.00:676][793]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/Players/Animations/Sprites/Dead/StayDead.StayDead
+[2020.07.10-11.06.02:945][ 49]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/StayDeadBE49D2EA4ADEA951BA635B8AA5752A6B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Flipbooks/StayDead.uasset'
+[2020.07.10-11.06.03:153][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.07.10-11.06.03:189][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.07.10-11.06.03:207][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-11.06.03:263][ 49]AssetCheck: New page: Asset Save: StayDead
+[2020.07.10-11.06.03:263][ 49]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/Players/Animations/Flipbooks/StayDead.StayDead
+[2020.07.10-11.06.12:633][165]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/Players/Animations/Flipbooks/Dead.Dead
+[2020.07.10-11.06.26:828][753]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Dead60F156364B7F94A8D8304EBE9F3D7898.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Flipbooks/Dead.uasset'
+[2020.07.10-11.06.26:890][753]AssetCheck: New page: Asset Save: Dead
+[2020.07.10-11.06.26:890][753]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/Players/Animations/Flipbooks/Dead.Dead
+[2020.07.10-11.06.39:225][128]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/DeadC5BBF2344EB89A276947B68D323C04FE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Flipbooks/Dead.uasset'
+[2020.07.10-11.06.39:239][128]AssetCheck: New page: Asset Save: Dead
+[2020.07.10-11.06.39:239][128]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/Players/Animations/Flipbooks/Dead.Dead
+[2020.07.10-11.06.40:218][239]LogSlate: Window 'Dead' being destroyed
+[2020.07.10-11.06.40:224][239]LogSlate: Window 'Dead' being destroyed
+[2020.07.10-11.06.40:239][239]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-11.06.40:239][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.06.55:615][ 60]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-11.06.57:636][241]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-11.06.57:733][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.07.10-11.06.57:805][241]LogSlate: Took 0.007599 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.07.10-11.07.28:341][223]LogEditorTransaction: Undo Move Node
+[2020.07.10-11.08.24:608][ 19]BlueprintLog: New page: Collapse to Macro
+[2020.07.10-11.08.37:410][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-11.08.37:537][ 79]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacter6E39C04F44826A7A87E727BFE9393A79.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-11.08.37:554][ 79]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.07.10-11.08.37:554][ 79]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-11.09.10:339][175]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-11.09.10:443][175]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.07.10-11.09.20:900][147]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-11.09.20:998][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.07.10-11.09.21:593][189]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-11.09.21:608][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-11.09.21:608][189]PIE: New page: PIE session: Level1 (Jul 10, 2020, 1:09:21 PM)
+[2020.07.10-11.09.21:608][189]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-11.09.21:640][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031418s)
+[2020.07.10-11.09.21:641][189]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-11.09.21:641][189]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000218048BC600), frame # 824189
+[2020.07.10-11.09.21:641][189]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021792875080), frame # 824189
+[2020.07.10-11.09.21:641][189]LogPlayLevel: PIE: World Init took: (0.001304s)
+[2020.07.10-11.09.21:641][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.032888s)
+[2020.07.10-11.09.21:665][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.07.10-11.09.21:667][189]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-11.09.21:667][189]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-11.09.21:667][189]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-11.09.21:667][189]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-11.09.21:667][189]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-11.09.21:667][189]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-11.09.21:667][189]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-11.09.21:667][189]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-11.09.21:667][189]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-11.09.21:667][189]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-11.09.21:677][189]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-11.09.21:677][189]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-11.09.21:709][189]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-11.09.21:709][189]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-11.09.21:709][189]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-11.09.21:710][189]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-11.09.21:710][189]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-11.09.21:724][189]LogInit: FAudioDevice initialized.
+[2020.07.10-11.09.21:742][189]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-11.09.21:760][189]LogPhysics: Warning: Scale for /Game/Levels/First/UEDPIE_0_Level1.Level1:PersistentLevel.Tile52.PaperSprite14 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=-1.000
+[2020.07.10-11.09.21:760][189]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-12.09.21
+[2020.07.10-11.09.21:761][189]LogWorld: Bringing up level for play took: 0.018104
+[2020.07.10-11.09.21:761][189]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2020.07.10-11.09.21:771][189]PIE: Server logged in
+[2020.07.10-11.09.21:772][189]PIE: Play in editor total start time 0.164 seconds.
+[2020.07.10-11.09.27:892][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-11.09.27:892][830]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-11.09.27:892][830]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-11.09.27:895][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.09.27:906][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-11.09.27:911][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.09.27:931][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-11.09.27:955][830]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021792875080), frame # 824830
+[2020.07.10-11.09.27:955][830]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000218048BC600), frame # 824830
+[2020.07.10-11.09.27:957][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.07.10-11.09.28:002][831]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2020.07.10-11.09.39:711][ 10]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-11.09.39:802][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.07.10-11.09.40:544][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-11.09.40:672][ 60]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacterDACF2373466180AA3A80D89B5687B8C8.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-11.09.40:692][ 60]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.07.10-11.09.40:692][ 60]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-11.09.41:496][122]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.10-11.09.41:502][122]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.10-11.09.41:523][122]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-11.09.41:523][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.09.42:806][256]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-11.09.42:821][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-11.09.42:822][256]PIE: New page: PIE session: Level1 (Jul 10, 2020, 1:09:42 PM)
+[2020.07.10-11.09.42:822][256]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-11.09.42:852][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030648s)
+[2020.07.10-11.09.42:853][256]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-11.09.42:853][256]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000218045D6600), frame # 826256
+[2020.07.10-11.09.42:853][256]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000217CD4082C0), frame # 826256
+[2020.07.10-11.09.42:854][256]LogPlayLevel: PIE: World Init took: (0.001297s)
+[2020.07.10-11.09.42:854][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.032097s)
+[2020.07.10-11.09.42:876][256]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.07.10-11.09.42:877][256]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-11.09.42:877][256]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-11.09.42:877][256]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-11.09.42:877][256]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-11.09.42:877][256]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-11.09.42:877][256]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-11.09.42:877][256]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-11.09.42:878][256]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-11.09.42:878][256]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-11.09.42:878][256]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-11.09.42:888][256]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-11.09.42:888][256]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-11.09.42:918][256]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-11.09.42:919][256]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-11.09.42:919][256]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-11.09.42:919][256]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-11.09.42:919][256]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-11.09.42:932][256]LogInit: FAudioDevice initialized.
+[2020.07.10-11.09.42:944][256]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-11.09.42:962][256]LogPhysics: Warning: Scale for /Game/Levels/First/UEDPIE_0_Level1.Level1:PersistentLevel.Tile52.PaperSprite14 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=-1.000
+[2020.07.10-11.09.42:962][256]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-12.09.42
+[2020.07.10-11.09.42:963][256]LogWorld: Bringing up level for play took: 0.017454
+[2020.07.10-11.09.42:963][256]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2020.07.10-11.09.42:973][256]PIE: Server logged in
+[2020.07.10-11.09.42:973][256]PIE: Play in editor total start time 0.153 seconds.
+[2020.07.10-11.09.45:882][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-11.09.45:882][594]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-11.09.45:883][594]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-11.09.45:885][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.09.45:895][594]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-11.09.45:900][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.09.45:938][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-11.09.45:940][594]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000217CD4082C0), frame # 826594
+[2020.07.10-11.09.45:940][594]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000218045D6600), frame # 826594
+[2020.07.10-11.09.45:944][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.07.10-11.09.45:974][595]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2020.07.10-11.11.26:210][837]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-11.11.39:674][209]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-11.11.39:765][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.07.10-11.11.41:931][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-11.11.42:059][408]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacterF6E88D10490330C38215F880812DFA84.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-11.11.42:077][408]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.07.10-11.11.42:077][408]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-11.11.42:675][466]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.10-11.11.42:683][466]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.10-11.11.42:684][466]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-11.11.42:684][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.11.44:060][617]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-11.11.44:076][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-11.11.44:076][617]PIE: New page: PIE session: Level1 (Jul 10, 2020, 1:11:44 PM)
+[2020.07.10-11.11.44:076][617]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-11.11.44:108][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031854s)
+[2020.07.10-11.11.44:109][617]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-11.11.44:109][617]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002184FED5A00), frame # 830617
+[2020.07.10-11.11.44:109][617]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002179522F600), frame # 830617
+[2020.07.10-11.11.44:109][617]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2020.07.10-11.11.44:109][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.033135s)
+[2020.07.10-11.11.44:134][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.07.10-11.11.44:136][617]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-11.11.44:136][617]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-11.11.44:136][617]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-11.11.44:136][617]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-11.11.44:136][617]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-11.11.44:136][617]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-11.11.44:136][617]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-11.11.44:136][617]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-11.11.44:136][617]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-11.11.44:136][617]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-11.11.44:146][617]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-11.11.44:146][617]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-11.11.44:178][617]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-11.11.44:178][617]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-11.11.44:178][617]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-11.11.44:178][617]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-11.11.44:179][617]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-11.11.44:180][617]LogInit: FAudioDevice initialized.
+[2020.07.10-11.11.44:196][617]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-11.11.44:213][617]LogPhysics: Warning: Scale for /Game/Levels/First/UEDPIE_0_Level1.Level1:PersistentLevel.Tile52.PaperSprite14 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=-1.000
+[2020.07.10-11.11.44:213][617]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-12.11.44
+[2020.07.10-11.11.44:214][617]LogWorld: Bringing up level for play took: 0.016984
+[2020.07.10-11.11.44:214][617]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2020.07.10-11.11.44:222][617]PIE: Server logged in
+[2020.07.10-11.11.44:223][617]PIE: Play in editor total start time 0.148 seconds.
+[2020.07.10-11.11.46:292][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-11.11.46:292][851]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-11.11.46:292][851]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-11.11.46:295][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.11.46:306][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-11.11.46:310][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.11.46:348][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-11.11.46:349][851]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002179522F600), frame # 830851
+[2020.07.10-11.11.46:349][851]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002184FED5A00), frame # 830851
+[2020.07.10-11.11.46:352][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.07.10-11.11.46:383][852]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2020.07.10-11.14.13:956][ 17]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-11.14.56:493][516]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(329)].
+[2020.07.10-11.14.56:515][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-11.14.56:644][516]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacter55A873C74984E7369DFB878E5D37CA8A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-11.14.56:666][516]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.07.10-11.14.56:666][516]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-11.18.55:457][588]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.07.10-11.18.55:459][588]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.033
+[2020.07.10-11.18.55:459][588]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Players/2DSideScrollerCharacter] ([1] browsable assets)...
+[2020.07.10-11.18.55:459][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Players/2DSideScrollerCharacter]
+[2020.07.10-11.18.55:598][588]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacter_Auto2C01D7F2F4DC337FD31867BB75718892F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/Players/2DSideScrollerCharacter_Auto2.uasset'
+[2020.07.10-11.18.55:602][588]LogFileHelpers: Auto-saving content packages took 0.143
+[2020.07.10-11.21.50:250][812]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-11.21.50:351][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.07.10-11.21.51:045][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-11.21.51:186][877]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacter85EB357342B3081911FAAA860E2CADE0.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-11.21.51:204][877]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.07.10-11.21.51:204][877]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-11.22.47:877][327]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-11.22.47:914][327]LogBlueprint: Error: [Compiler 2DSideScrollerCharacter] Cannot pass a read-only variable to a reference parameter  New Param generated from expanding Die
+[2020.07.10-11.22.47:965][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.07.10-11.23.03:734][807]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-11.23.03:771][807]LogBlueprint: Error: [Compiler 2DSideScrollerCharacter] Cannot pass a read-only variable to a reference parameter  New Param generated from expanding Die
+[2020.07.10-11.23.03:822][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.07.10-11.23.14:140][797]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-11.23.14:236][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.07.10-11.23.14:908][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-11.23.15:041][852]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacter65AA756F41A921366200A68FA7550FEE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-11.23.15:058][852]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.07.10-11.23.15:058][852]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-11.23.18:670][203]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-11.23.18:686][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-11.23.18:687][203]PIE: New page: PIE session: Level1 (Jul 10, 2020, 1:23:18 PM)
+[2020.07.10-11.23.18:687][203]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-11.23.18:718][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031233s)
+[2020.07.10-11.23.18:719][203]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-11.23.18:719][203]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021850657800), frame # 878203
+[2020.07.10-11.23.18:719][203]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000217DCF351C0), frame # 878203
+[2020.07.10-11.23.18:720][203]LogPlayLevel: PIE: World Init took: (0.001573s)
+[2020.07.10-11.23.18:720][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.033023s)
+[2020.07.10-11.23.18:743][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.07.10-11.23.18:745][203]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-11.23.18:745][203]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-11.23.18:745][203]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-11.23.18:745][203]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-11.23.18:745][203]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-11.23.18:745][203]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-11.23.18:745][203]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-11.23.18:745][203]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-11.23.18:746][203]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-11.23.18:746][203]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-11.23.18:757][203]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-11.23.18:757][203]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-11.23.18:790][203]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-11.23.18:790][203]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-11.23.18:790][203]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-11.23.18:790][203]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-11.23.18:791][203]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-11.23.18:804][203]LogInit: FAudioDevice initialized.
+[2020.07.10-11.23.18:818][203]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-11.23.18:837][203]LogPhysics: Warning: Scale for /Game/Levels/First/UEDPIE_0_Level1.Level1:PersistentLevel.Tile52.PaperSprite14 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=-1.000
+[2020.07.10-11.23.18:837][203]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-12.23.18
+[2020.07.10-11.23.18:837][203]LogWorld: Bringing up level for play took: 0.018415
+[2020.07.10-11.23.18:837][203]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2020.07.10-11.23.18:846][203]PIE: Server logged in
+[2020.07.10-11.23.18:847][203]PIE: Play in editor total start time 0.161 seconds.
+[2020.07.10-11.23.21:189][415]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.10-11.23.21:194][415]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.10-11.23.21:195][415]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-11.23.21:195][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.23.24:841][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-11.23.24:842][834]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-11.23.24:842][834]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-11.23.24:845][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.23.24:855][834]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-11.23.24:859][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.23.24:899][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-11.23.24:907][834]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000217DCF351C0), frame # 878834
+[2020.07.10-11.23.24:907][834]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021850657800), frame # 878834
+[2020.07.10-11.23.24:911][834]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.07.10-11.23.24:954][835]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2020.07.10-11.23.27:318][ 97]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-11.23.27:334][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-11.23.27:334][ 97]PIE: New page: PIE session: Level1 (Jul 10, 2020, 1:23:27 PM)
+[2020.07.10-11.23.27:334][ 97]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-11.23.27:366][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031881s)
+[2020.07.10-11.23.27:367][ 97]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-11.23.27:367][ 97]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002178ABDE200), frame # 879097
+[2020.07.10-11.23.27:367][ 97]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000218046B56C0), frame # 879097
+[2020.07.10-11.23.27:368][ 97]LogPlayLevel: PIE: World Init took: (0.001334s)
+[2020.07.10-11.23.27:368][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.033396s)
+[2020.07.10-11.23.27:387][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.07.10-11.23.27:389][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-11.23.27:389][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-11.23.27:389][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-11.23.27:389][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-11.23.27:389][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-11.23.27:389][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-11.23.27:389][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-11.23.27:389][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-11.23.27:390][ 97]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-11.23.27:390][ 97]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-11.23.27:400][ 97]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-11.23.27:401][ 97]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-11.23.27:431][ 97]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-11.23.27:431][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-11.23.27:431][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-11.23.27:431][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-11.23.27:432][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-11.23.27:444][ 97]LogInit: FAudioDevice initialized.
+[2020.07.10-11.23.27:454][ 97]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-11.23.27:473][ 97]LogPhysics: Warning: Scale for /Game/Levels/First/UEDPIE_0_Level1.Level1:PersistentLevel.Tile52.PaperSprite14 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=-1.000
+[2020.07.10-11.23.27:473][ 97]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-12.23.27
+[2020.07.10-11.23.27:473][ 97]LogWorld: Bringing up level for play took: 0.018203
+[2020.07.10-11.23.27:474][ 97]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2020.07.10-11.23.27:482][ 97]PIE: Server logged in
+[2020.07.10-11.23.27:483][ 97]PIE: Play in editor total start time 0.15 seconds.
+[2020.07.10-11.23.31:781][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-11.23.31:781][601]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-11.23.31:782][601]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-11.23.31:785][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.23.31:799][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-11.23.31:804][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.23.31:825][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-11.23.31:848][601]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000218046B56C0), frame # 879601
+[2020.07.10-11.23.31:848][601]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002178ABDE200), frame # 879601
+[2020.07.10-11.23.31:851][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.07.10-11.23.31:888][602]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2020.07.10-11.24.30:820][517]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-11.25.25:927][549]LogEditorTransaction: Undo Add Node
+[2020.07.10-11.25.35:253][383]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-11.25.35:344][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.07.10-11.25.36:421][481]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-11.25.36:436][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-11.25.36:436][481]PIE: New page: PIE session: Level1 (Jul 10, 2020, 1:25:36 PM)
+[2020.07.10-11.25.36:436][481]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-11.25.36:468][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031416s)
+[2020.07.10-11.25.36:469][481]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-11.25.36:469][481]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021848356C00), frame # 885481
+[2020.07.10-11.25.36:469][481]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002182CED6FC0), frame # 885481
+[2020.07.10-11.25.36:469][481]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2020.07.10-11.25.36:469][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.032709s)
+[2020.07.10-11.25.36:493][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.07.10-11.25.36:494][481]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-11.25.36:494][481]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-11.25.36:494][481]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-11.25.36:494][481]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-11.25.36:494][481]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-11.25.36:494][481]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-11.25.36:494][481]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-11.25.36:494][481]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-11.25.36:495][481]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-11.25.36:495][481]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-11.25.36:505][481]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-11.25.36:505][481]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-11.25.36:536][481]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-11.25.36:537][481]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-11.25.36:537][481]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-11.25.36:537][481]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-11.25.36:537][481]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-11.25.36:538][481]LogInit: FAudioDevice initialized.
+[2020.07.10-11.25.36:563][481]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-11.25.36:580][481]LogPhysics: Warning: Scale for /Game/Levels/First/UEDPIE_0_Level1.Level1:PersistentLevel.Tile52.PaperSprite14 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=-1.000
+[2020.07.10-11.25.36:580][481]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-12.25.36
+[2020.07.10-11.25.36:580][481]LogWorld: Bringing up level for play took: 0.017026
+[2020.07.10-11.25.36:581][481]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2020.07.10-11.25.36:592][481]PIE: Server logged in
+[2020.07.10-11.25.36:593][481]PIE: Play in editor total start time 0.158 seconds.
+[2020.07.10-11.25.45:032][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-11.25.45:032][275]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-11.25.45:033][275]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-11.25.45:036][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.25.45:047][275]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-11.25.45:052][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.25.45:098][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-11.25.45:100][275]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002182CED6FC0), frame # 886275
+[2020.07.10-11.25.45:100][275]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021848356C00), frame # 886275
+[2020.07.10-11.25.45:104][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.07.10-11.25.45:150][276]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2020.07.10-11.25.48:016][558]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.10-11.25.48:024][558]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.10-11.25.48:025][558]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-11.25.48:025][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.25.49:104][673]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-11.25.49:120][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-11.25.49:120][673]PIE: New page: PIE session: Level1 (Jul 10, 2020, 1:25:49 PM)
+[2020.07.10-11.25.49:120][673]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-11.25.49:151][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030297s)
+[2020.07.10-11.25.49:152][673]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-11.25.49:152][673]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002187B7EA000), frame # 886673
+[2020.07.10-11.25.49:152][673]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021809CF1440), frame # 886673
+[2020.07.10-11.25.49:152][673]LogPlayLevel: PIE: World Init took: (0.001557s)
+[2020.07.10-11.25.49:152][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.032143s)
+[2020.07.10-11.25.49:176][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.07.10-11.25.49:178][673]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-11.25.49:178][673]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-11.25.49:178][673]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-11.25.49:178][673]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-11.25.49:178][673]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-11.25.49:178][673]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-11.25.49:178][673]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-11.25.49:178][673]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-11.25.49:178][673]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-11.25.49:178][673]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-11.25.49:189][673]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-11.25.49:190][673]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-11.25.49:225][673]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-11.25.49:226][673]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-11.25.49:226][673]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-11.25.49:226][673]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-11.25.49:226][673]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-11.25.49:238][673]LogInit: FAudioDevice initialized.
+[2020.07.10-11.25.49:248][673]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-11.25.49:267][673]LogPhysics: Warning: Scale for /Game/Levels/First/UEDPIE_0_Level1.Level1:PersistentLevel.Tile52.PaperSprite14 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=-1.000
+[2020.07.10-11.25.49:267][673]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-12.25.49
+[2020.07.10-11.25.49:268][673]LogWorld: Bringing up level for play took: 0.018992
+[2020.07.10-11.25.49:268][673]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2020.07.10-11.25.49:276][673]PIE: Server logged in
+[2020.07.10-11.25.49:277][673]PIE: Play in editor total start time 0.157 seconds.
+[2020.07.10-11.25.52:182][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-11.25.52:182][ 10]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-11.25.52:182][ 10]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-11.25.52:185][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.25.52:191][ 10]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-11.25.52:195][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.25.52:235][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-11.25.52:236][ 10]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021809CF1440), frame # 887010
+[2020.07.10-11.25.52:236][ 10]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002187B7EA000), frame # 887010
+[2020.07.10-11.25.52:239][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.07.10-11.25.52:285][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2020.07.10-11.26.28:330][951]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-11.27.38:709][242]LogEditorTransaction: Undo Rename Parameter
+[2020.07.10-11.27.39:828][327]LogEditorTransaction: Undo Move Nodes
+[2020.07.10-11.27.43:514][734]LogEditorTransaction: Undo Create Pin Link
+[2020.07.10-11.30.24:547][785]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-11.30.24:648][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.07.10-11.30.25:963][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-11.30.26:101][917]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacterEEB5088D4EA4F98F4E484284EEAB9306.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-11.30.26:122][917]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.07.10-11.30.26:122][917]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-11.30.59:721][324]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-11.30.59:818][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.07.10-11.31.00:137][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-11.31.00:270][343]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacter825CFFA3470F51676D07DF8C4916062A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-11.31.00:287][343]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.07.10-11.31.00:287][343]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-11.31.01:810][504]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.10-11.31.01:817][504]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.10-11.31.01:832][504]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-11.31.01:832][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.31.03:033][633]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-11.31.03:049][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-11.31.03:049][633]PIE: New page: PIE session: Level1 (Jul 10, 2020, 1:31:03 PM)
+[2020.07.10-11.31.03:049][633]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-11.31.03:081][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031447s)
+[2020.07.10-11.31.03:082][633]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-11.31.03:082][633]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021851498C00), frame # 916633
+[2020.07.10-11.31.03:082][633]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021869774E00), frame # 916633
+[2020.07.10-11.31.03:082][633]LogPlayLevel: PIE: World Init took: (0.001405s)
+[2020.07.10-11.31.03:082][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.033061s)
+[2020.07.10-11.31.03:104][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.07.10-11.31.03:106][633]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-11.31.03:106][633]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-11.31.03:106][633]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-11.31.03:106][633]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-11.31.03:106][633]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-11.31.03:106][633]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-11.31.03:106][633]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-11.31.03:106][633]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-11.31.03:107][633]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-11.31.03:107][633]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-11.31.03:118][633]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-11.31.03:118][633]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-11.31.03:149][633]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-11.31.03:150][633]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-11.31.03:150][633]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-11.31.03:150][633]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-11.31.03:150][633]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-11.31.03:162][633]LogInit: FAudioDevice initialized.
+[2020.07.10-11.31.03:169][633]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-11.31.03:187][633]LogPhysics: Warning: Scale for /Game/Levels/First/UEDPIE_0_Level1.Level1:PersistentLevel.Tile52.PaperSprite14 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=-1.000
+[2020.07.10-11.31.03:188][633]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-12.31.03
+[2020.07.10-11.31.03:188][633]LogWorld: Bringing up level for play took: 0.018566
+[2020.07.10-11.31.03:188][633]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2020.07.10-11.31.03:197][633]PIE: Server logged in
+[2020.07.10-11.31.03:198][633]PIE: Play in editor total start time 0.15 seconds.
+[2020.07.10-11.31.05:022][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-11.31.05:022][839]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-11.31.05:022][839]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-11.31.05:025][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.31.05:034][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-11.31.05:037][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.31.05:077][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-11.31.05:078][839]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021869774E00), frame # 916839
+[2020.07.10-11.31.05:078][839]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021851498C00), frame # 916839
+[2020.07.10-11.31.05:082][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.07.10-11.31.05:118][840]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2020.07.10-11.31.07:332][ 95]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-11.31.11:704][492]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-11.31.11:809][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.07.10-11.31.12:516][554]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-11.31.12:533][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-11.31.12:533][554]PIE: New page: PIE session: Level1 (Jul 10, 2020, 1:31:12 PM)
+[2020.07.10-11.31.12:533][554]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-11.31.12:564][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030639s)
+[2020.07.10-11.31.12:565][554]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-11.31.12:565][554]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000217D4002000), frame # 917554
+[2020.07.10-11.31.12:565][554]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000218504BDA80), frame # 917554
+[2020.07.10-11.31.12:565][554]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2020.07.10-11.31.12:565][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.031923s)
+[2020.07.10-11.31.12:589][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.07.10-11.31.12:590][554]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-11.31.12:590][554]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-11.31.12:590][554]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-11.31.12:590][554]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-11.31.12:590][554]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-11.31.12:590][554]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-11.31.12:590][554]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-11.31.12:590][554]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-11.31.12:591][554]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-11.31.12:591][554]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-11.31.12:600][554]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-11.31.12:600][554]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-11.31.12:630][554]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-11.31.12:630][554]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-11.31.12:630][554]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-11.31.12:630][554]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-11.31.12:631][554]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-11.31.12:643][554]LogInit: FAudioDevice initialized.
+[2020.07.10-11.31.12:660][554]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-11.31.12:678][554]LogPhysics: Warning: Scale for /Game/Levels/First/UEDPIE_0_Level1.Level1:PersistentLevel.Tile52.PaperSprite14 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=-1.000
+[2020.07.10-11.31.12:678][554]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-12.31.12
+[2020.07.10-11.31.12:679][554]LogWorld: Bringing up level for play took: 0.018003
+[2020.07.10-11.31.12:679][554]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2020.07.10-11.31.12:689][554]PIE: Server logged in
+[2020.07.10-11.31.12:689][554]PIE: Play in editor total start time 0.157 seconds.
+[2020.07.10-11.31.17:322][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-11.31.17:322][967]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-11.31.17:322][967]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-11.31.17:325][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.31.17:336][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-11.31.17:340][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.31.17:363][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-11.31.17:388][967]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000218504BDA80), frame # 917967
+[2020.07.10-11.31.17:388][967]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000217D4002000), frame # 917967
+[2020.07.10-11.31.17:390][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.07.10-11.31.17:440][968]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2020.07.10-11.31.42:330][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.07.10-11.31.42:332][ 87]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.024
+[2020.07.10-11.31.42:332][ 87]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Players/2DSideScrollerCharacter] ([1] browsable assets)...
+[2020.07.10-11.31.42:332][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Players/2DSideScrollerCharacter]
+[2020.07.10-11.31.42:479][ 87]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacter_Auto340A118C84D6F140F89EAEE884D474F94.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/Players/2DSideScrollerCharacter_Auto3.uasset'
+[2020.07.10-11.31.42:480][ 87]LogFileHelpers: Auto-saving content packages took 0.148
+[2020.07.10-11.34.21:253][530]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-11.34.21:349][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.07.10-11.34.57:825][258]LogEditorTransaction: Undo Create Pin Link
+[2020.07.10-11.34.58:393][281]LogEditorTransaction: Undo Delete current selection
+[2020.07.10-11.35.05:653][ 41]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-11.35.05:746][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.07.10-11.35.06:118][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-11.35.06:250][ 76]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacter3B7E5C0C4E28A1C667B4749BBE6A437F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-11.35.06:264][ 76]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.07.10-11.35.06:264][ 76]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-11.35.35:610][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-11.35.35:745][920]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacterB696477549D370B1FDBA2AA9A629D577.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-11.35.35:763][920]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.07.10-11.35.35:763][920]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-11.35.44:059][763]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-11.35.44:157][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.07.10-11.35.44:564][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-11.35.44:701][791]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacter8D29733C4A16D4C4D79AA6B694A901AD.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-11.35.44:720][791]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.07.10-11.35.44:720][791]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-11.35.48:532][171]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-11.35.48:547][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-11.35.48:548][171]PIE: New page: PIE session: Level1 (Jul 10, 2020, 1:35:48 PM)
+[2020.07.10-11.35.48:548][171]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-11.35.48:579][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031432s)
+[2020.07.10-11.35.48:580][171]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-11.35.48:580][171]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000217D4001E00), frame # 937171
+[2020.07.10-11.35.48:580][171]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021856BFEE80), frame # 937171
+[2020.07.10-11.35.48:581][171]LogPlayLevel: PIE: World Init took: (0.001559s)
+[2020.07.10-11.35.48:581][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.033227s)
+[2020.07.10-11.35.48:605][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.07.10-11.35.48:607][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-11.35.48:607][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-11.35.48:607][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-11.35.48:607][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-11.35.48:607][171]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-11.35.48:607][171]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-11.35.48:607][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-11.35.48:607][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-11.35.48:607][171]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-11.35.48:607][171]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-11.35.48:618][171]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-11.35.48:618][171]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-11.35.48:653][171]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-11.35.48:653][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-11.35.48:653][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-11.35.48:653][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-11.35.48:653][171]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-11.35.48:665][171]LogInit: FAudioDevice initialized.
+[2020.07.10-11.35.48:680][171]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-11.35.48:698][171]LogPhysics: Warning: Scale for /Game/Levels/First/UEDPIE_0_Level1.Level1:PersistentLevel.Tile52.PaperSprite14 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=-1.000
+[2020.07.10-11.35.48:698][171]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-12.35.48
+[2020.07.10-11.35.48:698][171]LogWorld: Bringing up level for play took: 0.017692
+[2020.07.10-11.35.48:699][171]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2020.07.10-11.35.48:707][171]PIE: Server logged in
+[2020.07.10-11.35.48:708][171]PIE: Play in editor total start time 0.161 seconds.
+[2020.07.10-11.35.53:871][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-11.35.53:871][600]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-11.35.53:871][600]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-11.35.53:874][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.35.53:882][600]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-11.35.53:885][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.35.53:927][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-11.35.53:929][600]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021856BFEE80), frame # 937600
+[2020.07.10-11.35.53:929][600]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000217D4001E00), frame # 937600
+[2020.07.10-11.35.53:932][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.07.10-11.35.53:985][601]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2020.07.10-11.36.13:996][605]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-11.36.14:091][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.07.10-11.36.14:487][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-11.36.14:620][636]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacter04D4174547401B878E3B1C8EBD8B7F7A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-11.36.14:642][636]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.07.10-11.36.14:642][636]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-11.36.16:292][813]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-11.36.16:307][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-11.36.16:307][813]PIE: New page: PIE session: Level1 (Jul 10, 2020, 1:36:16 PM)
+[2020.07.10-11.36.16:307][813]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-11.36.16:338][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030703s)
+[2020.07.10-11.36.16:339][813]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-11.36.16:339][813]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021852D56400), frame # 939813
+[2020.07.10-11.36.16:339][813]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021792E45BC0), frame # 939813
+[2020.07.10-11.36.16:339][813]LogPlayLevel: PIE: World Init took: (0.001258s)
+[2020.07.10-11.36.16:339][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.032128s)
+[2020.07.10-11.36.16:365][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.07.10-11.36.16:367][813]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-11.36.16:367][813]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-11.36.16:367][813]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-11.36.16:367][813]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-11.36.16:367][813]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-11.36.16:367][813]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-11.36.16:367][813]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-11.36.16:367][813]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-11.36.16:367][813]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-11.36.16:367][813]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-11.36.16:377][813]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-11.36.16:377][813]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-11.36.16:409][813]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-11.36.16:409][813]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-11.36.16:409][813]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-11.36.16:409][813]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-11.36.16:410][813]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-11.36.16:422][813]LogInit: FAudioDevice initialized.
+[2020.07.10-11.36.16:435][813]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-11.36.16:453][813]LogPhysics: Warning: Scale for /Game/Levels/First/UEDPIE_0_Level1.Level1:PersistentLevel.Tile52.PaperSprite14 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=-1.000
+[2020.07.10-11.36.16:453][813]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-12.36.16
+[2020.07.10-11.36.16:454][813]LogWorld: Bringing up level for play took: 0.017854
+[2020.07.10-11.36.16:454][813]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2020.07.10-11.36.16:464][813]PIE: Server logged in
+[2020.07.10-11.36.16:465][813]PIE: Play in editor total start time 0.159 seconds.
+[2020.07.10-11.36.20:562][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-11.36.20:562][146]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-11.36.20:562][146]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-11.36.20:566][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.36.20:576][146]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-11.36.20:579][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.36.20:625][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-11.36.20:627][146]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021792E45BC0), frame # 940146
+[2020.07.10-11.36.20:627][146]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021852D56400), frame # 940146
+[2020.07.10-11.36.20:630][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.07.10-11.36.20:681][147]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2020.07.10-11.41.52:519][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.07.10-11.41.52:523][681]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.030
+[2020.07.10-11.41.52:524][681]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Players/2DSideScrollerCharacter] ([1] browsable assets)...
+[2020.07.10-11.41.52:524][681]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Players/2DSideScrollerCharacter]
+[2020.07.10-11.41.52:649][681]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacter_Auto4E1E729764856ED2CCB60528B177163A8.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/Players/2DSideScrollerCharacter_Auto4.uasset'
+[2020.07.10-11.41.52:650][681]LogFileHelpers: Auto-saving content packages took 0.127
+[2020.07.10-11.41.55:925][ 32]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-11.41.56:019][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.07.10-11.41.56:433][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-11.41.56:565][ 69]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacterAE70930643F990E7A0884FAD056F90DA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-11.41.56:583][ 69]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.07.10-11.41.56:583][ 69]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-11.41.57:931][216]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.10-11.41.57:937][216]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.10-11.41.57:938][216]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-11.41.57:938][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-11.42.02:322][721]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.07.10-11.42.06:663][721]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.10-11.42.20:789][403]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/PermanentDeath820CB0A144A56D544BA14EA0844E5F3A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Flipbooks/PermanentDeath.uasset'
+[2020.07.10-11.42.20:977][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.10-11.42.21:012][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.07.10-11.42.21:030][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.10-11.42.21:081][403]AssetCheck: New page: Asset Save: PermanentDeath
+[2020.07.10-11.42.21:081][403]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/Players/Animations/Flipbooks/PermanentDeath.PermanentDeath
+[2020.07.10-11.42.21:822][483]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/PermanentDeath85CC6E714999A931873C81AFD062ADEB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Flipbooks/PermanentDeath.uasset'
+[2020.07.10-11.42.21:840][483]AssetCheck: New page: Asset Save: PermanentDeath
+[2020.07.10-11.42.21:840][483]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/Players/Animations/Flipbooks/PermanentDeath.PermanentDeath
+[2020.07.10-11.42.24:984][851]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/StayDead8F92EDF44A4F6D1A793C5AB937498A36.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Flipbooks/StayDead.uasset'
+[2020.07.10-11.42.25:172][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-11.42.25:206][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.07.10-11.42.25:225][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.07.10-11.42.25:274][851]AssetCheck: New page: Asset Save: StayDead
+[2020.07.10-11.42.25:274][851]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/Players/Animations/Flipbooks/StayDead.StayDead
