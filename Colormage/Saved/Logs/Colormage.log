@@ -2622,3 +2622,239 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.10-21.11.05:970][392]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Regular_BT6C664FF74CB0B6FBE6C19DB34E519173.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_BT.uasset'
 [2020.07.10-21.11.05:986][392]AssetCheck: New page: Asset Save: Regular_BT
 [2020.07.10-21.11.05:986][392]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Regular/Regular_BT.Regular_BT
+[2020.07.10-21.13.44:330][671]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-21.13.44:331][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-21.13.45:496][790]LogSlate: Window 'Regular_AI' being destroyed
+[2020.07.10-21.13.45:503][790]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.10-21.13.45:503][790]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-21.13.45:503][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-21.13.46:536][905]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-21.13.46:554][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-21.13.46:554][905]PIE: New page: PIE session: Level1 (Jul 10, 2020, 11:13:46 PM)
+[2020.07.10-21.13.46:554][905]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-21.13.46:589][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034839s)
+[2020.07.10-21.13.46:590][905]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-21.13.46:590][905]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023B394DE400), frame # 266905
+[2020.07.10-21.13.46:590][905]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023B18C1FC40), frame # 266905
+[2020.07.10-21.13.46:590][905]LogPlayLevel: PIE: World Init took: (0.001397s)
+[2020.07.10-21.13.46:590][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.036432s)
+[2020.07.10-21.13.46:619][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.07.10-21.13.46:622][905]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-21.13.46:622][905]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-21.13.46:622][905]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-21.13.46:622][905]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-21.13.46:622][905]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-21.13.46:622][905]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-21.13.46:622][905]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-21.13.46:622][905]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-21.13.46:623][905]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-21.13.46:623][905]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-21.13.46:633][905]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-21.13.46:633][905]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-21.13.46:675][905]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-21.13.46:676][905]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-21.13.46:676][905]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-21.13.46:676][905]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-21.13.46:676][905]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-21.13.46:691][905]LogInit: FAudioDevice initialized.
+[2020.07.10-21.13.46:698][905]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-21.13.46:717][905]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-22.13.46
+[2020.07.10-21.13.46:718][905]LogWorld: Bringing up level for play took: 0.018584
+[2020.07.10-21.13.46:718][905]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2020.07.10-21.13.46:727][905]PIE: Server logged in
+[2020.07.10-21.13.46:727][905]PIE: Play in editor total start time 0.174 seconds.
+[2020.07.10-21.14.37:081][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-21.14.37:081][ 70]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-21.14.37:082][ 70]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-21.14.37:085][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-21.14.37:094][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-21.14.37:098][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-21.14.37:138][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-21.14.37:141][ 70]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023B18C1FC40), frame # 272070
+[2020.07.10-21.14.37:141][ 70]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023B394DE400), frame # 272070
+[2020.07.10-21.14.37:143][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.07.10-21.14.37:181][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2020.07.10-21.15.03:514][382]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.07.10-21.15.03:517][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Levels/First/Level1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.07.10-21.15.03:783][382]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1_Auto10406CB4F472A3B3D512922BA95C439F2.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Levels/First/Level1_Auto1.umap'
+[2020.07.10-21.15.03:785][382]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.316
+[2020.07.10-21.15.03:785][382]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.316
+[2020.07.10-21.15.41:327][608]LogMetaData: Removing '/Game/Characters/AI/Wanderer/Dummy_BT.Dummy_BT:Behavior Tree.BehaviorTreeGraphNode_Root_0' ref from Metadata '/Game/Characters/AI/Dummy/Dummy_BT.PackageMetaData'
+[2020.07.10-21.15.41:339][608]LogMetaData: Removing '/Game/Characters/AI/Wanderer/Dummy_AI.Dummy_AI_C' ref from Metadata '/Game/Characters/AI/Dummy/Dummy_AI.PackageMetaData'
+[2020.07.10-21.15.41:339][608]LogMetaData: Removing '/Game/Characters/AI/Wanderer/Dummy_AI.SKEL_Dummy_AI_C' ref from Metadata '/Game/Characters/AI/Dummy/Dummy_AI.PackageMetaData'
+[2020.07.10-21.15.41:339][608]LogMetaData: Removing '/Game/Characters/AI/Wanderer/Dummy_AI.Dummy_AI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Characters/AI/Dummy/Dummy_AI.PackageMetaData'
+[2020.07.10-21.15.41:339][608]LogMetaData: Removing '/Game/Characters/AI/Wanderer/Dummy_AI.Dummy_AI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Characters/AI/Dummy/Dummy_AI.PackageMetaData'
+[2020.07.10-21.15.41:339][608]LogMetaData: Removing '/Game/Characters/AI/Wanderer/Dummy_AI.Dummy_AI:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Characters/AI/Dummy/Dummy_AI.PackageMetaData'
+[2020.07.10-21.15.41:339][608]LogMetaData: Removing '/Game/Characters/AI/Wanderer/Dummy_AI.Dummy_AI_C:ReceiveBeginPlay' ref from Metadata '/Game/Characters/AI/Dummy/Dummy_AI.PackageMetaData'
+[2020.07.10-21.15.41:339][608]LogMetaData: Removing '/Game/Characters/AI/Wanderer/Dummy_AI.SKEL_Dummy_AI_C:UserConstructionScript' ref from Metadata '/Game/Characters/AI/Dummy/Dummy_AI.PackageMetaData'
+[2020.07.10-21.15.41:339][608]LogMetaData: Removing '/Game/Characters/AI/Wanderer/Dummy_AI.SKEL_Dummy_AI_C:ReceiveTick' ref from Metadata '/Game/Characters/AI/Dummy/Dummy_AI.PackageMetaData'
+[2020.07.10-21.15.41:339][608]LogMetaData: Removing '/Game/Characters/AI/Wanderer/Dummy_AI.SKEL_Dummy_AI_C:ReceiveBeginPlay' ref from Metadata '/Game/Characters/AI/Dummy/Dummy_AI.PackageMetaData'
+[2020.07.10-21.15.41:375][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Wanderer/Dummy_BB" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Wanderer/Dummy_BB.uasset" SILENT=true
+[2020.07.10-21.15.41:378][608]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Dummy_BB4793C6434B9154178BA60781867828E5.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Wanderer/Dummy_BB.uasset'
+[2020.07.10-21.15.41:380][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Wanderer/Dummy_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Wanderer/Dummy_BT.uasset" SILENT=true
+[2020.07.10-21.15.41:385][608]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Dummy_BTF6CD9F6D46A40CE80835A0B611613BF4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Wanderer/Dummy_BT.uasset'
+[2020.07.10-21.15.41:386][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Wanderer/Dummy_AI" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Wanderer/Dummy_AI.uasset" SILENT=true
+[2020.07.10-21.15.41:393][608]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Dummy_AI82620DE341831C990C6A98BF03FAA0CE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Wanderer/Dummy_AI.uasset'
+[2020.07.10-21.15.41:782][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.07.10-21.15.41:802][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-21.15.41:822][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.07.10-21.15.41:848][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.07.10-21.15.41:866][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-21.15.41:946][608]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ReactiveDummy_BT96FF77D64828CD931455D185684198B6.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/ReactiveDummy/ReactiveDummy_BT.uasset'
+[2020.07.10-21.15.41:947][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Regular/Regular_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_BT.uasset" SILENT=true
+[2020.07.10-21.15.42:008][608]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Regular_BT4EA076354ECC89012035D4B86A5F41DC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_BT.uasset'
+[2020.07.10-21.15.42:077][608]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ReactiveDummy_AI2791435645DC03C47960B0A959AB8C13.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/ReactiveDummy/ReactiveDummy_AI.uasset'
+[2020.07.10-21.15.42:079][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Regular/Regular_AI" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_AI.uasset" SILENT=true
+[2020.07.10-21.15.42:146][608]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Regular_AI433AB82F471B07A547044B90EB29D2A1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_AI.uasset'
+[2020.07.10-21.15.42:258][608]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/AI/Wanderer/Dummy_AI.
+[2020.07.10-21.15.42:289][608]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-21.15.42:289][608]LogContentValidation: Display: Validating BlackboardData /Game/Characters/AI/Wanderer/Dummy_BB.Dummy_BB
+[2020.07.10-21.15.42:290][608]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Wanderer/Dummy_BT.Dummy_BT
+[2020.07.10-21.15.42:290][608]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Wanderer/Dummy_AI.Dummy_AI
+[2020.07.10-21.15.42:290][608]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/ReactiveDummy/ReactiveDummy_BT.ReactiveDummy_BT
+[2020.07.10-21.15.42:290][608]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Regular/Regular_BT.Regular_BT
+[2020.07.10-21.15.42:290][608]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/ReactiveDummy/ReactiveDummy_AI.ReactiveDummy_AI
+[2020.07.10-21.15.42:290][608]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Regular/Regular_AI.Regular_AI
+[2020.07.10-21.15.46:675][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.07.10-21.15.46:682][119]LogMetaData: Removing '/Game/Characters/AI/Wanderer/Wanderer_AI.Wanderer_AI_C' ref from Metadata '/Game/Characters/AI/Wanderer/Dummy_AI.PackageMetaData'
+[2020.07.10-21.15.46:682][119]LogMetaData: Removing '/Game/Characters/AI/Wanderer/Wanderer_AI.SKEL_Wanderer_AI_C' ref from Metadata '/Game/Characters/AI/Wanderer/Dummy_AI.PackageMetaData'
+[2020.07.10-21.15.46:682][119]LogMetaData: Removing '/Game/Characters/AI/Wanderer/Wanderer_AI.Wanderer_AI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Characters/AI/Wanderer/Dummy_AI.PackageMetaData'
+[2020.07.10-21.15.46:682][119]LogMetaData: Removing '/Game/Characters/AI/Wanderer/Wanderer_AI.Wanderer_AI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Characters/AI/Wanderer/Dummy_AI.PackageMetaData'
+[2020.07.10-21.15.46:683][119]LogMetaData: Removing '/Game/Characters/AI/Wanderer/Wanderer_AI.Wanderer_AI:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Characters/AI/Wanderer/Dummy_AI.PackageMetaData'
+[2020.07.10-21.15.46:717][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Wanderer/Wanderer_AI" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Wanderer/Wanderer_AI.uasset" SILENT=true
+[2020.07.10-21.15.46:724][119]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Wanderer_AIED17B69F45A7E729D1EB17B7115B26A3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Wanderer/Wanderer_AI.uasset'
+[2020.07.10-21.15.46:901][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.07.10-21.15.46:932][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.07.10-21.15.46:950][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.07.10-21.15.47:014][119]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/AI/Wanderer/Wanderer_AI.
+[2020.07.10-21.15.47:022][119]AssetCheck: New page: Asset Save: Wanderer_AI
+[2020.07.10-21.15.47:022][119]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Wanderer/Wanderer_AI.Wanderer_AI
+[2020.07.10-21.15.50:263][502]LogMetaData: Removing '/Game/Characters/AI/Wanderer/Wanderer_BT.Wanderer_BT:Behavior Tree.BehaviorTreeGraphNode_Root_0' ref from Metadata '/Game/Characters/AI/Wanderer/Dummy_BT.PackageMetaData'
+[2020.07.10-21.15.50:298][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Wanderer/Wanderer_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Wanderer/Wanderer_BT.uasset" SILENT=true
+[2020.07.10-21.15.50:303][502]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Wanderer_BT203BC2A84B37FD976C1E6D95F0021BD8.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Wanderer/Wanderer_BT.uasset'
+[2020.07.10-21.15.50:477][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.07.10-21.15.50:503][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.07.10-21.15.50:521][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-21.15.50:540][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Wanderer/Wanderer_AI" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Wanderer/Wanderer_AI.uasset" SILENT=true
+[2020.07.10-21.15.50:600][502]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Wanderer_AI8CDEBD2848E39ED7EE304FA6FF57D74A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Wanderer/Wanderer_AI.uasset'
+[2020.07.10-21.15.50:665][502]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ReactiveDummy_AI9BA558BA4F178C5F1A5D1DAE13FEA706.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/ReactiveDummy/ReactiveDummy_AI.uasset'
+[2020.07.10-21.15.50:668][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Regular/Regular_AI" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_AI.uasset" SILENT=true
+[2020.07.10-21.15.50:731][502]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Regular_AI5041BA4A4C965568535EFA865EAFAE76.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_AI.uasset'
+[2020.07.10-21.15.50:828][502]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-21.15.50:828][502]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Wanderer/Wanderer_BT.Wanderer_BT
+[2020.07.10-21.15.50:828][502]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Wanderer/Wanderer_AI.Wanderer_AI
+[2020.07.10-21.15.50:828][502]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/ReactiveDummy/ReactiveDummy_AI.ReactiveDummy_AI
+[2020.07.10-21.15.50:828][502]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Regular/Regular_AI.Regular_AI
+[2020.07.10-21.15.54:738][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Wanderer/Wanderer_BB" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Wanderer/Wanderer_BB.uasset" SILENT=true
+[2020.07.10-21.15.54:741][960]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Wanderer_BB62FBA6024F437E83330F8AA0E8E3DBE8.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Wanderer/Wanderer_BB.uasset'
+[2020.07.10-21.15.54:912][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.07.10-21.15.54:940][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.07.10-21.15.54:960][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.10-21.15.54:978][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Wanderer/Wanderer_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Wanderer/Wanderer_BT.uasset" SILENT=true
+[2020.07.10-21.15.55:036][960]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Wanderer_BT011D165745D69FD4A344A297E5B0949C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Wanderer/Wanderer_BT.uasset'
+[2020.07.10-21.15.55:093][960]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ReactiveDummy_BTB86D43674458A76ED900858139DAD5EB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/ReactiveDummy/ReactiveDummy_BT.uasset'
+[2020.07.10-21.15.55:094][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Regular/Regular_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_BT.uasset" SILENT=true
+[2020.07.10-21.15.55:151][960]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Regular_BT4703EE7640DD51569E916BAF96E13ACA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_BT.uasset'
+[2020.07.10-21.15.55:245][960]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-21.15.55:246][960]LogContentValidation: Display: Validating BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB
+[2020.07.10-21.15.55:246][960]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Wanderer/Wanderer_BT.Wanderer_BT
+[2020.07.10-21.15.55:246][960]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/ReactiveDummy/ReactiveDummy_BT.ReactiveDummy_BT
+[2020.07.10-21.15.55:246][960]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Regular/Regular_BT.Regular_BT
+[2020.07.10-21.15.55:549][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Wanderer/Wanderer_BB" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Wanderer/Wanderer_BB.uasset" SILENT=true
+[2020.07.10-21.15.55:607][992]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Wanderer_BB4578123F449FEFBB9DC47D9682DE01C5.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Wanderer/Wanderer_BB.uasset'
+[2020.07.10-21.15.55:620][992]AssetCheck: New page: Asset Save: Wanderer_BB
+[2020.07.10-21.15.55:620][992]LogContentValidation: Display: Validating BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB
+[2020.07.10-21.16.03:920][980]LogMetaData: Removing '/Game/Characters/AI/Arriver/ReactiveDummy_AI.ReactiveDummy_AI_C' ref from Metadata '/Game/Characters/AI/ReactiveDummy/ReactiveDummy_AI.PackageMetaData'
+[2020.07.10-21.16.03:920][980]LogMetaData: Removing '/Game/Characters/AI/Arriver/ReactiveDummy_AI.ReactiveDummy_AI_C:ReceiveBeginPlay' ref from Metadata '/Game/Characters/AI/ReactiveDummy/ReactiveDummy_AI.PackageMetaData'
+[2020.07.10-21.16.03:920][980]LogMetaData: Removing '/Game/Characters/AI/Arriver/ReactiveDummy_AI.SKEL_ReactiveDummy_AI_C' ref from Metadata '/Game/Characters/AI/ReactiveDummy/ReactiveDummy_AI.PackageMetaData'
+[2020.07.10-21.16.03:920][980]LogMetaData: Removing '/Game/Characters/AI/Arriver/ReactiveDummy_AI.SKEL_ReactiveDummy_AI_C:UserConstructionScript' ref from Metadata '/Game/Characters/AI/ReactiveDummy/ReactiveDummy_AI.PackageMetaData'
+[2020.07.10-21.16.03:920][980]LogMetaData: Removing '/Game/Characters/AI/Arriver/ReactiveDummy_AI.SKEL_ReactiveDummy_AI_C:BndEvt__AIPerception_K2Node_ComponentBoundEvent_0_ActorPerceptionUpdatedDelegate__DelegateSignature' ref from Metadata '/Game/Characters/AI/ReactiveDummy/ReactiveDummy_AI.PackageMetaData'
+[2020.07.10-21.16.03:920][980]LogMetaData: Removing '/Game/Characters/AI/Arriver/ReactiveDummy_AI.SKEL_ReactiveDummy_AI_C:ReceiveTick' ref from Metadata '/Game/Characters/AI/ReactiveDummy/ReactiveDummy_AI.PackageMetaData'
+[2020.07.10-21.16.03:920][980]LogMetaData: Removing '/Game/Characters/AI/Arriver/ReactiveDummy_AI.SKEL_ReactiveDummy_AI_C:ReceiveBeginPlay' ref from Metadata '/Game/Characters/AI/ReactiveDummy/ReactiveDummy_AI.PackageMetaData'
+[2020.07.10-21.16.03:961][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Arriver/ReactiveDummy_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/ReactiveDummy_BT.uasset" SILENT=true
+[2020.07.10-21.16.03:968][980]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ReactiveDummy_BT03CF05EB479BE39DB5F7B09E02DEEACA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/ReactiveDummy_BT.uasset'
+[2020.07.10-21.16.03:969][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Arriver/ReactiveDummy_BB" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/ReactiveDummy_BB.uasset" SILENT=true
+[2020.07.10-21.16.03:972][980]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ReactiveDummy_BB6F407387456A6D37D1D6E2BC6AB87C09.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/ReactiveDummy_BB.uasset'
+[2020.07.10-21.16.03:974][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Arriver/ReactiveDummy_AI" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/ReactiveDummy_AI.uasset" SILENT=true
+[2020.07.10-21.16.03:986][980]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ReactiveDummy_AI184D64AE4F2C5F6F7A5DA7AC98D0A3A1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/ReactiveDummy_AI.uasset'
+[2020.07.10-21.16.04:384][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.07.10-21.16.04:404][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.07.10-21.16.04:424][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.07.10-21.16.04:450][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.07.10-21.16.04:469][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-21.16.04:558][980]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/AI/Arriver/ReactiveDummy_AI.
+[2020.07.10-21.16.04:573][980]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-21.16.04:573][980]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Arriver/ReactiveDummy_BT.ReactiveDummy_BT
+[2020.07.10-21.16.04:573][980]LogContentValidation: Display: Validating BlackboardData /Game/Characters/AI/Arriver/ReactiveDummy_BB.ReactiveDummy_BB
+[2020.07.10-21.16.04:573][980]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Arriver/ReactiveDummy_AI.ReactiveDummy_AI
+[2020.07.10-21.16.12:766][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.07.10-21.16.12:773][951]LogMetaData: Removing '/Game/Characters/AI/Arriver/Arriver_AI.Arriver_AI_C' ref from Metadata '/Game/Characters/AI/Arriver/ReactiveDummy_AI.PackageMetaData'
+[2020.07.10-21.16.12:773][951]LogMetaData: Removing '/Game/Characters/AI/Arriver/Arriver_AI.SKEL_Arriver_AI_C' ref from Metadata '/Game/Characters/AI/Arriver/ReactiveDummy_AI.PackageMetaData'
+[2020.07.10-21.16.12:813][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Arriver/Arriver_AI" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_AI.uasset" SILENT=true
+[2020.07.10-21.16.12:826][951]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Arriver_AICAF6BC9644CE393DB494D3B6A394160C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_AI.uasset'
+[2020.07.10-21.16.13:014][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.07.10-21.16.13:043][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.07.10-21.16.13:063][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.07.10-21.16.13:133][951]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/AI/Arriver/Arriver_AI.
+[2020.07.10-21.16.13:141][951]AssetCheck: New page: Asset Save: Arriver_AI
+[2020.07.10-21.16.13:141][951]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Arriver/Arriver_AI.Arriver_AI
+[2020.07.10-21.16.18:036][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Arriver/Arriver_BB" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BB.uasset" SILENT=true
+[2020.07.10-21.16.18:038][530]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Arriver_BBA9F1E7334C71DC806CAB8C888EEE8A1C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BB.uasset'
+[2020.07.10-21.16.18:213][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.07.10-21.16.18:244][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.07.10-21.16.18:263][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.07.10-21.16.18:333][530]AssetCheck: New page: Asset Save: Arriver_BB
+[2020.07.10-21.16.18:333][530]LogContentValidation: Display: Validating BlackboardData /Game/Characters/AI/Arriver/Arriver_BB.Arriver_BB
+[2020.07.10-21.16.18:904][596]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Characters/AI/Arriver/ReactiveDummy_BT.ReactiveDummy_BT
+[2020.07.10-21.16.18:976][596]LogBehaviorTree: Warning: When Not Sensing Player[1]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.16.18:976][596]LogBehaviorTree: Warning: When Sensing Player[6]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.16.20:924][821]LogSlate: Window 'ReactiveDummy_BT' being destroyed
+[2020.07.10-21.16.20:930][821]LogSlate: Window 'ReactiveDummy_BT' being destroyed
+[2020.07.10-21.16.25:638][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Arriver/Arriver_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BT.uasset" SILENT=true
+[2020.07.10-21.16.25:646][377]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Arriver_BTC160CBEF41ABB8E043C470A502E62AA4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BT.uasset'
+[2020.07.10-21.16.25:819][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.07.10-21.16.25:845][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.07.10-21.16.25:864][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-21.16.25:936][377]AssetCheck: New page: Asset Save: Arriver_BT
+[2020.07.10-21.16.25:936][377]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Arriver/Arriver_BT.Arriver_BT
+[2020.07.10-21.16.26:320][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Arriver/Arriver_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BT.uasset" SILENT=true
+[2020.07.10-21.16.26:378][419]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Arriver_BT4BA5F9424EFDBF4DCE9E43B5CAD9DA95.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BT.uasset'
+[2020.07.10-21.16.26:390][419]AssetCheck: New page: Asset Save: Arriver_BT
+[2020.07.10-21.16.26:390][419]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Arriver/Arriver_BT.Arriver_BT
+[2020.07.10-21.16.33:457][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-21.16.33:477][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-21.16.33:684][256]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level11584F1874B2CE6CE8B0D4180E2FF4F30.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-21.16.33:731][256]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-21.16.33:731][256]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-21.16.39:218][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.07.10-21.16.39:224][905]LogMetaData: Removing '/Game/Characters/AI/Regular/Seeker_AI.Seeker_AI_C' ref from Metadata '/Game/Characters/AI/Regular/Regular_AI.PackageMetaData'
+[2020.07.10-21.16.39:225][905]LogMetaData: Removing '/Game/Characters/AI/Regular/Seeker_AI.SKEL_Seeker_AI_C' ref from Metadata '/Game/Characters/AI/Regular/Regular_AI.PackageMetaData'
+[2020.07.10-21.16.39:251][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Regular/Seeker_AI" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Seeker_AI.uasset" SILENT=true
+[2020.07.10-21.16.39:262][905]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seeker_AI23DC81EC4970C6A4FB996E97860BEC86.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Seeker_AI.uasset'
+[2020.07.10-21.16.39:430][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.07.10-21.16.39:458][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.07.10-21.16.39:477][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.10-21.16.39:492][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/WeakKnight" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/WeakKnight.uasset" SILENT=true
+[2020.07.10-21.16.39:594][905]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/WeakKnight478B57FC45089A84D0033C96047B259F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/WeakKnight.uasset'
+[2020.07.10-21.16.39:669][905]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/AI/Regular/Seeker_AI.
+[2020.07.10-21.16.39:681][905]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-21.16.39:681][905]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Regular/Seeker_AI.Seeker_AI
+[2020.07.10-21.16.39:681][905]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/WeakKnight.WeakKnight
+[2020.07.10-21.16.43:890][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Regular/Seeker_BB" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Seeker_BB.uasset" SILENT=true
+[2020.07.10-21.16.43:893][401]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seeker_BB0AEB589B48FABDFA0FE1538484944BF1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Seeker_BB.uasset'
+[2020.07.10-21.16.44:069][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.07.10-21.16.44:095][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.07.10-21.16.44:113][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-21.16.44:184][401]AssetCheck: New page: Asset Save: Seeker_BB
+[2020.07.10-21.16.44:184][401]LogContentValidation: Display: Validating BlackboardData /Game/Characters/AI/Regular/Seeker_BB.Seeker_BB
+[2020.07.10-21.16.48:349][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Regular/Seeker_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Seeker_BT.uasset" SILENT=true
+[2020.07.10-21.16.48:357][891]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seeker_BT011237D047A3774DE0A548AE8135F1C2.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Seeker_BT.uasset'
+[2020.07.10-21.16.48:532][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.10-21.16.48:561][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.07.10-21.16.48:581][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-21.16.48:653][891]AssetCheck: New page: Asset Save: Seeker_BT
+[2020.07.10-21.16.48:653][891]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Regular/Seeker_BT.Seeker_BT
+[2020.07.10-21.16.49:002][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Regular/Seeker_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Seeker_BT.uasset" SILENT=true
+[2020.07.10-21.16.49:063][930]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seeker_BT6F08C26049BA5F3E6A88419026367F85.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Seeker_BT.uasset'
+[2020.07.10-21.16.49:076][930]AssetCheck: New page: Asset Save: Seeker_BT
+[2020.07.10-21.16.49:076][930]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Regular/Seeker_BT.Seeker_BT
