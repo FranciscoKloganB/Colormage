@@ -2659,3 +2659,204 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.10-09.56.37:302][416]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000217C8793400), frame # 530416
 [2020.07.10-09.56.37:305][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
 [2020.07.10-09.56.37:335][417]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.07.10-09.58.51:443][243]LogUObjectHash: Compacting FUObjectHashTables data took   7.10ms
+[2020.07.10-09.58.51:449][243]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.053
+[2020.07.10-09.58.51:450][243]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Players/2DSideScrollerCharacter] ([1] browsable assets)...
+[2020.07.10-09.58.51:450][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Players/2DSideScrollerCharacter]
+[2020.07.10-09.58.51:616][243]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacter_Auto771AA8233446C7FAEF117D483536F0A1A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/Players/2DSideScrollerCharacter_Auto7.uasset'
+[2020.07.10-09.58.51:617][243]LogFileHelpers: Auto-saving content packages took 0.167
+[2020.07.10-10.03.19:678][844]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-10.03.19:773][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.07.10-10.03.20:393][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-10.03.20:524][893]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacter9AA0074E4E039B5005841FB2A2546330.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-10.03.20:539][893]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.07.10-10.03.20:539][893]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-10.09.30:344][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.07.10-10.09.30:346][248]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.028
+[2020.07.10-10.09.30:347][248]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Players/2DSideScrollerCharacter] ([1] browsable assets)...
+[2020.07.10-10.09.30:347][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Players/2DSideScrollerCharacter]
+[2020.07.10-10.09.30:470][248]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacter_Auto8C3F8752442A596EBF8C277B155C544EF.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/Players/2DSideScrollerCharacter_Auto8.uasset'
+[2020.07.10-10.09.30:471][248]LogFileHelpers: Auto-saving content packages took 0.125
+[2020.07.10-10.11.23:120][906]LogEditorTransaction: Undo Delete current selection
+[2020.07.10-10.11.24:284][987]LogEditorTransaction: Undo Move Node
+[2020.07.10-10.11.24:753][ 24]LogEditorTransaction: Undo Move Node
+[2020.07.10-10.11.25:290][ 68]LogEditorTransaction: Undo Create Pin Link
+[2020.07.10-10.11.25:882][119]LogEditorTransaction: Undo Delete current selection
+[2020.07.10-10.11.26:645][188]LogEditorTransaction: Undo Move Node
+[2020.07.10-10.11.27:109][225]LogEditorTransaction: Undo Move Node
+[2020.07.10-10.11.27:675][273]LogEditorTransaction: Undo Delete current selection
+[2020.07.10-10.11.28:210][315]LogEditorTransaction: Undo Add Node
+[2020.07.10-10.11.28:993][381]LogEditorTransaction: Undo Move Nodes
+[2020.07.10-10.16.33:950][  7]LogEditorTransaction: Undo Delete current selection
+[2020.07.10-10.16.56:046][ 97]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-10.16.56:135][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.07.10-10.17.10:259][494]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-10.17.10:347][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.07.10-10.17.10:862][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-10.17.10:985][528]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacter91A6E99248B1251563572F945ADDCEFE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-10.17.11:001][528]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.07.10-10.17.11:001][528]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-10.17.19:931][438]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.10-10.17.19:942][438]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.10-10.17.19:963][438]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-10.17.19:963][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-10.17.26:492][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__10_9366E4204BEE678C679964BD987E223F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__10_.uasset'
+[2020.07.10-10.17.26:504][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__10__Sprite_08D61922343A7E259511FD894A54F1760.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__10__Sprite_0.uasset'
+[2020.07.10-10.17.26:526][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__11_BFDEE044422B6893A6A387840AA23ABB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__11_.uasset'
+[2020.07.10-10.17.26:538][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__11__Sprite_01316B9E649FBCAED58379EAEA53EE6FC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__11__Sprite_0.uasset'
+[2020.07.10-10.17.26:547][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__12_63DCACDF4A103ECB275305994F4D41B9.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__12_.uasset'
+[2020.07.10-10.17.26:559][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__12__Sprite_011FAB62A4FC58CB13BB27483A6D08CBA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__12__Sprite_0.uasset'
+[2020.07.10-10.17.26:569][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__13_112622A34AACD00B6198CDAB4A562419.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__13_.uasset'
+[2020.07.10-10.17.26:581][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__13__Sprite_0DB41585941868302FA5A1DAE557C84E4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__13__Sprite_0.uasset'
+[2020.07.10-10.17.26:590][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__14_495AEAA642EC6A48206EAAB41A6543DA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__14_.uasset'
+[2020.07.10-10.17.26:602][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__14__Sprite_0AFD72D1949ECDC74CF243687541FD86E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__14__Sprite_0.uasset'
+[2020.07.10-10.17.26:611][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__15_6222436E46D53055B3BE9CB04045B553.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__15_.uasset'
+[2020.07.10-10.17.26:623][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__15__Sprite_01673BDF04C6BC017FA9D58A7AD14FEE8.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__15__Sprite_0.uasset'
+[2020.07.10-10.17.26:633][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__1_479BEC2B4C0C09206F14BE96361A9781.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__1_.uasset'
+[2020.07.10-10.17.26:644][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__1__Sprite_02432440440A163F5779B16950D224DDA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__1__Sprite_0.uasset'
+[2020.07.10-10.17.26:654][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__2_E2C13BC54E5302F5589353B2DF4CFF43.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__2_.uasset'
+[2020.07.10-10.17.26:667][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__2__Sprite_0F397F1254877D43C80A76F8F0BAF7336.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__2__Sprite_0.uasset'
+[2020.07.10-10.17.26:677][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__3_9C04E9754189FAD90091C79442EF350C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__3_.uasset'
+[2020.07.10-10.17.26:690][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__3__Sprite_0826908314B8878D0F59EABA41E00D1BC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__3__Sprite_0.uasset'
+[2020.07.10-10.17.26:700][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__4_BE1470504D153CCF7488E9A563AEA996.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__4_.uasset'
+[2020.07.10-10.17.26:712][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__4__Sprite_081FA13BE4B24F687B5B0178EC7457E64.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__4__Sprite_0.uasset'
+[2020.07.10-10.17.26:721][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__5_FE8DE7234187B683834846A1D0BDA5D6.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__5_.uasset'
+[2020.07.10-10.17.26:734][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__5__Sprite_0CC5802504BBB55ABA6E45EA76059E5C7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__5__Sprite_0.uasset'
+[2020.07.10-10.17.26:745][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__6_60C03B3E4D489B809409918D37771D80.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__6_.uasset'
+[2020.07.10-10.17.26:756][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__6__Sprite_01A2ED08C4C6FDB897C288ABB86B1DB41.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__6__Sprite_0.uasset'
+[2020.07.10-10.17.26:765][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__7_E22E83E04B91564B88F939929C3FD39B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__7_.uasset'
+[2020.07.10-10.17.26:777][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__7__Sprite_037E56578440C857DEACFF68C571528D1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__7__Sprite_0.uasset'
+[2020.07.10-10.17.26:787][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__8_4A303B0849B2DC195604CA8C2B82288F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__8_.uasset'
+[2020.07.10-10.17.26:798][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__8__Sprite_064302E9145944E55BFACFE9B3E0ED5CF.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__8__Sprite_0.uasset'
+[2020.07.10-10.17.26:808][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__9_51A1304F4088618202217794B3E2F942.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__9_.uasset'
+[2020.07.10-10.17.26:819][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run__9__Sprite_0978244E1460B976D472176AED9B46DAC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Sprites/Run/Run__9__Sprite_0.uasset'
+[2020.07.10-10.17.30:020][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.07.10-10.17.30:041][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.07.10-10.17.30:060][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-10.17.30:079][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-10.17.30:097][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.10-10.17.30:114][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-10.17.30:132][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.07.10-10.17.30:150][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-10.17.30:168][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-10.17.30:185][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.10-10.17.30:203][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-10.17.30:223][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-10.17.30:241][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.07.10-10.17.30:259][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-10.17.30:277][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.10-10.17.30:294][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.10-10.17.30:312][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.10-10.17.30:329][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.10-10.17.30:347][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-10.17.30:365][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.10-10.17.30:383][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-10.17.30:401][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-10.17.30:419][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-10.17.30:438][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-10.17.30:458][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-10.17.30:475][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.10-10.17.30:493][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.10-10.17.30:511][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-10.17.30:529][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.10-10.17.30:546][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.10-10.17.30:571][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.07.10-10.17.30:589][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.07.10-10.17.30:652][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SprintE21E03AC433FB0F5C2FD74AFA17EDE9E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Flipbooks/Sprint.uasset'
+[2020.07.10-10.17.30:856][182]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-10.17.30:856][182]LogContentValidation: Display: Validating Texture2D /Game/Characters/Players/Animations/Sprites/Run/Run__10_.Run__10_
+[2020.07.10-10.17.30:856][182]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Players/Animations/Sprites/Run/Run__10__Sprite_0.Run__10__Sprite_0
+[2020.07.10-10.17.30:856][182]LogContentValidation: Display: Validating Texture2D /Game/Characters/Players/Animations/Sprites/Run/Run__11_.Run__11_
+[2020.07.10-10.17.30:856][182]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Players/Animations/Sprites/Run/Run__11__Sprite_0.Run__11__Sprite_0
+[2020.07.10-10.17.30:856][182]LogContentValidation: Display: Validating Texture2D /Game/Characters/Players/Animations/Sprites/Run/Run__12_.Run__12_
+[2020.07.10-10.17.30:856][182]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Players/Animations/Sprites/Run/Run__12__Sprite_0.Run__12__Sprite_0
+[2020.07.10-10.17.30:856][182]LogContentValidation: Display: Validating Texture2D /Game/Characters/Players/Animations/Sprites/Run/Run__13_.Run__13_
+[2020.07.10-10.17.30:856][182]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Players/Animations/Sprites/Run/Run__13__Sprite_0.Run__13__Sprite_0
+[2020.07.10-10.17.30:856][182]LogContentValidation: Display: Validating Texture2D /Game/Characters/Players/Animations/Sprites/Run/Run__14_.Run__14_
+[2020.07.10-10.17.30:856][182]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Players/Animations/Sprites/Run/Run__14__Sprite_0.Run__14__Sprite_0
+[2020.07.10-10.17.30:856][182]LogContentValidation: Display: Validating Texture2D /Game/Characters/Players/Animations/Sprites/Run/Run__15_.Run__15_
+[2020.07.10-10.17.30:856][182]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Players/Animations/Sprites/Run/Run__15__Sprite_0.Run__15__Sprite_0
+[2020.07.10-10.17.30:856][182]LogContentValidation: Display: Validating Texture2D /Game/Characters/Players/Animations/Sprites/Run/Run__1_.Run__1_
+[2020.07.10-10.17.30:856][182]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Players/Animations/Sprites/Run/Run__1__Sprite_0.Run__1__Sprite_0
+[2020.07.10-10.17.30:856][182]LogContentValidation: Display: Validating Texture2D /Game/Characters/Players/Animations/Sprites/Run/Run__2_.Run__2_
+[2020.07.10-10.17.30:856][182]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Players/Animations/Sprites/Run/Run__2__Sprite_0.Run__2__Sprite_0
+[2020.07.10-10.17.30:856][182]LogContentValidation: Display: Validating Texture2D /Game/Characters/Players/Animations/Sprites/Run/Run__3_.Run__3_
+[2020.07.10-10.17.30:856][182]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Players/Animations/Sprites/Run/Run__3__Sprite_0.Run__3__Sprite_0
+[2020.07.10-10.17.30:856][182]LogContentValidation: Display: Validating Texture2D /Game/Characters/Players/Animations/Sprites/Run/Run__4_.Run__4_
+[2020.07.10-10.17.30:856][182]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Players/Animations/Sprites/Run/Run__4__Sprite_0.Run__4__Sprite_0
+[2020.07.10-10.17.30:856][182]LogContentValidation: Display: Validating Texture2D /Game/Characters/Players/Animations/Sprites/Run/Run__5_.Run__5_
+[2020.07.10-10.17.30:856][182]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Players/Animations/Sprites/Run/Run__5__Sprite_0.Run__5__Sprite_0
+[2020.07.10-10.17.30:856][182]LogContentValidation: Display: Validating Texture2D /Game/Characters/Players/Animations/Sprites/Run/Run__6_.Run__6_
+[2020.07.10-10.17.30:857][182]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Players/Animations/Sprites/Run/Run__6__Sprite_0.Run__6__Sprite_0
+[2020.07.10-10.17.30:857][182]LogContentValidation: Display: Validating Texture2D /Game/Characters/Players/Animations/Sprites/Run/Run__7_.Run__7_
+[2020.07.10-10.17.30:857][182]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Players/Animations/Sprites/Run/Run__7__Sprite_0.Run__7__Sprite_0
+[2020.07.10-10.17.30:857][182]LogContentValidation: Display: Validating Texture2D /Game/Characters/Players/Animations/Sprites/Run/Run__8_.Run__8_
+[2020.07.10-10.17.30:857][182]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Players/Animations/Sprites/Run/Run__8__Sprite_0.Run__8__Sprite_0
+[2020.07.10-10.17.30:857][182]LogContentValidation: Display: Validating Texture2D /Game/Characters/Players/Animations/Sprites/Run/Run__9_.Run__9_
+[2020.07.10-10.17.30:857][182]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Players/Animations/Sprites/Run/Run__9__Sprite_0.Run__9__Sprite_0
+[2020.07.10-10.17.30:857][182]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/Players/Animations/Flipbooks/Sprint.Sprint
+[2020.07.10-10.17.34:101][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/Animations/Flipbooks/Run" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Flipbooks/Run.uasset" SILENT=true
+[2020.07.10-10.17.34:106][538]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/RunF7249E974D2AFDFDA6450AB21AFE1672.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Animations/Flipbooks/Run.uasset'
+[2020.07.10-10.17.34:289][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.07.10-10.17.34:322][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.07.10-10.17.34:341][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.07.10-10.17.34:363][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-10.17.34:482][538]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacterF483B1424FB35AC852B1BC808F876089.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-10.17.34:552][538]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-10.17.34:552][538]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/Players/Animations/Flipbooks/Run.Run
+[2020.07.10-10.17.34:552][538]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-10.17.36:235][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-10.17.36:255][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.07.10-10.17.36:433][734]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level16674F9B649E0C537EC842CB32A738C6E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-10.17.36:479][734]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-10.17.36:479][734]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-10.17.41:760][358]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-10.17.41:776][358]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.07.10-10.17.41:781][358]LogPlayLevel: [PlayLevel] Compiling 2DSideScrollerCharacter before play...
+[2020.07.10-10.17.41:849][358]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.07.10-10.17.41:851][358]LogPlayLevel: PlayLevel: Blueprint regeneration took 74 ms (1 blueprints)
+[2020.07.10-10.17.41:851][358]PIE: New page: PIE session: Level1 (Jul 10, 2020, 12:17:41 PM)
+[2020.07.10-10.17.41:851][358]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-10.17.41:882][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031000s)
+[2020.07.10-10.17.41:883][358]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-10.17.41:883][358]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021808774600), frame # 608358
+[2020.07.10-10.17.41:883][358]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021808CDB380), frame # 608358
+[2020.07.10-10.17.41:884][358]LogPlayLevel: PIE: World Init took: (0.001435s)
+[2020.07.10-10.17.41:884][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.032644s)
+[2020.07.10-10.17.41:903][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.07.10-10.17.41:904][358]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-10.17.41:904][358]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-10.17.41:904][358]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-10.17.41:904][358]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-10.17.41:904][358]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-10.17.41:904][358]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-10.17.41:904][358]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-10.17.41:904][358]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-10.17.41:905][358]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-10.17.41:905][358]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-10.17.41:916][358]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-10.17.41:916][358]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-10.17.41:949][358]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-10.17.41:950][358]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-10.17.41:950][358]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-10.17.41:950][358]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-10.17.41:950][358]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-10.17.41:964][358]LogInit: FAudioDevice initialized.
+[2020.07.10-10.17.41:973][358]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-10.17.41:992][358]LogPhysics: Warning: Scale for /Game/Levels/First/UEDPIE_0_Level1.Level1:PersistentLevel.Tile52.PaperSprite14 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=-1.000
+[2020.07.10-10.17.41:993][358]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-11.17.41
+[2020.07.10-10.17.41:993][358]LogWorld: Bringing up level for play took: 0.018790
+[2020.07.10-10.17.41:994][358]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2020.07.10-10.17.42:001][358]PIE: Server logged in
+[2020.07.10-10.17.42:001][358]PIE: Play in editor total start time 0.226 seconds.
+[2020.07.10-10.17.58:803][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-10.17.58:803][363]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-10.17.58:803][363]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-10.17.58:806][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-10.17.58:814][363]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-10.17.58:818][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-10.17.58:839][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-10.17.58:862][363]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021808CDB380), frame # 610363
+[2020.07.10-10.17.58:863][363]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021808774600), frame # 610363
+[2020.07.10-10.17.58:866][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.07.10-10.17.58:913][364]LogPlayLevel: Display: Destroying online subsystem :Context_40
