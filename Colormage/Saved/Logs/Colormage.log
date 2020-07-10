@@ -9314,3 +9314,6 @@ Make sure 'KnightV1Character_C' has been compiled for  On Spell Casted
 [2020.07.10-16.58.04:188][872]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetWanderLocationD4B0672442192A35AF1B4FAAF6F78A54.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/GetWanderLocation.uasset'
 [2020.07.10-16.58.04:206][872]AssetCheck: New page: Asset Save: GetWanderLocation
 [2020.07.10-16.58.04:206][872]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/GetWanderLocation.GetWanderLocation
+[2020.07.10-17.04.08:561][252]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetWanderLocationC55F40FE420E5529E323FABD46185B73.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/GetWanderLocation.uasset'
+[2020.07.10-17.04.08:580][252]AssetCheck: New page: Asset Save: GetWanderLocation
+[2020.07.10-17.04.08:580][252]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/GetWanderLocation.GetWanderLocation
