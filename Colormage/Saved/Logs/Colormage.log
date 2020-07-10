@@ -2926,3 +2926,40 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.10-10.22.08:365][355]LogPlayLevel: Display: Destroying online subsystem :Context_42
 [2020.07.10-10.27.30:570][838]BlueprintLog: New page: Compile 2DSideScrollerCharacter
 [2020.07.10-10.27.30:670][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.07.10-10.27.43:143][131]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.10-10.27.43:148][131]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.10-10.27.43:148][131]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-10.27.43:148][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-10.28.16:950][679]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.10-10.28.16:954][679]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.10-10.28.55:811][164]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.07.10-10.28.55:815][164]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.035
+[2020.07.10-10.28.55:816][164]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Players/2DSideScrollerCharacter] ([1] browsable assets)...
+[2020.07.10-10.28.55:816][164]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Players/2DSideScrollerCharacter]
+[2020.07.10-10.28.55:999][164]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacter_Auto9FEABEA004FDA99B5CE977CA4CA142C5C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/Players/2DSideScrollerCharacter_Auto9.uasset'
+[2020.07.10-10.28.56:000][164]LogFileHelpers: Auto-saving content packages took 0.185
+[2020.07.10-10.29.14:111][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-10.29.14:237][595]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacterDB26FAF047350F74E473E0A5F6C58648.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-10.29.14:259][595]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.07.10-10.29.14:259][595]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-10.29.15:126][696]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-10.41.13:909][311]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-10.41.14:005][311]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.07.10-10.41.18:532][802]LogEditorTransaction: Undo Delete current selection
+[2020.07.10-10.41.18:964][818]LogEditorTransaction: Undo Remove Parameter
+[2020.07.10-10.41.19:732][895]LogEditorTransaction: Undo Remove Parameter
+[2020.07.10-10.41.20:705][997]LogEditorTransaction: Undo Add Out Parameter
+[2020.07.10-10.45.47:315][ 75]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-10.45.47:413][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.07.10-10.46.24:959][934]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-10.46.25:053][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.07.10-10.46.25:488][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-10.46.25:620][966]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacterFC04A7AD4808BEA760792390D832DE30.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-10.46.25:639][966]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.07.10-10.46.25:639][966]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-10.47.03:768][882]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-10.47.03:856][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.07.10-10.47.04:670][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-10.47.04:795][958]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacter40EDA34C4E28BB83F5FA2380672F44E8.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-10.47.04:812][958]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.07.10-10.47.04:812][958]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
