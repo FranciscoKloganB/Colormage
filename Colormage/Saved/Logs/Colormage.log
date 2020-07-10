@@ -7679,3 +7679,8 @@ Make sure 'KnightV1Character_C' has been compiled for  On Spell Casted
 [2020.07.10-13.43.35:787][956]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
 [2020.07.10-13.43.42:512][455]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
 [2020.07.10-13.43.42:512][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-13.57.16:262][290]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.10-13.57.16:268][290]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.10-13.57.16:302][290]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.10-13.57.16:302][290]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-13.57.16:302][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
