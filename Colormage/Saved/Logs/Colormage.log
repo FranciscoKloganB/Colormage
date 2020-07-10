@@ -1637,3 +1637,67 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.10-20.34.03:156][714]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023B3E88E800), frame # 114714
 [2020.07.10-20.34.03:159][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
 [2020.07.10-20.34.03:203][715]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.07.10-20.34.30:295][ 70]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Characters/AI/ReactiveDummy/ReactiveDummy_BB.ReactiveDummy_BB
+[2020.07.10-20.35.00:611][300]LogSlate: Window 'ReactiveDummy_BB' being destroyed
+[2020.07.10-20.35.00:615][300]LogSlate: Window 'ReactiveDummy_BB' being destroyed
+[2020.07.10-20.35.02:205][486]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Characters/AI/ReactiveDummy/ReactiveDummy_BT.ReactiveDummy_BT
+[2020.07.10-20.36.30:688][882]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ReactiveDummy_BTFAD10DA14C6E95F969F0B9B72860839C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/ReactiveDummy/ReactiveDummy_BT.uasset'
+[2020.07.10-20.36.30:701][882]AssetCheck: New page: Asset Save: ReactiveDummy_BT
+[2020.07.10-20.36.30:701][882]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/ReactiveDummy/ReactiveDummy_BT.ReactiveDummy_BT
+[2020.07.10-20.37.10:340][549]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ReactiveDummy_BT0A8FE5854A5F55CCBFF57CA7404D53B6.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/ReactiveDummy/ReactiveDummy_BT.uasset'
+[2020.07.10-20.37.10:355][549]AssetCheck: New page: Asset Save: ReactiveDummy_BT
+[2020.07.10-20.37.10:355][549]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/ReactiveDummy/ReactiveDummy_BT.ReactiveDummy_BT
+[2020.07.10-20.37.19:727][612]LogSlate: Window 'ReactiveDummy_BT' being destroyed
+[2020.07.10-20.37.19:734][612]LogSlate: Window 'ReactiveDummy_BT' being destroyed
+[2020.07.10-20.37.49:072][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-20.37.49:096][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.07.10-20.37.49:308][ 67]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1B3EA95124A2A19F7317C53BD708982CA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-20.37.49:357][ 67]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-20.37.49:357][ 67]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-20.37.53:660][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.07.10-20.37.53:677][571]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Characters/AI/Regular/ReactiveDummy_AI.
+[2020.07.10-20.38.01:262][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.07.10-20.38.01:268][443]LogMetaData: Removing '/Game/Characters/AI/Regular/Regular_AI.SKEL_Regular_AI_C' ref from Metadata '/Game/Characters/AI/Regular/ReactiveDummy_AI.PackageMetaData'
+[2020.07.10-20.38.01:268][443]LogMetaData: Removing '/Game/Characters/AI/Regular/Regular_AI.Regular_AI_C' ref from Metadata '/Game/Characters/AI/Regular/ReactiveDummy_AI.PackageMetaData'
+[2020.07.10-20.38.01:296][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Regular/Regular_AI" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_AI.uasset" SILENT=true
+[2020.07.10-20.38.01:308][443]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Regular_AI1863F7B64DA8B14029D85292810D57E1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_AI.uasset'
+[2020.07.10-20.38.01:480][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.07.10-20.38.01:507][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.07.10-20.38.01:527][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.07.10-20.38.01:590][443]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/AI/Regular/Regular_AI.
+[2020.07.10-20.38.01:598][443]AssetCheck: New page: Asset Save: Regular_AI
+[2020.07.10-20.38.01:599][443]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Regular/Regular_AI.Regular_AI
+[2020.07.10-20.38.06:164][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Regular/Regular_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_BT.uasset" SILENT=true
+[2020.07.10-20.38.06:170][985]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Regular_BT46829FC946FA5EA7B17A0DBCFBE8D80A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_BT.uasset'
+[2020.07.10-20.38.06:335][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.07.10-20.38.06:364][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.07.10-20.38.06:383][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.07.10-20.38.06:448][985]AssetCheck: New page: Asset Save: Regular_BT
+[2020.07.10-20.38.06:448][985]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Regular/Regular_BT.Regular_BT
+[2020.07.10-20.38.09:470][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Regular/Regular_BB" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_BB.uasset" SILENT=true
+[2020.07.10-20.38.09:473][339]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Regular_BB4BCBB7AC4EC1F27EFBD732AF9C0FE698.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_BB.uasset'
+[2020.07.10-20.38.09:640][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.07.10-20.38.09:666][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.07.10-20.38.09:683][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-20.38.09:748][339]AssetCheck: New page: Asset Save: Regular_BB
+[2020.07.10-20.38.09:748][339]LogContentValidation: Display: Validating BlackboardData /Game/Characters/AI/Regular/Regular_BB.Regular_BB
+[2020.07.10-20.38.10:130][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Regular/Regular_BB" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_BB.uasset" SILENT=true
+[2020.07.10-20.38.10:182][382]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Regular_BB7168230B45DA4B8BD342B4927BB27329.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_BB.uasset'
+[2020.07.10-20.38.10:195][382]AssetCheck: New page: Asset Save: Regular_BB
+[2020.07.10-20.38.10:195][382]LogContentValidation: Display: Validating BlackboardData /Game/Characters/AI/Regular/Regular_BB.Regular_BB
+[2020.07.10-20.38.14:786][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-20.38.14:804][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.07.10-20.38.15:019][923]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1A37E32114B7D011C6B460BA52B745B15.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-20.38.15:065][923]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-20.38.15:065][923]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-20.38.24:761][650]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/AI/Regular/Regular_AI.Regular_AI
+[2020.07.10-20.38.25:152][650]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Characters/AI/Regular/Regular_BB.Regular_BB
+[2020.07.10-20.38.25:238][650]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Characters/AI/Regular/Regular_BT.Regular_BT
+[2020.07.10-20.38.44:486][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Regular/Regular_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_BT.uasset" SILENT=true
+[2020.07.10-20.38.44:546][707]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Regular_BTF88837BA4A887D93335858A131924ED3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_BT.uasset'
+[2020.07.10-20.38.44:558][707]AssetCheck: New page: Asset Save: Regular_BT
+[2020.07.10-20.38.44:558][707]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Regular/Regular_BT.Regular_BT
+[2020.07.10-20.39.03:478][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Regular/Regular_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_BT.uasset" SILENT=true
+[2020.07.10-20.39.03:536][743]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Regular_BT4CDFE1794F2A1F39C2599E82EAF2E0D3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_BT.uasset'
+[2020.07.10-20.39.03:548][743]AssetCheck: New page: Asset Save: Regular_BT
+[2020.07.10-20.39.03:548][743]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Regular/Regular_BT.Regular_BT
