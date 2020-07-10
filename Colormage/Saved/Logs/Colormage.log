@@ -2608,3 +2608,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.10-21.08.32:895][480]AssetCheck: New page: Asset Save: Regular_BT
 [2020.07.10-21.08.32:895][480]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Regular/Regular_BT.Regular_BT
 [2020.07.10-21.08.47:569][854]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/WeakKnight.WeakKnight
+[2020.07.10-21.10.54:647][ 74]LogBehaviorTree: Warning: When Not Sensing Player[1]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Dummy/Dummy_BB.Dummy_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.10.54:647][ 74]LogBehaviorTree: Warning: When Sensing Player[6]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Dummy/Dummy_BB.Dummy_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.10.55:594][186]LogBehaviorTree: Warning: When Not Sensing Player[1]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Dummy/Dummy_BB.Dummy_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.10.55:594][186]LogBehaviorTree: Warning: When Sensing Player[6]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Dummy/Dummy_BB.Dummy_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.10.55:612][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Regular/Regular_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_BT.uasset" SILENT=true
+[2020.07.10-21.10.55:670][186]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Regular_BT155982AD4D4519E9D9A1F18CA7B7C3A1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_BT.uasset'
+[2020.07.10-21.10.55:683][186]AssetCheck: New page: Asset Save: Regular_BT
+[2020.07.10-21.10.55:683][186]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Regular/Regular_BT.Regular_BT
+[2020.07.10-21.11.05:889][392]LogBehaviorTree: Warning: When Not Sensing Player[1]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Dummy/Dummy_BB.Dummy_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.11.05:889][392]LogBehaviorTree: Warning: When Sensing Player[6]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Dummy/Dummy_BB.Dummy_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.11.05:909][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Regular/Regular_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_BT.uasset" SILENT=true
+[2020.07.10-21.11.05:970][392]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Regular_BT6C664FF74CB0B6FBE6C19DB34E519173.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_BT.uasset'
+[2020.07.10-21.11.05:986][392]AssetCheck: New page: Asset Save: Regular_BT
+[2020.07.10-21.11.05:986][392]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Regular/Regular_BT.Regular_BT
