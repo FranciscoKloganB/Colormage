@@ -902,3 +902,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.10-08.13.41:796][395]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002179A73E200), frame # 118395
 [2020.07.10-08.13.41:815][395]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
 [2020.07.10-08.13.41:859][396]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.07.10-08.28.28:309][961]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-08.28.28:408][961]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.07.10-08.28.28:823][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-08.28.28:938][  1]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacterA34EACFC46C73FE27496D88EE8001AC3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-08.28.28:958][  1]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.07.10-08.28.28:958][  1]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
