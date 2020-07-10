@@ -3273,3 +3273,510 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.10-21.35.24:951][949]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
 [2020.07.10-21.35.31:350][587]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
 [2020.07.10-21.35.31:350][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-21.36.37:350][757]LogEditorViewport: Clicking on Actor (LMB): StrongKnight_C (StrongKnight)
+[2020.07.10-21.36.45:428][709]LogEditorViewport: Clicking on Actor (LMB): StrongKnight_C (StrongKnight)
+[2020.07.10-21.36.49:748][216]LogEditorViewport: Clicking on Actor (LMB): StrongKnight_C (StrongKnight)
+[2020.07.10-21.36.56:175][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-21.36.56:210][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.07.10-21.36.56:427][954]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level19AB5BA65492AB08A967853A98E8FFA71.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-21.36.56:474][954]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-21.36.56:474][954]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-21.36.58:983][239]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-21.36.59:014][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-21.36.59:015][239]PIE: New page: PIE session: Level1 (Jul 10, 2020, 11:36:59 PM)
+[2020.07.10-21.36.59:015][239]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-21.36.59:050][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034928s)
+[2020.07.10-21.36.59:051][239]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-21.36.59:051][239]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023B2C1C0C00), frame # 363239
+[2020.07.10-21.36.59:051][239]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023AF159AAC0), frame # 363239
+[2020.07.10-21.36.59:051][239]LogPlayLevel: PIE: World Init took: (0.001804s)
+[2020.07.10-21.36.59:052][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.036906s)
+[2020.07.10-21.36.59:078][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.07.10-21.36.59:080][239]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-21.36.59:080][239]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-21.36.59:080][239]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-21.36.59:080][239]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-21.36.59:080][239]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-21.36.59:080][239]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-21.36.59:080][239]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-21.36.59:080][239]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-21.36.59:081][239]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-21.36.59:081][239]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-21.36.59:098][239]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-21.36.59:098][239]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-21.36.59:130][239]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-21.36.59:130][239]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-21.36.59:130][239]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-21.36.59:130][239]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-21.36.59:130][239]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-21.36.59:141][239]LogInit: FAudioDevice initialized.
+[2020.07.10-21.36.59:146][239]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-21.36.59:163][239]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-22.36.59
+[2020.07.10-21.36.59:164][239]LogWorld: Bringing up level for play took: 0.017094
+[2020.07.10-21.36.59:164][239]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2020.07.10-21.36.59:172][239]PIE: Server logged in
+[2020.07.10-21.36.59:173][239]PIE: Play in editor total start time 0.174 seconds.
+[2020.07.10-21.37.23:594][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-21.37.23:594][160]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-21.37.23:594][160]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-21.37.23:597][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-21.37.23:611][160]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-21.37.23:615][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-21.37.23:658][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-21.37.23:660][160]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023AF159AAC0), frame # 366160
+[2020.07.10-21.37.23:660][160]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023B2C1C0C00), frame # 366160
+[2020.07.10-21.37.23:663][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.07.10-21.37.23:705][161]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2020.07.10-21.38.04:433][370]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.10-21.38.04:433][370]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.10-21.38.13:575][456]LogSlate: Window 'Patroller_BT' being destroyed
+[2020.07.10-21.38.13:581][456]LogSlate: Window 'Patroller_BT' being destroyed
+[2020.07.10-21.38.13:581][456]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.10-21.38.13:581][456]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-21.38.13:581][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-21.38.13:643][456]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.10-21.38.13:643][456]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-21.38.13:643][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-21.38.17:436][893]LogEditorViewport: Clicking on Actor (LMB): StrongKnight_C (StrongKnight)
+[2020.07.10-21.38.17:976][948]LogEditorViewport: Clicking on Actor (LMB): StrongKnight_C (StrongKnight)
+[2020.07.10-21.38.29:539][ 14]LogEditorViewport: Clicking Background
+[2020.07.10-21.38.30:550][132]LogEditorViewport: Clicking on Actor (LMB): StrongKnight_C (StrongKnight)
+[2020.07.10-21.38.38:792][ 97]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV3/StrongKnight.StrongKnight
+[2020.07.10-21.38.47:732][917]LogSlate: Window 'StrongKnight' being destroyed
+[2020.07.10-21.38.47:740][917]LogSlate: Window 'StrongKnight' being destroyed
+[2020.07.10-21.38.47:740][917]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-21.38.47:740][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-21.39.04:168][867]LogEditorViewport: Clicking on Actor (LMB): WeakKnight_C (KnightV1Character)
+[2020.07.10-21.39.08:239][343]LogEditorViewport: Clicking on Actor (LMB): WeakKnight_C (KnightV1Character)
+[2020.07.10-21.39.29:023][802]LogEditorViewport: Clicking on Actor (LMB): WeakKnight_C (KnightV1Character)
+[2020.07.10-21.39.31:564][102]Cmd: DELETE
+[2020.07.10-21.39.31:564][102]Cmd: ACTOR DELETE
+[2020.07.10-21.39.31:573][102]LogEditorActor: Deleted Actor: WeakKnight_C
+[2020.07.10-21.39.31:600][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.07.10-21.39.31:604][102]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.07.10-21.39.32:948][263]LogEditorViewport: Clicking on Actor (LMB): WeakKnight_C (WeakKnight)
+[2020.07.10-21.39.39:903][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-21.39.39:925][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.07.10-21.39.40:132][ 87]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1D617D52047BB5FAAC92BB7830BA344B8.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-21.39.40:183][ 87]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-21.39.40:183][ 87]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-21.39.54:517][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-21.39.54:541][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.07.10-21.39.54:754][766]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level13AC3476B46FA87C5E2E3229EBE4BE473.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-21.39.54:804][766]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-21.39.54:804][766]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-21.40.02:952][698]LogEditorViewport: Clicking Background
+[2020.07.10-21.40.03:157][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-21.40.03:177][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.07.10-21.40.03:391][716]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1A61BAC384ECC2D5C978179965C29EFEE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-21.40.03:437][716]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-21.40.03:437][716]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-21.40.03:684][744]LogEditorViewport: Clicking on Actor (LMB): RegularKnight_C (RegularKnight)
+[2020.07.10-21.40.04:437][830]LogEditorViewport: Clicking on Actor (LMB): RegularKnight_C (RegularKnight)
+[2020.07.10-21.40.07:731][220]LogEditorViewport: Clicking on Actor (LMB): Tile2x4_C (Tile2x4)
+[2020.07.10-21.40.18:460][476]LogEditorViewport: Clicking on Actor (LMB): Tile5x2by2_C (Tile5x2by9)
+[2020.07.10-21.40.22:428][869]LogEditorViewport: Clicking on Actor (LMB): Tile8_C (Tile16)
+[2020.07.10-21.40.29:212][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-21.40.29:233][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.07.10-21.40.29:434][650]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1943B6AB640F0F220A43B1B8D36483B49.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-21.40.29:481][650]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-21.40.29:481][650]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-21.40.59:968][196]LogEditorViewport: Clicking on Actor (LMB): StrongKnight_C (StrongKnight)
+[2020.07.10-21.41.01:899][416]LogEditorViewport: Clicking on Actor (LMB): WeakKnight_C (WeakKnight)
+[2020.07.10-21.41.04:388][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-21.41.04:409][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.07.10-21.41.04:617][700]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level187A5DB1948C8DC353D17858C3AD8CEA4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-21.41.04:665][700]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-21.41.04:665][700]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-21.41.07:439][ 26]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-21.41.07:455][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-21.41.07:455][ 26]PIE: New page: PIE session: Level1 (Jul 10, 2020, 11:41:07 PM)
+[2020.07.10-21.41.07:456][ 26]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-21.41.07:489][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033612s)
+[2020.07.10-21.41.07:490][ 26]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-21.41.07:490][ 26]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023B38DBE000), frame # 387026
+[2020.07.10-21.41.07:490][ 26]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023B2B027740), frame # 387026
+[2020.07.10-21.41.07:491][ 26]LogPlayLevel: PIE: World Init took: (0.001225s)
+[2020.07.10-21.41.07:491][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.034996s)
+[2020.07.10-21.41.07:510][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.07.10-21.41.07:512][ 26]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-21.41.07:512][ 26]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-21.41.07:512][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-21.41.07:512][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-21.41.07:512][ 26]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-21.41.07:512][ 26]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-21.41.07:512][ 26]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-21.41.07:512][ 26]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-21.41.07:512][ 26]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-21.41.07:512][ 26]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-21.41.07:522][ 26]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-21.41.07:522][ 26]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-21.41.07:553][ 26]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-21.41.07:553][ 26]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-21.41.07:553][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-21.41.07:553][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-21.41.07:554][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-21.41.07:568][ 26]LogInit: FAudioDevice initialized.
+[2020.07.10-21.41.07:575][ 26]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-21.41.07:594][ 26]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-22.41.07
+[2020.07.10-21.41.07:595][ 26]LogWorld: Bringing up level for play took: 0.018103
+[2020.07.10-21.41.07:595][ 26]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2020.07.10-21.41.07:605][ 26]PIE: Server logged in
+[2020.07.10-21.41.07:606][ 26]PIE: Play in editor total start time 0.151 seconds.
+[2020.07.10-21.41.34:120][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-21.41.34:120][193]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-21.41.34:121][193]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-21.41.34:124][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-21.41.34:134][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-21.41.34:138][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-21.41.34:159][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-21.41.34:182][193]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023B2B027740), frame # 390193
+[2020.07.10-21.41.34:182][193]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023B38DBE000), frame # 390193
+[2020.07.10-21.41.34:186][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.07.10-21.41.34:231][194]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2020.07.10-21.41.35:535][346]LogEditorViewport: Clicking on Actor (LMB): RegularKnight_C (RegularKnight)
+[2020.07.10-21.43.04:350][121]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.10-21.43.04:350][121]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.10-21.43.04:556][121]LogEditorViewport: Clicking Background
+[2020.07.10-21.43.06:321][331]LogEditorViewport: Clicking on Actor (LMB): RegularKnight_C (RegularKnight)
+[2020.07.10-21.43.34:037][611]LogMetaData: Removing '/Game/Characters/AI/Seeker/Seeker_AI.Seeker_AI_C' ref from Metadata '/Game/Characters/AI/Regular/Seeker_AI.PackageMetaData'
+[2020.07.10-21.43.34:037][611]LogMetaData: Removing '/Game/Characters/AI/Seeker/Seeker_AI.SKEL_Seeker_AI_C' ref from Metadata '/Game/Characters/AI/Regular/Seeker_AI.PackageMetaData'
+[2020.07.10-21.43.34:038][611]LogMetaData: Removing '/Game/Characters/AI/Seeker/Seeker_AI.SKEL_Seeker_AI_C:ReceiveBeginPlay' ref from Metadata '/Game/Characters/AI/Regular/Seeker_AI.PackageMetaData'
+[2020.07.10-21.43.34:038][611]LogMetaData: Removing '/Game/Characters/AI/Seeker/Seeker_AI.SKEL_Seeker_AI_C:ReceiveTick' ref from Metadata '/Game/Characters/AI/Regular/Seeker_AI.PackageMetaData'
+[2020.07.10-21.43.34:038][611]LogMetaData: Removing '/Game/Characters/AI/Seeker/Seeker_AI.SKEL_Seeker_AI_C:BndEvt__AIPerception_K2Node_ComponentBoundEvent_0_ActorPerceptionUpdatedDelegate__DelegateSignature' ref from Metadata '/Game/Characters/AI/Regular/Seeker_AI.PackageMetaData'
+[2020.07.10-21.43.34:038][611]LogMetaData: Removing '/Game/Characters/AI/Seeker/Seeker_AI.SKEL_Seeker_AI_C:UserConstructionScript' ref from Metadata '/Game/Characters/AI/Regular/Seeker_AI.PackageMetaData'
+[2020.07.10-21.43.34:038][611]LogMetaData: Removing '/Game/Characters/AI/Seeker/Seeker_AI.Seeker_AI_C:ReceiveBeginPlay' ref from Metadata '/Game/Characters/AI/Regular/Seeker_AI.PackageMetaData'
+[2020.07.10-21.43.34:068][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Seeker/Seeker_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BT.uasset" SILENT=true
+[2020.07.10-21.43.34:075][611]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seeker_BTC396DEF4477E59E3B71CED93E82360AB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BT.uasset'
+[2020.07.10-21.43.34:077][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Seeker/Seeker_BB" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BB.uasset" SILENT=true
+[2020.07.10-21.43.34:079][611]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seeker_BB74927E2D44F11091CF3CE794B0463C41.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BB.uasset'
+[2020.07.10-21.43.34:081][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Seeker/Seeker_AI" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_AI.uasset" SILENT=true
+[2020.07.10-21.43.34:109][611]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seeker_AI94C95D89442659BCFCA61B972ACAC17E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_AI.uasset'
+[2020.07.10-21.43.34:489][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.07.10-21.43.34:510][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.07.10-21.43.34:528][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.07.10-21.43.34:557][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.07.10-21.43.34:575][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-21.43.34:596][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV2/RegularKnight" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/RegularKnight.uasset" SILENT=true
+[2020.07.10-21.43.34:697][611]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/RegularKnight000341EE46FB30A8D555A2AD6DBFB5AB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/RegularKnight.uasset'
+[2020.07.10-21.43.34:800][611]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/AI/Seeker/Seeker_AI.
+[2020.07.10-21.43.34:820][611]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-21.43.34:820][611]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Seeker/Seeker_BT.Seeker_BT
+[2020.07.10-21.43.34:821][611]LogContentValidation: Display: Validating BlackboardData /Game/Characters/AI/Seeker/Seeker_BB.Seeker_BB
+[2020.07.10-21.43.34:821][611]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Seeker/Seeker_AI.Seeker_AI
+[2020.07.10-21.43.34:821][611]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV2/RegularKnight.RegularKnight
+[2020.07.10-21.43.35:527][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-21.43.35:548][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.07.10-21.43.35:744][690]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1D94426F24404B30C068A9CBB1AE89A6D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-21.43.35:790][690]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-21.43.35:791][690]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-21.43.46:133][927]LogEditorViewport: Clicking on Actor (LMB): WeakKnight_C (WeakKnight)
+[2020.07.10-21.43.49:472][314]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/WeakKnight.WeakKnight
+[2020.07.10-21.43.52:496][527]LogSlate: Window 'WeakKnight' being destroyed
+[2020.07.10-21.43.52:506][527]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-21.43.52:506][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-21.43.56:222][951]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV2/RegularKnight.RegularKnight
+[2020.07.10-21.44.00:712][385]BlueprintLog: New page: Compile RegularKnight
+[2020.07.10-21.44.00:785][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.07.10-21.44.02:896][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV2/RegularKnight" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/RegularKnight.uasset" SILENT=true
+[2020.07.10-21.44.02:998][599]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/RegularKnightCFFFC4794FEAA4685019A9BA681760B0.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/RegularKnight.uasset'
+[2020.07.10-21.44.03:015][599]AssetCheck: New page: Asset Save: RegularKnight
+[2020.07.10-21.44.03:015][599]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV2/RegularKnight.RegularKnight
+[2020.07.10-21.44.03:610][663]LogSlate: Window 'RegularKnight' being destroyed
+[2020.07.10-21.44.03:618][663]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-21.44.03:618][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-21.44.06:925][ 43]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/WeakKnight.WeakKnight
+[2020.07.10-21.44.08:714][153]LogSlate: Window 'WeakKnight' being destroyed
+[2020.07.10-21.44.08:724][153]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-21.44.08:724][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-21.44.12:753][615]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV3/StrongKnight.StrongKnight
+[2020.07.10-21.44.15:913][849]BlueprintLog: New page: Compile StrongKnight
+[2020.07.10-21.44.15:985][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.07.10-21.44.18:880][113]LogSlate: Window 'StrongKnight' being destroyed
+[2020.07.10-21.44.18:890][113]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-21.44.18:890][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-21.49.01:406][373]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-21.49.01:423][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-21.49.01:423][373]PIE: New page: PIE session: Level1 (Jul 10, 2020, 11:49:01 PM)
+[2020.07.10-21.49.01:423][373]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-21.49.01:457][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033845s)
+[2020.07.10-21.49.01:458][373]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-21.49.01:458][373]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023B5D487200), frame # 400373
+[2020.07.10-21.49.01:458][373]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023B2FB9A0C0), frame # 400373
+[2020.07.10-21.49.01:458][373]LogPlayLevel: PIE: World Init took: (0.001310s)
+[2020.07.10-21.49.01:458][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.035324s)
+[2020.07.10-21.49.01:483][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.07.10-21.49.01:485][373]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-21.49.01:485][373]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-21.49.01:485][373]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-21.49.01:485][373]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-21.49.01:485][373]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-21.49.01:486][373]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-21.49.01:486][373]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-21.49.01:486][373]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-21.49.01:486][373]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-21.49.01:486][373]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-21.49.01:496][373]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-21.49.01:496][373]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-21.49.01:528][373]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-21.49.01:528][373]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-21.49.01:528][373]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-21.49.01:528][373]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-21.49.01:529][373]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-21.49.01:542][373]LogInit: FAudioDevice initialized.
+[2020.07.10-21.49.01:550][373]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-21.49.01:568][373]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-22.49.01
+[2020.07.10-21.49.01:569][373]LogWorld: Bringing up level for play took: 0.018243
+[2020.07.10-21.49.01:570][373]LogOnline: OSS: Creating online subsystem instance for: :Context_73
+[2020.07.10-21.49.01:581][373]PIE: Server logged in
+[2020.07.10-21.49.01:582][373]PIE: Play in editor total start time 0.16 seconds.
+[2020.07.10-21.49.28:250][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-21.49.28:250][564]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-21.49.28:251][564]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-21.49.28:254][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-21.49.28:262][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-21.49.28:266][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-21.49.28:306][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-21.49.28:307][564]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023B2FB9A0C0), frame # 403564
+[2020.07.10-21.49.28:307][564]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023B5D487200), frame # 403564
+[2020.07.10-21.49.28:310][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.07.10-21.49.28:354][565]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2020.07.10-21.49.29:486][696]LogEditorViewport: Clicking on Actor (LMB): RegularKnight_C (RegularKnight)
+[2020.07.10-21.49.44:400][465]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/AI/Seeker/Seeker_AI.Seeker_AI
+[2020.07.10-21.49.44:795][465]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Characters/AI/Seeker/Seeker_BB.Seeker_BB
+[2020.07.10-21.49.44:885][465]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Characters/AI/Seeker/Seeker_BT.Seeker_BT
+[2020.07.10-21.49.44:933][465]LogBehaviorTree: Warning: When Not Sensing Player[1]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.49.44:933][465]LogBehaviorTree: Warning: When Sensing Player[6]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.49.59:119][149]LogBehaviorTree: Warning: When Not Sensing Player[1]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.49.59:119][149]LogBehaviorTree: Warning: When Sensing Player[5]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.50.01:943][484]LogBehaviorTree: Warning: When Not Sensing Player[1]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.50.01:944][484]LogBehaviorTree: Warning: When Sensing Player[5]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.50.01:963][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Seeker/Seeker_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BT.uasset" SILENT=true
+[2020.07.10-21.50.02:023][484]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seeker_BT4CC8020D41CB66456B85EFA76B4A3317.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BT.uasset'
+[2020.07.10-21.50.02:041][484]AssetCheck: New page: Asset Save: Seeker_BT
+[2020.07.10-21.50.02:041][484]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Seeker/Seeker_BT.Seeker_BT
+[2020.07.10-21.50.13:681][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Seeker/Seeker_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BT.uasset" SILENT=true
+[2020.07.10-21.50.13:739][840]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seeker_BTF3ABD73D48F9094BC46642B1BECB5B4E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BT.uasset'
+[2020.07.10-21.50.13:754][840]AssetCheck: New page: Asset Save: Seeker_BT
+[2020.07.10-21.50.13:754][840]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Seeker/Seeker_BT.Seeker_BT
+[2020.07.10-21.51.04:184][773]Cmd: TRANSACTION UNDO
+[2020.07.10-21.51.04:184][773]LogEditorTransaction: Undo Edit Selected Key Type
+[2020.07.10-21.51.04:607][794]Cmd: TRANSACTION UNDO
+[2020.07.10-21.51.04:607][794]LogEditorTransaction: Undo Edit Selected Key Name
+[2020.07.10-21.51.05:051][841]Cmd: TRANSACTION UNDO
+[2020.07.10-21.51.05:052][841]LogEditorTransaction: Undo Edit Selected Key ID
+[2020.07.10-21.51.05:499][893]Cmd: TRANSACTION UNDO
+[2020.07.10-21.51.05:499][893]LogEditorTransaction: Undo Edit Selected Key Type
+[2020.07.10-21.51.06:145][969]Cmd: TRANSACTION UNDO
+[2020.07.10-21.51.06:145][969]LogEditorTransaction: Undo Edit Selected Key Name
+[2020.07.10-21.51.10:366][474]Cmd: TRANSACTION UNDO
+[2020.07.10-21.51.10:366][474]LogEditorTransaction: Undo Edit Selected Key ID
+[2020.07.10-21.51.11:199][539]Cmd: TRANSACTION UNDO
+[2020.07.10-21.51.11:199][539]LogEditorTransaction: Undo Edit Selected Key Type
+[2020.07.10-21.51.11:432][564]Cmd: TRANSACTION UNDO
+[2020.07.10-21.51.11:432][564]LogEditorTransaction: Undo Delete current selection
+[2020.07.10-21.51.11:433][564]LogBehaviorTree: Warning: When Not Sensing Player[1]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.51.11:433][564]LogBehaviorTree: Warning: When Sensing Player[6]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.51.11:653][587]Cmd: TRANSACTION UNDO
+[2020.07.10-21.51.11:654][587]LogEditorTransaction: Undo Clicking on Actors
+[2020.07.10-21.51.12:281][659]Cmd: TRANSACTION UNDO
+[2020.07.10-21.51.12:281][659]LogEditorTransaction: Undo Clicking on Actors
+[2020.07.10-21.51.14:415][909]LogBehaviorTree: Warning: When Not Sensing Player[1]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.51.14:415][909]LogBehaviorTree: Warning: When Sensing Player[6]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.51.14:442][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Seeker/Seeker_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BT.uasset" SILENT=true
+[2020.07.10-21.51.14:501][909]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seeker_BT7931AD644A7972F9E97B079676003008.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BT.uasset'
+[2020.07.10-21.51.14:519][909]AssetCheck: New page: Asset Save: Seeker_BT
+[2020.07.10-21.51.14:519][909]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Seeker/Seeker_BT.Seeker_BT
+[2020.07.10-21.51.19:320][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Seeker/Seeker_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BT.uasset" SILENT=true
+[2020.07.10-21.51.19:377][460]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seeker_BTB59F18114007F63AA75D84A6F66039F1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BT.uasset'
+[2020.07.10-21.51.19:389][460]AssetCheck: New page: Asset Save: Seeker_BT
+[2020.07.10-21.51.19:389][460]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Seeker/Seeker_BT.Seeker_BT
+[2020.07.10-21.52.06:604][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Seeker/Seeker_AI" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_AI.uasset" SILENT=true
+[2020.07.10-21.52.06:670][867]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seeker_AI5C3A43F444345F8C30C48CAB4ABF475E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_AI.uasset'
+[2020.07.10-21.52.06:685][867]AssetCheck: New page: Asset Save: Seeker_AI
+[2020.07.10-21.52.06:685][867]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Seeker/Seeker_AI.Seeker_AI
+[2020.07.10-21.52.08:620][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Seeker/Seeker_AI" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_AI.uasset" SILENT=true
+[2020.07.10-21.52.08:687][ 93]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seeker_AI8DCAA9B74CD1B84E3A2F2394E9AD5196.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_AI.uasset'
+[2020.07.10-21.52.08:700][ 93]AssetCheck: New page: Asset Save: Seeker_AI
+[2020.07.10-21.52.08:700][ 93]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Seeker/Seeker_AI.Seeker_AI
+[2020.07.10-21.52.09:900][230]BlueprintLog: New page: Compile Seeker_AI
+[2020.07.10-21.52.09:938][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.07.10-21.52.11:472][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Seeker/Seeker_AI" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_AI.uasset" SILENT=true
+[2020.07.10-21.52.11:536][400]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seeker_AIA5D5965C4C708117A8198EB990C5F1B4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_AI.uasset'
+[2020.07.10-21.52.11:546][400]AssetCheck: New page: Asset Save: Seeker_AI
+[2020.07.10-21.52.11:546][400]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Seeker/Seeker_AI.Seeker_AI
+[2020.07.10-21.52.30:516][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Seeker/Seeker_BB" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BB.uasset" SILENT=true
+[2020.07.10-21.52.30:577][ 26]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seeker_BB7D4B854F44CAB87026BCFD9FA092672A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BB.uasset'
+[2020.07.10-21.52.30:590][ 26]AssetCheck: New page: Asset Save: Seeker_BB
+[2020.07.10-21.52.30:590][ 26]LogContentValidation: Display: Validating BlackboardData /Game/Characters/AI/Seeker/Seeker_BB.Seeker_BB
+[2020.07.10-21.52.38:232][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Seeker/Seeker_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BT.uasset" SILENT=true
+[2020.07.10-21.52.38:292][924]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seeker_BT1E93EE28495D44357CD9E9B20225AB42.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BT.uasset'
+[2020.07.10-21.52.38:305][924]AssetCheck: New page: Asset Save: Seeker_BT
+[2020.07.10-21.52.38:305][924]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Seeker/Seeker_BT.Seeker_BT
+[2020.07.10-21.52.43:015][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Seeker/Seeker_AI" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_AI.uasset" SILENT=true
+[2020.07.10-21.52.43:081][469]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seeker_AIF56661FF45DF1650CFA53B99981836D6.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_AI.uasset'
+[2020.07.10-21.52.43:094][469]AssetCheck: New page: Asset Save: Seeker_AI
+[2020.07.10-21.52.43:094][469]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Seeker/Seeker_AI.Seeker_AI
+[2020.07.10-21.53.56:218][130]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.10-21.53.56:218][130]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.10-21.54.02:845][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.07.10-21.54.02:849][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Levels/First/Level1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.07.10-21.54.03:165][500]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1_Auto2D0FD2DDA40CAB6AE2696F28F8E12634E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Levels/First/Level1_Auto2.umap'
+[2020.07.10-21.54.03:169][500]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.354
+[2020.07.10-21.54.03:169][500]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.354
+[2020.07.10-21.54.47:849][965]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/AI/Arriver/Arriver_AI.Arriver_AI
+[2020.07.10-21.54.48:244][965]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Characters/AI/Arriver/Arriver_BB.Arriver_BB
+[2020.07.10-21.54.48:328][965]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Characters/AI/Arriver/Arriver_BT.Arriver_BT
+[2020.07.10-21.54.48:377][965]LogBehaviorTree: Warning: When Not Sensing Player[1]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.54.48:377][965]LogBehaviorTree: Warning: When Sensing Player[6]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.56.06:423][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Seeker/Seeker_AI" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_AI.uasset" SILENT=true
+[2020.07.10-21.56.06:485][248]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seeker_AI6F4742354FC438B370E05A9E660AB443.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_AI.uasset'
+[2020.07.10-21.56.06:503][248]AssetCheck: New page: Asset Save: Seeker_AI
+[2020.07.10-21.56.06:503][248]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Seeker/Seeker_AI.Seeker_AI
+[2020.07.10-21.56.18:322][614]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-21.56.18:322][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-21.56.22:163][ 58]BlueprintLog: New page: Compile Seeker_AI
+[2020.07.10-21.56.22:205][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.07.10-21.56.23:613][219]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.10-21.56.23:613][219]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-21.56.23:613][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-21.56.43:554][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Seeker/Seeker_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BT.uasset" SILENT=true
+[2020.07.10-21.56.43:617][568]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seeker_BT0F6A848C40DDCE37FB2A89A53BAB4685.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BT.uasset'
+[2020.07.10-21.56.43:633][568]AssetCheck: New page: Asset Save: Seeker_BT
+[2020.07.10-21.56.43:633][568]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Seeker/Seeker_BT.Seeker_BT
+[2020.07.10-21.56.55:010][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Seeker/Seeker_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BT.uasset" SILENT=true
+[2020.07.10-21.56.55:071][897]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seeker_BTA8167532464DBC74C2A787B920C6B489.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BT.uasset'
+[2020.07.10-21.56.55:088][897]AssetCheck: New page: Asset Save: Seeker_BT
+[2020.07.10-21.56.55:088][897]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Seeker/Seeker_BT.Seeker_BT
+[2020.07.10-21.57.30:454][724]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/AI/Tasks/GetWanderLocation.GetWanderLocation
+[2020.07.10-21.57.37:348][488]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-21.57.37:348][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-21.57.38:683][634]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/AI/Tasks/GetPointNearPlayer.GetPointNearPlayer
+[2020.07.10-21.57.44:052][217]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-21.57.44:052][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-21.57.58:581][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Seeker/Seeker_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BT.uasset" SILENT=true
+[2020.07.10-21.57.58:638][934]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seeker_BT1CB108264A6F7343FC7D9FB331437212.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BT.uasset'
+[2020.07.10-21.57.58:650][934]AssetCheck: New page: Asset Save: Seeker_BT
+[2020.07.10-21.57.58:650][934]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Seeker/Seeker_BT.Seeker_BT
+[2020.07.10-21.58.01:948][320]LogBehaviorTree: Warning: When Sensing Player[6]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.58.01:969][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Arriver/Arriver_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BT.uasset" SILENT=true
+[2020.07.10-21.58.02:030][320]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Arriver_BT379B37D3465D2DD72FE5C29372803929.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BT.uasset'
+[2020.07.10-21.58.02:043][320]AssetCheck: New page: Asset Save: Arriver_BT
+[2020.07.10-21.58.02:044][320]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Arriver/Arriver_BT.Arriver_BT
+[2020.07.10-21.58.46:959][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Seeker/Seeker_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BT.uasset" SILENT=true
+[2020.07.10-21.58.47:017][621]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seeker_BT30B846BB4A8B472FFE603FA0431B14E7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BT.uasset'
+[2020.07.10-21.58.47:029][621]AssetCheck: New page: Asset Save: Seeker_BT
+[2020.07.10-21.58.47:030][621]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Seeker/Seeker_BT.Seeker_BT
+[2020.07.10-21.59.33:249][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Seeker/Seeker_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BT.uasset" SILENT=true
+[2020.07.10-21.59.33:310][ 65]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seeker_BTA1D5F5E246698A4C477C7F9CDA8C754D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BT.uasset'
+[2020.07.10-21.59.33:324][ 65]AssetCheck: New page: Asset Save: Seeker_BT
+[2020.07.10-21.59.33:324][ 65]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Seeker/Seeker_BT.Seeker_BT
+[2020.07.10-22.01.44:949][367]LogSlate: Window 'Arriver_BB' being destroyed
+[2020.07.10-22.01.47:780][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Arriver/Arriver_AI" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_AI.uasset" SILENT=true
+[2020.07.10-22.01.47:843][699]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Arriver_AI6CC3CEDB4940CF2DAE6A68B14737BEF1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_AI.uasset'
+[2020.07.10-22.01.47:844][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Arriver/Arriver_BB" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BB.uasset" SILENT=true
+[2020.07.10-22.01.47:904][699]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Arriver_BBF5E2C8884211F4F289C1F1B0A3676B33.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BB.uasset'
+[2020.07.10-22.01.47:905][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Arriver/Arriver_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BT.uasset" SILENT=true
+[2020.07.10-22.01.47:967][699]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Arriver_BT6E649D2F4B197B0BBE1C369DE9329796.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BT.uasset'
+[2020.07.10-22.01.47:993][699]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-22.01.47:993][699]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Arriver/Arriver_AI.Arriver_AI
+[2020.07.10-22.01.47:993][699]LogContentValidation: Display: Validating BlackboardData /Game/Characters/AI/Arriver/Arriver_BB.Arriver_BB
+[2020.07.10-22.01.47:993][699]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Arriver/Arriver_BT.Arriver_BT
+[2020.07.10-22.01.55:397][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Wanderer/Wanderer_BB" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Wanderer/Wanderer_BB.uasset" SILENT=true
+[2020.07.10-22.01.55:453][580]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Wanderer_BB92AAC715456E3D9A7BA7A98AA1DBA7DB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Wanderer/Wanderer_BB.uasset'
+[2020.07.10-22.01.55:464][580]AssetCheck: New page: Asset Save: Wanderer_BB
+[2020.07.10-22.01.55:464][580]LogContentValidation: Display: Validating BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB
+[2020.07.10-22.01.56:542][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-22.01.56:570][706]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.07.10-22.01.56:787][706]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1AE30571D4D21249BACC46CA0D21EEB10.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-22.01.56:835][706]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-22.01.56:835][706]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-22.01.57:797][816]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB
+[2020.07.10-22.02.02:943][420]LogSlate: Window 'Wanderer_BB' being destroyed
+[2020.07.10-22.02.03:739][509]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Characters/AI/Wanderer/Wanderer_BT.Wanderer_BT
+[2020.07.10-22.02.06:759][844]LogSlate: Window 'Wanderer_BT' being destroyed
+[2020.07.10-22.02.10:474][282]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Characters/AI/Arriver/Arriver_BB.Arriver_BB
+[2020.07.10-22.02.10:618][282]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Characters/AI/Arriver/Arriver_BT.Arriver_BT
+[2020.07.10-22.02.10:669][282]LogBehaviorTree: Warning: When Sensing Player[6]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-22.02.20:114][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Arriver/Arriver_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BT.uasset" SILENT=true
+[2020.07.10-22.02.20:173][384]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Arriver_BTACC64289430FFFD5AB89BDBF47AFB71F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BT.uasset'
+[2020.07.10-22.02.20:186][384]AssetCheck: New page: Asset Save: Arriver_BT
+[2020.07.10-22.02.20:186][384]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Arriver/Arriver_BT.Arriver_BT
+[2020.07.10-22.02.25:295][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Arriver/Arriver_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BT.uasset" SILENT=true
+[2020.07.10-22.02.25:356][971]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Arriver_BT3D44136A4002CB286D2D0497DCA78CD1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BT.uasset'
+[2020.07.10-22.02.25:371][971]AssetCheck: New page: Asset Save: Arriver_BT
+[2020.07.10-22.02.25:371][971]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Arriver/Arriver_BT.Arriver_BT
+[2020.07.10-22.02.33:758][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Arriver/Arriver_BB" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BB.uasset" SILENT=true
+[2020.07.10-22.02.33:811][967]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Arriver_BBD601E5DC40546C79ADE9459789BAF6A1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BB.uasset'
+[2020.07.10-22.02.33:823][967]AssetCheck: New page: Asset Save: Arriver_BB
+[2020.07.10-22.02.33:823][967]LogContentValidation: Display: Validating BlackboardData /Game/Characters/AI/Arriver/Arriver_BB.Arriver_BB
+[2020.07.10-22.02.36:944][337]LogSlate: Window 'Arriver_BT' being destroyed
+[2020.07.10-22.02.58:294][875]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Characters/AI/Arriver/Arriver_BB.Arriver_BB
+[2020.07.10-22.02.58:410][875]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Characters/AI/Arriver/Arriver_BT.Arriver_BT
+[2020.07.10-22.02.59:582][  7]Cmd: TRANSACTION UNDO
+[2020.07.10-22.02.59:582][  7]LogEditorTransaction: Undo Delete Blackboard Entry
+[2020.07.10-22.03.07:544][885]Cmd: TRANSACTION UNDO
+[2020.07.10-22.03.07:544][885]LogEditorTransaction: Undo Delete current selection
+[2020.07.10-22.03.08:117][920]Cmd: TRANSACTION UNDO
+[2020.07.10-22.03.08:117][920]LogEditorTransaction: Undo Delete current selection
+[2020.07.10-22.03.10:213][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Arriver/Arriver_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BT.uasset" SILENT=true
+[2020.07.10-22.03.10:273][157]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Arriver_BTB29129A34A148E087EA40CB433512ADA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BT.uasset'
+[2020.07.10-22.03.10:288][157]AssetCheck: New page: Asset Save: Arriver_BT
+[2020.07.10-22.03.10:288][157]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Arriver/Arriver_BT.Arriver_BT
+[2020.07.10-22.03.11:006][243]Cmd: TRANSACTION UNDO
+[2020.07.10-22.03.11:006][243]LogEditorTransaction: Undo Edit Blackboard Asset
+[2020.07.10-22.03.11:006][243]LogBehaviorTree: Warning: When Sensing Player[6]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-22.03.11:844][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Arriver/Arriver_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BT.uasset" SILENT=true
+[2020.07.10-22.03.11:902][339]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Arriver_BT3D4F3DAF44B5577C831A4C9C05AE4687.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BT.uasset'
+[2020.07.10-22.03.11:916][339]AssetCheck: New page: Asset Save: Arriver_BT
+[2020.07.10-22.03.11:916][339]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Arriver/Arriver_BT.Arriver_BT
+[2020.07.10-22.03.18:072][ 72]LogSlate: Window 'Wanderer_BB' being destroyed
+[2020.07.10-22.03.21:271][447]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Characters/AI/Arriver/Arriver_BT.Arriver_BT
+[2020.07.10-22.03.21:342][447]LogBehaviorTree: Warning: When Sensing Player[6]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-22.03.32:135][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Arriver/Arriver_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BT.uasset" SILENT=true
+[2020.07.10-22.03.32:192][710]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Arriver_BT38D4DAC54A124EA7ED985CAC99CA0147.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BT.uasset'
+[2020.07.10-22.03.32:204][710]AssetCheck: New page: Asset Save: Arriver_BT
+[2020.07.10-22.03.32:205][710]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Arriver/Arriver_BT.Arriver_BT
+[2020.07.10-22.03.32:622][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Arriver/Arriver_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BT.uasset" SILENT=true
+[2020.07.10-22.03.32:680][754]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Arriver_BT230A11924D23DB54D974C0831C3F50FE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BT.uasset'
+[2020.07.10-22.03.32:693][754]AssetCheck: New page: Asset Save: Arriver_BT
+[2020.07.10-22.03.32:693][754]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Arriver/Arriver_BT.Arriver_BT
+[2020.07.10-22.03.53:381][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Arriver/Arriver_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BT.uasset" SILENT=true
+[2020.07.10-22.03.53:438][145]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Arriver_BT1E9BBFB545BB487765A2579098D11E7A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BT.uasset'
+[2020.07.10-22.03.53:452][145]AssetCheck: New page: Asset Save: Arriver_BT
+[2020.07.10-22.03.53:452][145]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Arriver/Arriver_BT.Arriver_BT
+[2020.07.10-22.04.03:171][293]LogSlate: Window 'Arriver_BT' being destroyed
+[2020.07.10-22.04.03:831][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Arriver/Arriver_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BT.uasset" SILENT=true
+[2020.07.10-22.04.03:890][365]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Arriver_BT1D34BCAF49BB6B5198B8A994DB497D0D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Arriver/Arriver_BT.uasset'
+[2020.07.10-22.04.03:902][365]AssetCheck: New page: Asset Save: Arriver_BT
+[2020.07.10-22.04.03:902][365]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Arriver/Arriver_BT.Arriver_BT
+[2020.07.10-22.04.05:866][596]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB
+[2020.07.10-22.04.08:067][847]LogSlate: Window 'Wanderer_BB' being destroyed
+[2020.07.10-22.04.08:073][847]LogSlate: Window 'Wanderer_BB' being destroyed
+[2020.07.10-22.04.09:156][972]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB
+[2020.07.10-22.04.09:276][972]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Characters/AI/Wanderer/Wanderer_BT.Wanderer_BT
+[2020.07.10-22.04.15:606][715]LogSlate: Window 'Wanderer_BT' being destroyed
+[2020.07.10-22.04.15:614][715]LogSlate: Window 'Wanderer_BT' being destroyed
+[2020.07.10-22.04.18:326][ 32]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Characters/AI/Arriver/Arriver_BB.Arriver_BB
+[2020.07.10-22.04.18:440][ 32]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Characters/AI/Arriver/Arriver_BT.Arriver_BT
+[2020.07.10-22.04.25:099][810]LogSlate: Window 'Arriver_BT' being destroyed
+[2020.07.10-22.04.25:105][810]LogSlate: Window 'Arriver_BT' being destroyed
+[2020.07.10-22.04.29:282][304]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Characters/AI/Seeker/Seeker_BB.Seeker_BB
+[2020.07.10-22.04.29:406][304]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Characters/AI/Seeker/Seeker_BT.Seeker_BT
+[2020.07.10-22.04.47:709][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Seeker/Seeker_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BT.uasset" SILENT=true
+[2020.07.10-22.04.47:769][457]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seeker_BT0064244D46367445AB0D3D94DE483CFE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Seeker/Seeker_BT.uasset'
+[2020.07.10-22.04.47:784][457]AssetCheck: New page: Asset Save: Seeker_BT
+[2020.07.10-22.04.47:784][457]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Seeker/Seeker_BT.Seeker_BT
+[2020.07.10-22.04.49:690][682]LogSlate: Window 'Seeker_BT' being destroyed
+[2020.07.10-22.04.49:697][682]LogSlate: Window 'Seeker_BT' being destroyed
+[2020.07.10-22.04.52:809][ 46]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Characters/AI/Patroller/Patroller_BB.Patroller_BB
+[2020.07.10-22.04.52:919][ 46]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
+[2020.07.10-22.05.00:012][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/Patroller_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset" SILENT=true
+[2020.07.10-22.05.00:072][866]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BTB4C69D4148859CDA94F461BC54B3EC84.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset'
+[2020.07.10-22.05.00:089][866]AssetCheck: New page: Asset Save: Patroller_BT
+[2020.07.10-22.05.00:090][866]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
+[2020.07.10-22.05.08:334][852]LogSlate: Window 'Patroller_BT' being destroyed
+[2020.07.10-22.05.08:341][852]LogSlate: Window 'Patroller_BT' being destroyed
+[2020.07.10-22.05.11:929][271]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/AI/Patroller/Patroller_AI.Patroller_AI
+[2020.07.10-22.05.12:323][271]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Characters/AI/Patroller/Patroller_BB.Patroller_BB
+[2020.07.10-22.05.12:415][271]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
