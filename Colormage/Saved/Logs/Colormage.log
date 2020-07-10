@@ -5352,3 +5352,98 @@ Purging the undo buffer...
 [2020.07.09-23.38.15:065][644]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1E72BBDFA437F1EA67C45BC8BE4F9FA42.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
 [2020.07.09-23.38.15:109][644]AssetCheck: New page: Asset Save: Level1
 [2020.07.09-23.38.15:109][644]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-23.40.48:202][217]AssetReimport: New page: Outstanding source content changes 1:40:48 AM
+[2020.07.09-23.40.48:204][217]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/GitHub/Colormage/Colormage/Content/LevelItems/Background/game_background_3. 2.png)
+[2020.07.09-23.40.48:488][218]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/GitHub/Colormage/Colormage/Content/LevelItems/Background/layers/clouds_1.png)
+[2020.07.09-23.40.48:984][219]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/GitHub/Colormage/Colormage/Content/LevelItems/Background/layers/clouds_2.png)
+[2020.07.09-23.40.49:295][220]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/GitHub/Colormage/Colormage/Content/LevelItems/Background/layers/ground_1.png)
+[2020.07.09-23.40.50:116][221]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/GitHub/Colormage/Colormage/Content/LevelItems/Background/layers/ground_2.png)
+[2020.07.09-23.40.50:981][222]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/GitHub/Colormage/Colormage/Content/LevelItems/Background/layers/ground_3.png)
+[2020.07.09-23.40.51:616][223]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/GitHub/Colormage/Colormage/Content/LevelItems/Background/layers/plant.png)
+[2020.07.09-23.40.51:870][224]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/GitHub/Colormage/Colormage/Content/LevelItems/Background/layers/rocks.png)
+[2020.07.09-23.40.53:740][225]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/GitHub/Colormage/Colormage/Content/LevelItems/Background/layers/sky.png)
+[2020.07.09-23.40.53:970][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Background/game_background_3__2" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/game_background_3__2.uasset" SILENT=true
+[2020.07.09-23.40.54:015][226]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/game_background_3__207420D8F4B8DC888C78CF8A82989A8D4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/game_background_3__2.uasset'
+[2020.07.09-23.40.54:020][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Background/layers/clouds_1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/layers/clouds_1.uasset" SILENT=true
+[2020.07.09-23.40.54:054][226]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/clouds_1CA6579A04F5B30974FB30199C2B22832.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/layers/clouds_1.uasset'
+[2020.07.09-23.40.54:063][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Background/layers/clouds_2" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/layers/clouds_2.uasset" SILENT=true
+[2020.07.09-23.40.54:096][226]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/clouds_23563E8484CFB032DA9CBE9BFF82D1568.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/layers/clouds_2.uasset'
+[2020.07.09-23.40.54:100][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Background/layers/ground_1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/layers/ground_1.uasset" SILENT=true
+[2020.07.09-23.40.54:135][226]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ground_1CEDD77DD461F884A176C79A5DE15BEFE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/layers/ground_1.uasset'
+[2020.07.09-23.40.54:140][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Background/layers/ground_2" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/layers/ground_2.uasset" SILENT=true
+[2020.07.09-23.40.54:179][226]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ground_2E450BE7948CB52062487F6A4A715EF24.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/layers/ground_2.uasset'
+[2020.07.09-23.40.54:186][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Background/layers/ground_3" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/layers/ground_3.uasset" SILENT=true
+[2020.07.09-23.40.54:222][226]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ground_34B24455A4443D0465224C1B11461430E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/layers/ground_3.uasset'
+[2020.07.09-23.40.54:227][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Background/layers/plant" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/layers/plant.uasset" SILENT=true
+[2020.07.09-23.40.54:260][226]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/plantDD2B08D948378932B39803841EBF6AC9.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/layers/plant.uasset'
+[2020.07.09-23.40.54:264][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Background/layers/rocks" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/layers/rocks.uasset" SILENT=true
+[2020.07.09-23.40.54:301][226]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/rocks926C0C6A48DC786CDDEC328974BDA9EC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/layers/rocks.uasset'
+[2020.07.09-23.40.54:305][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Background/layers/sky" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/layers/sky.uasset" SILENT=true
+[2020.07.09-23.40.54:359][226]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/skyAE5B285D4F6F2B0AE16E21A1D4FAA821.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/layers/sky.uasset'
+[2020.07.09-23.40.54:623][227]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-23.40.54:623][227]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Background/game_background_3__2.game_background_3__2
+[2020.07.09-23.40.54:623][227]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Background/layers/clouds_1.clouds_1
+[2020.07.09-23.40.54:623][227]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Background/layers/clouds_2.clouds_2
+[2020.07.09-23.40.54:623][227]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Background/layers/ground_1.ground_1
+[2020.07.09-23.40.54:623][227]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Background/layers/ground_2.ground_2
+[2020.07.09-23.40.54:624][227]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Background/layers/ground_3.ground_3
+[2020.07.09-23.40.54:624][227]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Background/layers/plant.plant
+[2020.07.09-23.40.54:624][227]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Background/layers/rocks.rocks
+[2020.07.09-23.40.54:624][227]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Background/layers/sky.sky
+[2020.07.09-23.40.57:550][568]AssetReimport: Importing new asset /Game/LevelItems/Background/game_background_3__2.
+[2020.07.09-23.40.57:550][568]AssetReimport: Importing new asset /Game/LevelItems/Background/layers/clouds_1.
+[2020.07.09-23.40.57:550][568]AssetReimport: Importing new asset /Game/LevelItems/Background/layers/clouds_2.
+[2020.07.09-23.40.57:550][568]AssetReimport: Importing new asset /Game/LevelItems/Background/layers/ground_1.
+[2020.07.09-23.40.57:550][568]AssetReimport: Importing new asset /Game/LevelItems/Background/layers/ground_2.
+[2020.07.09-23.40.57:550][568]AssetReimport: Importing new asset /Game/LevelItems/Background/layers/ground_3.
+[2020.07.09-23.40.57:550][568]AssetReimport: Importing new asset /Game/LevelItems/Background/layers/plant.
+[2020.07.09-23.40.57:550][568]AssetReimport: Importing new asset /Game/LevelItems/Background/layers/rocks.
+[2020.07.09-23.40.57:550][568]AssetReimport: Importing new asset /Game/LevelItems/Background/layers/sky.
+[2020.07.09-23.41.01:558][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-23.41.01:590][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.07.09-23.41.01:799][ 40]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1BF3C66834EE3431650F68CB56C71EF40.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-23.41.01:840][ 40]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-23.41.01:840][ 40]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.09-23.41.12:014][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.07.09-23.41.14:963][468]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.09-23.41.15:104][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.07.09-23.41.18:168][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Background/Layers/clouds_1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/Layers/clouds_1.uasset" SILENT=true
+[2020.07.09-23.41.18:174][808]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/clouds_192E020BF4C19629C0A52B0A834235B28.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/Layers/clouds_1.uasset'
+[2020.07.09-23.41.18:179][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Background/Layers/clouds_2" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/Layers/clouds_2.uasset" SILENT=true
+[2020.07.09-23.41.18:183][808]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/clouds_2ADBFB481470CAFE2618003AB7A98E965.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/Layers/clouds_2.uasset'
+[2020.07.09-23.41.18:188][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Background/Layers/ground_1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/Layers/ground_1.uasset" SILENT=true
+[2020.07.09-23.41.18:194][808]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ground_1F3160D884397AB768E849A8A857DCFFC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/Layers/ground_1.uasset'
+[2020.07.09-23.41.18:199][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Background/Layers/ground_2" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/Layers/ground_2.uasset" SILENT=true
+[2020.07.09-23.41.18:206][808]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ground_2F0A515644376C2D453746DA9CDC0F51C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/Layers/ground_2.uasset'
+[2020.07.09-23.41.18:211][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Background/Layers/ground_3" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/Layers/ground_3.uasset" SILENT=true
+[2020.07.09-23.41.18:219][808]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ground_3D1AFE1334214D46FC56878A943CCDEDA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/Layers/ground_3.uasset'
+[2020.07.09-23.41.18:223][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Background/Layers/plant" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/Layers/plant.uasset" SILENT=true
+[2020.07.09-23.41.18:227][808]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/plant173A454044A957E2B123DB98346E786C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/Layers/plant.uasset'
+[2020.07.09-23.41.18:231][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Background/Layers/rocks" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/Layers/rocks.uasset" SILENT=true
+[2020.07.09-23.41.18:237][808]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/rocksC46258CC49B0F1AB1F191B899CD46AF5.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/Layers/rocks.uasset'
+[2020.07.09-23.41.18:241][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelItems/Background/Layers/sky" FILE="../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/Layers/sky.uasset" SILENT=true
+[2020.07.09-23.41.18:254][808]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/sky03FCD2974E51CB26E893E5A7F4F0F2E0.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/LevelItems/Background/Layers/sky.uasset'
+[2020.07.09-23.41.19:279][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.07.09-23.41.19:301][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.09-23.41.19:323][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.07.09-23.41.19:344][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.07.09-23.41.19:368][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.09-23.41.19:394][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.07.09-23.41.19:419][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.07.09-23.41.19:442][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.07.09-23.41.19:473][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.07.09-23.41.19:494][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.09-23.41.19:613][808]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.09-23.41.19:613][808]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Background/Layers/clouds_1.clouds_1
+[2020.07.09-23.41.19:613][808]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Background/Layers/clouds_2.clouds_2
+[2020.07.09-23.41.19:613][808]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Background/Layers/ground_1.ground_1
+[2020.07.09-23.41.19:613][808]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Background/Layers/ground_2.ground_2
+[2020.07.09-23.41.19:613][808]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Background/Layers/ground_3.ground_3
+[2020.07.09-23.41.19:613][808]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Background/Layers/plant.plant
+[2020.07.09-23.41.19:614][808]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Background/Layers/rocks.rocks
+[2020.07.09-23.41.19:614][808]LogContentValidation: Display: Validating Texture2D /Game/LevelItems/Background/Layers/sky.sky
+[2020.07.09-23.41.20:861][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.09-23.41.20:883][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.07.09-23.41.21:068][938]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1624CDA0045EC2B43915BECA5228EED3E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.09-23.41.21:106][938]AssetCheck: New page: Asset Save: Level1
+[2020.07.09-23.41.21:106][938]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
