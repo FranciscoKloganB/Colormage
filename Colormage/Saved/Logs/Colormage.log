@@ -9317,3 +9317,228 @@ Make sure 'KnightV1Character_C' has been compiled for  On Spell Casted
 [2020.07.10-17.04.08:561][252]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetWanderLocationC55F40FE420E5529E323FABD46185B73.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/GetWanderLocation.uasset'
 [2020.07.10-17.04.08:580][252]AssetCheck: New page: Asset Save: GetWanderLocation
 [2020.07.10-17.04.08:580][252]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/GetWanderLocation.GetWanderLocation
+[2020.07.10-17.31.25:436][705]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-17.31.25:436][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-17.32.42:617][382]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.10-17.32.44:416][561]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.10-17.32.44:416][561]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2020.07.10-17.32.44:786][561]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Characters/Enemies/KnightV1/BTTask_BlueprintBase_New.
+[2020.07.10-17.32.53:194][305]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BTTask_BlueprintBase_New9F6FDA6E47AD218F1699E4B39D035F94.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/BTTask_BlueprintBase_New.uasset'
+[2020.07.10-17.32.53:211][305]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/Enemies/KnightV1/BTTask_BlueprintBase_New.
+[2020.07.10-17.32.53:223][305]AssetCheck: New page: Asset Save: BTTask_BlueprintBase_New
+[2020.07.10-17.32.53:224][305]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2020.07.10-17.32.53:903][376]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-17.32.53:903][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-17.33.09:636][147]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.07.10-17.33.09:648][147]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/Seek.SKEL_Seek_C' ref from Metadata '/Game/Characters/Enemies/KnightV1/BTTask_BlueprintBase_New.PackageMetaData'
+[2020.07.10-17.33.09:648][147]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/Seek.Seek_C' ref from Metadata '/Game/Characters/Enemies/KnightV1/BTTask_BlueprintBase_New.PackageMetaData'
+[2020.07.10-17.33.09:708][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/Seek" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/Seek.uasset" SILENT=true
+[2020.07.10-17.33.09:711][147]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seek40AC5FFF49E73BCE00F3E5AAAAA32211.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/Seek.uasset'
+[2020.07.10-17.33.09:905][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.07.10-17.33.09:945][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.07.10-17.33.09:967][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-17.33.10:044][147]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/Enemies/KnightV1/Seek.
+[2020.07.10-17.33.10:054][147]AssetCheck: New page: Asset Save: Seek
+[2020.07.10-17.33.10:054][147]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/Seek.Seek
+[2020.07.10-17.33.10:977][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/Seek" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/Seek.uasset" SILENT=true
+[2020.07.10-17.33.11:066][252]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Seek9FD23AD942430D51221A82B6FA8EA5AB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/Seek.uasset'
+[2020.07.10-17.33.11:086][252]AssetCheck: New page: Asset Save: Seek
+[2020.07.10-17.33.11:086][252]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/Seek.Seek
+[2020.07.10-17.33.25:813][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.07.10-17.33.25:819][  2]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/SensePlayer.SensePlayer_C' ref from Metadata '/Game/Characters/Enemies/KnightV1/Seek.PackageMetaData'
+[2020.07.10-17.33.25:819][  2]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/SensePlayer.SKEL_SensePlayer_C' ref from Metadata '/Game/Characters/Enemies/KnightV1/Seek.PackageMetaData'
+[2020.07.10-17.33.25:862][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/SensePlayer" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/SensePlayer.uasset" SILENT=true
+[2020.07.10-17.33.25:866][  2]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SensePlayer7176321F438111B1948B908AEA359D6F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/SensePlayer.uasset'
+[2020.07.10-17.33.26:057][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.07.10-17.33.26:097][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.07.10-17.33.26:119][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.07.10-17.33.26:179][  2]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/Enemies/KnightV1/SensePlayer.
+[2020.07.10-17.33.26:189][  2]AssetCheck: New page: Asset Save: SensePlayer
+[2020.07.10-17.33.26:189][  2]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/SensePlayer.SensePlayer
+[2020.07.10-17.33.26:714][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/SensePlayer" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/SensePlayer.uasset" SILENT=true
+[2020.07.10-17.33.26:764][ 61]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SensePlayerC8EC40F140128AD439A57ABA61A54CB4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/SensePlayer.uasset'
+[2020.07.10-17.33.26:780][ 61]AssetCheck: New page: Asset Save: SensePlayer
+[2020.07.10-17.33.26:781][ 61]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/SensePlayer.SensePlayer
+[2020.07.10-17.33.27:599][155]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/SensePlayer.SensePlayer
+[2020.07.10-17.33.36:949][218]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-17.33.36:949][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-17.33.41:225][660]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.10-17.33.43:384][891]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.10-17.33.43:384][891]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/SensePlayer_New.SensePlayer_New
+[2020.07.10-17.33.43:690][891]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Characters/Enemies/KnightV1/SensePlayer_New.
+[2020.07.10-17.34.39:459][164]BlueprintLog: New page: Compile SensePlayer_New
+[2020.07.10-17.34.39:489][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.07.10-17.34.48:362][114]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/GetWanderLocation.GetWanderLocation
+[2020.07.10-17.35.17:880][144]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetWanderLocation062BBE474A8E8BD9B4E3A3BA03F852B7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/GetWanderLocation.uasset'
+[2020.07.10-17.35.17:898][144]AssetCheck: New page: Asset Save: GetWanderLocation
+[2020.07.10-17.35.17:898][144]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/GetWanderLocation.GetWanderLocation
+[2020.07.10-17.35.46:368][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/SensePlayer_New" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/SensePlayer_New.uasset" SILENT=true
+[2020.07.10-17.35.46:375][  7]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SensePlayer_NewE7B899104277DD879D8AC6BE8C60E751.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/SensePlayer_New.uasset'
+[2020.07.10-17.35.46:393][  7]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/Enemies/KnightV1/SensePlayer_New.
+[2020.07.10-17.35.46:403][  7]AssetCheck: New page: Asset Save: SensePlayer_New
+[2020.07.10-17.35.46:403][  7]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/SensePlayer_New.SensePlayer_New
+[2020.07.10-17.36.44:884][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/KnightV1_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BT.uasset" SILENT=true
+[2020.07.10-17.36.44:941][134]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1_BT4EDE48FF4E84637E76EED692414ECCE1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BT.uasset'
+[2020.07.10-17.36.44:959][134]AssetCheck: New page: Asset Save: KnightV1_BT
+[2020.07.10-17.36.44:959][134]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/Enemies/KnightV1/KnightV1_BT.KnightV1_BT
+[2020.07.10-17.37.22:568][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.07.10-17.37.22:571][144]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.036
+[2020.07.10-17.37.22:572][144]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/HUD] ([1] browsable assets)...
+[2020.07.10-17.37.22:572][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/HUD]
+[2020.07.10-17.37.22:572][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/HUD" FILE="../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Widgets/HUD_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2020.07.10-17.37.22:644][144]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/HUD_Auto8D7154014440C1A94A84D659CB7BBDA48.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Widgets/HUD_Auto8.uasset'
+[2020.07.10-17.37.22:645][144]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode] ([1] browsable assets)...
+[2020.07.10-17.37.22:645][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode]
+[2020.07.10-17.37.22:695][144]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerGameMode_Auto8EF4FB4524E9D39371C510EA87492BE75.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode_Auto8.uasset'
+[2020.07.10-17.37.22:696][144]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Items/Pickups/Potions/ManaPotion] ([1] browsable assets)...
+[2020.07.10-17.37.22:696][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/Items/Pickups/Potions/ManaPotion]
+[2020.07.10-17.37.22:764][144]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ManaPotion_Auto8264228994C7AB310690BD89F5D5C01BD.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Items/Pickups/Potions/ManaPotion_Auto8.uasset'
+[2020.07.10-17.37.22:766][144]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Enemies/KnightV1/SensePlayer_New] ([1] browsable assets)...
+[2020.07.10-17.37.22:766][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemies/KnightV1/SensePlayer_New]
+[2020.07.10-17.37.22:817][144]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SensePlayer_New_Auto8679F4C95461290B455FED185D732BCCB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/Enemies/KnightV1/SensePlayer_New_Auto8.uasset'
+[2020.07.10-17.37.22:818][144]LogFileHelpers: Auto-saving content packages took 0.247
+[2020.07.10-17.38.10:158][836]LogEditorTransaction: Undo Move Node
+[2020.07.10-17.38.56:394][751]BlueprintLog: New page: Compile SensePlayer_New
+[2020.07.10-17.38.56:426][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.07.10-17.38.56:913][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/SensePlayer_New" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/SensePlayer_New.uasset" SILENT=true
+[2020.07.10-17.38.56:969][792]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SensePlayer_New7EBFD3994BC393DF3066DF9E924E1470.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/SensePlayer_New.uasset'
+[2020.07.10-17.38.56:990][792]AssetCheck: New page: Asset Save: SensePlayer_New
+[2020.07.10-17.38.56:990][792]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/SensePlayer_New.SensePlayer_New
+[2020.07.10-17.39.06:344][473]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.10-17.39.20:436][858]BlueprintLog: New page: Compile SensePlayer_New
+[2020.07.10-17.39.20:471][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.07.10-17.39.21:021][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/SensePlayer_New" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/SensePlayer_New.uasset" SILENT=true
+[2020.07.10-17.39.21:078][905]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SensePlayer_NewC40708A44DDEBEBF4C95328754FBA0A2.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/SensePlayer_New.uasset'
+[2020.07.10-17.39.21:095][905]AssetCheck: New page: Asset Save: SensePlayer_New
+[2020.07.10-17.39.21:095][905]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/SensePlayer_New.SensePlayer_New
+[2020.07.10-17.39.48:989][658]BlueprintLog: New page: Compile GetWanderLocation
+[2020.07.10-17.39.49:037][658]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.07.10-17.39.49:548][689]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetWanderLocationDF8AFD344550A5B4C33F93870EB4FECF.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/GetWanderLocation.uasset'
+[2020.07.10-17.39.49:568][689]AssetCheck: New page: Asset Save: GetWanderLocation
+[2020.07.10-17.39.49:568][689]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/GetWanderLocation.GetWanderLocation
+[2020.07.10-17.40.16:018][930]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-17.40.16:018][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-17.40.16:732][988]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-17.40.16:732][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-17.41.30:480][651]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.10-17.41.51:740][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/KnightV1_BB" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BB.uasset" SILENT=true
+[2020.07.10-17.41.51:792][928]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1_BBBDFE9835400AF9621E603DA2456A0EF4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BB.uasset'
+[2020.07.10-17.41.51:809][928]AssetCheck: New page: Asset Save: KnightV1_BB
+[2020.07.10-17.41.51:809][928]LogContentValidation: Display: Validating BlackboardData /Game/Characters/Enemies/KnightV1/KnightV1_BB.KnightV1_BB
+[2020.07.10-17.42.00:923][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/SensePlayer" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/SensePlayer.uasset" SILENT=true
+[2020.07.10-17.42.00:971][  8]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SensePlayer243DE15A467CB4922D7F7AAC3922AE4D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/SensePlayer.uasset'
+[2020.07.10-17.42.00:986][  8]AssetCheck: New page: Asset Save: SensePlayer
+[2020.07.10-17.42.00:986][  8]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/SensePlayer.SensePlayer
+[2020.07.10-17.42.37:641][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/KnightV1_BB" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BB.uasset" SILENT=true
+[2020.07.10-17.42.37:689][310]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1_BBEDD0A7FF44E266D045A2239A794562A3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BB.uasset'
+[2020.07.10-17.42.37:705][310]AssetCheck: New page: Asset Save: KnightV1_BB
+[2020.07.10-17.42.37:705][310]LogContentValidation: Display: Validating BlackboardData /Game/Characters/Enemies/KnightV1/KnightV1_BB.KnightV1_BB
+[2020.07.10-17.45.15:747][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/KnightV1_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BT.uasset" SILENT=true
+[2020.07.10-17.45.15:801][359]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1_BT45FBD5B5421F0592CCBF16B48FB0D435.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BT.uasset'
+[2020.07.10-17.45.15:819][359]AssetCheck: New page: Asset Save: KnightV1_BT
+[2020.07.10-17.45.15:819][359]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/Enemies/KnightV1/KnightV1_BT.KnightV1_BT
+[2020.07.10-17.45.39:855][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/KnightV1_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BT.uasset" SILENT=true
+[2020.07.10-17.45.39:906][415]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1_BT24FDD911474410316208CABE77FD8B77.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BT.uasset'
+[2020.07.10-17.45.39:924][415]AssetCheck: New page: Asset Save: KnightV1_BT
+[2020.07.10-17.45.39:924][415]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/Enemies/KnightV1/KnightV1_BT.KnightV1_BT
+[2020.07.10-17.47.12:736][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/KnightV1_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BT.uasset" SILENT=true
+[2020.07.10-17.47.12:787][249]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1_BTB86B23CC480688031C6C5E918942D088.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_BT.uasset'
+[2020.07.10-17.47.12:806][249]AssetCheck: New page: Asset Save: KnightV1_BT
+[2020.07.10-17.47.12:806][249]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/Enemies/KnightV1/KnightV1_BT.KnightV1_BT
+[2020.07.10-17.47.27:581][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.07.10-17.47.27:616][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.07.10-17.47.27:622][533]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/GetPointNearPlayer.GetPointNearPlayer_C' ref from Metadata '/Game/Characters/Enemies/KnightV1/SensePlayer.PackageMetaData'
+[2020.07.10-17.47.27:622][533]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/GetPointNearPlayer.SKEL_GetPointNearPlayer_C' ref from Metadata '/Game/Characters/Enemies/KnightV1/SensePlayer.PackageMetaData'
+[2020.07.10-17.47.27:670][533]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetPointNearPlayer57103335475025466863F3863C0A9915.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/GetPointNearPlayer.uasset'
+[2020.07.10-17.47.27:857][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.07.10-17.47.27:895][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.07.10-17.47.27:917][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.10-17.47.27:944][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/SensePlayer_New" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/SensePlayer_New.uasset" SILENT=true
+[2020.07.10-17.47.27:998][533]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SensePlayer_New77C29AF0413B1322B46B208517570388.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/SensePlayer_New.uasset'
+[2020.07.10-17.47.28:071][533]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/Enemies/KnightV1/GetPointNearPlayer.
+[2020.07.10-17.47.28:085][533]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-17.47.28:085][533]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/GetPointNearPlayer.GetPointNearPlayer
+[2020.07.10-17.47.28:085][533]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/SensePlayer_New.SensePlayer_New
+[2020.07.10-17.47.33:014][ 96]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/SensePlayer_New.SensePlayer_New
+[2020.07.10-17.47.36:799][440]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-17.47.36:799][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-17.47.42:537][ 17]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/GetPointNearPlayer.GetPointNearPlayer
+[2020.07.10-17.47.44:272][181]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-17.47.44:272][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-17.47.49:626][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.07.10-17.47.51:539][529]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.10-17.47.52:527][529]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/Enemies/KnightV1/GetPointNearPlayer.GetPointNearPlayer
+[2020.07.10-17.47.52:757][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.07.10-17.47.53:028][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.07.10-17.47.53:050][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.07.10-17.47.53:072][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.07.10-17.47.55:291][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.07.10-17.47.55:297][781]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/GetPointNearPlayer.SKEL_GetPointNearPlayer_C' ref from Metadata '/Game/Characters/Enemies/KnightV1/SensePlayer_New.PackageMetaData'
+[2020.07.10-17.47.55:297][781]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/GetPointNearPlayer.GetPointNearPlayer_C' ref from Metadata '/Game/Characters/Enemies/KnightV1/SensePlayer_New.PackageMetaData'
+[2020.07.10-17.47.55:346][781]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetPointNearPlayer8788C6954B907D0CB6C984B383290371.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/GetPointNearPlayer.uasset'
+[2020.07.10-17.47.55:538][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.07.10-17.47.55:576][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.07.10-17.47.55:598][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.07.10-17.47.55:657][781]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/Enemies/KnightV1/GetPointNearPlayer.
+[2020.07.10-17.47.55:666][781]AssetCheck: New page: Asset Save: GetPointNearPlayer
+[2020.07.10-17.47.55:666][781]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/GetPointNearPlayer.GetPointNearPlayer
+[2020.07.10-17.47.56:275][843]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetPointNearPlayerE6557D54431D2048F28C0EA28137DA77.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/GetPointNearPlayer.uasset'
+[2020.07.10-17.47.56:291][843]AssetCheck: New page: Asset Save: GetPointNearPlayer
+[2020.07.10-17.47.56:291][843]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/GetPointNearPlayer.GetPointNearPlayer
+[2020.07.10-17.48.00:940][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-17.48.00:966][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.07.10-17.48.01:170][374]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level117B1093E45467EF2183A56B09CF382A4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-17.48.01:214][374]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-17.48.01:214][374]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-17.48.03:446][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-17.48.03:469][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-17.48.03:672][631]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level196C4775D472F7468B256D9BADF759489.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-17.48.03:719][631]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-17.48.03:719][631]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-17.50.02:715][359]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.10-17.50.02:715][359]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.10-17.53.35:374][876]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.10-17.53.35:374][876]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.10-17.54.41:831][449]BlueprintLog: New page: Compile KnightV1_AI
+[2020.07.10-17.54.41:874][449]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.07.10-17.54.51:096][ 43]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.10-17.56.57:072][315]LogEditorTransaction: Undo Edit Implementation
+[2020.07.10-17.57.01:502][744]LogEditorTransaction: Undo Edit Implementation
+[2020.07.10-17.57.02:657][833]LogEditorTransaction: Undo Add Child
+[2020.07.10-17.57.05:993][162]LogEditorTransaction: Undo Set Class
+[2020.07.10-17.58.30:497][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.07.10-17.58.30:501][764]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.031
+[2020.07.10-17.58.30:501][764]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/HUD] ([1] browsable assets)...
+[2020.07.10-17.58.30:501][764]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/HUD]
+[2020.07.10-17.58.30:501][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/HUD" FILE="../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Widgets/HUD_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2020.07.10-17.58.30:572][764]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/HUD_Auto9A5AB75414C29F9382009B5BA4BCC3156.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Widgets/HUD_Auto9.uasset'
+[2020.07.10-17.58.30:573][764]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode] ([1] browsable assets)...
+[2020.07.10-17.58.30:573][764]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode]
+[2020.07.10-17.58.30:624][764]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerGameMode_Auto98380BFB34ABE4C80A5571CBBE3375C59.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode_Auto9.uasset'
+[2020.07.10-17.58.30:624][764]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Items/Pickups/Potions/ManaPotion] ([1] browsable assets)...
+[2020.07.10-17.58.30:625][764]OBJ SavePackage: Finished generating thumbnails for package [/Game/Items/Pickups/Potions/ManaPotion]
+[2020.07.10-17.58.30:687][764]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ManaPotion_Auto9A3A3CD0447065B764C8EB7B7C07D81A1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Items/Pickups/Potions/ManaPotion_Auto9.uasset'
+[2020.07.10-17.58.30:688][764]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Enemies/KnightV1/KnightV1_AI] ([1] browsable assets)...
+[2020.07.10-17.58.30:688][764]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemies/KnightV1/KnightV1_AI]
+[2020.07.10-17.58.30:741][764]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1_AI_Auto93A9336274336DCE45C2792B2138C3B5F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/Enemies/KnightV1/KnightV1_AI_Auto9.uasset'
+[2020.07.10-17.58.30:741][764]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Enemies/KnightV1/KnightV1_BT] ([1] browsable assets)...
+[2020.07.10-17.58.30:742][764]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemies/KnightV1/KnightV1_BT]
+[2020.07.10-17.58.30:794][764]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1_BT_Auto914DE956541D2BB63A232D5B111232C24.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/Enemies/KnightV1/KnightV1_BT_Auto9.uasset'
+[2020.07.10-17.58.30:795][764]LogFileHelpers: Auto-saving content packages took 0.294
+[2020.07.10-18.01.45:878][219]BlueprintLog: New page: Compile KnightV1_AI
+[2020.07.10-18.01.45:917][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.07.10-18.01.47:403][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/KnightV1_AI" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_AI.uasset" SILENT=true
+[2020.07.10-18.01.47:457][338]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1_AI620B0A874C97F885170FA092FB692668.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_AI.uasset'
+[2020.07.10-18.01.47:474][338]AssetCheck: New page: Asset Save: KnightV1_AI
+[2020.07.10-18.01.47:474][338]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1_AI.KnightV1_AI
+[2020.07.10-18.02.40:537][856]BlueprintLog: New page: Compile KnightV1_AI
+[2020.07.10-18.02.40:577][856]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.07.10-18.02.41:070][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/KnightV1_AI" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_AI.uasset" SILENT=true
+[2020.07.10-18.02.41:130][886]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1_AIE550261E481E851E8F888DB4DAB40BAC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_AI.uasset'
+[2020.07.10-18.02.41:146][886]AssetCheck: New page: Asset Save: KnightV1_AI
+[2020.07.10-18.02.41:146][886]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1_AI.KnightV1_AI
+[2020.07.10-18.02.56:369][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/KnightV1_AI" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_AI.uasset" SILENT=true
+[2020.07.10-18.02.56:429][160]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1_AIFF31258944A4B088680932B74089D869.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_AI.uasset'
+[2020.07.10-18.02.56:447][160]AssetCheck: New page: Asset Save: KnightV1_AI
+[2020.07.10-18.02.56:447][160]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1_AI.KnightV1_AI
