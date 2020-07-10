@@ -7549,3 +7549,20 @@ Make sure 'KnightV1Character_C' has been compiled for  On Spell Casted
 [2020.07.10-12.46.29:191][ 72]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1CharacterCAB39F5A4D79F765C75386B097B33A4C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
 [2020.07.10-12.46.29:209][ 72]AssetCheck: New page: Asset Save: KnightV1Character
 [2020.07.10-12.46.29:209][ 72]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-12.53.40:904][153]LogContentBrowser: Verbose: The majority of assets in the view are of type: PaperFlipbook
+[2020.07.10-12.54.22:944][627]BlueprintLog: New page: Compile KnightV1Character
+[2020.07.10-12.54.23:021][627]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.07.10-12.54.24:234][713]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1Character0694C15643C1957B52CED28E9D4E9759.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-12.54.24:253][713]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-12.54.24:253][713]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-12.55.28:480][ 20]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1CharacterEB0EF9634539A9DA756057A31CC37416.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-12.55.28:499][ 20]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-12.55.28:499][ 20]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-12.55.41:504][ 75]BlueprintLog: New page: Compile KnightV1Character
+[2020.07.10-12.55.41:577][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.07.10-12.55.42:191][108]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1Character8FBDE436421BBEE4FA3C26BCB2344E58.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-12.55.42:211][108]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-12.55.42:212][108]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-12.56.10:337][419]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1Character7451266C45640BF02062A2AECECFFF9D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-12.56.10:354][419]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-12.56.10:354][419]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
