@@ -7684,3 +7684,187 @@ Make sure 'KnightV1Character_C' has been compiled for  On Spell Casted
 [2020.07.10-13.57.16:302][290]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2020.07.10-13.57.16:302][290]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
 [2020.07.10-13.57.16:302][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-13.58.19:247][621]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-13.58.41:928][270]LogSlate: Window 'KnightV1Character' being destroyed
+[2020.07.10-13.58.41:946][270]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-13.58.41:946][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-13.58.55:410][631]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.07.10-13.59.03:485][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/KnightNPC" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightNPC.uasset" SILENT=true
+[2020.07.10-13.59.03:493][580]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightNPCBF94D2E942E706A1C2A02BB449748261.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightNPC.uasset'
+[2020.07.10-13.59.03:514][580]AssetCheck: New page: Asset Save: KnightNPC
+[2020.07.10-13.59.03:514][580]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightNPC.KnightNPC
+[2020.07.10-13.59.09:803][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.07.10-13.59.09:811][317]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightOne.KnightOne:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Characters/Enemies/KnightV1/KnightNPC.PackageMetaData'
+[2020.07.10-13.59.09:811][317]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightOne.SKEL_KnightOne_C' ref from Metadata '/Game/Characters/Enemies/KnightV1/KnightNPC.PackageMetaData'
+[2020.07.10-13.59.09:811][317]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightOne.KnightOne_C' ref from Metadata '/Game/Characters/Enemies/KnightV1/KnightNPC.PackageMetaData'
+[2020.07.10-13.59.09:811][317]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightOne.KnightOne:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Characters/Enemies/KnightV1/KnightNPC.PackageMetaData'
+[2020.07.10-13.59.09:811][317]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightOne.KnightOne:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Characters/Enemies/KnightV1/KnightNPC.PackageMetaData'
+[2020.07.10-13.59.09:811][317]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightOne.KnightOne:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Characters/Enemies/KnightV1/KnightNPC.PackageMetaData'
+[2020.07.10-13.59.09:845][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/KnightOne" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightOne.uasset" SILENT=true
+[2020.07.10-13.59.09:853][317]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightOneEAFBC3774DA5DC708EB3408A2EDB2B27.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightOne.uasset'
+[2020.07.10-13.59.10:050][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.07.10-13.59.10:083][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.07.10-13.59.10:103][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.07.10-13.59.10:163][317]AssetCheck: New page: Asset Save: KnightOne
+[2020.07.10-13.59.10:163][317]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightOne.KnightOne
+[2020.07.10-13.59.11:004][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/KnightOne" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightOne.uasset" SILENT=true
+[2020.07.10-13.59.11:055][413]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightOneAA1A78234EF9CB748C4E448FAFADB14D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightOne.uasset'
+[2020.07.10-13.59.11:070][413]AssetCheck: New page: Asset Save: KnightOne
+[2020.07.10-13.59.11:070][413]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightOne.KnightOne
+[2020.07.10-13.59.12:612][590]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/KnightOne.KnightOne
+[2020.07.10-13.59.20:731][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/KnightOne" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightOne.uasset" SILENT=true
+[2020.07.10-13.59.20:793][237]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightOneBB8B40BD436DBB1D340E2985A2D300D9.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightOne.uasset'
+[2020.07.10-13.59.20:814][237]AssetCheck: New page: Asset Save: KnightOne
+[2020.07.10-13.59.20:814][237]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightOne.KnightOne
+[2020.07.10-13.59.34:474][811]LogSkeletalMesh: Building Skeletal Mesh SK_ky_bigSword_anim...
+[2020.07.10-13.59.34:474][811]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ParticleEffects/AdvancedMagic/Meshes/SK_ky_bigSword_anim.SK_ky_bigSword_anim
+[2020.07.10-13.59.37:320][996]Cmd: TRANSACTION UNDO
+[2020.07.10-13.59.37:320][996]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2020.07.10-13.59.47:165][467]BlueprintLog: New page: Compile KnightOne
+[2020.07.10-13.59.47:229][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.07.10-14.04.09:420][ 57]LogSlate: Window 'KnightOne' being destroyed
+[2020.07.10-14.04.09:448][ 57]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-14.04.09:448][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-14.04.10:281][133]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-14.05.54:122][175]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/KnightOne.KnightOne
+[2020.07.10-14.05.59:228][677]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-14.05.59:229][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-14.06.02:156][918]LogSlate: Window 'KnightV1Character' being destroyed
+[2020.07.10-14.06.02:179][918]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.10-14.06.02:179][918]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-14.06.02:179][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-14.06.02:971][985]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-14.06.30:491][299]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1Character275AC93A45873C532FAF52BC12C4DDF2.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-14.06.30:508][299]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-14.06.30:508][299]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-14.07.00:349][ 84]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1Character26B9CC774C42998A424E078065275488.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-14.07.00:368][ 84]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-14.07.00:368][ 84]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-14.07.17:865][868]LogSlate: Window 'KnightV1Character' being destroyed
+[2020.07.10-14.07.17:871][868]LogSlate: Window 'KnightV1Character' being destroyed
+[2020.07.10-14.07.17:887][868]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-14.07.17:887][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-14.07.21:046][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.07.10-14.07.23:801][214]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.10-14.07.25:163][214]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/Enemies/KnightV1/KnightOne.KnightOne
+[2020.07.10-14.07.26:170][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.07.10-14.07.26:433][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.07.10-14.07.26:458][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.07.10-14.07.26:480][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.07.10-14.07.39:787][424]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.07.10-14.08.18:217][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.07.10-14.08.18:223][978]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1SideScrollerCharacter.KnightV1SideScrollerCharacter_C' ref from Metadata '/Game/Characters/Enemies/KnightV1/KnightV1Character.PackageMetaData'
+[2020.07.10-14.08.18:223][978]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1SideScrollerCharacter.SKEL_KnightV1SideScrollerCharacter_C' ref from Metadata '/Game/Characters/Enemies/KnightV1/KnightV1Character.PackageMetaData'
+[2020.07.10-14.08.18:223][978]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1SideScrollerCharacter.KnightV1SideScrollerCharacter:Kill Enemy.K2Node_FunctionEntry_0' ref from Metadata '/Game/Characters/Enemies/KnightV1/KnightV1Character.PackageMetaData'
+[2020.07.10-14.08.18:311][978]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1SideScrollerCharacterC05239084E429584F7825DB831291C73.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1SideScrollerCharacter.uasset'
+[2020.07.10-14.08.18:495][978]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.07.10-14.08.18:529][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.07.10-14.08.18:549][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.07.10-14.08.18:608][978]AssetCheck: New page: Asset Save: KnightV1SideScrollerCharacter
+[2020.07.10-14.08.18:609][978]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1SideScrollerCharacter.KnightV1SideScrollerCharacter
+[2020.07.10-14.08.21:114][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.07.10-14.08.21:116][268]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1CharacterPawn.KnightV1CharacterPawn:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Characters/Enemies/KnightV1/NewBlueprint.PackageMetaData'
+[2020.07.10-14.08.21:116][268]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1CharacterPawn.SKEL_KnightV1CharacterPawn_C' ref from Metadata '/Game/Characters/Enemies/KnightV1/NewBlueprint.PackageMetaData'
+[2020.07.10-14.08.21:116][268]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1CharacterPawn.KnightV1CharacterPawn_C' ref from Metadata '/Game/Characters/Enemies/KnightV1/NewBlueprint.PackageMetaData'
+[2020.07.10-14.08.21:116][268]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1CharacterPawn.KnightV1CharacterPawn:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Characters/Enemies/KnightV1/NewBlueprint.PackageMetaData'
+[2020.07.10-14.08.21:116][268]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1CharacterPawn.KnightV1CharacterPawn:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Characters/Enemies/KnightV1/NewBlueprint.PackageMetaData'
+[2020.07.10-14.08.21:116][268]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1CharacterPawn.KnightV1CharacterPawn:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Characters/Enemies/KnightV1/NewBlueprint.PackageMetaData'
+[2020.07.10-14.08.21:159][268]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1CharacterPawn98891BCC47042E213147CD9925D033B0.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1CharacterPawn.uasset'
+[2020.07.10-14.08.21:339][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.07.10-14.08.21:375][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.07.10-14.08.21:397][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.07.10-14.08.21:452][268]AssetCheck: New page: Asset Save: KnightV1CharacterPawn
+[2020.07.10-14.08.21:452][268]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1CharacterPawn.KnightV1CharacterPawn
+[2020.07.10-14.08.21:981][321]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1CharacterPawn3C3D49E44201F6FD86340F92AACEAE6D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1CharacterPawn.uasset'
+[2020.07.10-14.08.21:998][321]AssetCheck: New page: Asset Save: KnightV1CharacterPawn
+[2020.07.10-14.08.21:998][321]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1CharacterPawn.KnightV1CharacterPawn
+[2020.07.10-14.08.38:110][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.07.10-14.08.38:147][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.07.10-14.08.38:195][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.07.10-14.08.38:204][216]LogMetaData: Removing '/Game/Characters/Players/Player2D.Player2D_C' ref from Metadata '/Game/Characters/Players/2DSideScrollerCharacter.PackageMetaData'
+[2020.07.10-14.08.38:204][216]LogMetaData: Removing '/Game/Characters/Players/Player2D.Player2D:Cast White.K2Node_Tunnel_0' ref from Metadata '/Game/Characters/Players/2DSideScrollerCharacter.PackageMetaData'
+[2020.07.10-14.08.38:204][216]LogMetaData: Removing '/Game/Characters/Players/Player2D.Player2D:Cast White.K2Node_Tunnel_1' ref from Metadata '/Game/Characters/Players/2DSideScrollerCharacter.PackageMetaData'
+[2020.07.10-14.08.38:204][216]LogMetaData: Removing '/Game/Characters/Players/Player2D.Player2D:Update Stamina.K2Node_Tunnel_1' ref from Metadata '/Game/Characters/Players/2DSideScrollerCharacter.PackageMetaData'
+[2020.07.10-14.08.38:204][216]LogMetaData: Removing '/Game/Characters/Players/Player2D.Player2D:Update Stamina.K2Node_Tunnel_0' ref from Metadata '/Game/Characters/Players/2DSideScrollerCharacter.PackageMetaData'
+[2020.07.10-14.08.38:204][216]LogMetaData: Removing '/Game/Characters/Players/Player2D.SKEL_Player2D_C' ref from Metadata '/Game/Characters/Players/2DSideScrollerCharacter.PackageMetaData'
+[2020.07.10-14.08.38:204][216]LogMetaData: Removing '/Game/Characters/Players/Player2D.Player2D:Set Max Walk Speed.K2Node_FunctionResult_1' ref from Metadata '/Game/Characters/Players/2DSideScrollerCharacter.PackageMetaData'
+[2020.07.10-14.08.38:204][216]LogMetaData: Removing '/Game/Characters/Players/Player2D.Player2D:Set Max Walk Speed.K2Node_FunctionEntry_0' ref from Metadata '/Game/Characters/Players/2DSideScrollerCharacter.PackageMetaData'
+[2020.07.10-14.08.38:204][216]LogMetaData: Removing '/Game/Characters/Players/Player2D.Player2D:Set Color and Global Cooldown.K2Node_Tunnel_0' ref from Metadata '/Game/Characters/Players/2DSideScrollerCharacter.PackageMetaData'
+[2020.07.10-14.08.38:204][216]LogMetaData: Removing '/Game/Characters/Players/Player2D.Player2D:Set Color and Global Cooldown.K2Node_Tunnel_1' ref from Metadata '/Game/Characters/Players/2DSideScrollerCharacter.PackageMetaData'
+[2020.07.10-14.08.38:204][216]LogMetaData: Removing '/Game/Characters/Players/Player2D.Player2D:Safe Teleport.K2Node_FunctionResult_0' ref from Metadata '/Game/Characters/Players/2DSideScrollerCharacter.PackageMetaData'
+[2020.07.10-14.08.38:204][216]LogMetaData: Removing '/Game/Characters/Players/Player2D.Player2D:Safe Teleport.K2Node_FunctionEntry_0' ref from Metadata '/Game/Characters/Players/2DSideScrollerCharacter.PackageMetaData'
+[2020.07.10-14.08.38:204][216]LogMetaData: Removing '/Game/Characters/Players/Player2D.Player2D:Receive Damage.K2Node_FunctionEntry_0' ref from Metadata '/Game/Characters/Players/2DSideScrollerCharacter.PackageMetaData'
+[2020.07.10-14.08.38:204][216]LogMetaData: Removing '/Game/Characters/Players/Player2D.Player2D:Set Flipbook Looping.K2Node_FunctionEntry_0' ref from Metadata '/Game/Characters/Players/2DSideScrollerCharacter.PackageMetaData'
+[2020.07.10-14.08.38:204][216]LogMetaData: Removing '/Game/Characters/Players/Player2D.Player2D:Level Cleanup.K2Node_FunctionEntry_0' ref from Metadata '/Game/Characters/Players/2DSideScrollerCharacter.PackageMetaData'
+[2020.07.10-14.08.38:204][216]LogMetaData: Removing '/Game/Characters/Players/Player2D.Player2D:Kill Player.K2Node_Tunnel_1' ref from Metadata '/Game/Characters/Players/2DSideScrollerCharacter.PackageMetaData'
+[2020.07.10-14.08.38:204][216]LogMetaData: Removing '/Game/Characters/Players/Player2D.Player2D:Kill Player.K2Node_Tunnel_0' ref from Metadata '/Game/Characters/Players/2DSideScrollerCharacter.PackageMetaData'
+[2020.07.10-14.08.38:255][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/Player2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Player2D.uasset" SILENT=true
+[2020.07.10-14.08.38:366][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Player2DCF8661CC4D0BA79D3E471BB1CAFA3D15.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Player2D.uasset'
+[2020.07.10-14.08.38:368][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-14.08.38:416][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacterC3745FCA4D4323B39649699EDDDCC5D9.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-14.08.38:494][216]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-14.08.38:494][216]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/Player2D.Player2D
+[2020.07.10-14.08.38:494][216]LogContentValidation: Display: Validating ObjectRedirector /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-14.08.38:494][216]LogContentValidation: Display: Validating ObjectRedirector /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter_C
+[2020.07.10-14.08.39:303][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/Player2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Player2D.uasset" SILENT=true
+[2020.07.10-14.08.39:447][307]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Player2DE1EDD0234412B891A4B15597F2A7B8B3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Player2D.uasset'
+[2020.07.10-14.08.39:461][307]AssetCheck: New page: Asset Save: Player2D
+[2020.07.10-14.08.39:461][307]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/Player2D.Player2D
+[2020.07.10-14.08.41:176][507]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-14.08.41:193][507]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.07.10-14.08.41:193][507]LogPlayLevel: [PlayLevel] Compiling ManaPotion before play...
+[2020.07.10-14.08.41:205][507]LogPlayLevel: [PlayLevel] Compiling HUD before play...
+[2020.07.10-14.08.41:255][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.07.10-14.08.41:257][507]LogPlayLevel: PlayLevel: Blueprint regeneration took 63 ms (2 blueprints)
+[2020.07.10-14.08.41:257][507]PIE: New page: PIE session: Level1 (Jul 10, 2020, 4:08:41 PM)
+[2020.07.10-14.08.41:257][507]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-14.08.41:291][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033574s)
+[2020.07.10-14.08.41:292][507]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-14.08.41:292][507]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002180C3E0A00), frame # 1329507
+[2020.07.10-14.08.41:292][507]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021706C9B380), frame # 1329507
+[2020.07.10-14.08.41:293][507]LogPlayLevel: PIE: World Init took: (0.001631s)
+[2020.07.10-14.08.41:293][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.035442s)
+[2020.07.10-14.08.41:315][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.07.10-14.08.41:316][507]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-14.08.41:316][507]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-14.08.41:316][507]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-14.08.41:316][507]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-14.08.41:316][507]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-14.08.41:316][507]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-14.08.41:316][507]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-14.08.41:316][507]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-14.08.41:317][507]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-14.08.41:317][507]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-14.08.41:328][507]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-14.08.41:328][507]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-14.08.41:363][507]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-14.08.41:363][507]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-14.08.41:363][507]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-14.08.41:363][507]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-14.08.41:363][507]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-14.08.41:376][507]LogInit: FAudioDevice initialized.
+[2020.07.10-14.08.41:389][507]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-14.08.41:410][507]LogPhysics: Warning: Scale for /Game/Levels/First/UEDPIE_0_Level1.Level1:PersistentLevel.Tile52.PaperSprite14 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=-1.000
+[2020.07.10-14.08.41:411][507]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-15.08.41
+[2020.07.10-14.08.41:411][507]LogWorld: Bringing up level for play took: 0.021576
+[2020.07.10-14.08.41:412][507]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2020.07.10-14.08.41:425][507]PIE: Server logged in
+[2020.07.10-14.08.41:426][507]PIE: Play in editor total start time 0.234 seconds.
+[2020.07.10-14.08.53:117][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-14.08.53:117][880]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-14.08.53:117][880]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-14.08.53:121][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-14.08.53:134][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-14.08.53:138][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-14.08.53:160][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-14.08.53:182][880]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021706C9B380), frame # 1330880
+[2020.07.10-14.08.53:182][880]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002180C3E0A00), frame # 1330880
+[2020.07.10-14.08.53:185][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.07.10-14.08.53:223][881]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2020.07.10-14.09.36:984][914]LogSlate: Window 'Reference Viewer' being destroyed
+[2020.07.10-14.09.36:989][914]LogSlate: Window 'Reference Viewer' being destroyed
+[2020.07.10-14.09.38:554][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/Player2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Player2D.uasset" SILENT=true
+[2020.07.10-14.09.38:696][ 98]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Player2DC45066E7443BE64A6FBE8E9415CAF07F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Player2D.uasset'
+[2020.07.10-14.09.38:712][ 98]AssetCheck: New page: Asset Save: Player2D
+[2020.07.10-14.09.38:712][ 98]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/Player2D.Player2D
