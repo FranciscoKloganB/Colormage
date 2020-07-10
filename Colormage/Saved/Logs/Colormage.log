@@ -7868,3 +7868,56 @@ Make sure 'KnightV1Character_C' has been compiled for  On Spell Casted
 [2020.07.10-14.09.38:696][ 98]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Player2DC45066E7443BE64A6FBE8E9415CAF07F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Player2D.uasset'
 [2020.07.10-14.09.38:712][ 98]AssetCheck: New page: Asset Save: Player2D
 [2020.07.10-14.09.38:712][ 98]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/Player2D.Player2D
+[2020.07.10-14.10.03:771][243]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Players/Player2D.Player2D
+[2020.07.10-14.11.20:223][675]LogSlate: Window 'Player2D' being destroyed
+[2020.07.10-14.11.20:246][675]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-14.11.20:246][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-14.11.48:595][258]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.07.10-14.11.48:601][258]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.036
+[2020.07.10-14.11.48:601][258]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/HUD] ([1] browsable assets)...
+[2020.07.10-14.11.48:602][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/HUD]
+[2020.07.10-14.11.48:602][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/HUD" FILE="../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Widgets/HUD_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2020.07.10-14.11.48:674][258]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/HUD_Auto0B9CD8E3B495EFEFB5ECD2C91FCB4BB74.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Widgets/HUD_Auto0.uasset'
+[2020.07.10-14.11.48:675][258]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode] ([1] browsable assets)...
+[2020.07.10-14.11.48:675][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode]
+[2020.07.10-14.11.48:728][258]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerGameMode_Auto0AD76D8C444213A986EC9B6987CA2CBC3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode_Auto0.uasset'
+[2020.07.10-14.11.48:729][258]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Items/Pickups/Potions/ManaPotion] ([1] browsable assets)...
+[2020.07.10-14.11.48:729][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/Items/Pickups/Potions/ManaPotion]
+[2020.07.10-14.11.48:797][258]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ManaPotion_Auto06E2B8F8247E8EECB16D39CA8684D0CEA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Items/Pickups/Potions/ManaPotion_Auto0.uasset'
+[2020.07.10-14.11.48:797][258]LogFileHelpers: Auto-saving content packages took 0.196
+[2020.07.10-14.15.03:808][842]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.10-14.15.03:808][842]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.10-14.17.37:498][548]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.07.10-14.18.27:851][133]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.10-14.18.27:856][133]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.10-14.21.19:135][679]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.07.10-14.21.20:183][679]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.10-14.21.20:272][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.07.10-14.21.24:752][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.07.10-14.21.26:844][212]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.10-14.21.27:570][294]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/KnightV1CharacterPawn.KnightV1CharacterPawn
+[2020.07.10-14.21.50:805][463]LogSlate: Window 'KnightV1CharacterPawn' being destroyed
+[2020.07.10-14.21.50:834][463]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-14.21.50:834][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-14.21.51:984][580]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/KnightV1SideScrollerCharacter.KnightV1SideScrollerCharacter
+[2020.07.10-14.22.59:050][497]LogSlate: Window 'KnightV1SideScrollerCharacter' being destroyed
+[2020.07.10-14.22.59:078][497]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-14.22.59:078][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-14.23.04:358][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.07.10-14.23.05:755][104]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.10-14.23.05:863][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.07.10-14.23.05:902][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.07.10-14.23.05:924][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.07.10-14.23.10:015][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.07.10-14.23.10:019][582]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1SideScrollerAI.KnightV1SideScrollerAI_C' ref from Metadata '/Game/Characters/Enemies/KnightV1/KnightV1SideScrollerCharacter.PackageMetaData'
+[2020.07.10-14.23.10:019][582]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1SideScrollerAI.SKEL_KnightV1SideScrollerAI_C' ref from Metadata '/Game/Characters/Enemies/KnightV1/KnightV1SideScrollerCharacter.PackageMetaData'
+[2020.07.10-14.23.10:019][582]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1SideScrollerAI.KnightV1SideScrollerAI:Kill Enemy.K2Node_FunctionEntry_0' ref from Metadata '/Game/Characters/Enemies/KnightV1/KnightV1SideScrollerCharacter.PackageMetaData'
+[2020.07.10-14.23.10:110][582]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1SideScrollerAIEF2488D34567F374E39E029978015EA7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1SideScrollerAI.uasset'
+[2020.07.10-14.23.10:298][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.07.10-14.23.10:330][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.07.10-14.23.10:351][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.10-14.23.10:409][582]AssetCheck: New page: Asset Save: KnightV1SideScrollerAI
+[2020.07.10-14.23.10:409][582]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1SideScrollerAI.KnightV1SideScrollerAI
+[2020.07.10-14.23.11:308][672]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1SideScrollerAI0AA2C9194EF319A2B0C6789060B4BB95.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1SideScrollerAI.uasset'
+[2020.07.10-14.23.11:324][672]AssetCheck: New page: Asset Save: KnightV1SideScrollerAI
+[2020.07.10-14.23.11:324][672]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1SideScrollerAI.KnightV1SideScrollerAI
