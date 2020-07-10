@@ -9542,3 +9542,17 @@ Make sure 'KnightV1Character_C' has been compiled for  On Spell Casted
 [2020.07.10-18.02.56:429][160]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1_AIFF31258944A4B088680932B74089D869.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1_AI.uasset'
 [2020.07.10-18.02.56:447][160]AssetCheck: New page: Asset Save: KnightV1_AI
 [2020.07.10-18.02.56:447][160]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1_AI.KnightV1_AI
+[2020.07.10-18.03.50:043][569]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Players/Player2D.Player2D
+[2020.07.10-18.05.14:111][477]BlueprintLog: New page: Compile Player2D
+[2020.07.10-18.05.14:218][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.07.10-18.05.16:133][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/Player2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Player2D.uasset" SILENT=true
+[2020.07.10-18.05.16:300][608]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Player2DFB1FFE41407FD5A9B11BF0B125055367.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Player2D.uasset'
+[2020.07.10-18.05.16:323][608]AssetCheck: New page: Asset Save: Player2D
+[2020.07.10-18.05.16:323][608]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/Player2D.Player2D
+[2020.07.10-18.05.42:554][275]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.10-18.06.01:452][584]BlueprintLog: New page: Compile Player2D
+[2020.07.10-18.06.01:562][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.07.10-18.06.02:174][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/Player2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Player2D.uasset" SILENT=true
+[2020.07.10-18.06.02:324][616]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Player2D2CC98EB144123C8B04BE9C8A56F3351A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Player2D.uasset'
+[2020.07.10-18.06.02:346][616]AssetCheck: New page: Asset Save: Player2D
+[2020.07.10-18.06.02:346][616]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/Player2D.Player2D
