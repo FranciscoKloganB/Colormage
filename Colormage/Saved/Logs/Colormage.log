@@ -8619,3 +8619,34 @@ Make sure 'KnightV1Character_C' has been compiled for  On Spell Casted
 [2020.07.10-15.36.57:312][275]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000218AD6A8800), frame # 1464275
 [2020.07.10-15.36.57:315][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
 [2020.07.10-15.36.57:354][276]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2020.07.10-15.39.53:328][311]Cmd: ACTOR SELECT ALL
+[2020.07.10-15.40.02:821][384]LogEditorViewport: Clicking Background
+[2020.07.10-15.40.03:484][458]LogEditorViewport: Clicking on Actor (LMB): Tile5x2by2_C (Tile5x2by22)
+[2020.07.10-15.40.04:577][580]LogEditorViewport: Clicking on Actor (LMB): Tile5x2by2_C (Tile5x2by18)
+[2020.07.10-15.40.05:518][682]LogEditorViewport: Clicking on Actor (LMB): Tile5x2by2_C (Tile5x2by9)
+[2020.07.10-15.40.08:175][941]LogEditorViewport: Clicking Background
+[2020.07.10-15.40.18:209][ 28]LogEditorViewport: Clicking Background
+[2020.07.10-15.40.18:816][ 97]LogEditorViewport: Clicking Background
+[2020.07.10-15.40.22:231][495]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.07.10-15.42.03:773][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-15.42.03:806][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.07.10-15.42.04:001][770]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1DAAD71E949968AECC34A1296747E7355.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-15.42.04:055][770]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-15.42.04:055][770]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-15.42.24:374][802]Cmd: TRANSACTION UNDO
+[2020.07.10-15.42.24:374][802]LogEditorTransaction: Undo Set Scale
+[2020.07.10-15.42.41:580][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-15.42.41:608][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.07.10-15.42.41:800][284]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level162866CA444B8EF28B9F27C932759C38E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-15.42.41:847][284]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-15.42.41:847][284]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-15.43.11:981][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-15.43.12:007][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.07.10-15.43.12:199][803]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level19340503B40445C95D6504FB6401CEA94.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-15.43.12:261][803]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-15.43.12:261][803]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-15.43.48:969][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-15.43.48:996][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.07.10-15.43.49:193][226]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level17D1A2660480FEFE8DC555DB5903C6592.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-15.43.49:243][226]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-15.43.49:243][226]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
