@@ -2963,3 +2963,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.10-10.47.04:795][958]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacter40EDA34C4E28BB83F5FA2380672F44E8.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
 [2020.07.10-10.47.04:812][958]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
 [2020.07.10-10.47.04:812][958]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-10.48.39:535][434]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-10.48.39:627][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.07.10-10.50.45:693][583]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-10.50.45:791][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.07.10-10.50.46:202][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-10.50.46:328][614]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacter5E585F074CFDE98398CA5F9DA91138B6.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-10.50.46:345][614]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.07.10-10.50.46:345][614]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
