@@ -4038,3 +4038,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.10-22.30.10:388][949]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level12F9384DB4BACF7CEA21D159A4B009131.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
 [2020.07.10-22.30.10:434][949]AssetCheck: New page: Asset Save: Level1
 [2020.07.10-22.30.10:434][949]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-22.31.16:559][268]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Characters/AI/Arriver/Arriver_BB.Arriver_BB
+[2020.07.10-22.31.21:349][769]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB
+[2020.07.10-22.31.24:412][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Wanderer/Wanderer_BB" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Wanderer/Wanderer_BB.uasset" SILENT=true
+[2020.07.10-22.31.24:473][120]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Wanderer_BB061A61F54A42F87FB9CF29B78812FE08.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Wanderer/Wanderer_BB.uasset'
+[2020.07.10-22.31.24:489][120]AssetCheck: New page: Asset Save: Wanderer_BB
+[2020.07.10-22.31.24:489][120]LogContentValidation: Display: Validating BlackboardData /Game/Characters/AI/Wanderer/Wanderer_BB.Wanderer_BB
+[2020.07.10-22.31.31:477][905]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-22.31.31:477][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
