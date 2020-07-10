@@ -7566,3 +7566,80 @@ Make sure 'KnightV1Character_C' has been compiled for  On Spell Casted
 [2020.07.10-12.56.10:337][419]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1Character7451266C45640BF02062A2AECECFFF9D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
 [2020.07.10-12.56.10:354][419]AssetCheck: New page: Asset Save: KnightV1Character
 [2020.07.10-12.56.10:354][419]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-13.00.54:443][185]LogSlate: Window 'KnightV1Character' being destroyed
+[2020.07.10-13.00.54:450][185]LogSlate: Window 'KnightV1Character' being destroyed
+[2020.07.10-13.00.54:465][185]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-13.00.54:465][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-13.00.58:556][644]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-13.01.30:697][138]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-13.02.26:597][692]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1CharacterF8B2368347BD2FB84C7CF983BE6ECDAD.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-13.02.26:614][692]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-13.02.26:614][692]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-13.02.32:121][175]BlueprintLog: New page: Compile KnightV1Character
+[2020.07.10-13.02.32:193][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.07.10-13.03.24:815][258]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1Character0315142A4037BCBCBC97C38ED6437679.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-13.03.24:830][258]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-13.03.24:830][258]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-13.03.41:971][638]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1CharacterC5F1CF884B580F9B66FE53B168594794.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-13.03.41:990][638]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-13.03.41:990][638]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-13.03.43:065][723]BlueprintLog: New page: Compile KnightV1Character
+[2020.07.10-13.03.43:137][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.07.10-13.03.43:713][751]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1CharacterF4B7A12A42756C52204CB389CCDAD9CA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-13.03.43:732][751]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-13.03.43:732][751]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-13.05.19:082][485]LogHttp: Warning: 00000218BB8ADD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8BDC74F-4612-0B38-B247-5BAAF4614CED%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=70a6b89f4b683017b9245f9cc1260927%7C2342c603b8a64765b1d89819ebdf3ffa%7Cec95e6da-4d5e-476e-b7bc-294f77e94304&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.07.10-13.05.19:082][485]LogHttp: Warning: 00000218BB8ADD00: request failed, libcurl error: 0 (No error)
+[2020.07.10-13.05.19:082][485]LogHttp: Warning: 00000218BB8ADD00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x21754a0ff70 [can pipeline])
+[2020.07.10-13.05.19:082][485]LogHttp: Warning: 00000218BB8ADD00: libcurl info message cache 1 (Re-using existing connection! (#132) with host datarouter.ol.epicgames.com)
+[2020.07.10-13.05.19:082][485]LogHttp: Warning: 00000218BB8ADD00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.44.188.211) port 443 (#132))
+[2020.07.10-13.05.19:082][485]LogHttp: Warning: 00000218BB8ADD00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.07.10-13.05.19:082][485]LogHttp: Warning: 00000218BB8ADD00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.07.10-13.05.19:082][485]LogHttp: Warning: 00000218BB8ADD00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.07.10-13.05.19:082][485]LogHttp: Warning: 00000218BB8ADD00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.07.10-13.05.19:082][485]LogHttp: Warning: 00000218BB8ADD00: libcurl info message cache 7 (Closing connection 132)
+[2020.07.10-13.05.19:083][485]LogHttp: Warning: 00000218BB8ADD00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.07.10-13.05.19:092][486]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8BDC74F-4612-0B38-B247-5BAAF4614CED%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=70a6b89f4b683017b9245f9cc1260927%7C2342c603b8a64765b1d89819ebdf3ffa%7Cec95e6da-4d5e-476e-b7bc-294f77e94304&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.07.10-13.05.32:528][904]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.10-13.05.32:534][904]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.10-13.07.01:284][192]LogEditorTransaction: Undo Create Pin Link
+[2020.07.10-13.07.01:819][212]LogEditorTransaction: Undo Delete current selection
+[2020.07.10-13.07.06:474][640]BlueprintLog: New page: Compile KnightV1Character
+[2020.07.10-13.07.06:553][640]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.07.10-13.07.07:154][682]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1Character1C33CBA54DEF308B32BF6785D5FE76FD.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-13.07.07:175][682]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-13.07.07:175][682]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-13.07.23:359][208]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1Character384DDA3647149D6C93A1478B1EE9E9D9.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-13.07.23:374][208]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-13.07.23:374][208]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-13.07.25:159][365]BlueprintLog: New page: Compile KnightV1Character
+[2020.07.10-13.07.25:231][365]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.07.10-13.07.25:859][407]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1Character975C3D664E5A0D253C6CF699606F5EB8.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-13.07.25:878][407]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-13.07.25:878][407]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-13.07.30:975][872]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1Character08611E60454A7DED9F3618A43E2B669B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-13.07.30:994][872]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-13.07.30:994][872]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-13.07.38:440][549]BlueprintLog: New page: Compile KnightV1Character
+[2020.07.10-13.07.38:513][549]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.07.10-13.07.39:151][590]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1CharacterF401D2F847278AA2465FE6A919825637.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-13.07.39:166][590]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-13.07.39:166][590]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-13.08.18:293][120]BlueprintLog: New page: Compile KnightV1Character
+[2020.07.10-13.08.18:370][120]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.07.10-13.08.31:921][285]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1Character21D29F6F4137E5EA5CA9F99E28B9DC0A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-13.08.31:940][285]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-13.08.31:940][285]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-13.08.37:395][725]BlueprintLog: New page: Compile KnightV1Character
+[2020.07.10-13.08.37:466][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.07.10-13.08.37:967][753]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1Character4C30903F49C51856F7440088F24B4066.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-13.08.37:986][753]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-13.08.37:986][753]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-13.08.42:687][182]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1Character9155D2EE4C23C3DB3C87BE8EB380703C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-13.08.42:708][182]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-13.08.42:708][182]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-13.09.14:993][174]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1Character25C6C64C4485D234823347B0A95A65A7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-13.09.15:015][174]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-13.09.15:015][174]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-13.09.15:670][230]BlueprintLog: New page: Compile KnightV1Character
+[2020.07.10-13.09.15:742][230]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
