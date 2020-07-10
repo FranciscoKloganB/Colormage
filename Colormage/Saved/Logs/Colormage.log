@@ -2598,3 +2598,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.10-09.53.57:871][580]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000218013A3800), frame # 518580
 [2020.07.10-09.53.57:874][580]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
 [2020.07.10-09.53.57:920][581]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2020.07.10-09.54.37:534][ 58]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-09.54.37:623][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.07.10-09.54.38:064][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-09.54.38:187][ 90]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacterF1D86BD64BDFF7EBDB1BE294CB7C3D31.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-09.54.38:205][ 90]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.07.10-09.54.38:205][ 90]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-09.54.59:720][224]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.07.10-09.54.59:802][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.07.10-09.55.04:779][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/2DSideScrollerCharacter" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.07.10-09.55.04:896][683]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/2DSideScrollerCharacterEAF806DD4ED8459581E30C8511A75E53.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/2DSideScrollerCharacter.uasset'
+[2020.07.10-09.55.04:912][683]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.07.10-09.55.04:912][683]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
