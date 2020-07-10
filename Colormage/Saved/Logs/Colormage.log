@@ -2573,3 +2573,38 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.10-21.04.07:464][100]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1208E868140E858AB27464787F078038E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
 [2020.07.10-21.04.07:508][100]AssetCheck: New page: Asset Save: Level1
 [2020.07.10-21.04.07:509][100]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-21.06.19:492][ 72]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/WeakKnight.WeakKnight
+[2020.07.10-21.06.21:487][194]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.10-21.06.29:152][809]BlueprintLog: New page: Compile WeakKnight
+[2020.07.10-21.06.29:225][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.07.10-21.06.31:346][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/WeakKnight" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/WeakKnight.uasset" SILENT=true
+[2020.07.10-21.06.31:448][968]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/WeakKnightFDF0267E4AA426986C86A6816E18CC6C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/WeakKnight.uasset'
+[2020.07.10-21.06.31:462][968]AssetCheck: New page: Asset Save: WeakKnight
+[2020.07.10-21.06.31:462][968]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/WeakKnight.WeakKnight
+[2020.07.10-21.06.33:366][118]LogSlate: Window 'WeakKnight' being destroyed
+[2020.07.10-21.06.33:373][118]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-21.06.33:373][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-21.06.38:457][711]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/AI/Regular/Regular_AI.Regular_AI
+[2020.07.10-21.06.38:859][711]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Characters/AI/Regular/Regular_BB.Regular_BB
+[2020.07.10-21.06.38:941][711]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Characters/AI/Regular/Regular_BT.Regular_BT
+[2020.07.10-21.06.38:984][711]LogBehaviorTree: Warning: When Not Sensing Player[1]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Dummy/Dummy_BB.Dummy_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.06.38:984][711]LogBehaviorTree: Warning: When Sensing Player[6]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Dummy/Dummy_BB.Dummy_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.06.56:159][428]LogBehaviorTree: Warning: When Not Sensing Player[1]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Dummy/Dummy_BB.Dummy_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.06.56:159][428]LogBehaviorTree: Warning: When Sensing Player[6]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Dummy/Dummy_BB.Dummy_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.07.03:260][269]LogBehaviorTree: Warning: When Not Sensing Player[1]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Dummy/Dummy_BB.Dummy_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.07.03:260][269]LogBehaviorTree: Warning: When Sensing Player[6]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Dummy/Dummy_BB.Dummy_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.07.28:637][996]LogBehaviorTree: Warning: When Not Sensing Player[1]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Dummy/Dummy_BB.Dummy_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.07.28:637][996]LogBehaviorTree: Warning: When Sensing Player[6]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Dummy/Dummy_BB.Dummy_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.07.51:443][351]LogBehaviorTree: Warning: When Not Sensing Player[1]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Dummy/Dummy_BB.Dummy_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.07.51:443][351]LogBehaviorTree: Warning: When Sensing Player[6]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Dummy/Dummy_BB.Dummy_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.07.51:465][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Regular/Regular_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_BT.uasset" SILENT=true
+[2020.07.10-21.07.51:525][351]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Regular_BTBC254CBA45A400095AB1938E67A3302F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_BT.uasset'
+[2020.07.10-21.07.51:538][351]AssetCheck: New page: Asset Save: Regular_BT
+[2020.07.10-21.07.51:538][351]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Regular/Regular_BT.Regular_BT
+[2020.07.10-21.08.32:796][480]LogBehaviorTree: Warning: When Not Sensing Player[1]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Dummy/Dummy_BB.Dummy_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.08.32:796][480]LogBehaviorTree: Warning: When Sensing Player[6]> Failed to find key 'IsSensingPlayer' in BB asset BlackboardData /Game/Characters/AI/Dummy/Dummy_BB.Dummy_BB. BB Key Selector will be set to 'Invalid'
+[2020.07.10-21.08.32:820][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Regular/Regular_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_BT.uasset" SILENT=true
+[2020.07.10-21.08.32:881][480]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Regular_BTE222A8F64F4AF1EDE903208015EE492B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Regular/Regular_BT.uasset'
+[2020.07.10-21.08.32:895][480]AssetCheck: New page: Asset Save: Regular_BT
+[2020.07.10-21.08.32:895][480]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Regular/Regular_BT.Regular_BT
+[2020.07.10-21.08.47:569][854]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/WeakKnight.WeakKnight
