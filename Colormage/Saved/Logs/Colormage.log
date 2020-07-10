@@ -2030,3 +2030,141 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.10-20.50.45:031][979]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1995770B548EBF7ECDDA721AD78D322B9.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
 [2020.07.10-20.50.45:076][979]AssetCheck: New page: Asset Save: Level1
 [2020.07.10-20.50.45:076][979]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-20.51.55:833][442]LogSlate: Window 'WeakKnight' being destroyed
+[2020.07.10-20.51.55:839][442]LogSlate: Window 'WeakKnight' being destroyed
+[2020.07.10-20.51.55:855][442]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-20.51.55:855][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-20.51.59:749][896]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/AI/Dummy/Dummy_AI.Dummy_AI
+[2020.07.10-20.52.24:060][604]LogSlate: Window 'Dummy_AI' being destroyed
+[2020.07.10-20.52.24:065][604]LogSlate: Window 'Dummy_AI' being destroyed
+[2020.07.10-20.52.24:082][604]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-20.52.24:082][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-20.52.25:241][734]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Characters/AI/Dummy/Dummy_BB.Dummy_BB
+[2020.07.10-20.52.31:732][495]LogSlate: Window 'Dummy_BB' being destroyed
+[2020.07.10-20.52.31:738][495]LogSlate: Window 'Dummy_BB' being destroyed
+[2020.07.10-20.52.32:618][595]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Characters/AI/Dummy/Dummy_BT.Dummy_BT
+[2020.07.10-20.52.36:150][998]LogSlate: Window 'Dummy_BT' being destroyed
+[2020.07.10-20.52.36:157][998]LogSlate: Window 'Dummy_BT' being destroyed
+[2020.07.10-20.52.37:854][196]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/AI/Dummy/Dummy_AI.Dummy_AI
+[2020.07.10-20.52.45:893][ 64]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.10-20.52.50:718][614]LogSlate: Window 'Dummy_AI' being destroyed
+[2020.07.10-20.52.50:725][614]LogSlate: Window 'Dummy_AI' being destroyed
+[2020.07.10-20.52.50:726][614]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-20.52.50:726][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-20.52.51:796][733]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Characters/AI/Dummy/Dummy_BB.Dummy_BB
+[2020.07.10-20.53.02:691][ 23]LogSlate: Window 'Dummy_BB' being destroyed
+[2020.07.10-20.53.02:696][ 23]LogSlate: Window 'Dummy_BB' being destroyed
+[2020.07.10-20.53.03:674][136]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Characters/AI/Dummy/Dummy_BT.Dummy_BT
+[2020.07.10-20.53.09:966][864]LogSlate: Window 'Dummy_BT' being destroyed
+[2020.07.10-20.53.09:972][864]LogSlate: Window 'Dummy_BT' being destroyed
+[2020.07.10-20.53.15:839][562]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/AI/ReactiveDummy/ReactiveDummy_AI.ReactiveDummy_AI
+[2020.07.10-20.53.34:901][684]LogSlate: Window 'ReactiveDummy_AI' being destroyed
+[2020.07.10-20.53.34:907][684]LogSlate: Window 'ReactiveDummy_AI' being destroyed
+[2020.07.10-20.53.34:908][684]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-20.53.34:908][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-20.53.38:674][125]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/WeakKnight.WeakKnight
+[2020.07.10-20.53.45:258][629]BlueprintLog: New page: Compile WeakKnight
+[2020.07.10-20.53.45:337][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.07.10-20.53.46:170][689]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-20.53.46:188][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-20.53.46:188][689]PIE: New page: PIE session: Level1 (Jul 10, 2020, 10:53:46 PM)
+[2020.07.10-20.53.46:188][689]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-20.53.46:224][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035701s)
+[2020.07.10-20.53.46:225][689]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-20.53.46:225][689]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023B1E10BE00), frame # 204689
+[2020.07.10-20.53.46:225][689]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023B1508E980), frame # 204689
+[2020.07.10-20.53.46:225][689]LogPlayLevel: PIE: World Init took: (0.001336s)
+[2020.07.10-20.53.46:225][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.037245s)
+[2020.07.10-20.53.46:247][689]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.07.10-20.53.46:249][689]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-20.53.46:249][689]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-20.53.46:249][689]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-20.53.46:249][689]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-20.53.46:249][689]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-20.53.46:249][689]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-20.53.46:249][689]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-20.53.46:249][689]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-20.53.46:249][689]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-20.53.46:249][689]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-20.53.46:260][689]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-20.53.46:260][689]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-20.53.46:292][689]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-20.53.46:293][689]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-20.53.46:293][689]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-20.53.46:293][689]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-20.53.46:293][689]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-20.53.46:306][689]LogInit: FAudioDevice initialized.
+[2020.07.10-20.53.46:316][689]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-20.53.46:336][689]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-21.53.46
+[2020.07.10-20.53.46:336][689]LogWorld: Bringing up level for play took: 0.019408
+[2020.07.10-20.53.46:337][689]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.07.10-20.53.46:345][689]PIE: Server logged in
+[2020.07.10-20.53.46:345][689]PIE: Play in editor total start time 0.158 seconds.
+[2020.07.10-20.53.58:291][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-20.53.58:291][864]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-20.53.58:291][864]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-20.53.58:294][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-20.53.58:311][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-20.53.58:315][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-20.53.58:358][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-20.53.58:360][864]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023B1508E980), frame # 205864
+[2020.07.10-20.53.58:360][864]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023B1E10BE00), frame # 205864
+[2020.07.10-20.53.58:363][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.07.10-20.53.58:404][865]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.07.10-20.54.02:084][220]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.10-20.54.09:038][783]BlueprintLog: New page: Compile WeakKnight
+[2020.07.10-20.54.09:103][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.07.10-20.54.09:903][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/WeakKnight" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/WeakKnight.uasset" SILENT=true
+[2020.07.10-20.54.10:000][837]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/WeakKnightFE5ADBA54506ABC1942916ADCB7DF8A9.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/WeakKnight.uasset'
+[2020.07.10-20.54.10:015][837]AssetCheck: New page: Asset Save: WeakKnight
+[2020.07.10-20.54.10:015][837]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/WeakKnight.WeakKnight
+[2020.07.10-20.54.10:874][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/KnightV1/WeakKnight" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/WeakKnight.uasset" SILENT=true
+[2020.07.10-20.54.10:975][908]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/WeakKnight03B06C6B43AE28767A1323B3AFA4D4D0.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/WeakKnight.uasset'
+[2020.07.10-20.54.10:989][908]AssetCheck: New page: Asset Save: WeakKnight
+[2020.07.10-20.54.10:989][908]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/WeakKnight.WeakKnight
+[2020.07.10-20.54.11:612][958]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-20.54.11:628][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-20.54.11:628][958]PIE: New page: PIE session: Level1 (Jul 10, 2020, 10:54:11 PM)
+[2020.07.10-20.54.11:628][958]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-20.54.11:663][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034656s)
+[2020.07.10-20.54.11:664][958]LogAIModule: Creating AISystem for world Level1
+[2020.07.10-20.54.11:664][958]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023B1286A600), frame # 206958
+[2020.07.10-20.54.11:664][958]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023B32D56C00), frame # 206958
+[2020.07.10-20.54.11:665][958]LogPlayLevel: PIE: World Init took: (0.001474s)
+[2020.07.10-20.54.11:665][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.036349s)
+[2020.07.10-20.54.11:687][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.07.10-20.54.11:688][958]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-20.54.11:688][958]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-20.54.11:688][958]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-20.54.11:688][958]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-20.54.11:688][958]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-20.54.11:689][958]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-20.54.11:689][958]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-20.54.11:689][958]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-20.54.11:689][958]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-20.54.11:689][958]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-20.54.11:699][958]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-20.54.11:699][958]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-20.54.11:731][958]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.10-20.54.11:731][958]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.10-20.54.11:731][958]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.10-20.54.11:731][958]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.10-20.54.11:731][958]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.10-20.54.11:746][958]LogInit: FAudioDevice initialized.
+[2020.07.10-20.54.11:761][958]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.10-20.54.11:782][958]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.10-21.54.11
+[2020.07.10-20.54.11:783][958]LogWorld: Bringing up level for play took: 0.021132
+[2020.07.10-20.54.11:783][958]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.07.10-20.54.11:791][958]PIE: Server logged in
+[2020.07.10-20.54.11:792][958]PIE: Play in editor total start time 0.165 seconds.
+[2020.07.10-20.54.28:581][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-20.54.28:581][776]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.10-20.54.28:582][776]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-20.54.28:585][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-20.54.28:601][776]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-20.54.28:605][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-20.54.28:645][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-20.54.28:646][776]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023B32D56C00), frame # 208776
+[2020.07.10-20.54.28:646][776]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023B1286A600), frame # 208776
+[2020.07.10-20.54.28:649][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.07.10-20.54.28:687][777]LogPlayLevel: Display: Destroying online subsystem :Context_31
