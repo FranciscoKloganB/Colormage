@@ -6619,3 +6619,933 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.10-12.19.54:656][798]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level130E091F84598322B52BC15B73D9BFCD3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
 [2020.07.10-12.19.54:704][798]AssetCheck: New page: Asset Save: Level1
 [2020.07.10-12.19.54:705][798]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-12.20.47:340][548]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__ATTACK_000A40FA50247ACC22652632687AFC30349.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_000.uasset'
+[2020.07.10-12.20.47:351][548]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__ATTACK_0015EF132FC46FBFA9BE8A33BB13E7767DC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_001.uasset'
+[2020.07.10-12.20.47:363][548]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__ATTACK_002989415B54A02C2B2A0E962BBB94185D2.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_002.uasset'
+[2020.07.10-12.20.47:375][548]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__ATTACK_003C8AE032841AA001C65C0AEA1302FCCB3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_003.uasset'
+[2020.07.10-12.20.47:386][548]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__ATTACK_004853B679441620DC6087BBAA2F3ACBAF2.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_004.uasset'
+[2020.07.10-12.20.47:397][548]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__ATTACK_005309B45DB465E2E4610BF34B0F197340F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_005.uasset'
+[2020.07.10-12.20.47:408][548]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__ATTACK_006E792AE2848C81CC2AFC8878191F0C2BD.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_006.uasset'
+[2020.07.10-12.20.47:419][548]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__ATTACK_007A8E08F4643763FC76349EAA3A430D38A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_007.uasset'
+[2020.07.10-12.20.47:430][548]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__ATTACK_0089F11EFAE4E804FAAE4CDA7B26FFF1E0F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_008.uasset'
+[2020.07.10-12.20.47:441][548]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__ATTACK_0093BD293824BE021B89FB1F39F1C4B726E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_009.uasset'
+[2020.07.10-12.20.48:598][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.20.48:623][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.07.10-12.20.48:642][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.07.10-12.20.48:662][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.07.10-12.20.48:682][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.07.10-12.20.48:701][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.07.10-12.20.48:720][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.07.10-12.20.48:738][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.07.10-12.20.48:758][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.07.10-12.20.48:777][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.07.10-12.20.48:807][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.07.10-12.20.48:826][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.07.10-12.20.48:919][548]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-12.20.48:919][548]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_000.Knight_02__ATTACK_000
+[2020.07.10-12.20.48:919][548]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_001.Knight_02__ATTACK_001
+[2020.07.10-12.20.48:919][548]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_002.Knight_02__ATTACK_002
+[2020.07.10-12.20.48:919][548]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_003.Knight_02__ATTACK_003
+[2020.07.10-12.20.48:919][548]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_004.Knight_02__ATTACK_004
+[2020.07.10-12.20.48:919][548]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_005.Knight_02__ATTACK_005
+[2020.07.10-12.20.48:919][548]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_006.Knight_02__ATTACK_006
+[2020.07.10-12.20.48:919][548]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_007.Knight_02__ATTACK_007
+[2020.07.10-12.20.48:919][548]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_008.Knight_02__ATTACK_008
+[2020.07.10-12.20.48:919][548]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_009.Knight_02__ATTACK_009
+[2020.07.10-12.21.05:934][514]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__DIE_00094A175CA4DFBDDF55ABD4AB4C4C403C0.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_000.uasset'
+[2020.07.10-12.21.05:944][514]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__DIE_00136BF4CFF4BD6A9385B7BB8B8C17E1FDB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_001.uasset'
+[2020.07.10-12.21.05:970][514]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__DIE_002EB4EDA15447345A2916E66B51B086740.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_002.uasset'
+[2020.07.10-12.21.05:981][514]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__DIE_003E145CCAA4018A285FB871CB0A8354ADD.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_003.uasset'
+[2020.07.10-12.21.05:991][514]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__DIE_0047DEEB7394CAC82A539A9C9A390D99940.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_004.uasset'
+[2020.07.10-12.21.06:001][514]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__DIE_00594B4DD314A93BFFF46062DA9EDD9BC00.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_005.uasset'
+[2020.07.10-12.21.06:011][514]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__DIE_0067B1F00EE4BFE0BF2EC47A380626657AD.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_006.uasset'
+[2020.07.10-12.21.06:021][514]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__DIE_007793B44D94FC0AA31BB2B4098547634E1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_007.uasset'
+[2020.07.10-12.21.06:031][514]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__DIE_008BCAF2F1643CBE1A6D6E86CA4F0232D3D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_008.uasset'
+[2020.07.10-12.21.06:041][514]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__DIE_009305EDE3246D63787AB399D8E096F501A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_009.uasset'
+[2020.07.10-12.21.07:264][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.07.10-12.21.07:284][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.07.10-12.21.07:305][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.07.10-12.21.07:324][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.07.10-12.21.07:343][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.07.10-12.21.07:363][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.07.10-12.21.07:382][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.07.10-12.21.07:401][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.21.07:419][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.07.10-12.21.07:437][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-12.21.07:466][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.07.10-12.21.07:485][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.21.07:575][514]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-12.21.07:575][514]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_000.Knight_02__DIE_000
+[2020.07.10-12.21.07:575][514]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_001.Knight_02__DIE_001
+[2020.07.10-12.21.07:575][514]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_002.Knight_02__DIE_002
+[2020.07.10-12.21.07:575][514]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_003.Knight_02__DIE_003
+[2020.07.10-12.21.07:575][514]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_004.Knight_02__DIE_004
+[2020.07.10-12.21.07:575][514]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_005.Knight_02__DIE_005
+[2020.07.10-12.21.07:575][514]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_006.Knight_02__DIE_006
+[2020.07.10-12.21.07:575][514]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_007.Knight_02__DIE_007
+[2020.07.10-12.21.07:575][514]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_008.Knight_02__DIE_008
+[2020.07.10-12.21.07:575][514]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_009.Knight_02__DIE_009
+[2020.07.10-12.21.11:504][927]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__HURT_0003E04803845A208CD33A68D94EDA09528.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_000.uasset'
+[2020.07.10-12.21.11:516][927]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__HURT_0014702960E4EBEF40FEB604682315B351B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_001.uasset'
+[2020.07.10-12.21.11:544][927]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__HURT_00293CA766E43982ABEAB06E1A6C7A4382C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_002.uasset'
+[2020.07.10-12.21.11:555][927]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__HURT_003A9CDD0A94BAEA564BDF8A98D46AD7577.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_003.uasset'
+[2020.07.10-12.21.11:565][927]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__HURT_0040B3746E140B84A42CD5182B18EB12B37.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_004.uasset'
+[2020.07.10-12.21.11:576][927]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__HURT_0058F557E7242FF332232555485D2CA3D3E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_005.uasset'
+[2020.07.10-12.21.11:587][927]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__HURT_006F01CC5894D64A9B68781B387245EB3B8.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_006.uasset'
+[2020.07.10-12.21.11:598][927]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__HURT_007E69E52DF42AA33D79FCDF79A75754CE3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_007.uasset'
+[2020.07.10-12.21.11:609][927]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__HURT_008597F863746348611897BAA9FFFBBA5A2.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_008.uasset'
+[2020.07.10-12.21.11:620][927]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__HURT_0092C6F07BC483E10C43C7F3EB6E7C280D9.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_009.uasset'
+[2020.07.10-12.21.12:800][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-12.21.12:820][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.07.10-12.21.12:838][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-12.21.12:857][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.21.12:876][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.07.10-12.21.12:895][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.07.10-12.21.12:913][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.21.12:932][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.07.10-12.21.12:950][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.21.12:968][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.21.13:000][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.07.10-12.21.13:018][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-12.21.13:107][927]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-12.21.13:107][927]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_000.Knight_02__HURT_000
+[2020.07.10-12.21.13:107][927]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_001.Knight_02__HURT_001
+[2020.07.10-12.21.13:107][927]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_002.Knight_02__HURT_002
+[2020.07.10-12.21.13:107][927]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_003.Knight_02__HURT_003
+[2020.07.10-12.21.13:107][927]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_004.Knight_02__HURT_004
+[2020.07.10-12.21.13:107][927]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_005.Knight_02__HURT_005
+[2020.07.10-12.21.13:107][927]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_006.Knight_02__HURT_006
+[2020.07.10-12.21.13:107][927]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_007.Knight_02__HURT_007
+[2020.07.10-12.21.13:107][927]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_008.Knight_02__HURT_008
+[2020.07.10-12.21.13:107][927]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_009.Knight_02__HURT_009
+[2020.07.10-12.21.18:325][496]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__IDLE_0008C45709B4004BD2E87FB0B9233101684.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_000.uasset'
+[2020.07.10-12.21.18:336][496]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__IDLE_001BCFC5E994BA19CAA71913488BA551AC0.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_001.uasset'
+[2020.07.10-12.21.18:364][496]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__IDLE_002ADE9FEB045A8297481C302A5FD11BBE6.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_002.uasset'
+[2020.07.10-12.21.18:374][496]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__IDLE_0035AA8E41049B57D3701275FAA15E1399C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_003.uasset'
+[2020.07.10-12.21.18:384][496]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__IDLE_004A7CAC3A342E2B80958B9C7AD5CA2DB46.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_004.uasset'
+[2020.07.10-12.21.18:395][496]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__IDLE_00530CDE21F415873D996AE3598DCE61566.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_005.uasset'
+[2020.07.10-12.21.18:405][496]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__IDLE_00662B463354321083275D38BA7C41D219D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_006.uasset'
+[2020.07.10-12.21.18:415][496]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__IDLE_0070871BBED4AFF06712747A6A0EBAF1252.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_007.uasset'
+[2020.07.10-12.21.18:425][496]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__IDLE_0083A7A1FE846D8DBB0F6FC22A8C41A8914.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_008.uasset'
+[2020.07.10-12.21.18:437][496]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__IDLE_009DC83705146334B9B9275908DEFE75D8C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_009.uasset'
+[2020.07.10-12.21.19:613][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.21.19:632][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.10-12.21.19:652][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.07.10-12.21.19:670][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.21.19:690][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.07.10-12.21.19:710][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.07.10-12.21.19:727][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.21.19:745][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.21.19:764][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.07.10-12.21.19:782][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.21.19:814][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.07.10-12.21.19:832][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.07.10-12.21.19:922][496]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-12.21.19:922][496]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_000.Knight_02__IDLE_000
+[2020.07.10-12.21.19:922][496]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_001.Knight_02__IDLE_001
+[2020.07.10-12.21.19:922][496]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_002.Knight_02__IDLE_002
+[2020.07.10-12.21.19:922][496]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_003.Knight_02__IDLE_003
+[2020.07.10-12.21.19:922][496]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_004.Knight_02__IDLE_004
+[2020.07.10-12.21.19:922][496]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_005.Knight_02__IDLE_005
+[2020.07.10-12.21.19:922][496]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_006.Knight_02__IDLE_006
+[2020.07.10-12.21.19:922][496]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_007.Knight_02__IDLE_007
+[2020.07.10-12.21.19:923][496]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_008.Knight_02__IDLE_008
+[2020.07.10-12.21.19:923][496]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_009.Knight_02__IDLE_009
+[2020.07.10-12.21.26:179][180]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__JUMP_0001977E4E641903C5E210A3A8222F3ADE9.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_000.uasset'
+[2020.07.10-12.21.26:189][180]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__JUMP_001A653287D41C53448086CFEBF5ACFDCE3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_001.uasset'
+[2020.07.10-12.21.26:214][180]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__JUMP_002589E16B04723395A968C41AE4B2628AF.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_002.uasset'
+[2020.07.10-12.21.26:224][180]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__JUMP_0031FA675F84B63A94B9CF85299C684A26B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_003.uasset'
+[2020.07.10-12.21.26:234][180]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__JUMP_004F11067B740E5874ABE34C4963DC4F74B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_004.uasset'
+[2020.07.10-12.21.26:244][180]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__JUMP_005FDABF8C14F11A1A6765816AA4B89E00D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_005.uasset'
+[2020.07.10-12.21.26:256][180]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__JUMP_00606FCBF64474DC176BFD65CB61889973E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_006.uasset'
+[2020.07.10-12.21.26:267][180]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__JUMP_0070171222441E0CEA4F1C2BE9EA0188693.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_007.uasset'
+[2020.07.10-12.21.26:277][180]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__JUMP_0080FA9DA4A4CCB7D14CF6C1385190E2118.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_008.uasset'
+[2020.07.10-12.21.26:288][180]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__JUMP_00999FBD47B4F2D1146A084C1B663559E9F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_009.uasset'
+[2020.07.10-12.21.27:467][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-12.21.27:487][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.21.27:506][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.10-12.21.27:525][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.07.10-12.21.27:544][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.07.10-12.21.27:562][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.07.10-12.21.27:580][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.21.27:599][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.07.10-12.21.27:617][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-12.21.27:635][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.10-12.21.27:667][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.07.10-12.21.27:686][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-12.21.27:777][180]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-12.21.27:777][180]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_000.Knight_02__JUMP_000
+[2020.07.10-12.21.27:777][180]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_001.Knight_02__JUMP_001
+[2020.07.10-12.21.27:777][180]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_002.Knight_02__JUMP_002
+[2020.07.10-12.21.27:777][180]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_003.Knight_02__JUMP_003
+[2020.07.10-12.21.27:777][180]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_004.Knight_02__JUMP_004
+[2020.07.10-12.21.27:777][180]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_005.Knight_02__JUMP_005
+[2020.07.10-12.21.27:777][180]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_006.Knight_02__JUMP_006
+[2020.07.10-12.21.27:777][180]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_007.Knight_02__JUMP_007
+[2020.07.10-12.21.27:777][180]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_008.Knight_02__JUMP_008
+[2020.07.10-12.21.27:777][180]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_009.Knight_02__JUMP_009
+[2020.07.10-12.21.32:804][717]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__RUN_000B426872D461556E057657EA625EB1C09.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_000.uasset'
+[2020.07.10-12.21.32:816][717]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__RUN_0014BAA46E745E521A3B6A686BFF8668A00.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_001.uasset'
+[2020.07.10-12.21.32:843][717]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__RUN_0028C66BF2845B63432BBA4DF8CA46B32FA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_002.uasset'
+[2020.07.10-12.21.32:855][717]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__RUN_003F4067AFE446E2B4F9A252E8940B9F31A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_003.uasset'
+[2020.07.10-12.21.32:866][717]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__RUN_004C83D107F4AE5AEE3E022E19051182BAD.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_004.uasset'
+[2020.07.10-12.21.32:876][717]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__RUN_0058008826A43F144076D6CC3B4A2C05D41.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_005.uasset'
+[2020.07.10-12.21.32:887][717]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__RUN_006CFDFC6BE443FCAC0EB91F3B53AB7567F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_006.uasset'
+[2020.07.10-12.21.32:898][717]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__RUN_007D9F62FCF4F07C62105B5508F1A87FB4B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_007.uasset'
+[2020.07.10-12.21.32:909][717]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__RUN_008CF22B2924876D284DCE25A889289EA55.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_008.uasset'
+[2020.07.10-12.21.32:920][717]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__RUN_0097F02087441CB78E5B9158496356171E6.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_009.uasset'
+[2020.07.10-12.21.34:118][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-12.21.34:137][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.21.34:156][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.10-12.21.34:175][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.07.10-12.21.34:193][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.07.10-12.21.34:212][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.07.10-12.21.34:229][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.21.34:248][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.10-12.21.34:266][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.07.10-12.21.34:284][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-12.21.34:314][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.07.10-12.21.34:333][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.10-12.21.34:423][717]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-12.21.34:423][717]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_000.Knight_02__RUN_000
+[2020.07.10-12.21.34:423][717]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_001.Knight_02__RUN_001
+[2020.07.10-12.21.34:423][717]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_002.Knight_02__RUN_002
+[2020.07.10-12.21.34:423][717]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_003.Knight_02__RUN_003
+[2020.07.10-12.21.34:423][717]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_004.Knight_02__RUN_004
+[2020.07.10-12.21.34:423][717]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_005.Knight_02__RUN_005
+[2020.07.10-12.21.34:423][717]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_006.Knight_02__RUN_006
+[2020.07.10-12.21.34:423][717]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_007.Knight_02__RUN_007
+[2020.07.10-12.21.34:423][717]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_008.Knight_02__RUN_008
+[2020.07.10-12.21.34:423][717]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_009.Knight_02__RUN_009
+[2020.07.10-12.21.47:046][132]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__WALK_000776822F2435524D598601B9A9C7AF97F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_000.uasset'
+[2020.07.10-12.21.47:057][132]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__WALK_001B72314A34967320AD1023E9A95C1165B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_001.uasset'
+[2020.07.10-12.21.47:068][132]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__WALK_0026EF72A924AF7C4E37462EDAE0CDA6276.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_002.uasset'
+[2020.07.10-12.21.47:078][132]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__WALK_003BFC15B474ACC015DA669E491B20B87F8.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_003.uasset'
+[2020.07.10-12.21.47:088][132]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__WALK_004D557468B4438CEC817B9A491DB6F351A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_004.uasset'
+[2020.07.10-12.21.47:099][132]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__WALK_0052BFE4C0044A113425E02599C9CE8ED82.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_005.uasset'
+[2020.07.10-12.21.47:109][132]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__WALK_006F44C5396463524EBB2CB51B15C543E0F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_006.uasset'
+[2020.07.10-12.21.47:119][132]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__WALK_0076DB292A242441735B0096F976AD6A92B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_007.uasset'
+[2020.07.10-12.21.47:129][132]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__WALK_00894FDE22D46641AC77D27AE83E7480216.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_008.uasset'
+[2020.07.10-12.21.47:140][132]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__WALK_0094C9F185742460CCF67332DA46673C4A3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_009.uasset'
+[2020.07.10-12.21.48:303][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-12.21.48:323][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.07.10-12.21.48:342][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-12.21.48:361][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.07.10-12.21.48:381][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.21.48:399][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.07.10-12.21.48:419][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.10-12.21.48:438][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.10-12.21.48:456][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.21.48:475][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.07.10-12.21.48:504][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.07.10-12.21.48:522][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.07.10-12.21.48:612][132]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-12.21.48:612][132]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_000.Knight_02__WALK_000
+[2020.07.10-12.21.48:612][132]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_001.Knight_02__WALK_001
+[2020.07.10-12.21.48:612][132]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_002.Knight_02__WALK_002
+[2020.07.10-12.21.48:612][132]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_003.Knight_02__WALK_003
+[2020.07.10-12.21.48:612][132]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_004.Knight_02__WALK_004
+[2020.07.10-12.21.48:612][132]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_005.Knight_02__WALK_005
+[2020.07.10-12.21.48:612][132]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_006.Knight_02__WALK_006
+[2020.07.10-12.21.48:612][132]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_007.Knight_02__WALK_007
+[2020.07.10-12.21.48:612][132]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_008.Knight_02__WALK_008
+[2020.07.10-12.21.48:612][132]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_009.Knight_02__WALK_009
+[2020.07.10-12.21.57:724][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.10-12.22.13:453][154]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.10-12.22.13:834][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.10-12.22.18:199][663]Cmd: POLY SELECT ALL
+[2020.07.10-12.22.36:249][751]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__ATTACK_000DAE8EF7E44A84DA3EF0F1EB1EBDE5CD0.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_000.uasset'
+[2020.07.10-12.22.36:260][751]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__ATTACK_00123DC830D40FDD60446786FBC755E38CA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_001.uasset'
+[2020.07.10-12.22.36:270][751]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__ATTACK_002B076D32F4C3B0BB12953B2B93F469BD0.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_002.uasset'
+[2020.07.10-12.22.36:280][751]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__ATTACK_00358AC250D4DAD875DF2BE168B9A6A5FC4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_003.uasset'
+[2020.07.10-12.22.36:290][751]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__ATTACK_004806B0EF142387620737420921322B7B4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_004.uasset'
+[2020.07.10-12.22.36:301][751]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__ATTACK_0057CAD0EEA43697FEF1FDCC69CD75DBD5B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_005.uasset'
+[2020.07.10-12.22.36:312][751]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__ATTACK_00671738FBC4FD856502B39F2BACF5414E6.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_006.uasset'
+[2020.07.10-12.22.36:323][751]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__ATTACK_007574F74BC4CA71C97CEA82DB57E4EA9DA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_007.uasset'
+[2020.07.10-12.22.36:333][751]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__ATTACK_0088433BA054D8C407CCD057DB15BBD51E2.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_008.uasset'
+[2020.07.10-12.22.36:343][751]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__ATTACK_009BE7983604D2F47F9BD4A78BD4E7F96F0.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_009.uasset'
+[2020.07.10-12.22.37:516][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.10-12.22.37:536][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.07.10-12.22.37:555][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-12.22.37:574][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.07.10-12.22.37:592][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.10-12.22.37:610][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.22.37:629][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.07.10-12.22.37:647][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-12.22.37:666][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.07.10-12.22.37:684][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.07.10-12.22.37:715][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.07.10-12.22.37:734][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.22.37:832][751]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-12.22.37:832][751]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_000.Knight_03__ATTACK_000
+[2020.07.10-12.22.37:832][751]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_001.Knight_03__ATTACK_001
+[2020.07.10-12.22.37:832][751]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_002.Knight_03__ATTACK_002
+[2020.07.10-12.22.37:832][751]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_003.Knight_03__ATTACK_003
+[2020.07.10-12.22.37:832][751]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_004.Knight_03__ATTACK_004
+[2020.07.10-12.22.37:832][751]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_005.Knight_03__ATTACK_005
+[2020.07.10-12.22.37:832][751]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_006.Knight_03__ATTACK_006
+[2020.07.10-12.22.37:832][751]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_007.Knight_03__ATTACK_007
+[2020.07.10-12.22.37:832][751]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_008.Knight_03__ATTACK_008
+[2020.07.10-12.22.37:832][751]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_009.Knight_03__ATTACK_009
+[2020.07.10-12.22.41:871][179]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__DIE_000954A97CE4F02EFDFE0B0CDB59B2FCD34.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_000.uasset'
+[2020.07.10-12.22.41:882][179]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__DIE_001BF21023342A8EF2B66292E9CCBCEC31B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_001.uasset'
+[2020.07.10-12.22.41:894][179]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__DIE_0027CF8398542E5E40CB1C374BC4E4DBC5D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_002.uasset'
+[2020.07.10-12.22.41:905][179]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__DIE_003C5F01E4741800E30B5114DAF6C2E54B4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_003.uasset'
+[2020.07.10-12.22.41:916][179]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__DIE_004B9F9216747078A41C9293B87A63B238E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_004.uasset'
+[2020.07.10-12.22.41:927][179]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__DIE_005F5AFC41F47556EE1698D3F884F8B514D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_005.uasset'
+[2020.07.10-12.22.41:938][179]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__DIE_006BD174EF145DF81AEB7FC71AE3B812DFE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_006.uasset'
+[2020.07.10-12.22.41:949][179]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__DIE_007BCAE5E3D4067615445C4F3A680D7785A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_007.uasset'
+[2020.07.10-12.22.41:960][179]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__DIE_008ADC0D0B84BBFBF30BF3A869A2FACB440.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_008.uasset'
+[2020.07.10-12.22.41:970][179]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__DIE_009789651364A705252A72E3D9E37F7FD97.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_009.uasset'
+[2020.07.10-12.22.43:141][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.07.10-12.22.43:160][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.07.10-12.22.43:178][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.07.10-12.22.43:196][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-12.22.43:214][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.07.10-12.22.43:232][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.07.10-12.22.43:250][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.07.10-12.22.43:268][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.22.43:287][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.22.43:306][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-12.22.43:337][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.07.10-12.22.43:356][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.22.43:452][179]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-12.22.43:452][179]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_000.Knight_03__DIE_000
+[2020.07.10-12.22.43:452][179]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_001.Knight_03__DIE_001
+[2020.07.10-12.22.43:452][179]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_002.Knight_03__DIE_002
+[2020.07.10-12.22.43:452][179]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_003.Knight_03__DIE_003
+[2020.07.10-12.22.43:452][179]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_004.Knight_03__DIE_004
+[2020.07.10-12.22.43:452][179]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_005.Knight_03__DIE_005
+[2020.07.10-12.22.43:452][179]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_006.Knight_03__DIE_006
+[2020.07.10-12.22.43:452][179]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_007.Knight_03__DIE_007
+[2020.07.10-12.22.43:452][179]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_008.Knight_03__DIE_008
+[2020.07.10-12.22.43:452][179]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_009.Knight_03__DIE_009
+[2020.07.10-12.22.47:264][579]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__HURT_0003F3D76B6416BC41F36A0AAB3AFB045A6.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_000.uasset'
+[2020.07.10-12.22.47:274][579]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__HURT_0016E472BBA46412545D76EAFA927305447.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_001.uasset'
+[2020.07.10-12.22.47:286][579]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__HURT_0021A9669F24BF673887E3DD988D07C4298.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_002.uasset'
+[2020.07.10-12.22.47:296][579]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__HURT_003FFF595EC45EC08F06F5B3DB1483FF074.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_003.uasset'
+[2020.07.10-12.22.47:308][579]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__HURT_00475F4FA2F41C2FC626AC5C1AA48D31A06.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_004.uasset'
+[2020.07.10-12.22.47:318][579]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__HURT_0057BB6892A4B980ADC998889ACC3742338.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_005.uasset'
+[2020.07.10-12.22.47:329][579]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__HURT_006BBD185484FE77FCC33C9EDB7F9C37C4A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_006.uasset'
+[2020.07.10-12.22.47:339][579]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__HURT_007484B25854898F8C24F3840A54EB8E63A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_007.uasset'
+[2020.07.10-12.22.47:350][579]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__HURT_00878720B8A4FC6251B15E5E7B38468FF5A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_008.uasset'
+[2020.07.10-12.22.47:361][579]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__HURT_009754479034AD873FF1FF4D9BF6A767651.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_009.uasset'
+[2020.07.10-12.22.48:508][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.10-12.22.48:528][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.10-12.22.48:546][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.10-12.22.48:564][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.22.48:582][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.10-12.22.48:600][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-12.22.48:618][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.10-12.22.48:636][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.07.10-12.22.48:654][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.22.48:672][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.22.48:702][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.07.10-12.22.48:721][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.07.10-12.22.48:809][579]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-12.22.48:809][579]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_000.Knight_03__HURT_000
+[2020.07.10-12.22.48:809][579]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_001.Knight_03__HURT_001
+[2020.07.10-12.22.48:809][579]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_002.Knight_03__HURT_002
+[2020.07.10-12.22.48:809][579]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_003.Knight_03__HURT_003
+[2020.07.10-12.22.48:809][579]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_004.Knight_03__HURT_004
+[2020.07.10-12.22.48:809][579]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_005.Knight_03__HURT_005
+[2020.07.10-12.22.48:809][579]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_006.Knight_03__HURT_006
+[2020.07.10-12.22.48:809][579]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_007.Knight_03__HURT_007
+[2020.07.10-12.22.48:809][579]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_008.Knight_03__HURT_008
+[2020.07.10-12.22.48:809][579]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_009.Knight_03__HURT_009
+[2020.07.10-12.22.53:815][125]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__IDLE_0008BB1C46441207ACBC157A2AB3CF78C62.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_000.uasset'
+[2020.07.10-12.22.53:826][125]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__IDLE_001006F20D446EC92AE195463AB0EC6A5AC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_001.uasset'
+[2020.07.10-12.22.53:853][125]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__IDLE_002F7CA0A594DDD8161ED81B1B10B05C003.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_002.uasset'
+[2020.07.10-12.22.53:864][125]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__IDLE_0033F643F9C4CAEDBCD52B79497CD9B98F7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_003.uasset'
+[2020.07.10-12.22.53:876][125]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__IDLE_004ECBBADF749B1BD64684ACAB6D5BE181E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_004.uasset'
+[2020.07.10-12.22.53:887][125]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__IDLE_005101BC44648E100D7CBD5DA81B18EA6AE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_005.uasset'
+[2020.07.10-12.22.53:898][125]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__IDLE_006674D0ACE48905B8B996982BBDF58A48B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_006.uasset'
+[2020.07.10-12.22.53:908][125]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__IDLE_0074D1CAA044BB94DA00EAB2E8E2FC9DAB4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_007.uasset'
+[2020.07.10-12.22.53:919][125]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__IDLE_0080D88FAE1487E0BB8745742992D6683F8.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_008.uasset'
+[2020.07.10-12.22.53:930][125]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__IDLE_00937D7831D4A26106684FB91825743EFA1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_009.uasset'
+[2020.07.10-12.22.55:100][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-12.22.55:120][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.07.10-12.22.55:140][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.22.55:161][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.07.10-12.22.55:181][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.07.10-12.22.55:200][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-12.22.55:221][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.07.10-12.22.55:241][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.07.10-12.22.55:260][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.07.10-12.22.55:279][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.07.10-12.22.55:311][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.07.10-12.22.55:329][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.07.10-12.22.55:422][125]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-12.22.55:422][125]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_000.Knight_03__IDLE_000
+[2020.07.10-12.22.55:422][125]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_001.Knight_03__IDLE_001
+[2020.07.10-12.22.55:422][125]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_002.Knight_03__IDLE_002
+[2020.07.10-12.22.55:422][125]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_003.Knight_03__IDLE_003
+[2020.07.10-12.22.55:422][125]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_004.Knight_03__IDLE_004
+[2020.07.10-12.22.55:422][125]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_005.Knight_03__IDLE_005
+[2020.07.10-12.22.55:422][125]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_006.Knight_03__IDLE_006
+[2020.07.10-12.22.55:422][125]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_007.Knight_03__IDLE_007
+[2020.07.10-12.22.55:422][125]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_008.Knight_03__IDLE_008
+[2020.07.10-12.22.55:422][125]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_009.Knight_03__IDLE_009
+[2020.07.10-12.23.00:146][645]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__JUMP_00033452B1D4947C4722C1C2DA3D7685113.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_000.uasset'
+[2020.07.10-12.23.00:157][645]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__JUMP_001B040E9CC4A4A72BB19D30CB8A2BD463B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_001.uasset'
+[2020.07.10-12.23.00:183][645]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__JUMP_002EE9E630F4278339B2CCA1591111EF60C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_002.uasset'
+[2020.07.10-12.23.00:193][645]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__JUMP_00304A65138472C7C668EC87799F8E20D60.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_003.uasset'
+[2020.07.10-12.23.00:204][645]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__JUMP_0047BE9630849ED2B69E3C364B79517364A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_004.uasset'
+[2020.07.10-12.23.00:214][645]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__JUMP_005D4E15E0F492CC0C1B4E4ED83E6FA8224.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_005.uasset'
+[2020.07.10-12.23.00:225][645]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__JUMP_006CA3FFFAF46414636D73C6B859831765F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_006.uasset'
+[2020.07.10-12.23.00:235][645]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__JUMP_0078805328C450A8402A341799BB24FB856.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_007.uasset'
+[2020.07.10-12.23.00:245][645]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__JUMP_0080471BC1746A9DC0BDAB7BD8FAE6038BA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_008.uasset'
+[2020.07.10-12.23.00:255][645]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__JUMP_009C568698A4E70F93BE14C1586D116A327.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_009.uasset'
+[2020.07.10-12.23.01:458][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.07.10-12.23.01:478][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.07.10-12.23.01:496][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.23.01:515][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.07.10-12.23.01:533][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.10-12.23.01:552][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.10-12.23.01:569][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.10-12.23.01:587][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-12.23.01:606][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.07.10-12.23.01:626][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.07.10-12.23.01:659][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.07.10-12.23.01:680][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.07.10-12.23.01:776][645]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-12.23.01:777][645]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_000.Knight_03__JUMP_000
+[2020.07.10-12.23.01:777][645]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_001.Knight_03__JUMP_001
+[2020.07.10-12.23.01:777][645]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_002.Knight_03__JUMP_002
+[2020.07.10-12.23.01:777][645]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_003.Knight_03__JUMP_003
+[2020.07.10-12.23.01:777][645]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_004.Knight_03__JUMP_004
+[2020.07.10-12.23.01:777][645]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_005.Knight_03__JUMP_005
+[2020.07.10-12.23.01:777][645]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_006.Knight_03__JUMP_006
+[2020.07.10-12.23.01:777][645]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_007.Knight_03__JUMP_007
+[2020.07.10-12.23.01:777][645]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_008.Knight_03__JUMP_008
+[2020.07.10-12.23.01:777][645]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_009.Knight_03__JUMP_009
+[2020.07.10-12.23.07:460][278]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__RUN_000A84B44B5489A9A99503A50A62C92D85D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_000.uasset'
+[2020.07.10-12.23.07:471][278]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__RUN_00125DBF70B4A207DBDEC05AF825F6610D2.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_001.uasset'
+[2020.07.10-12.23.07:498][278]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__RUN_0023308EBC740CE3E342072A297634DD0E6.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_002.uasset'
+[2020.07.10-12.23.07:508][278]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__RUN_0032611B0DF4AB93B11EA41129652F42EEC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_003.uasset'
+[2020.07.10-12.23.07:519][278]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__RUN_004C6E596BA402ACC6B110BDEA4DD0A3C06.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_004.uasset'
+[2020.07.10-12.23.07:530][278]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__RUN_005F509A16E417D26B3C07D7DA54C96869C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_005.uasset'
+[2020.07.10-12.23.07:542][278]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__RUN_0062311E7AC43EF92896494178EEF33B6BD.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_006.uasset'
+[2020.07.10-12.23.07:553][278]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__RUN_0070C34950D4D3F42A203CB1B954D2389FB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_007.uasset'
+[2020.07.10-12.23.07:564][278]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__RUN_0088694449544DB103C141AA181D53B46EE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_008.uasset'
+[2020.07.10-12.23.07:575][278]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__RUN_00944FA5BDD4F0E68D2C7E6AB8E322891A1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_009.uasset'
+[2020.07.10-12.23.08:738][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-12.23.08:758][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.07.10-12.23.08:778][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.07.10-12.23.08:797][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.07.10-12.23.08:815][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-12.23.08:834][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.07.10-12.23.08:852][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.07.10-12.23.08:871][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.07.10-12.23.08:889][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.23.08:907][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.23.08:937][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.07.10-12.23.08:956][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.07.10-12.23.09:044][278]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-12.23.09:044][278]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_000.Knight_03__RUN_000
+[2020.07.10-12.23.09:044][278]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_001.Knight_03__RUN_001
+[2020.07.10-12.23.09:044][278]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_002.Knight_03__RUN_002
+[2020.07.10-12.23.09:044][278]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_003.Knight_03__RUN_003
+[2020.07.10-12.23.09:044][278]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_004.Knight_03__RUN_004
+[2020.07.10-12.23.09:044][278]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_005.Knight_03__RUN_005
+[2020.07.10-12.23.09:044][278]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_006.Knight_03__RUN_006
+[2020.07.10-12.23.09:044][278]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_007.Knight_03__RUN_007
+[2020.07.10-12.23.09:044][278]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_008.Knight_03__RUN_008
+[2020.07.10-12.23.09:044][278]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_009.Knight_03__RUN_009
+[2020.07.10-12.23.13:172][736]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__WALK_0004909C83344364E0695260B80D9EA3C90.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_000.uasset'
+[2020.07.10-12.23.13:183][736]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__WALK_001B6425A6840B1E269A6E0E2B6F8837060.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_001.uasset'
+[2020.07.10-12.23.13:194][736]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__WALK_002243C5B994F48137CF659DFB8DE0CD11B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_002.uasset'
+[2020.07.10-12.23.13:205][736]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__WALK_003F2947E2B4B2FCF84DBC4BAADF81D819B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_003.uasset'
+[2020.07.10-12.23.13:215][736]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__WALK_00446F3FB2648D073D1C852B19C0EE77B3C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_004.uasset'
+[2020.07.10-12.23.13:225][736]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__WALK_0051CA6035A478E6139AB052A92BFE3D40B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_005.uasset'
+[2020.07.10-12.23.13:236][736]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__WALK_00692DC592B44D11F9E3182B2AA4BCCF703.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_006.uasset'
+[2020.07.10-12.23.13:245][736]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__WALK_007FBDCAC0140316CA0E279268F6786C246.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_007.uasset'
+[2020.07.10-12.23.13:255][736]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__WALK_00834AAA2F54C1AD9267160F998233EB0E8.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_008.uasset'
+[2020.07.10-12.23.13:265][736]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__WALK_009576B18824B50E583BA3FFD9941B00442.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_009.uasset'
+[2020.07.10-12.23.14:412][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.10-12.23.14:431][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.07.10-12.23.14:449][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.07.10-12.23.14:467][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.23.14:486][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.10-12.23.14:504][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.23.14:523][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.07.10-12.23.14:540][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.23.14:559][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.07.10-12.23.14:577][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.23.14:607][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.07.10-12.23.14:626][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.07.10-12.23.14:716][736]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-12.23.14:716][736]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_000.Knight_03__WALK_000
+[2020.07.10-12.23.14:716][736]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_001.Knight_03__WALK_001
+[2020.07.10-12.23.14:717][736]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_002.Knight_03__WALK_002
+[2020.07.10-12.23.14:717][736]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_003.Knight_03__WALK_003
+[2020.07.10-12.23.14:717][736]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_004.Knight_03__WALK_004
+[2020.07.10-12.23.14:717][736]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_005.Knight_03__WALK_005
+[2020.07.10-12.23.14:717][736]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_006.Knight_03__WALK_006
+[2020.07.10-12.23.14:717][736]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_007.Knight_03__WALK_007
+[2020.07.10-12.23.14:717][736]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_008.Knight_03__WALK_008
+[2020.07.10-12.23.14:717][736]LogContentValidation: Display: Validating Texture2D /Game/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_009.Knight_03__WALK_009
+[2020.07.10-12.23.20:610][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-12.23.20:628][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.07.10-12.23.20:804][427]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1240A69B94C59FFE7CC30CD936942D7FA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-12.23.20:852][427]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-12.23.20:852][427]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-12.23.34:062][797]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(784)].
+[2020.07.10-12.23.42:776][661]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(784)].
+[2020.07.10-12.23.51:305][506]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(784)].
+[2020.07.10-12.24.05:584][941]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(784)].
+[2020.07.10-12.24.08:202][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.10-12.24.08:221][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.07.10-12.24.08:412][245]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level19A64F48E4CA53F04ADDCE2B1D6A00A7A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.10-12.24.08:461][245]AssetCheck: New page: Asset Save: Level1
+[2020.07.10-12.24.08:461][245]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.10-12.24.16:479][ 34]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(784)].
+[2020.07.10-12.24.26:742][104]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(784)].
+[2020.07.10-12.24.36:514][ 92]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(784)].
+[2020.07.10-12.24.41:560][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__ATTACK_002_Sprite6AC03B4745C7222CB607E993A0860129.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_002_Sprite.uasset'
+[2020.07.10-12.24.41:575][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__ATTACK_001_Sprite659267E340EBA4EA49E517B377C6D099.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_001_Sprite.uasset'
+[2020.07.10-12.24.41:588][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__ATTACK_000_Sprite313B57E549348B4C91C4E19757FABBA6.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_000_Sprite.uasset'
+[2020.07.10-12.24.41:601][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/RunECF2FA424066652A681B06B2A8BC0A63.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Run/Run.uasset'
+[2020.07.10-12.24.41:614][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/IdleBD7984A247B59461A8DF188FEFFDDE3D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Idle.uasset'
+[2020.07.10-12.24.41:627][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__IDLE_009_SpriteCD3433034E28174D1D82CB99372C9C74.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_009_Sprite.uasset'
+[2020.07.10-12.24.41:641][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__RUN_009_Sprite2570E2204F897397A6E8B0A9BBE85750.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_009_Sprite.uasset'
+[2020.07.10-12.24.41:654][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__IDLE_008_Sprite65B691704B8910BE4E77B3BD18654CDB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_008_Sprite.uasset'
+[2020.07.10-12.24.41:668][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__IDLE_007_SpriteE1ED06324EA52D4C1B90EE919A66C6DD.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_007_Sprite.uasset'
+[2020.07.10-12.24.41:680][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Walk8806C3DC4188D30E16086A9C726E3D5A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Walk.uasset'
+[2020.07.10-12.24.41:693][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__WALK_009_SpriteEF9E55BB48AFB4373E141A988DCF9DEC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_009_Sprite.uasset'
+[2020.07.10-12.24.41:706][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__WALK_008_Sprite00A0C5154FDEF631D6260F95E2E07E4A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_008_Sprite.uasset'
+[2020.07.10-12.24.41:719][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__WALK_007_SpriteCAD752F04220A8631F35EA9A656CB3F7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_007_Sprite.uasset'
+[2020.07.10-12.24.41:732][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__WALK_006_Sprite903032FE459C046FF9A59D919D578F8B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_006_Sprite.uasset'
+[2020.07.10-12.24.41:747][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__WALK_005_Sprite5C94D4BA4E002F3FFD5C3E8BB620A764.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_005_Sprite.uasset'
+[2020.07.10-12.24.41:760][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__IDLE_006_SpriteBF0617084A67BA9FD23165B78231DDBB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_006_Sprite.uasset'
+[2020.07.10-12.24.41:772][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__IDLE_005_SpriteD4E76C3B4ED17FA30BFF10A74455BAF2.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_005_Sprite.uasset'
+[2020.07.10-12.24.41:785][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__RUN_008_SpriteE10C63B144875D2F6BEC3D8A7AFEEFB8.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_008_Sprite.uasset'
+[2020.07.10-12.24.41:798][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__IDLE_004_SpriteC4C20B49406A748643D954B38B7BB7EB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_004_Sprite.uasset'
+[2020.07.10-12.24.41:811][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__IDLE_003_SpriteEC15829A496BF4BC9F2884B5A09CA699.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_003_Sprite.uasset'
+[2020.07.10-12.24.41:824][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__IDLE_002_Sprite42A17CAB4A029783CEB7CAA04C2E831F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_002_Sprite.uasset'
+[2020.07.10-12.24.41:837][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__IDLE_001_SpriteC908CFEF474860A0D2E39F83A16A9B6C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_001_Sprite.uasset'
+[2020.07.10-12.24.41:850][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__RUN_007_Sprite05805C03480208F514938CB783D4B643.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_007_Sprite.uasset'
+[2020.07.10-12.24.41:862][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__IDLE_000_Sprite25194C4E47CF0958D131829F92A2FB53.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_000_Sprite.uasset'
+[2020.07.10-12.24.41:875][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__RUN_006_SpriteB7F77DAF4144F88DBA5635A0D3C6F2DF.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_006_Sprite.uasset'
+[2020.07.10-12.24.41:888][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__RUN_005_SpriteCBCFDE0F422354E9517C6187DDEBCF00.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_005_Sprite.uasset'
+[2020.07.10-12.24.41:905][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__RUN_004_Sprite5C892D304E89C3184DD5ADAE1723AC62.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_004_Sprite.uasset'
+[2020.07.10-12.24.41:917][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__RUN_003_SpriteF96C3A55498FEAEB5D11FF8FACAB06CF.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_003_Sprite.uasset'
+[2020.07.10-12.24.41:930][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__RUN_002_SpriteFD5D3967486AA29B992D489C1DAA7B47.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_002_Sprite.uasset'
+[2020.07.10-12.24.41:942][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Hurt243E886A4E0027D3F57F2F9E76B3BCB9.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Hurt.uasset'
+[2020.07.10-12.24.41:958][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__RUN_001_SpriteFDBF550C47E4F89620C2D8958F37CF6D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_001_Sprite.uasset'
+[2020.07.10-12.24.41:971][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__RUN_000_Sprite328F635649A087C70FB90FAA7240B92C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_000_Sprite.uasset'
+[2020.07.10-12.24.41:984][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__HURT_009_Sprite07AA816D4BF5445A398517B24848946B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_009_Sprite.uasset'
+[2020.07.10-12.24.41:996][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__HURT_008_Sprite4F75CDE34591EA18BA3E329C4A823E04.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_008_Sprite.uasset'
+[2020.07.10-12.24.42:009][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__HURT_007_Sprite86B47E694DF87AC90BD384917174D76C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_007_Sprite.uasset'
+[2020.07.10-12.24.42:022][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__HURT_006_Sprite9EDE75854F85F947C96A23A860688BD7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_006_Sprite.uasset'
+[2020.07.10-12.24.42:035][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__HURT_005_SpriteBFB45F3E428AA4DD4232C2821280EBC4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_005_Sprite.uasset'
+[2020.07.10-12.24.42:047][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Jump7EFEB7D84228C807A0F65A8A37D7706B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Jump.uasset'
+[2020.07.10-12.24.42:061][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__HURT_004_SpriteF5BBF74B4953DC3E463008890B3E9635.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_004_Sprite.uasset'
+[2020.07.10-12.24.42:073][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__HURT_003_Sprite0E449A494480C0FF1BF8D9A9D9A992B0.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_003_Sprite.uasset'
+[2020.07.10-12.24.42:086][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__HURT_002_SpriteE6586D6E4631DCBDAB1AA091EEA67A7B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_002_Sprite.uasset'
+[2020.07.10-12.24.42:099][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__HURT_001_Sprite1EAD552D4D5056BD9A7673BFF2B603C0.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_001_Sprite.uasset'
+[2020.07.10-12.24.42:111][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__HURT_000_SpriteFD0896844347190C2025789CDE65730B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_000_Sprite.uasset'
+[2020.07.10-12.24.42:124][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__JUMP_009_Sprite901F16084952739177341D87ED31F51D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_009_Sprite.uasset'
+[2020.07.10-12.24.42:135][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/DeadCA0378DF4990BB3FA11E8399F3BAE7E4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Dead.uasset'
+[2020.07.10-12.24.42:147][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__JUMP_008_Sprite8E244E4443BD7F1CA8EA6CA771C1DE3E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_008_Sprite.uasset'
+[2020.07.10-12.24.42:163][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__JUMP_007_Sprite99CE702D4A787E1125D813BA86DE2CEE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_007_Sprite.uasset'
+[2020.07.10-12.24.42:176][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__DIE_009_Sprite24F91EB44F75292F88CD9787B621C277.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_009_Sprite.uasset'
+[2020.07.10-12.24.42:189][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__DIE_008_Sprite6205FDBE4E627773F9B7B398459C7CA2.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_008_Sprite.uasset'
+[2020.07.10-12.24.42:203][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__JUMP_006_SpriteCFC4376645171F54FCAEE3A38EE6D10C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_006_Sprite.uasset'
+[2020.07.10-12.24.42:215][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__DIE_007_Sprite206AA580480CFDC398AD249792AF8B3E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_007_Sprite.uasset'
+[2020.07.10-12.24.42:227][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__DIE_006_Sprite1C8A4D9D4091C6F6063BCF93D5F242E3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_006_Sprite.uasset'
+[2020.07.10-12.24.42:239][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__DIE_005_Sprite350EEA754880C172858888B4326E9C63.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_005_Sprite.uasset'
+[2020.07.10-12.24.42:252][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__DIE_004_SpriteBC6BDFF147A33F69420804A818E3D5E8.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_004_Sprite.uasset'
+[2020.07.10-12.24.42:265][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__JUMP_005_SpriteD489C37E4E037C2306851A9CB3138F6D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_005_Sprite.uasset'
+[2020.07.10-12.24.42:279][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__DIE_003_SpriteDF319B424523E261618344898C8826F1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_003_Sprite.uasset'
+[2020.07.10-12.24.42:292][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__DIE_002_Sprite400BF6754B0817F7E7706E87ECD0BC13.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_002_Sprite.uasset'
+[2020.07.10-12.24.42:304][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__DIE_001_SpriteDE6E9A4446E637A601DCC5A64091E511.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_001_Sprite.uasset'
+[2020.07.10-12.24.42:317][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__DIE_000_Sprite0B23C7E148AD31CD5049BB99CDE14FCA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_000_Sprite.uasset'
+[2020.07.10-12.24.42:331][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__JUMP_004_SpriteCD574F3A4C14C6C9E89DE38A14660E18.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_004_Sprite.uasset'
+[2020.07.10-12.24.42:345][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__JUMP_003_Sprite0CFD53134C15B30B48B4459DDC9FE65C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_003_Sprite.uasset'
+[2020.07.10-12.24.42:360][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__JUMP_002_Sprite0AB652ED422D829F98B6179CD09FC847.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_002_Sprite.uasset'
+[2020.07.10-12.24.42:373][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/AttackBC0B646B410C7551A938F49C4A43C945.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Attack.uasset'
+[2020.07.10-12.24.42:386][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__JUMP_001_Sprite353AA16A4860A44F5353348797E83DFE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_001_Sprite.uasset'
+[2020.07.10-12.24.42:399][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__JUMP_000_SpriteC639124749A65589479097A132D6F5EC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_000_Sprite.uasset'
+[2020.07.10-12.24.42:412][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__ATTACK_009_Sprite09521BFD43D880459041B7A048A3298E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_009_Sprite.uasset'
+[2020.07.10-12.24.42:425][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__ATTACK_008_SpriteE12985AA49D51A6316869AB43029F699.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_008_Sprite.uasset'
+[2020.07.10-12.24.42:438][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__ATTACK_007_SpriteFFD6B3AF44C6CAB2C303EE8567276E04.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_007_Sprite.uasset'
+[2020.07.10-12.24.42:452][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__ATTACK_006_SpriteC0E3B1FE445F97AE7D9C448EB75B595C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_006_Sprite.uasset'
+[2020.07.10-12.24.42:465][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__ATTACK_005_Sprite68A9A2CF498895D62D0861AB0EFA791B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_005_Sprite.uasset'
+[2020.07.10-12.24.42:478][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__ATTACK_004_SpriteF28F5FDC46803BCCB0A2DA9FCE31B87A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_004_Sprite.uasset'
+[2020.07.10-12.24.42:491][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__ATTACK_003_SpriteC87EF6AB45182A206811DFAB174BE98D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_003_Sprite.uasset'
+[2020.07.10-12.24.42:504][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__WALK_004_Sprite3A63AD31409578E4B0C182AEEF12C580.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_004_Sprite.uasset'
+[2020.07.10-12.24.42:518][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__WALK_003_Sprite48B3C39747F2F8AFCBDA299C99954BC7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_003_Sprite.uasset'
+[2020.07.10-12.24.42:531][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__WALK_002_Sprite4B45F96145FF2BE6C3DEFABB42AC346B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_002_Sprite.uasset'
+[2020.07.10-12.24.42:544][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__WALK_001_Sprite40FC564743BB53515CF50595B4FC1564.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_001_Sprite.uasset'
+[2020.07.10-12.24.42:560][663]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_02__WALK_000_Sprite06974A3444759AE7047F33B1CAF26E13.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_000_Sprite.uasset'
+[2020.07.10-12.24.42:891][663]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-12.24.42:891][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_002_Sprite.Knight_02__ATTACK_002_Sprite
+[2020.07.10-12.24.42:891][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_001_Sprite.Knight_02__ATTACK_001_Sprite
+[2020.07.10-12.24.42:891][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_000_Sprite.Knight_02__ATTACK_000_Sprite
+[2020.07.10-12.24.42:891][663]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/Enemies/KnightV2/Animations/Sprites/Run/Run.Run
+[2020.07.10-12.24.42:891][663]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Idle.Idle
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_009_Sprite.Knight_02__IDLE_009_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_009_Sprite.Knight_02__RUN_009_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_008_Sprite.Knight_02__IDLE_008_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_007_Sprite.Knight_02__IDLE_007_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Walk.Walk
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_009_Sprite.Knight_02__WALK_009_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_008_Sprite.Knight_02__WALK_008_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_007_Sprite.Knight_02__WALK_007_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_006_Sprite.Knight_02__WALK_006_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_005_Sprite.Knight_02__WALK_005_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_006_Sprite.Knight_02__IDLE_006_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_005_Sprite.Knight_02__IDLE_005_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_008_Sprite.Knight_02__RUN_008_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_004_Sprite.Knight_02__IDLE_004_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_003_Sprite.Knight_02__IDLE_003_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_002_Sprite.Knight_02__IDLE_002_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_001_Sprite.Knight_02__IDLE_001_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_007_Sprite.Knight_02__RUN_007_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Idle/Knight_02__IDLE_000_Sprite.Knight_02__IDLE_000_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_006_Sprite.Knight_02__RUN_006_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_005_Sprite.Knight_02__RUN_005_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_004_Sprite.Knight_02__RUN_004_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_003_Sprite.Knight_02__RUN_003_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_002_Sprite.Knight_02__RUN_002_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Hurt.Hurt
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_001_Sprite.Knight_02__RUN_001_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Run/Knight_02__RUN_000_Sprite.Knight_02__RUN_000_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_009_Sprite.Knight_02__HURT_009_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_008_Sprite.Knight_02__HURT_008_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_007_Sprite.Knight_02__HURT_007_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_006_Sprite.Knight_02__HURT_006_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_005_Sprite.Knight_02__HURT_005_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Jump.Jump
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_004_Sprite.Knight_02__HURT_004_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_003_Sprite.Knight_02__HURT_003_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_002_Sprite.Knight_02__HURT_002_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_001_Sprite.Knight_02__HURT_001_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Hurt/Knight_02__HURT_000_Sprite.Knight_02__HURT_000_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_009_Sprite.Knight_02__JUMP_009_Sprite
+[2020.07.10-12.24.42:892][663]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Dead.Dead
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_008_Sprite.Knight_02__JUMP_008_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_007_Sprite.Knight_02__JUMP_007_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_009_Sprite.Knight_02__DIE_009_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_008_Sprite.Knight_02__DIE_008_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_006_Sprite.Knight_02__JUMP_006_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_007_Sprite.Knight_02__DIE_007_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_006_Sprite.Knight_02__DIE_006_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_005_Sprite.Knight_02__DIE_005_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_004_Sprite.Knight_02__DIE_004_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_005_Sprite.Knight_02__JUMP_005_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_003_Sprite.Knight_02__DIE_003_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_002_Sprite.Knight_02__DIE_002_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_001_Sprite.Knight_02__DIE_001_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Dead/Knight_02__DIE_000_Sprite.Knight_02__DIE_000_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_004_Sprite.Knight_02__JUMP_004_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_003_Sprite.Knight_02__JUMP_003_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_002_Sprite.Knight_02__JUMP_002_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Attack.Attack
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_001_Sprite.Knight_02__JUMP_001_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Jump/Knight_02__JUMP_000_Sprite.Knight_02__JUMP_000_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_009_Sprite.Knight_02__ATTACK_009_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_008_Sprite.Knight_02__ATTACK_008_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_007_Sprite.Knight_02__ATTACK_007_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_006_Sprite.Knight_02__ATTACK_006_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_005_Sprite.Knight_02__ATTACK_005_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_004_Sprite.Knight_02__ATTACK_004_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Attack/Knight_02__ATTACK_003_Sprite.Knight_02__ATTACK_003_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_004_Sprite.Knight_02__WALK_004_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_003_Sprite.Knight_02__WALK_003_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_002_Sprite.Knight_02__WALK_002_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_001_Sprite.Knight_02__WALK_001_Sprite
+[2020.07.10-12.24.42:893][663]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV2/Animations/Sprites/Walk/Knight_02__WALK_000_Sprite.Knight_02__WALK_000_Sprite
+[2020.07.10-12.24.50:938][430]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(784)].
+[2020.07.10-12.25.04:584][896]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(784)].
+[2020.07.10-12.25.17:315][228]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(784)].
+[2020.07.10-12.25.28:883][433]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(784)].
+[2020.07.10-12.25.37:934][351]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(784)].
+[2020.07.10-12.25.49:196][530]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(784)].
+[2020.07.10-12.26.01:091][787]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(784)].
+[2020.07.10-12.26.06:832][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Walk462DADB2436801405CD5D19DA01BBBFE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Walk.uasset'
+[2020.07.10-12.26.06:846][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__WALK_009_SpriteC733874A4951C032D3A3C5A2EA39C06F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_009_Sprite.uasset'
+[2020.07.10-12.26.06:859][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__WALK_008_Sprite1B40CDBE4B9D83F179E92EB21B98749E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_008_Sprite.uasset'
+[2020.07.10-12.26.06:871][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__WALK_007_SpriteA1333C994385B4F86309C887CE16D388.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_007_Sprite.uasset'
+[2020.07.10-12.26.06:883][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__WALK_006_Sprite5884FF6F44FA3D1AC715B48244C4AB49.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_006_Sprite.uasset'
+[2020.07.10-12.26.06:896][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__WALK_005_Sprite7AF73F4047F893789D1D6E9948655FA5.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_005_Sprite.uasset'
+[2020.07.10-12.26.06:924][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__WALK_004_Sprite1C1E1C0A4206E630C81DA98152D20B34.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_004_Sprite.uasset'
+[2020.07.10-12.26.06:937][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__WALK_003_SpriteD948FCBF4A696EF1705FA7A515A1E92F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_003_Sprite.uasset'
+[2020.07.10-12.26.06:949][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__WALK_002_Sprite71FABC5F4442F8159DEBC5AA6872C314.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_002_Sprite.uasset'
+[2020.07.10-12.26.06:962][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__WALK_001_Sprite1938EF8F486CA5A063A0DBAE3178184C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_001_Sprite.uasset'
+[2020.07.10-12.26.06:975][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__WALK_000_Sprite59A46A364E3812721C6DAA8B314DF6C1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_000_Sprite.uasset'
+[2020.07.10-12.26.06:987][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Run2A6CDF8242A9826432D931B40F6B63A5.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Run/Run.uasset'
+[2020.07.10-12.26.06:999][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__RUN_009_Sprite28B9D348440238F0B60197A26B070858.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_009_Sprite.uasset'
+[2020.07.10-12.26.07:013][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__RUN_008_Sprite01D7380941B1A229AEEB249220DB18F2.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_008_Sprite.uasset'
+[2020.07.10-12.26.07:031][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__RUN_007_Sprite3E0FFED648B17E43A245EE8B9BF058ED.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_007_Sprite.uasset'
+[2020.07.10-12.26.07:045][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__RUN_006_Sprite73A738914A441BAE45784DABF3519C05.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_006_Sprite.uasset'
+[2020.07.10-12.26.07:058][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__RUN_005_Sprite2A4AEE214D774CF192D70993509E1872.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_005_Sprite.uasset'
+[2020.07.10-12.26.07:072][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__RUN_004_Sprite757D2BB04CAC0E3A4B36C2852BA36836.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_004_Sprite.uasset'
+[2020.07.10-12.26.07:085][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__RUN_003_Sprite028B66DD4F039C4E382135849831217B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_003_Sprite.uasset'
+[2020.07.10-12.26.07:098][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__RUN_002_SpriteAAA266C949C1481CAFDF9DB057DC8AA4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_002_Sprite.uasset'
+[2020.07.10-12.26.07:112][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__RUN_001_Sprite4CEF54A24EC5039DF411B39EDE150F23.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_001_Sprite.uasset'
+[2020.07.10-12.26.07:125][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__RUN_000_Sprite63628CB9464930E775D93E9E42F205F8.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_000_Sprite.uasset'
+[2020.07.10-12.26.07:138][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/JumpE047F5BA4CDC657AD5D93CB781B3ECB4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Jump.uasset'
+[2020.07.10-12.26.07:151][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__JUMP_009_Sprite766915004853A139937E12BD644E5753.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_009_Sprite.uasset'
+[2020.07.10-12.26.07:165][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__JUMP_008_Sprite697E67A2481D08D14F6186A10FB84518.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_008_Sprite.uasset'
+[2020.07.10-12.26.07:179][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__JUMP_007_Sprite6F6A438A4AD7D2C747F253B62586B87D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_007_Sprite.uasset'
+[2020.07.10-12.26.07:193][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__JUMP_006_Sprite67B2FBA347B1F4CF6B82E99E38F4BF5D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_006_Sprite.uasset'
+[2020.07.10-12.26.07:206][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__JUMP_005_Sprite1E7EF27F4CAD879F62811C9E8FBB8084.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_005_Sprite.uasset'
+[2020.07.10-12.26.07:227][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__JUMP_004_SpriteD314088043546D07EADDCEB2554E00CC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_004_Sprite.uasset'
+[2020.07.10-12.26.07:241][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__JUMP_003_Sprite5C17749446F94267E341BFBF8E6C3E55.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_003_Sprite.uasset'
+[2020.07.10-12.26.07:254][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__JUMP_002_Sprite17E8A5304B5FB473238E3BAAAF38B934.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_002_Sprite.uasset'
+[2020.07.10-12.26.07:268][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__JUMP_001_Sprite884BA1CA4BD375D762D6E3A2909F9040.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_001_Sprite.uasset'
+[2020.07.10-12.26.07:282][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__JUMP_000_Sprite6D7570F04346C01B4416A3A0C3CBD977.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_000_Sprite.uasset'
+[2020.07.10-12.26.07:295][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Idle12F1FAF04BEE59D5AB2A9E9D0901979F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Idle.uasset'
+[2020.07.10-12.26.07:308][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__IDLE_009_SpriteA1CB17D64774201F68AD74A88C8EFEEF.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_009_Sprite.uasset'
+[2020.07.10-12.26.07:321][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__IDLE_008_Sprite5B144D2C48B2C018D663BB92319CC80B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_008_Sprite.uasset'
+[2020.07.10-12.26.07:334][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__IDLE_007_SpriteF471CBD04B93B1CCE6188EA4765DF46D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_007_Sprite.uasset'
+[2020.07.10-12.26.07:347][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__IDLE_006_Sprite6A6E2D254C65BB046AE95DBFBA6F467B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_006_Sprite.uasset'
+[2020.07.10-12.26.07:360][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__IDLE_005_SpriteB0D29DFD4B37B3AF26B6B2BBE392BAB1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_005_Sprite.uasset'
+[2020.07.10-12.26.07:372][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__IDLE_004_Sprite47DE4E7941DE114AAB771EA77E968FE3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_004_Sprite.uasset'
+[2020.07.10-12.26.07:385][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__IDLE_003_Sprite2A4E7EB848E0FDDE5262E090650B9290.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_003_Sprite.uasset'
+[2020.07.10-12.26.07:398][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__IDLE_002_Sprite831BEA484C59E10890DA4DB54E319202.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_002_Sprite.uasset'
+[2020.07.10-12.26.07:411][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__IDLE_001_Sprite0C2C1EAE41E551C3F7CCD98E7F1ED570.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_001_Sprite.uasset'
+[2020.07.10-12.26.07:426][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__IDLE_000_SpriteC9DCF329407CC63DC7BE97AB3F7B4591.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_000_Sprite.uasset'
+[2020.07.10-12.26.07:438][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/HurtEC9B9B324553CD9F5EDEEA8A0B66418F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Hurt.uasset'
+[2020.07.10-12.26.07:450][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__HURT_009_SpriteD4D33C1E4A6EBE9F59F1778C4A230593.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_009_Sprite.uasset'
+[2020.07.10-12.26.07:463][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__HURT_008_SpriteD30DD05F4ACF10092A0A659A6168C9B5.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_008_Sprite.uasset'
+[2020.07.10-12.26.07:475][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__HURT_007_Sprite9CBA0620404C24257822C2A31B9CB364.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_007_Sprite.uasset'
+[2020.07.10-12.26.07:487][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__HURT_006_Sprite8A0CAF224676CD5A456E4D8256E66499.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_006_Sprite.uasset'
+[2020.07.10-12.26.07:500][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__HURT_005_Sprite91A2CB0A4692785417EF32B4F2A79513.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_005_Sprite.uasset'
+[2020.07.10-12.26.07:514][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__HURT_004_SpriteDA2136E946DA9EB47C7EDEA009689F08.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_004_Sprite.uasset'
+[2020.07.10-12.26.07:526][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__HURT_003_Sprite39CFA45E4ED7BC1197C2938079537297.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_003_Sprite.uasset'
+[2020.07.10-12.26.07:539][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__HURT_002_Sprite45A4B2834881FB9BE85DFEB8C223B8E6.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_002_Sprite.uasset'
+[2020.07.10-12.26.07:552][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__HURT_001_Sprite4C2450394C12F23E90A28396339F8D0D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_001_Sprite.uasset'
+[2020.07.10-12.26.07:565][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__HURT_000_SpriteE7D8F6FB449BD81865C582912BFCC065.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_000_Sprite.uasset'
+[2020.07.10-12.26.07:576][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Dead419FC0BC443BEFB5469ADDBAB8AAA883.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Dead.uasset'
+[2020.07.10-12.26.07:588][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__DIE_009_SpriteA853AAC94E898912E874F1985736F271.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_009_Sprite.uasset'
+[2020.07.10-12.26.07:600][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__DIE_008_SpriteF34FBA7041FE85A811146BAFA055F69E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_008_Sprite.uasset'
+[2020.07.10-12.26.07:613][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__DIE_007_Sprite1F0F695A461AFBE51579988F8BEA4146.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_007_Sprite.uasset'
+[2020.07.10-12.26.07:628][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__DIE_006_Sprite3A3297854AF90E38B8951F947887C3FE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_006_Sprite.uasset'
+[2020.07.10-12.26.07:641][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__DIE_005_Sprite22C14FFA414175538BB409B48DA3E795.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_005_Sprite.uasset'
+[2020.07.10-12.26.07:654][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__DIE_004_Sprite27DE354D40B9C09DF711E9869B13966D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_004_Sprite.uasset'
+[2020.07.10-12.26.07:666][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__DIE_003_Sprite22897CF04F0576F019C0A88CB0E15F0E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_003_Sprite.uasset'
+[2020.07.10-12.26.07:678][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__DIE_002_SpriteB11BB64C4AD9AC5E0060EAA58CBFF779.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_002_Sprite.uasset'
+[2020.07.10-12.26.07:691][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__DIE_001_SpriteC2B4558D43794F22057E50931E6424BC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_001_Sprite.uasset'
+[2020.07.10-12.26.07:703][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__DIE_000_Sprite22E4C50F49B8D23BBB89BA9185287074.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_000_Sprite.uasset'
+[2020.07.10-12.26.07:715][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/AttackFC6FE4544765D36B9229EBAE0C78F02F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Attack.uasset'
+[2020.07.10-12.26.07:728][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__ATTACK_009_Sprite67E443674DF0082C629A8C911AEE4B03.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_009_Sprite.uasset'
+[2020.07.10-12.26.07:741][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__ATTACK_008_Sprite8FB034344C567A5616F75CB2FEE4508B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_008_Sprite.uasset'
+[2020.07.10-12.26.07:754][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__ATTACK_007_Sprite5C8A44E440D03F0C372629871BE4C8DE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_007_Sprite.uasset'
+[2020.07.10-12.26.07:767][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__ATTACK_006_SpriteB416CDD843C4C6A0BABEC0960882BD2E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_006_Sprite.uasset'
+[2020.07.10-12.26.07:781][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__ATTACK_005_SpriteEB9C24D1453716150A7F16B059BCBF11.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_005_Sprite.uasset'
+[2020.07.10-12.26.07:795][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__ATTACK_004_Sprite996CE642402F4620A49C34B0B3ED98E0.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_004_Sprite.uasset'
+[2020.07.10-12.26.07:808][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__ATTACK_003_SpriteF7DE35704AE7697E162966ABE6AA6768.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_003_Sprite.uasset'
+[2020.07.10-12.26.07:822][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__ATTACK_002_Sprite31E216164DC70F328D9A9CAD4B761480.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_002_Sprite.uasset'
+[2020.07.10-12.26.07:837][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__ATTACK_001_SpriteD645CA074FDF160757A4F1864D570D68.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_001_Sprite.uasset'
+[2020.07.10-12.26.07:850][449]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight_03__ATTACK_000_Sprite1CACFDEC45FEE90E914D1882FFA95332.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_000_Sprite.uasset'
+[2020.07.10-12.26.08:206][449]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.10-12.26.08:206][449]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Walk.Walk
+[2020.07.10-12.26.08:206][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_009_Sprite.Knight_03__WALK_009_Sprite
+[2020.07.10-12.26.08:206][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_008_Sprite.Knight_03__WALK_008_Sprite
+[2020.07.10-12.26.08:206][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_007_Sprite.Knight_03__WALK_007_Sprite
+[2020.07.10-12.26.08:206][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_006_Sprite.Knight_03__WALK_006_Sprite
+[2020.07.10-12.26.08:206][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_005_Sprite.Knight_03__WALK_005_Sprite
+[2020.07.10-12.26.08:206][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_004_Sprite.Knight_03__WALK_004_Sprite
+[2020.07.10-12.26.08:206][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_003_Sprite.Knight_03__WALK_003_Sprite
+[2020.07.10-12.26.08:206][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_002_Sprite.Knight_03__WALK_002_Sprite
+[2020.07.10-12.26.08:206][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_001_Sprite.Knight_03__WALK_001_Sprite
+[2020.07.10-12.26.08:206][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Walk/Knight_03__WALK_000_Sprite.Knight_03__WALK_000_Sprite
+[2020.07.10-12.26.08:206][449]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/Enemies/KnightV3/Animations/Sprites/Run/Run.Run
+[2020.07.10-12.26.08:206][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_009_Sprite.Knight_03__RUN_009_Sprite
+[2020.07.10-12.26.08:206][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_008_Sprite.Knight_03__RUN_008_Sprite
+[2020.07.10-12.26.08:206][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_007_Sprite.Knight_03__RUN_007_Sprite
+[2020.07.10-12.26.08:206][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_006_Sprite.Knight_03__RUN_006_Sprite
+[2020.07.10-12.26.08:206][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_005_Sprite.Knight_03__RUN_005_Sprite
+[2020.07.10-12.26.08:206][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_004_Sprite.Knight_03__RUN_004_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_003_Sprite.Knight_03__RUN_003_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_002_Sprite.Knight_03__RUN_002_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_001_Sprite.Knight_03__RUN_001_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Run/Knight_03__RUN_000_Sprite.Knight_03__RUN_000_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Jump.Jump
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_009_Sprite.Knight_03__JUMP_009_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_008_Sprite.Knight_03__JUMP_008_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_007_Sprite.Knight_03__JUMP_007_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_006_Sprite.Knight_03__JUMP_006_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_005_Sprite.Knight_03__JUMP_005_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_004_Sprite.Knight_03__JUMP_004_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_003_Sprite.Knight_03__JUMP_003_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_002_Sprite.Knight_03__JUMP_002_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_001_Sprite.Knight_03__JUMP_001_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Jump/Knight_03__JUMP_000_Sprite.Knight_03__JUMP_000_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Idle.Idle
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_009_Sprite.Knight_03__IDLE_009_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_008_Sprite.Knight_03__IDLE_008_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_007_Sprite.Knight_03__IDLE_007_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_006_Sprite.Knight_03__IDLE_006_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_005_Sprite.Knight_03__IDLE_005_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_004_Sprite.Knight_03__IDLE_004_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_003_Sprite.Knight_03__IDLE_003_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_002_Sprite.Knight_03__IDLE_002_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_001_Sprite.Knight_03__IDLE_001_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Idle/Knight_03__IDLE_000_Sprite.Knight_03__IDLE_000_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Hurt.Hurt
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_009_Sprite.Knight_03__HURT_009_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_008_Sprite.Knight_03__HURT_008_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_007_Sprite.Knight_03__HURT_007_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_006_Sprite.Knight_03__HURT_006_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_005_Sprite.Knight_03__HURT_005_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_004_Sprite.Knight_03__HURT_004_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_003_Sprite.Knight_03__HURT_003_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_002_Sprite.Knight_03__HURT_002_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_001_Sprite.Knight_03__HURT_001_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Hurt/Knight_03__HURT_000_Sprite.Knight_03__HURT_000_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Dead.Dead
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_009_Sprite.Knight_03__DIE_009_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_008_Sprite.Knight_03__DIE_008_Sprite
+[2020.07.10-12.26.08:207][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_007_Sprite.Knight_03__DIE_007_Sprite
+[2020.07.10-12.26.08:208][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_006_Sprite.Knight_03__DIE_006_Sprite
+[2020.07.10-12.26.08:208][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_005_Sprite.Knight_03__DIE_005_Sprite
+[2020.07.10-12.26.08:208][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_004_Sprite.Knight_03__DIE_004_Sprite
+[2020.07.10-12.26.08:208][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_003_Sprite.Knight_03__DIE_003_Sprite
+[2020.07.10-12.26.08:208][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_002_Sprite.Knight_03__DIE_002_Sprite
+[2020.07.10-12.26.08:208][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_001_Sprite.Knight_03__DIE_001_Sprite
+[2020.07.10-12.26.08:208][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Dead/Knight_03__DIE_000_Sprite.Knight_03__DIE_000_Sprite
+[2020.07.10-12.26.08:208][449]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Attack.Attack
+[2020.07.10-12.26.08:208][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_009_Sprite.Knight_03__ATTACK_009_Sprite
+[2020.07.10-12.26.08:208][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_008_Sprite.Knight_03__ATTACK_008_Sprite
+[2020.07.10-12.26.08:208][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_007_Sprite.Knight_03__ATTACK_007_Sprite
+[2020.07.10-12.26.08:208][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_006_Sprite.Knight_03__ATTACK_006_Sprite
+[2020.07.10-12.26.08:208][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_005_Sprite.Knight_03__ATTACK_005_Sprite
+[2020.07.10-12.26.08:208][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_004_Sprite.Knight_03__ATTACK_004_Sprite
+[2020.07.10-12.26.08:208][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_003_Sprite.Knight_03__ATTACK_003_Sprite
+[2020.07.10-12.26.08:208][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_002_Sprite.Knight_03__ATTACK_002_Sprite
+[2020.07.10-12.26.08:208][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_001_Sprite.Knight_03__ATTACK_001_Sprite
+[2020.07.10-12.26.08:208][449]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Enemies/KnightV3/Animations/Sprites/Attack/Knight_03__ATTACK_000_Sprite.Knight_03__ATTACK_000_Sprite
+[2020.07.10-12.28.07:073][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.07.10-12.28.12:900][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.07.10-12.28.12:905][675]LogMetaData: Removing '/Game/Characters/Players/Knight.SKEL_Knight_C' ref from Metadata '/Game/Characters/Players/2DSideScrollerCharacter_2.PackageMetaData'
+[2020.07.10-12.28.12:905][675]LogMetaData: Removing '/Game/Characters/Players/Knight.Knight_C' ref from Metadata '/Game/Characters/Players/2DSideScrollerCharacter_2.PackageMetaData'
+[2020.07.10-12.28.12:941][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/Knight" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Knight.uasset" SILENT=true
+[2020.07.10-12.28.13:040][675]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Knight79EC404C43C77D8AFEE8EC8474B4BDEA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Knight.uasset'
+[2020.07.10-12.28.13:217][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.07.10-12.28.13:252][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.07.10-12.28.13:271][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.28.13:323][675]AssetCheck: New page: Asset Save: Knight
+[2020.07.10-12.28.13:323][675]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/Knight.Knight
+[2020.07.10-12.28.26:643][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.07.10-12.28.26:647][259]LogMetaData: Removing '/Game/Characters/Players/KnightV1Character.KnightV1Character_C' ref from Metadata '/Game/Characters/Players/Knight.PackageMetaData'
+[2020.07.10-12.28.26:647][259]LogMetaData: Removing '/Game/Characters/Players/KnightV1Character.SKEL_KnightV1Character_C' ref from Metadata '/Game/Characters/Players/Knight.PackageMetaData'
+[2020.07.10-12.28.26:681][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/KnightV1Character" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/KnightV1Character.uasset" SILENT=true
+[2020.07.10-12.28.26:780][259]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1CharacterE1DC485841D3269FA94286BB4181542E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/KnightV1Character.uasset'
+[2020.07.10-12.28.26:962][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.07.10-12.28.26:995][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.07.10-12.28.27:013][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.07.10-12.28.27:064][259]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-12.28.27:064][259]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/KnightV1Character.KnightV1Character
+[2020.07.10-12.28.28:370][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/KnightV1Character" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/KnightV1Character.uasset" SILENT=true
+[2020.07.10-12.28.28:501][412]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1CharacterB1F5F8344501C89BBA0B289329CFBD04.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/KnightV1Character.uasset'
+[2020.07.10-12.28.28:519][412]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-12.28.28:519][412]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/KnightV1Character.KnightV1Character
+[2020.07.10-12.28.31:893][808]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character_C' ref from Metadata '/Game/Characters/Players/KnightV1Character.PackageMetaData'
+[2020.07.10-12.28.31:893][808]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1Character.SKEL_KnightV1Character_C' ref from Metadata '/Game/Characters/Players/KnightV1Character.PackageMetaData'
+[2020.07.10-12.28.31:893][808]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1Character.SKEL_KnightV1Character_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_5' ref from Metadata '/Game/Characters/Players/KnightV1Character.PackageMetaData'
+[2020.07.10-12.28.31:893][808]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1Character.SKEL_KnightV1Character_C:ReceiveBeginPlay' ref from Metadata '/Game/Characters/Players/KnightV1Character.PackageMetaData'
+[2020.07.10-12.28.31:893][808]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1Character.SKEL_KnightV1Character_C:ReceiveTick' ref from Metadata '/Game/Characters/Players/KnightV1Character.PackageMetaData'
+[2020.07.10-12.28.31:893][808]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1Character.SKEL_KnightV1Character_C:OnSpellCasted' ref from Metadata '/Game/Characters/Players/KnightV1Character.PackageMetaData'
+[2020.07.10-12.28.31:893][808]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1Character.SKEL_KnightV1Character_C:UpdateAnimation' ref from Metadata '/Game/Characters/Players/KnightV1Character.PackageMetaData'
+[2020.07.10-12.28.31:893][808]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1Character.SKEL_KnightV1Character_C:UserConstructionScript' ref from Metadata '/Game/Characters/Players/KnightV1Character.PackageMetaData'
+[2020.07.10-12.28.31:893][808]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1Character.SKEL_KnightV1Character_C:Set Max Walk Speed' ref from Metadata '/Game/Characters/Players/KnightV1Character.PackageMetaData'
+[2020.07.10-12.28.31:893][808]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1Character.SKEL_KnightV1Character_C:Receive Damage' ref from Metadata '/Game/Characters/Players/KnightV1Character.PackageMetaData'
+[2020.07.10-12.28.31:893][808]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1Character.SKEL_KnightV1Character_C:Set Flipbook Looping' ref from Metadata '/Game/Characters/Players/KnightV1Character.PackageMetaData'
+[2020.07.10-12.28.31:893][808]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character_C:ReceiveTick' ref from Metadata '/Game/Characters/Players/KnightV1Character.PackageMetaData'
+[2020.07.10-12.28.31:894][808]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character_C:ReceiveBeginPlay' ref from Metadata '/Game/Characters/Players/KnightV1Character.PackageMetaData'
+[2020.07.10-12.28.31:894][808]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character_C:Set Max Walk Speed' ref from Metadata '/Game/Characters/Players/KnightV1Character.PackageMetaData'
+[2020.07.10-12.28.31:894][808]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character_C:Receive Damage' ref from Metadata '/Game/Characters/Players/KnightV1Character.PackageMetaData'
+[2020.07.10-12.28.31:894][808]LogMetaData: Removing '/Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character_C:Set Flipbook Looping' ref from Metadata '/Game/Characters/Players/KnightV1Character.PackageMetaData'
+[2020.07.10-12.28.32:024][808]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1Character7823E33643E84830E6949DA73E647A83.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-12.28.32:204][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.07.10-12.28.32:239][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.07.10-12.28.32:258][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.10-12.28.32:310][808]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-12.28.32:310][808]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-12.28.34:286][ 40]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-12.29.07:332][ 22]BlueprintLog: New page: Compile KnightV1Character
+[2020.07.10-12.29.07:341][ 22]LogBlueprint: Error: [Compiler KnightV1Character] Could not find a function named "OnSpellCasted" in 'KnightV1Character_C'.
+Make sure 'KnightV1Character_C' has been compiled for  On Spell Casted
+[2020.07.10-12.29.07:396][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.07.10-12.32.53:410][217]BlueprintLog: New page: Compile KnightV1Character
+[2020.07.10-12.32.53:418][217]LogBlueprint: Error: [Compiler KnightV1Character] Could not find a function named "OnSpellCasted" in 'KnightV1Character_C'.
+Make sure 'KnightV1Character_C' has been compiled for  On Spell Casted
+[2020.07.10-12.32.53:470][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.07.10-12.34.08:678][893]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.07.10-12.34.08:680][893]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.028
+[2020.07.10-12.34.08:680][893]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Enemies/KnightV1/KnightV1Character] ([1] browsable assets)...
+[2020.07.10-12.34.08:680][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemies/KnightV1/KnightV1Character]
+[2020.07.10-12.34.08:852][893]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1Character_Auto7E5F6D30D4020DDD3E2595780F0CFEB37.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/Enemies/KnightV1/KnightV1Character_Auto7.uasset'
+[2020.07.10-12.34.08:854][893]LogFileHelpers: Auto-saving content packages took 0.174
+[2020.07.10-12.36.03:242][371]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1CharacterE458151240492E82F7A3ADAECA3704EF.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-12.36.03:260][371]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-12.36.03:260][371]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-12.36.07:895][804]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1Character12DAD72846092ED046C97E89BF55E9B4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-12.36.07:912][804]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-12.36.07:912][804]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-12.37.40:344][449]BlueprintLog: New page: Compile KnightV1Character
+[2020.07.10-12.37.40:352][449]LogBlueprint: Error: [Compiler KnightV1Character] Could not find a function named "OnSpellCasted" in 'KnightV1Character_C'.
+Make sure 'KnightV1Character_C' has been compiled for  On Spell Casted
+[2020.07.10-12.37.40:411][449]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.07.10-12.38.03:290][626]BlueprintLog: New page: Compile KnightV1Character
+[2020.07.10-12.38.03:298][626]LogBlueprint: Error: [Compiler KnightV1Character] Could not find a function named "OnSpellCasted" in 'KnightV1Character_C'.
+Make sure 'KnightV1Character_C' has been compiled for  On Spell Casted
+[2020.07.10-12.38.03:356][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.07.10-12.38.44:778][509]BlueprintLog: New page: Compile KnightV1Character
+[2020.07.10-12.38.44:788][509]LogBlueprint: Error: [Compiler KnightV1Character] Could not find a function named "OnSpellCasted" in 'KnightV1Character_C'.
+Make sure 'KnightV1Character_C' has been compiled for  On Spell Casted
+[2020.07.10-12.38.44:844][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.07.10-12.39.18:056][174]BlueprintLog: New page: Compile KnightV1Character
+[2020.07.10-12.39.18:065][174]LogBlueprint: Error: [Compiler KnightV1Character] Could not find a function named "OnSpellCasted" in 'KnightV1Character_C'.
+Make sure 'KnightV1Character_C' has been compiled for  On Spell Casted
+[2020.07.10-12.39.18:119][174]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.07.10-12.40.51:687][780]BlueprintLog: New page: Compile KnightV1Character
+[2020.07.10-12.40.51:695][780]LogBlueprint: Error: [Compiler KnightV1Character] Could not find a function named "OnSpellCasted" in 'KnightV1Character_C'.
+Make sure 'KnightV1Character_C' has been compiled for  On Spell Casted
+[2020.07.10-12.40.51:747][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.07.10-12.41.09:155][262]BlueprintLog: New page: Compile KnightV1Character
+[2020.07.10-12.41.09:225][262]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.07.10-12.41.10:699][375]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1CharacterE1AB341042D5611FE0765A9E506FCF60.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-12.41.10:719][375]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-12.41.10:719][375]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-12.41.22:539][453]LogSlate: Window 'KnightV1Character' being destroyed
+[2020.07.10-12.41.22:546][453]LogSlate: Window 'KnightV1Character' being destroyed
+[2020.07.10-12.41.22:561][453]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-12.41.22:561][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-12.41.27:543][ 19]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Players/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.07.10-12.41.39:410][ 27]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.10-12.41.39:416][ 27]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.07.10-12.41.39:417][ 27]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-12.41.39:417][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-12.41.42:598][382]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-12.41.49:384][866]BlueprintLog: New page: Compile KnightV1Character
+[2020.07.10-12.41.49:461][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.07.10-12.41.50:185][904]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1CharacterAECAFEEA4A986188EE3D03A698484421.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-12.41.50:201][904]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-12.41.50:201][904]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-12.43.13:014][435]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1CharacterBC0C2F144394891DFBE13EA7D722251B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-12.43.13:034][435]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-12.43.13:034][435]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-12.43.50:272][795]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1Character8BF14B8843B77304995043B8A2841BFE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-12.43.50:288][795]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-12.43.50:288][795]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-12.43.58:187][377]BlueprintLog: New page: Compile KnightV1Character
+[2020.07.10-12.43.58:252][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.07.10-12.43.59:050][434]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1Character6506DDAB48E744C2EA3547B923404A52.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-12.43.59:064][434]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-12.43.59:064][434]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-12.44.40:364][188]BlueprintLog: New page: Compile KnightV1Character
+[2020.07.10-12.44.40:433][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.07.10-12.45.13:129][783]LogSlate: Window 'Delete Variable' being destroyed
+[2020.07.10-12.46.27:525][974]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1Character44BC6B3C4C4682E72E8A8DAAD3398B6E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-12.46.27:551][974]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-12.46.27:551][974]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
+[2020.07.10-12.46.28:503][ 42]BlueprintLog: New page: Compile KnightV1Character
+[2020.07.10-12.46.28:591][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.07.10-12.46.29:191][ 72]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/KnightV1CharacterCAB39F5A4D79F765C75386B097B33A4C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/KnightV1/KnightV1Character.uasset'
+[2020.07.10-12.46.29:209][ 72]AssetCheck: New page: Asset Save: KnightV1Character
+[2020.07.10-12.46.29:209][ 72]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/KnightV1/KnightV1Character.KnightV1Character
