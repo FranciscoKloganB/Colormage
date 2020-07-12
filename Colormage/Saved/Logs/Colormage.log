@@ -2139,3 +2139,425 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.12-22.23.28:579][454]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1B9C72EC64462073F8E384C8181C2313C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
 [2020.07.12-22.23.28:623][454]AssetCheck: New page: Asset Save: Level1
 [2020.07.12-22.23.28:623][454]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.12-22.24.50:207][285]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.12-22.24.50:225][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-22.24.50:225][285]PIE: New page: PIE session: Level1 (Jul 13, 2020, 12:24:50 AM)
+[2020.07.12-22.24.50:225][285]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.12-22.24.50:262][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036006s)
+[2020.07.12-22.24.50:262][285]LogAIModule: Creating AISystem for world Level1
+[2020.07.12-22.24.50:262][285]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000176C4498C00), frame # 285285
+[2020.07.12-22.24.50:262][285]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000176D193AD40), frame # 285285
+[2020.07.12-22.24.50:263][285]LogPlayLevel: PIE: World Init took: (0.001206s)
+[2020.07.12-22.24.50:263][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.037384s)
+[2020.07.12-22.24.50:287][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.07.12-22.24.50:289][285]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.12-22.24.50:290][285]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.12-22.24.50:290][285]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.12-22.24.50:290][285]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.12-22.24.50:290][285]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.12-22.24.50:290][285]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.12-22.24.50:290][285]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.12-22.24.50:290][285]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.12-22.24.50:290][285]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.12-22.24.50:290][285]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.12-22.24.50:300][285]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.12-22.24.50:300][285]LogAudioMixer: Display: 1: FrontRight
+[2020.07.12-22.24.50:335][285]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.12-22.24.50:336][285]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.12-22.24.50:336][285]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.12-22.24.50:336][285]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.12-22.24.50:336][285]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.12-22.24.50:351][285]LogInit: FAudioDevice initialized.
+[2020.07.12-22.24.50:361][285]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-22.24.50:381][285]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.12-23.24.50
+[2020.07.12-22.24.50:382][285]LogWorld: Bringing up level for play took: 0.019462
+[2020.07.12-22.24.50:382][285]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.07.12-22.24.50:391][285]PIE: Server logged in
+[2020.07.12-22.24.50:392][285]PIE: Play in editor total start time 0.168 seconds.
+[2020.07.12-22.25.13:889][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-22.25.13:889][ 83]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.12-22.25.13:890][ 83]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-22.25.13:892][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-22.25.13:898][ 83]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-22.25.13:902][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-22.25.13:924][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-22.25.13:944][ 83]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000176D193AD40), frame # 288083
+[2020.07.12-22.25.13:944][ 83]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000176C4498C00), frame # 288083
+[2020.07.12-22.25.13:948][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.07.12-22.25.13:986][ 84]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.07.12-22.25.20:468][847]LogEditorViewport: Clicking on Actor (LMB): PaperGroupedSpriteActor (PaperGroupedSpriteActor)
+[2020.07.12-22.25.21:990][ 24]LogEditorViewport: Clicking on Actor (LMB): PaperGroupedSpriteActor (PaperGroupedSpriteActor)
+[2020.07.12-22.25.31:845][192]LogEditorViewport: Clicking on Actor (LMB): PaperGroupedSpriteActor (PaperGroupedSpriteActor)
+[2020.07.12-22.25.32:191][231]LogEditorViewport: Clicking on Actor (LMB): Crate_C (Crate9)
+[2020.07.12-22.25.34:657][519]Cmd: DUPLICATE
+[2020.07.12-22.25.34:657][519]Cmd: ACTOR DUPLICATE
+[2020.07.12-22.25.42:535][391]LogEditorViewport: Clicking on Actor (LMB): PaperGroupedSpriteActor (PaperGroupedSpriteActor)
+[2020.07.12-22.25.44:291][596]LogEditorViewport: Clicking on Actor (LMB): PaperGroupedSpriteActor (PaperGroupedSpriteActor)
+[2020.07.12-22.25.44:812][656]LogEditorViewport: Clicking on Actor (LMB): PaperGroupedSpriteActor (PaperGroupedSpriteActor)
+[2020.07.12-22.25.45:815][774]LogEditorViewport: Clicking on Actor (LMB): Crate_C (Crate13)
+[2020.07.12-22.25.51:210][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.12-22.25.51:235][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.07.12-22.25.51:459][408]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1C24E3BEE4DAF1A62CDDA129D01ED32E3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.12-22.25.51:508][408]AssetCheck: New page: Asset Save: Level1
+[2020.07.12-22.25.51:508][408]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.12-22.26.01:494][600]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.12-22.26.01:513][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-22.26.01:513][600]PIE: New page: PIE session: Level1 (Jul 13, 2020, 12:26:01 AM)
+[2020.07.12-22.26.01:513][600]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.12-22.26.01:548][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034893s)
+[2020.07.12-22.26.01:549][600]LogAIModule: Creating AISystem for world Level1
+[2020.07.12-22.26.01:549][600]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000176B3814600), frame # 293600
+[2020.07.12-22.26.01:549][600]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000176C4949080), frame # 293600
+[2020.07.12-22.26.01:549][600]LogPlayLevel: PIE: World Init took: (0.001312s)
+[2020.07.12-22.26.01:549][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.036402s)
+[2020.07.12-22.26.01:570][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.07.12-22.26.01:572][600]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.12-22.26.01:573][600]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.12-22.26.01:573][600]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.12-22.26.01:573][600]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.12-22.26.01:573][600]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.12-22.26.01:573][600]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.12-22.26.01:573][600]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.12-22.26.01:573][600]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.12-22.26.01:573][600]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.12-22.26.01:573][600]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.12-22.26.01:583][600]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.12-22.26.01:583][600]LogAudioMixer: Display: 1: FrontRight
+[2020.07.12-22.26.01:614][600]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.12-22.26.01:614][600]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.12-22.26.01:614][600]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.12-22.26.01:614][600]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.12-22.26.01:614][600]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.12-22.26.01:628][600]LogInit: FAudioDevice initialized.
+[2020.07.12-22.26.01:641][600]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-22.26.01:660][600]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.12-23.26.01
+[2020.07.12-22.26.01:661][600]LogWorld: Bringing up level for play took: 0.018737
+[2020.07.12-22.26.01:661][600]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.07.12-22.26.01:668][600]PIE: Server logged in
+[2020.07.12-22.26.01:669][600]PIE: Play in editor total start time 0.157 seconds.
+[2020.07.12-22.26.02:929][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-22.26.02:929][741]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.12-22.26.02:930][741]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-22.26.02:934][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-22.26.02:944][741]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-22.26.02:948][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-22.26.02:971][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-22.26.02:993][741]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000176C4949080), frame # 293741
+[2020.07.12-22.26.02:993][741]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000176B3814600), frame # 293741
+[2020.07.12-22.26.02:997][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.07.12-22.26.03:037][742]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.07.12-22.33.22:609][940]LogSlate: Window 'Player2D' being destroyed
+[2020.07.12-22.33.22:614][940]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-22.33.22:614][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-22.34.06:224][143]LogMetaData: Removing '/Game/Characters/Enemies/PatrollingNPC.PatrollingNPC_C' ref from Metadata '/Game/Characters/AI/Patroller/PatrollingNPC.PackageMetaData'
+[2020.07.12-22.34.06:224][143]LogMetaData: Removing '/Game/Characters/Enemies/PatrollingNPC.SKEL_PatrollingNPC_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_5' ref from Metadata '/Game/Characters/AI/Patroller/PatrollingNPC.PackageMetaData'
+[2020.07.12-22.34.06:224][143]LogMetaData: Removing '/Game/Characters/Enemies/PatrollingNPC.SKEL_PatrollingNPC_C:ReceiveBeginPlay' ref from Metadata '/Game/Characters/AI/Patroller/PatrollingNPC.PackageMetaData'
+[2020.07.12-22.34.06:224][143]LogMetaData: Removing '/Game/Characters/Enemies/PatrollingNPC.SKEL_PatrollingNPC_C:ReceiveTick' ref from Metadata '/Game/Characters/AI/Patroller/PatrollingNPC.PackageMetaData'
+[2020.07.12-22.34.06:224][143]LogMetaData: Removing '/Game/Characters/Enemies/PatrollingNPC.SKEL_PatrollingNPC_C:UpdateAnimation' ref from Metadata '/Game/Characters/AI/Patroller/PatrollingNPC.PackageMetaData'
+[2020.07.12-22.34.06:224][143]LogMetaData: Removing '/Game/Characters/Enemies/PatrollingNPC.SKEL_PatrollingNPC_C:OnAttack' ref from Metadata '/Game/Characters/AI/Patroller/PatrollingNPC.PackageMetaData'
+[2020.07.12-22.34.06:224][143]LogMetaData: Removing '/Game/Characters/Enemies/PatrollingNPC.SKEL_PatrollingNPC_C:UserConstructionScript' ref from Metadata '/Game/Characters/AI/Patroller/PatrollingNPC.PackageMetaData'
+[2020.07.12-22.34.06:224][143]LogMetaData: Removing '/Game/Characters/Enemies/PatrollingNPC.SKEL_PatrollingNPC_C:Set Max Walk Speed' ref from Metadata '/Game/Characters/AI/Patroller/PatrollingNPC.PackageMetaData'
+[2020.07.12-22.34.06:224][143]LogMetaData: Removing '/Game/Characters/Enemies/PatrollingNPC.SKEL_PatrollingNPC_C:Receive Damage' ref from Metadata '/Game/Characters/AI/Patroller/PatrollingNPC.PackageMetaData'
+[2020.07.12-22.34.06:224][143]LogMetaData: Removing '/Game/Characters/Enemies/PatrollingNPC.SKEL_PatrollingNPC_C:Set Flipbook Looping' ref from Metadata '/Game/Characters/AI/Patroller/PatrollingNPC.PackageMetaData'
+[2020.07.12-22.34.06:224][143]LogMetaData: Removing '/Game/Characters/Enemies/PatrollingNPC.SKEL_PatrollingNPC_C' ref from Metadata '/Game/Characters/AI/Patroller/PatrollingNPC.PackageMetaData'
+[2020.07.12-22.34.06:224][143]LogMetaData: Removing '/Game/Characters/Enemies/PatrollingNPC.PatrollingNPC_C:ReceiveTick' ref from Metadata '/Game/Characters/AI/Patroller/PatrollingNPC.PackageMetaData'
+[2020.07.12-22.34.06:224][143]LogMetaData: Removing '/Game/Characters/Enemies/PatrollingNPC.PatrollingNPC_C:ReceiveBeginPlay' ref from Metadata '/Game/Characters/AI/Patroller/PatrollingNPC.PackageMetaData'
+[2020.07.12-22.34.06:224][143]LogMetaData: Removing '/Game/Characters/Enemies/PatrollingNPC.PatrollingNPC_C:Set Max Walk Speed' ref from Metadata '/Game/Characters/AI/Patroller/PatrollingNPC.PackageMetaData'
+[2020.07.12-22.34.06:224][143]LogMetaData: Removing '/Game/Characters/Enemies/PatrollingNPC.PatrollingNPC_C:Receive Damage' ref from Metadata '/Game/Characters/AI/Patroller/PatrollingNPC.PackageMetaData'
+[2020.07.12-22.34.06:224][143]LogMetaData: Removing '/Game/Characters/Enemies/PatrollingNPC.PatrollingNPC_C:Set Flipbook Looping' ref from Metadata '/Game/Characters/AI/Patroller/PatrollingNPC.PackageMetaData'
+[2020.07.12-22.34.06:272][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/PatrollingNPC" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/PatrollingNPC.uasset" SILENT=true
+[2020.07.12-22.34.06:325][143]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/PatrollingNPC68F915844133FBF6D3824484E2A3CF43.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/PatrollingNPC.uasset'
+[2020.07.12-22.34.06:327][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/PatrollingNPC" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/PatrollingNPC.uasset" SILENT=true
+[2020.07.12-22.34.06:397][143]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/PatrollingNPC9437BD62496C1EB2B035E1A5DA07C04C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/PatrollingNPC.uasset'
+[2020.07.12-22.34.06:492][143]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.12-22.34.06:492][143]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/PatrollingNPC.PatrollingNPC
+[2020.07.12-22.34.06:492][143]LogContentValidation: Display: Validating ObjectRedirector /Game/Characters/AI/Patroller/PatrollingNPC.PatrollingNPC
+[2020.07.12-22.34.06:492][143]LogContentValidation: Display: Validating ObjectRedirector /Game/Characters/AI/Patroller/PatrollingNPC.Default__PatrollingNPC_C
+[2020.07.12-22.34.06:492][143]LogContentValidation: Display: Validating ObjectRedirector /Game/Characters/AI/Patroller/PatrollingNPC.PatrollingNPC_C
+[2020.07.12-22.34.12:876][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.07.12-22.34.12:912][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.07.12-22.34.12:945][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.07.12-22.34.12:977][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.07.12-22.34.13:011][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.07.12-22.34.13:012][894]LogMetaData: Removing '/Game/Characters/Enemies/Patroller.Patroller_C' ref from Metadata '/Game/Characters/Enemies/PatrollingNPC.PackageMetaData'
+[2020.07.12-22.34.13:012][894]LogMetaData: Removing '/Game/Characters/Enemies/Patroller.SKEL_Patroller_C' ref from Metadata '/Game/Characters/Enemies/PatrollingNPC.PackageMetaData'
+[2020.07.12-22.34.13:039][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Patroller" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Patroller.uasset" SILENT=true
+[2020.07.12-22.34.13:091][894]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller060BF75D4B07B959BC539E8880EA3EEF.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Patroller.uasset'
+[2020.07.12-22.34.13:264][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.07.12-22.34.13:293][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.07.12-22.34.13:312][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.07.12-22.34.13:332][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/PatrollingNPC" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/PatrollingNPC.uasset" SILENT=true
+[2020.07.12-22.34.13:397][894]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/PatrollingNPC28630C5E4BD6FDF7795F2897F7C33970.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/PatrollingNPC.uasset'
+[2020.07.12-22.34.13:481][894]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.12-22.34.13:481][894]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Patroller.Patroller
+[2020.07.12-22.34.13:481][894]LogContentValidation: Display: Validating ObjectRedirector /Game/Characters/AI/Patroller/PatrollingNPC.PatrollingNPC
+[2020.07.12-22.34.13:481][894]LogContentValidation: Display: Validating ObjectRedirector /Game/Characters/AI/Patroller/PatrollingNPC.PatrollingNPC_C
+[2020.07.12-22.34.13:965][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Patroller" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Patroller.uasset" SILENT=true
+[2020.07.12-22.34.14:074][945]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/PatrollerFA9C3465499DB2FE71342AA51B0D85CE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Patroller.uasset'
+[2020.07.12-22.34.14:090][945]AssetCheck: New page: Asset Save: Patroller
+[2020.07.12-22.34.14:090][945]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Patroller.Patroller
+[2020.07.12-22.34.18:842][510]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/Patroller.Patroller
+[2020.07.12-22.35.18:946][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Patroller" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Patroller.uasset" SILENT=true
+[2020.07.12-22.35.19:052][830]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller682455D141F689ADC6A544891D2E4DFA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Patroller.uasset'
+[2020.07.12-22.35.19:064][830]AssetCheck: New page: Asset Save: Patroller
+[2020.07.12-22.35.19:064][830]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Patroller.Patroller
+[2020.07.12-22.35.45:832][952]LogSlate: Window 'Patroller' being destroyed
+[2020.07.12-22.35.45:857][952]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-22.35.45:857][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-22.35.56:592][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.07.12-22.35.57:653][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-22.35.57:698][334]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy99916DF94DED6661773ED389813AACC4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-22.35.57:719][334]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-22.35.57:720][334]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-22.36.00:504][666]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-22.36.28:649][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-22.36.28:762][345]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy978153F8443D0AAA09D1B2878CCB08A0.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-22.36.28:776][345]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-22.36.28:776][345]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-22.36.29:619][419]BlueprintLog: New page: Compile BaseEnemy
+[2020.07.12-22.36.29:690][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.07.12-22.36.30:379][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-22.36.30:496][480]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemyF0D5A3C4470E1AC4521C2E85E802F8EF.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-22.36.30:514][480]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-22.36.30:514][480]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-22.38.32:192][142]LogSlate: Took 0.006068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.07.12-22.39.16:881][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.07.12-22.39.16:885][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Levels/First/Level1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.07.12-22.39.17:110][693]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1_Auto1F9BA7B9E4D5F4C169A349BB413F1BA57.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Levels/First/Level1_Auto1.umap'
+[2020.07.12-22.39.17:112][693]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.263
+[2020.07.12-22.39.17:112][693]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.263
+[2020.07.12-22.39.17:112][693]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/AI/Patroller/Patroller_AI] ([1] browsable assets)...
+[2020.07.12-22.39.17:112][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/AI/Patroller/Patroller_AI]
+[2020.07.12-22.39.17:192][693]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_AI_Auto108BC38FD419BCC9FEBA3539049477CFB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/AI/Patroller/Patroller_AI_Auto1.uasset'
+[2020.07.12-22.39.17:193][693]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/AI/Tasks/NextPathVec] ([1] browsable assets)...
+[2020.07.12-22.39.17:193][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/AI/Tasks/NextPathVec]
+[2020.07.12-22.39.17:297][693]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/NextPathVec_Auto1A29BA10B49472E8DE1B997BB2A8EA734.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/AI/Tasks/NextPathVec_Auto1.uasset'
+[2020.07.12-22.39.17:298][693]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/AI/Tasks/Pathing/SetPathIndex] ([1] browsable assets)...
+[2020.07.12-22.39.17:298][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/AI/Tasks/Pathing/SetPathIndex]
+[2020.07.12-22.39.17:394][693]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetPathIndex_Auto1723BB1D84F47ADED4C8A6980E40C0DED.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/AI/Tasks/Pathing/SetPathIndex_Auto1.uasset'
+[2020.07.12-22.39.17:395][693]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Enemies/KnightV3/ScaryKnight] ([1] browsable assets)...
+[2020.07.12-22.39.17:395][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemies/KnightV3/ScaryKnight]
+[2020.07.12-22.39.17:479][693]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ScaryKnight_Auto1917A7D104EEB9071D86CDDAA04E5F20C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/Enemies/KnightV3/ScaryKnight_Auto1.uasset'
+[2020.07.12-22.39.17:480][693]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Enemies/BaseEnemy] ([1] browsable assets)...
+[2020.07.12-22.39.17:480][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemies/BaseEnemy]
+[2020.07.12-22.39.17:590][693]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy_Auto13E34CC174815F4857F938DB11801BDD5.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/Enemies/BaseEnemy_Auto1.uasset'
+[2020.07.12-22.39.17:590][693]LogFileHelpers: Auto-saving content packages took 0.478
+[2020.07.12-22.41.17:340][188]BlueprintLog: New page: Compile BaseEnemy
+[2020.07.12-22.41.17:403][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.07.12-22.41.25:208][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-22.41.25:316][997]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemyDED8E5094BF69D8C93F63E811BA63A9E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-22.41.25:333][997]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-22.41.25:333][997]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-22.41.30:110][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-22.41.30:225][486]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy0E8B5FE040984623D6E251A5E826EF88.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-22.41.30:238][486]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-22.41.30:239][486]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-22.41.46:885][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-22.41.46:997][263]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy38F6673E4E2D803F57BEB49BB40A6CD7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-22.41.47:014][263]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-22.41.47:014][263]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-22.41.52:430][793]BlueprintLog: New page: Compile BaseEnemy
+[2020.07.12-22.41.52:487][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.07.12-22.41.52:966][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-22.41.53:077][835]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy89288B3F4BAFFABB31C5FFA18277F8BB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-22.41.53:094][835]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-22.41.53:094][835]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-22.42.48:358][314]BlueprintLog: New page: Compile BaseEnemy
+[2020.07.12-22.42.48:423][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.07.12-22.42.48:851][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-22.42.48:962][343]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemyC84E053D49A1F3DE4541DF81686C9577.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-22.42.48:980][343]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-22.42.48:980][343]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-22.43.18:122][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-22.43.18:236][459]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemyE16E445E49715289FF9F09B618E18046.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-22.43.18:250][459]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-22.43.18:250][459]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-22.43.43:907][327]BlueprintLog: New page: Compile BaseEnemy
+[2020.07.12-22.43.43:969][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.07.12-22.43.44:407][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-22.43.44:517][359]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy6D9FB8C643CA9EE0A5E113896DF6C624.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-22.43.44:533][359]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-22.43.44:533][359]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-22.45.07:700][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/ICombat" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/ICombat.uasset" SILENT=true
+[2020.07.12-22.45.07:702][622]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ICombat7316A99D4FF74BE5F9E9FC8807FDE27D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/ICombat.uasset'
+[2020.07.12-22.45.07:721][622]AssetCheck: New page: Asset Save: ICombat
+[2020.07.12-22.45.07:721][622]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/ICombat.ICombat
+[2020.07.12-22.45.16:679][ 60]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/ICombat.ICombat
+[2020.07.12-22.45.43:549][881]BlueprintLog: New page: Compile ICombat
+[2020.07.12-22.45.43:575][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.07.12-22.45.43:964][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/ICombat" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/ICombat.uasset" SILENT=true
+[2020.07.12-22.45.44:034][923]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ICombatBE6376FC4050F71D208F049C891B6EDA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/ICombat.uasset'
+[2020.07.12-22.45.44:047][923]AssetCheck: New page: Asset Save: ICombat
+[2020.07.12-22.45.44:047][923]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/ICombat.ICombat
+[2020.07.12-22.46.37:730][897]BlueprintLog: New page: Compile ICombat
+[2020.07.12-22.46.37:757][897]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.07.12-22.46.38:165][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/ICombat" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/ICombat.uasset" SILENT=true
+[2020.07.12-22.46.38:238][941]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ICombat8E18C01B49AE9593F8FD4C91C9E2AE61.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/ICombat.uasset'
+[2020.07.12-22.46.38:251][941]AssetCheck: New page: Asset Save: ICombat
+[2020.07.12-22.46.38:251][941]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/ICombat.ICombat
+[2020.07.12-22.47.53:307][450]BlueprintLog: New page: Compile BaseEnemy
+[2020.07.12-22.47.53:369][450]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.07.12-22.47.54:083][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-22.47.54:199][508]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy34E03363441E448699B517AFF6E7B814.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-22.47.54:212][508]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-22.47.54:212][508]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-22.47.54:375][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-22.47.54:488][521]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemyFF55D63A46F69355E02391A02F7A53ED.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-22.47.54:500][521]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-22.47.54:500][521]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-22.48.10:932][989]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-22.48.10:932][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-22.49.17:547][264]LogEditorTransaction: Undo Add Node
+[2020.07.12-22.50.32:932][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-22.50.33:043][  0]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemyC9C9B34B411F3CBE56359C9BD81F01A6.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-22.50.33:060][  0]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-22.50.33:060][  0]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-22.51.10:224][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-22.51.10:338][862]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy43839DAE4E07171F5CC4DAB0AF50D479.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-22.51.10:351][862]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-22.51.10:351][862]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-22.51.43:221][626]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/Patroller.Patroller
+[2020.07.12-22.52.10:003][571]LogEditorTransaction: Undo Delete current selection
+[2020.07.12-22.52.11:795][731]LogEditorTransaction: Undo Move Node
+[2020.07.12-22.52.12:671][826]BlueprintLog: New page: Compile Patroller
+[2020.07.12-22.52.12:748][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.07.12-22.52.18:862][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Patroller" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Patroller.uasset" SILENT=true
+[2020.07.12-22.52.18:977][499]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/PatrollerFEBF2B5D4868DC22B0ED8C8EE2049CDC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Patroller.uasset'
+[2020.07.12-22.52.18:990][499]AssetCheck: New page: Asset Save: Patroller
+[2020.07.12-22.52.18:990][499]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Patroller.Patroller
+[2020.07.12-22.52.19:543][560]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-22.52.19:543][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-22.52.33:205][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-22.52.33:317][ 56]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy644274B94D46107209E6C8AC6E48CCB8.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-22.52.33:333][ 56]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-22.52.33:333][ 56]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-22.53.08:730][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-22.53.08:841][527]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy14DBB9E447EA2F889E185196606F289C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-22.53.08:857][527]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-22.53.08:857][527]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-22.54.08:070][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-22.54.08:181][496]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy870A5376450BB7574DC33CB88E9183CB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-22.54.08:197][496]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-22.54.08:197][496]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-22.59.47:190][290]LogEditorTransaction: Undo Add In Parameter
+[2020.07.12-23.00.00:243][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.00.00:361][727]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemyC11D41D14B2794EA1B5062ACF41A397F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.00.00:377][727]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.00.00:377][727]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-23.00.10:825][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.00.10:946][916]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy79BBF44E444CEB6C230BD2BB0292F25E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.00.10:962][916]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.00.10:963][916]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-23.00.22:115][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.00.22:235][140]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy07CDB55946F15F9CA6F83BAC2A4FC810.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.00.22:251][140]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.00.22:251][140]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-23.00.28:402][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.00.28:525][841]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemyA54DE16045C91CFF2B110EACEB1A8E62.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.00.28:542][841]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.00.28:542][841]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-23.01.33:854][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.01.33:971][414]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemyE1AAE9144349DA90F981ABA37937673D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.01.33:989][414]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.01.33:989][414]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-23.01.55:260][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.01.55:383][648]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy1C1F389C4A40D9609D5A058D80A36787.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.01.55:401][648]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.01.55:401][648]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-23.02.31:557][913]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.12-23.02.41:057][750]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.12-23.02.41:781][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.02.41:902][810]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemyDD93A9A140F4BF59FE7EC29275D1C5F9.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.02.41:919][810]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.02.41:919][810]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-23.03.13:080][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.07.12-23.03.13:086][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Levels/First/Level1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.07.12-23.03.13:372][550]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1_Auto2C9F141A74CFF3B8BECC4788278DA0FAE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Levels/First/Level1_Auto2.umap'
+[2020.07.12-23.03.13:375][550]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.338
+[2020.07.12-23.03.13:375][550]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.338
+[2020.07.12-23.03.13:375][550]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/AI/Patroller/Patroller_AI] ([1] browsable assets)...
+[2020.07.12-23.03.13:375][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/AI/Patroller/Patroller_AI]
+[2020.07.12-23.03.13:516][550]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_AI_Auto200BA3F824E59D3E57E3E22AF4C176499.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/AI/Patroller/Patroller_AI_Auto2.uasset'
+[2020.07.12-23.03.13:519][550]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/AI/Tasks/NextPathVec] ([1] browsable assets)...
+[2020.07.12-23.03.13:519][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/AI/Tasks/NextPathVec]
+[2020.07.12-23.03.13:606][550]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/NextPathVec_Auto2A828A3E04F6FC6C7077B55919D1CF6B3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/AI/Tasks/NextPathVec_Auto2.uasset'
+[2020.07.12-23.03.13:607][550]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/AI/Tasks/Pathing/SetPathIndex] ([1] browsable assets)...
+[2020.07.12-23.03.13:607][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/AI/Tasks/Pathing/SetPathIndex]
+[2020.07.12-23.03.13:712][550]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetPathIndex_Auto2F62FE05F444A7DD922E2A9B1660D7547.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/AI/Tasks/Pathing/SetPathIndex_Auto2.uasset'
+[2020.07.12-23.03.13:712][550]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Enemies/KnightV3/ScaryKnight] ([1] browsable assets)...
+[2020.07.12-23.03.13:713][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemies/KnightV3/ScaryKnight]
+[2020.07.12-23.03.13:883][550]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ScaryKnight_Auto2BFF91A604425B0FF3169258BB8B4C27D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/Enemies/KnightV3/ScaryKnight_Auto2.uasset'
+[2020.07.12-23.03.13:884][550]LogFileHelpers: Auto-saving content packages took 0.510
+[2020.07.12-23.10.40:973][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.10.41:099][203]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy59EC8D5B4A94EE87D18163B7C94599CC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.10.41:115][203]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.10.41:115][203]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-23.11.05:834][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.11.05:962][932]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy62B17B5A4B2CEB7C9C709A86D05A927D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.11.05:979][932]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.11.05:979][932]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-23.11.16:883][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.11.17:004][ 85]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy0812907A4F3A35CC1046C9BA9078B788.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.11.17:018][ 85]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.11.17:018][ 85]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-23.12.03:115][ 65]LogEditorTransaction: Undo Delete current selection
+[2020.07.12-23.12.39:621][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.12.39:746][986]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemyB27FC21344D0B93C2A1168A0D1E4A15C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.12.39:761][986]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.12.39:761][986]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-23.13.00:363][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.13.00:490][139]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy65BD3C1442819771294FE5903DB1B4BE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.13.00:505][139]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.13.00:505][139]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-23.13.21:152][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.13.21:276][375]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemyC08F206940864AD093815CBBA24821B7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.13.21:290][375]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.13.21:290][375]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-23.14.18:234][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.14.18:372][149]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy2E9D2E64409CFAB32C291A89CD88DA22.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.14.18:387][149]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.14.18:387][149]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-23.14.34:000][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.14.34:133][701]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemyAA9A4D8B4A048560D02896A1691B88A6.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.14.34:147][701]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.14.34:147][701]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-23.14.43:840][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.14.43:964][756]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy9A1395F74AACCB1E90583E8EAE8AC190.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.14.43:978][756]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.14.43:978][756]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-23.14.53:727][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.14.53:850][846]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy102730094D028304C4F523A94943D1C1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.14.53:866][846]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.14.53:866][846]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-23.14.56:104][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.14.56:228][100]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemyC23CE48F4736E1420F985BB6636907BB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.14.56:242][100]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.14.56:242][100]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-23.15.02:862][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.15.02:995][852]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemyBFFD611E450912032B8E419BD6A69F2E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.15.03:011][852]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.15.03:011][852]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-23.15.25:000][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.15.25:122][891]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemyE77DE18944C42EF91A93F1865E334B13.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.15.25:136][891]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.15.25:136][891]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-23.15.48:634][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.15.48:765][307]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy74B397294DB86DBC97EE138FA6F0C456.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.15.48:778][307]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.15.48:778][307]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-23.16.58:316][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.16.58:443][399]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemyD265E2E247067187D9B2279A1EEA01C8.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.16.58:457][399]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.16.58:457][399]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-23.17.03:767][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.17.03:899][954]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy8FB8DE78446E8771FA8DB686378C5997.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.17.03:918][954]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.17.03:918][954]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-23.17.09:662][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.17.09:797][499]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy5E1E7E7B4376CB632D74249DCBB10A30.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.17.09:812][499]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.17.09:812][499]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2020.07.12-23.17.20:898][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/BaseEnemy" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset" SILENT=true
+[2020.07.12-23.17.21:023][543]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy3A9671444CB650F8D7B092A31D11B796.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/BaseEnemy.uasset'
+[2020.07.12-23.17.21:040][543]AssetCheck: New page: Asset Save: BaseEnemy
+[2020.07.12-23.17.21:040][543]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
