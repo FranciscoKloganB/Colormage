@@ -3049,3 +3049,534 @@ Make sure 'ResetNextPatrolPoint_C' has been compiled for  Get IsReturning
 [2020.07.12-10.22.37:704][876]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1F8133EFC43D7BEF3AD64B481D30A3D41.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
 [2020.07.12-10.22.37:752][876]AssetCheck: New page: Asset Save: Level1
 [2020.07.12-10.22.37:752][876]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.12-10.31.09:589][820]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/AI/Tasks/SetNextPatrolPoint.SetNextPatrolPoint
+[2020.07.12-10.31.12:647][135]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-10.31.12:647][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-10.31.17:234][664]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-10.31.17:234][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-10.31.23:249][266]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/AI/Tasks/SetPreviousPatrolPoint.SetPreviousPatrolPoint
+[2020.07.12-10.31.30:577][ 97]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-10.31.30:577][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-10.31.35:473][635]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/AI/Tasks/SetNextPatrolPoint.SetNextPatrolPoint
+[2020.07.12-10.31.41:544][306]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-10.31.41:544][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-10.31.47:651][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.07.12-10.31.53:490][985]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.12-10.32.04:125][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/Patroller_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset" SILENT=true
+[2020.07.12-10.32.04:195][209]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BTBDACFAAD4358CF2FE2D8C8888E35A3E2.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset'
+[2020.07.12-10.32.04:209][209]AssetCheck: New page: Asset Save: Patroller_BT
+[2020.07.12-10.32.04:209][209]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
+[2020.07.12-10.32.08:910][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.07.12-10.32.13:451][646]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.12-10.32.18:095][646]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-10.32.18:095][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-10.32.18:166][646]LogSlate: Window 'PatrollingNPC' being destroyed
+[2020.07.12-10.32.18:191][646]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.12-10.32.18:192][646]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-10.32.18:192][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-10.32.18:257][646]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/AI/Tasks/SetPreviousPatrolPoint.SetPreviousPatrolPoint
+[2020.07.12-10.32.20:238][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.07.12-10.32.20:263][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.07.12-10.32.20:282][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.07.12-10.32.29:670][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.07.12-10.32.29:686][744]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Characters/AI/Tasks/SetNextPatrolPoint1.
+[2020.07.12-10.32.36:040][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.07.12-10.32.36:045][498]LogMetaData: Removing '/Game/Characters/AI/Tasks/SetPreviousPatrolPoint.SKEL_SetPreviousPatrolPoint_C' ref from Metadata '/Game/Characters/AI/Tasks/SetNextPatrolPoint1.PackageMetaData'
+[2020.07.12-10.32.36:045][498]LogMetaData: Removing '/Game/Characters/AI/Tasks/SetPreviousPatrolPoint.SetPreviousPatrolPoint_C' ref from Metadata '/Game/Characters/AI/Tasks/SetNextPatrolPoint1.PackageMetaData'
+[2020.07.12-10.32.36:076][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/SetPreviousPatrolPoint" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetPreviousPatrolPoint.uasset" SILENT=true
+[2020.07.12-10.32.36:084][498]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetPreviousPatrolPointFA6C215F4D26EC12425C10BC654EDA43.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetPreviousPatrolPoint.uasset'
+[2020.07.12-10.32.36:254][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.07.12-10.32.36:283][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.07.12-10.32.36:303][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.12-10.32.36:365][498]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/AI/Tasks/SetPreviousPatrolPoint.
+[2020.07.12-10.32.36:372][498]AssetCheck: New page: Asset Save: SetPreviousPatrolPoint
+[2020.07.12-10.32.36:372][498]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/SetPreviousPatrolPoint.SetPreviousPatrolPoint
+[2020.07.12-10.32.55:188][ 64]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/AI/Tasks/SetPreviousPatrolPoint.SetPreviousPatrolPoint
+[2020.07.12-10.33.34:976][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/SetPreviousPatrolPoint" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetPreviousPatrolPoint.uasset" SILENT=true
+[2020.07.12-10.33.35:042][230]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetPreviousPatrolPoint18AF867449B21C610B1467B28F0089A4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetPreviousPatrolPoint.uasset'
+[2020.07.12-10.33.35:056][230]AssetCheck: New page: Asset Save: SetPreviousPatrolPoint
+[2020.07.12-10.33.35:056][230]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/SetPreviousPatrolPoint.SetPreviousPatrolPoint
+[2020.07.12-10.33.48:555][821]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.12-10.33.48:555][821]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.12-10.34.00:021][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/SetPreviousPatrolPoint" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetPreviousPatrolPoint.uasset" SILENT=true
+[2020.07.12-10.34.00:088][171]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetPreviousPatrolPointD8B05BCB4AA3CF93EDEBE5B554908886.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetPreviousPatrolPoint.uasset'
+[2020.07.12-10.34.00:105][171]AssetCheck: New page: Asset Save: SetPreviousPatrolPoint
+[2020.07.12-10.34.00:106][171]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/SetPreviousPatrolPoint.SetPreviousPatrolPoint
+[2020.07.12-10.34.32:669][ 28]BlueprintLog: New page: Compile SetPreviousPatrolPoint
+[2020.07.12-10.34.32:696][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.07.12-10.35.04:489][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.07.12-10.35.04:490][ 38]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.025
+[2020.07.12-10.35.04:490][ 38]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/AI/Patroller/Patroller_BT] ([1] browsable assets)...
+[2020.07.12-10.35.04:490][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/AI/Patroller/Patroller_BT]
+[2020.07.12-10.35.04:552][ 38]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BT_Auto5156CC61B4C07A65960A1CDAE98481F35.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/AI/Patroller/Patroller_BT_Auto5.uasset'
+[2020.07.12-10.35.04:553][ 38]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/AI/Tasks/SetPreviousPatrolPoint] ([1] browsable assets)...
+[2020.07.12-10.35.04:553][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/AI/Tasks/SetPreviousPatrolPoint]
+[2020.07.12-10.35.04:620][ 38]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetPreviousPatrolPoint_Auto5421332F047F26CE3C3700FA9100BFF8C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/AI/Tasks/SetPreviousPatrolPoint_Auto5.uasset'
+[2020.07.12-10.35.04:621][ 38]LogFileHelpers: Auto-saving content packages took 0.131
+[2020.07.12-10.35.12:952][ 64]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.12-10.35.12:953][ 64]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.12-10.35.13:151][ 64]BlueprintLog: New page: Compile SetPreviousPatrolPoint
+[2020.07.12-10.35.13:179][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.07.12-10.35.18:267][662]BlueprintLog: New page: Compile SetPreviousPatrolPoint
+[2020.07.12-10.35.18:293][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.07.12-10.35.19:754][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/SetPreviousPatrolPoint" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetPreviousPatrolPoint.uasset" SILENT=true
+[2020.07.12-10.35.19:819][831]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetPreviousPatrolPointDDBF35794D231C3432602BAFCDB104E7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetPreviousPatrolPoint.uasset'
+[2020.07.12-10.35.19:833][831]AssetCheck: New page: Asset Save: SetPreviousPatrolPoint
+[2020.07.12-10.35.19:834][831]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/SetPreviousPatrolPoint.SetPreviousPatrolPoint
+[2020.07.12-10.36.25:721][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/SetPreviousPatrolPoint" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetPreviousPatrolPoint.uasset" SILENT=true
+[2020.07.12-10.36.25:790][669]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetPreviousPatrolPoint211DAC6B4F9BAFCEBA3D73A07D02296C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetPreviousPatrolPoint.uasset'
+[2020.07.12-10.36.25:808][669]AssetCheck: New page: Asset Save: SetPreviousPatrolPoint
+[2020.07.12-10.36.25:808][669]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/SetPreviousPatrolPoint.SetPreviousPatrolPoint
+[2020.07.12-10.36.26:531][754]BlueprintLog: New page: Compile SetPreviousPatrolPoint
+[2020.07.12-10.36.26:558][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.07.12-10.36.43:034][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/SetPreviousPatrolPoint" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetPreviousPatrolPoint.uasset" SILENT=true
+[2020.07.12-10.36.43:103][842]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetPreviousPatrolPoint3EFB2E804B24EC77F74A6D953CD98A49.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetPreviousPatrolPoint.uasset'
+[2020.07.12-10.36.43:117][842]AssetCheck: New page: Asset Save: SetPreviousPatrolPoint
+[2020.07.12-10.36.43:117][842]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/SetPreviousPatrolPoint.SetPreviousPatrolPoint
+[2020.07.12-10.40.06:261][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/Patroller_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset" SILENT=true
+[2020.07.12-10.40.06:329][684]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BT0EE78C6944146BCF9CDEDDADD9DE74A1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset'
+[2020.07.12-10.40.06:347][684]AssetCheck: New page: Asset Save: Patroller_BT
+[2020.07.12-10.40.06:347][684]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
+[2020.07.12-10.40.07:963][874]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Characters/AI/Patroller/Patroller_BB.Patroller_BB
+[2020.07.12-10.40.08:063][874]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
+[2020.07.12-10.45.05:003][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.07.12-10.45.05:008][216]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.037
+[2020.07.12-10.45.05:008][216]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/AI/Patroller/Patroller_BT] ([1] browsable assets)...
+[2020.07.12-10.45.05:008][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/AI/Patroller/Patroller_BT]
+[2020.07.12-10.45.05:084][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BT_Auto6D0BD59404D81ABC31FD6B1B3FFA55C97.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/AI/Patroller/Patroller_BT_Auto6.uasset'
+[2020.07.12-10.45.05:084][216]LogFileHelpers: Auto-saving content packages took 0.076
+[2020.07.12-10.45.11:968][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/Patroller_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset" SILENT=true
+[2020.07.12-10.45.12:033][430]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BTFDD6FF57487855DFFD76D494E356A6CF.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset'
+[2020.07.12-10.45.12:050][430]AssetCheck: New page: Asset Save: Patroller_BT
+[2020.07.12-10.45.12:050][430]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
+[2020.07.12-10.51.41:673][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/Patroller_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset" SILENT=true
+[2020.07.12-10.51.41:739][254]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BTCCB217864EAB7DBB389C38ABC0B41A37.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset'
+[2020.07.12-10.51.41:755][254]AssetCheck: New page: Asset Save: Patroller_BT
+[2020.07.12-10.51.41:755][254]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
+[2020.07.12-10.52.00:035][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/SetPreviousPatrolPoint" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetPreviousPatrolPoint.uasset" SILENT=true
+[2020.07.12-10.52.00:104][400]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetPreviousPatrolPoint28BC4298422C1E56E276C781366AD7F2.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetPreviousPatrolPoint.uasset'
+[2020.07.12-10.52.00:119][400]AssetCheck: New page: Asset Save: SetPreviousPatrolPoint
+[2020.07.12-10.52.00:119][400]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/SetPreviousPatrolPoint.SetPreviousPatrolPoint
+[2020.07.12-10.52.01:234][531]Cmd: TRANSACTION UNDO
+[2020.07.12-10.52.01:234][531]LogEditorTransaction: Undo Move Node
+[2020.07.12-10.52.01:899][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/Patroller_BB" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BB.uasset" SILENT=true
+[2020.07.12-10.52.01:959][569]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BBDB7086B4435422AF4666BDBA19A60D42.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BB.uasset'
+[2020.07.12-10.52.01:959][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/Patroller_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset" SILENT=true
+[2020.07.12-10.52.02:021][569]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BT1CAA0D164F3346B3FC469AAC272CD02A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset'
+[2020.07.12-10.52.02:040][569]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.12-10.52.02:040][569]LogContentValidation: Display: Validating BlackboardData /Game/Characters/AI/Patroller/Patroller_BB.Patroller_BB
+[2020.07.12-10.52.02:040][569]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
+[2020.07.12-10.52.02:566][629]BlueprintLog: New page: Compile SetPreviousPatrolPoint
+[2020.07.12-10.52.02:604][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.07.12-10.52.03:170][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/SetPreviousPatrolPoint" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetPreviousPatrolPoint.uasset" SILENT=true
+[2020.07.12-10.52.03:236][692]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetPreviousPatrolPoint6573349F438097A776953BACBE1CD709.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetPreviousPatrolPoint.uasset'
+[2020.07.12-10.52.03:255][692]AssetCheck: New page: Asset Save: SetPreviousPatrolPoint
+[2020.07.12-10.52.03:255][692]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/SetPreviousPatrolPoint.SetPreviousPatrolPoint
+[2020.07.12-10.52.31:080][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.07.12-10.52.31:087][817]LogMetaData: Removing '/Game/Characters/AI/Tasks/IncrementNextIndex.IncrementNextIndex_C' ref from Metadata '/Game/Characters/AI/Tasks/SetNextPatrolPoint.PackageMetaData'
+[2020.07.12-10.52.31:087][817]LogMetaData: Removing '/Game/Characters/AI/Tasks/IncrementNextIndex.SKEL_IncrementNextIndex_C' ref from Metadata '/Game/Characters/AI/Tasks/SetNextPatrolPoint.PackageMetaData'
+[2020.07.12-10.52.31:118][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/IncrementNextIndex" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/IncrementNextIndex.uasset" SILENT=true
+[2020.07.12-10.52.31:127][817]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/IncrementNextIndex786A5F7D4E2DE53CCFD37485B3ED2F6D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/IncrementNextIndex.uasset'
+[2020.07.12-10.52.31:306][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.07.12-10.52.31:339][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.07.12-10.52.31:362][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.12-10.52.31:383][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/Patroller_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset" SILENT=true
+[2020.07.12-10.52.31:446][817]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BTB379DEDB4B2700E68E59499E137EDF25.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset'
+[2020.07.12-10.52.31:520][817]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/AI/Tasks/IncrementNextIndex.
+[2020.07.12-10.52.31:531][817]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.12-10.52.31:531][817]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/IncrementNextIndex.IncrementNextIndex
+[2020.07.12-10.52.31:531][817]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
+[2020.07.12-10.52.32:391][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/IncrementNextIndex" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/IncrementNextIndex.uasset" SILENT=true
+[2020.07.12-10.52.32:457][917]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/IncrementNextIndex7F69672D4BCC0F208C60C9AD5B3C04BF.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/IncrementNextIndex.uasset'
+[2020.07.12-10.52.32:473][917]AssetCheck: New page: Asset Save: IncrementNextIndex
+[2020.07.12-10.52.32:473][917]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/IncrementNextIndex.IncrementNextIndex
+[2020.07.12-10.52.44:365][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.07.12-10.52.44:376][337]LogMetaData: Removing '/Game/Characters/AI/Tasks/DecrementNextIndex.DecrementNextIndex_C' ref from Metadata '/Game/Characters/AI/Tasks/SetPreviousPatrolPoint.PackageMetaData'
+[2020.07.12-10.52.44:376][337]LogMetaData: Removing '/Game/Characters/AI/Tasks/DecrementNextIndex.SKEL_DecrementNextIndex_C' ref from Metadata '/Game/Characters/AI/Tasks/SetPreviousPatrolPoint.PackageMetaData'
+[2020.07.12-10.52.44:404][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/DecrementNextIndex" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/DecrementNextIndex.uasset" SILENT=true
+[2020.07.12-10.52.44:412][337]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/DecrementNextIndexB62E695441A8F44AD409BD95FFA017AC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/DecrementNextIndex.uasset'
+[2020.07.12-10.52.44:690][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.07.12-10.52.44:723][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.07.12-10.52.44:745][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.07.12-10.52.44:764][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/Patroller_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset" SILENT=true
+[2020.07.12-10.52.44:825][337]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BT07023C03418FBD1C5B21428BA691E0CB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset'
+[2020.07.12-10.52.44:894][337]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/AI/Tasks/DecrementNextIndex.
+[2020.07.12-10.52.44:905][337]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.12-10.52.44:905][337]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/DecrementNextIndex.DecrementNextIndex
+[2020.07.12-10.52.44:905][337]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
+[2020.07.12-10.52.45:461][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/DecrementNextIndex" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/DecrementNextIndex.uasset" SILENT=true
+[2020.07.12-10.52.45:524][400]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/DecrementNextIndex4753B71D41B167ADF298CF905D47194B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/DecrementNextIndex.uasset'
+[2020.07.12-10.52.45:539][400]AssetCheck: New page: Asset Save: DecrementNextIndex
+[2020.07.12-10.52.45:539][400]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/DecrementNextIndex.DecrementNextIndex
+[2020.07.12-10.52.55:849][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.07.12-10.52.55:859][512]LogMetaData: Removing '/Game/Characters/AI/Tasks/DecrementNextLocationIndex.DecrementNextLocationIndex_C' ref from Metadata '/Game/Characters/AI/Tasks/DecrementNextIndex.PackageMetaData'
+[2020.07.12-10.52.55:860][512]LogMetaData: Removing '/Game/Characters/AI/Tasks/DecrementNextLocationIndex.SKEL_DecrementNextLocationIndex_C' ref from Metadata '/Game/Characters/AI/Tasks/DecrementNextIndex.PackageMetaData'
+[2020.07.12-10.52.55:896][512]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/DecrementNextLocationIndex6FA59D794C2ADC9F361FD49D4D18D559.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/DecrementNextLocationIndex.uasset'
+[2020.07.12-10.52.56:078][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.07.12-10.52.56:111][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.07.12-10.52.56:132][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.12-10.52.56:154][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/Patroller_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset" SILENT=true
+[2020.07.12-10.52.56:217][512]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BTABCBEC264C53B2FC317B0B95798BBF90.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset'
+[2020.07.12-10.52.56:286][512]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/AI/Tasks/DecrementNextLocationIndex.
+[2020.07.12-10.52.56:298][512]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.12-10.52.56:298][512]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/DecrementNextLocationIndex.DecrementNextLocationIndex
+[2020.07.12-10.52.56:298][512]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
+[2020.07.12-10.52.56:851][566]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/DecrementNextLocationIndexD421941D4BE59020AA7B7BB57D9DA39C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/DecrementNextLocationIndex.uasset'
+[2020.07.12-10.52.56:868][566]AssetCheck: New page: Asset Save: DecrementNextLocationIndex
+[2020.07.12-10.52.56:868][566]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/DecrementNextLocationIndex.DecrementNextLocationIndex
+[2020.07.12-10.53.00:844][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.07.12-10.53.00:849][ 36]LogMetaData: Removing '/Game/Characters/AI/Tasks/IncrementNextLocationIndex.IncrementNextLocationIndex_C' ref from Metadata '/Game/Characters/AI/Tasks/IncrementNextIndex.PackageMetaData'
+[2020.07.12-10.53.00:849][ 36]LogMetaData: Removing '/Game/Characters/AI/Tasks/IncrementNextLocationIndex.SKEL_IncrementNextLocationIndex_C' ref from Metadata '/Game/Characters/AI/Tasks/IncrementNextIndex.PackageMetaData'
+[2020.07.12-10.53.00:892][ 36]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/IncrementNextLocationIndexC0277DE4434A75874F26A891FC8B76D8.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/IncrementNextLocationIndex.uasset'
+[2020.07.12-10.53.01:064][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.07.12-10.53.01:096][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.07.12-10.53.01:118][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.07.12-10.53.01:141][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/Patroller_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset" SILENT=true
+[2020.07.12-10.53.01:203][ 36]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BTC2BD5B334011E6C9BA30688850E91367.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset'
+[2020.07.12-10.53.01:276][ 36]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/AI/Tasks/IncrementNextLocationIndex.
+[2020.07.12-10.53.01:286][ 36]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.12-10.53.01:286][ 36]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/IncrementNextLocationIndex.IncrementNextLocationIndex
+[2020.07.12-10.53.01:287][ 36]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
+[2020.07.12-10.53.01:866][ 94]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/IncrementNextLocationIndex738CF1494CD30CE447AEC1B31FD64657.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/IncrementNextLocationIndex.uasset'
+[2020.07.12-10.53.01:881][ 94]AssetCheck: New page: Asset Save: IncrementNextLocationIndex
+[2020.07.12-10.53.01:881][ 94]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/IncrementNextLocationIndex.IncrementNextLocationIndex
+[2020.07.12-10.53.05:767][557]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/AI/Tasks/IncrementNextLocationIndex.IncrementNextLocationIndex
+[2020.07.12-10.53.20:606][267]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/IncrementNextLocationIndex89D58AFD4651C7144AB6698495B1EE2A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/IncrementNextLocationIndex.uasset'
+[2020.07.12-10.53.20:621][267]AssetCheck: New page: Asset Save: IncrementNextLocationIndex
+[2020.07.12-10.53.20:621][267]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/IncrementNextLocationIndex.IncrementNextLocationIndex
+[2020.07.12-10.53.29:875][331]BlueprintLog: New page: Compile IncrementNextLocationIndex
+[2020.07.12-10.53.29:918][331]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.07.12-10.53.30:493][382]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/IncrementNextLocationIndex8EABC6824B984CE4490390A4C3222B84.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/IncrementNextLocationIndex.uasset'
+[2020.07.12-10.53.30:510][382]AssetCheck: New page: Asset Save: IncrementNextLocationIndex
+[2020.07.12-10.53.30:510][382]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/IncrementNextLocationIndex.IncrementNextLocationIndex
+[2020.07.12-10.55.14:409][490]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.12-10.55.14:409][490]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.12-10.55.49:711][661]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/IncrementNextLocationIndex5AFD91A648FEF934B53143B9AAC9886E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/IncrementNextLocationIndex.uasset'
+[2020.07.12-10.55.49:727][661]AssetCheck: New page: Asset Save: IncrementNextLocationIndex
+[2020.07.12-10.55.49:727][661]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/IncrementNextLocationIndex.IncrementNextLocationIndex
+[2020.07.12-10.56.25:190][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.07.12-10.56.25:192][131]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.027
+[2020.07.12-10.56.25:192][131]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/AI/Tasks/IncrementNextLocationIndex] ([1] browsable assets)...
+[2020.07.12-10.56.25:192][131]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/AI/Tasks/IncrementNextLocationIndex]
+[2020.07.12-10.56.25:257][131]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/IncrementNextLocationIndex_Auto756CD5AFE43A2A0B4F8BE88B030DFC678.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/AI/Tasks/IncrementNextLocationIndex_Auto7.uasset'
+[2020.07.12-10.56.25:258][131]LogFileHelpers: Auto-saving content packages took 0.066
+[2020.07.12-10.58.17:332][275]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/IncrementNextLocationIndex5B714F354B8B685D7E2DC0883A020B9B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/IncrementNextLocationIndex.uasset'
+[2020.07.12-10.58.17:347][275]AssetCheck: New page: Asset Save: IncrementNextLocationIndex
+[2020.07.12-10.58.17:347][275]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/IncrementNextLocationIndex.IncrementNextLocationIndex
+[2020.07.12-11.02.08:198][897]BlueprintLog: New page: Compile IncrementNextLocationIndex
+[2020.07.12-11.02.08:244][897]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.07.12-11.07.05:350][351]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.12-11.07.35:005][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/Patroller_BB" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BB.uasset" SILENT=true
+[2020.07.12-11.07.35:070][891]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BB13946D0E41A412A97FD06BA4487F2DE0.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BB.uasset'
+[2020.07.12-11.07.35:072][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/Patroller_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset" SILENT=true
+[2020.07.12-11.07.35:139][891]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BT9380EC2E4D7A2389681C829E3DD97A21.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset'
+[2020.07.12-11.07.35:161][891]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.12-11.07.35:161][891]LogContentValidation: Display: Validating BlackboardData /Game/Characters/AI/Patroller/Patroller_BB.Patroller_BB
+[2020.07.12-11.07.35:161][891]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
+[2020.07.12-11.07.45:648][126]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to STreeView< TSharedPtr<FGraphActionNode> > [SGraphActionMenu.cpp(375)].
+[2020.07.12-11.07.45:725][126]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/IncrementNextLocationIndexBB7C69844320DE5A39799FAD154038BE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/IncrementNextLocationIndex.uasset'
+[2020.07.12-11.07.45:736][126]AssetCheck: New page: Asset Save: IncrementNextLocationIndex
+[2020.07.12-11.07.45:737][126]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/IncrementNextLocationIndex.IncrementNextLocationIndex
+[2020.07.12-11.10.56:184][  6]LogEditorTransaction: Undo Move Node
+[2020.07.12-11.10.56:512][ 19]LogEditorTransaction: Undo Resize Node
+[2020.07.12-11.10.59:264][320]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/IncrementNextLocationIndexF632C66441537FDADAA4CEA696FD60AA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/IncrementNextLocationIndex.uasset'
+[2020.07.12-11.10.59:282][320]AssetCheck: New page: Asset Save: IncrementNextLocationIndex
+[2020.07.12-11.10.59:282][320]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/IncrementNextLocationIndex.IncrementNextLocationIndex
+[2020.07.12-11.11.30:466][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.07.12-11.11.30:469][252]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.031
+[2020.07.12-11.11.30:469][252]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/AI/Tasks/IncrementNextLocationIndex] ([1] browsable assets)...
+[2020.07.12-11.11.30:469][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/AI/Tasks/IncrementNextLocationIndex]
+[2020.07.12-11.11.30:534][252]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/IncrementNextLocationIndex_Auto820772E3345C92350AE2AFEA8E3C76FE7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/AI/Tasks/IncrementNextLocationIndex_Auto8.uasset'
+[2020.07.12-11.11.30:535][252]LogFileHelpers: Auto-saving content packages took 0.066
+[2020.07.12-11.17.14:016][518]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/IncrementNextLocationIndex2A90EE5D4957BC96886603A06F3EB53D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/IncrementNextLocationIndex.uasset'
+[2020.07.12-11.17.14:036][518]AssetCheck: New page: Asset Save: IncrementNextLocationIndex
+[2020.07.12-11.17.14:036][518]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/IncrementNextLocationIndex.IncrementNextLocationIndex
+[2020.07.12-11.18.03:939][438]LogEditorTransaction: Undo Move Node
+[2020.07.12-11.18.10:838][205]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/IncrementNextLocationIndex6468D61647CB4DA3A7807BA7B77CC262.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/IncrementNextLocationIndex.uasset'
+[2020.07.12-11.18.10:855][205]AssetCheck: New page: Asset Save: IncrementNextLocationIndex
+[2020.07.12-11.18.10:855][205]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/IncrementNextLocationIndex.IncrementNextLocationIndex
+[2020.07.12-11.18.24:813][856]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/IncrementNextLocationIndex220457B94F3E354E3A9B32A6C8C333A2.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/IncrementNextLocationIndex.uasset'
+[2020.07.12-11.18.24:832][856]AssetCheck: New page: Asset Save: IncrementNextLocationIndex
+[2020.07.12-11.18.24:832][856]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/IncrementNextLocationIndex.IncrementNextLocationIndex
+[2020.07.12-11.18.49:496][782]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/IncrementNextLocationIndexDA2A43044969D4FE2C1B6EACB52A48AB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/IncrementNextLocationIndex.uasset'
+[2020.07.12-11.18.49:511][782]AssetCheck: New page: Asset Save: IncrementNextLocationIndex
+[2020.07.12-11.18.49:511][782]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/IncrementNextLocationIndex.IncrementNextLocationIndex
+[2020.07.12-11.18.52:757][159]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/IncrementNextLocationIndex8B661345409DAEF47F528F97F94D5CBF.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/IncrementNextLocationIndex.uasset'
+[2020.07.12-11.18.52:771][159]AssetCheck: New page: Asset Save: IncrementNextLocationIndex
+[2020.07.12-11.18.52:771][159]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/IncrementNextLocationIndex.IncrementNextLocationIndex
+[2020.07.12-11.19.10:282][210]BlueprintLog: New page: Compile IncrementNextLocationIndex
+[2020.07.12-11.19.10:326][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.07.12-11.19.11:048][279]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/IncrementNextLocationIndex79617B7A475BC6E9C0C817A06F54F671.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/IncrementNextLocationIndex.uasset'
+[2020.07.12-11.19.11:059][279]AssetCheck: New page: Asset Save: IncrementNextLocationIndex
+[2020.07.12-11.19.11:059][279]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/IncrementNextLocationIndex.IncrementNextLocationIndex
+[2020.07.12-11.19.47:037][338]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/IncrementNextLocationIndexDED4CAF84375120841AD8A980CAADE60.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/IncrementNextLocationIndex.uasset'
+[2020.07.12-11.19.47:052][338]AssetCheck: New page: Asset Save: IncrementNextLocationIndex
+[2020.07.12-11.19.47:052][338]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/IncrementNextLocationIndex.IncrementNextLocationIndex
+[2020.07.12-11.23.55:769][419]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-11.23.55:769][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-11.23.57:517][617]LogSlate: Window 'DecrementNextLocationIndex' being destroyed
+[2020.07.12-11.23.57:539][617]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-11.23.57:539][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-11.23.59:623][854]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/AI/Tasks/ResetNextPatrolPoint.ResetNextPatrolPoint
+[2020.07.12-11.24.30:372][446]BlueprintLog: New page: Compile ResetNextPatrolPoint
+[2020.07.12-11.24.30:413][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.07.12-11.24.37:823][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/ResetNextPatrolPoint" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ResetNextPatrolPoint.uasset" SILENT=true
+[2020.07.12-11.24.37:890][310]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ResetNextPatrolPoint856E68F94BB417CEBCBCB58A8E5970CF.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ResetNextPatrolPoint.uasset'
+[2020.07.12-11.24.37:904][310]AssetCheck: New page: Asset Save: ResetNextPatrolPoint
+[2020.07.12-11.24.37:904][310]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/ResetNextPatrolPoint.ResetNextPatrolPoint
+[2020.07.12-11.25.17:252][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.07.12-11.25.17:258][821]LogMetaData: Removing '/Game/Characters/AI/Tasks/ReversePath.ReversePath_C' ref from Metadata '/Game/Characters/AI/Tasks/LoopPath.PackageMetaData'
+[2020.07.12-11.25.17:258][821]LogMetaData: Removing '/Game/Characters/AI/Tasks/ReversePath.SKEL_ReversePath_C' ref from Metadata '/Game/Characters/AI/Tasks/LoopPath.PackageMetaData'
+[2020.07.12-11.25.17:281][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/ReversePath" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ReversePath.uasset" SILENT=true
+[2020.07.12-11.25.17:288][821]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ReversePathED60520A4596CC92916514872B004A62.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ReversePath.uasset'
+[2020.07.12-11.25.17:464][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.07.12-11.25.17:497][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.07.12-11.25.17:520][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.07.12-11.25.17:541][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/Patroller_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset" SILENT=true
+[2020.07.12-11.25.17:607][821]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BT70C2945C4CDB8489B8839F95D6D311B2.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset'
+[2020.07.12-11.25.17:679][821]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/AI/Tasks/ReversePath.
+[2020.07.12-11.25.17:690][821]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.12-11.25.17:691][821]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/ReversePath.ReversePath
+[2020.07.12-11.25.17:691][821]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
+[2020.07.12-11.25.18:782][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/ReversePath" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ReversePath.uasset" SILENT=true
+[2020.07.12-11.25.18:848][949]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ReversePathF05BC81B47A3D212C2171B8C2EE44CDF.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ReversePath.uasset'
+[2020.07.12-11.25.18:860][949]AssetCheck: New page: Asset Save: ReversePath
+[2020.07.12-11.25.18:860][949]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/ReversePath.ReversePath
+[2020.07.12-11.25.20:208][109]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/AI/Tasks/ReversePath.ReversePath
+[2020.07.12-11.25.33:098][575]BlueprintLog: New page: Compile ReversePath
+[2020.07.12-11.25.33:140][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.07.12-11.25.34:363][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/ReversePath" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ReversePath.uasset" SILENT=true
+[2020.07.12-11.25.34:429][714]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ReversePathD87910A2451ADDB5D290ED9F98DB38D9.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ReversePath.uasset'
+[2020.07.12-11.25.34:444][714]AssetCheck: New page: Asset Save: ReversePath
+[2020.07.12-11.25.34:444][714]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/ReversePath.ReversePath
+[2020.07.12-11.27.20:753][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/ReversePath" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ReversePath.uasset" SILENT=true
+[2020.07.12-11.27.20:821][398]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ReversePath884982D04FF3EB4AE9CD1DA1C8DF10A1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ReversePath.uasset'
+[2020.07.12-11.27.20:839][398]AssetCheck: New page: Asset Save: ReversePath
+[2020.07.12-11.27.20:839][398]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/ReversePath.ReversePath
+[2020.07.12-11.28.07:871][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/ReversePath" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ReversePath.uasset" SILENT=true
+[2020.07.12-11.28.07:939][957]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ReversePath095F005E41C31D4DA44A208925B44D98.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ReversePath.uasset'
+[2020.07.12-11.28.07:952][957]AssetCheck: New page: Asset Save: ReversePath
+[2020.07.12-11.28.07:953][957]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/ReversePath.ReversePath
+[2020.07.12-11.28.18:068][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/ReversePath" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ReversePath.uasset" SILENT=true
+[2020.07.12-11.28.18:137][156]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ReversePath92B9F1D64F34E09452ECE78845CE3338.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ReversePath.uasset'
+[2020.07.12-11.28.18:151][156]AssetCheck: New page: Asset Save: ReversePath
+[2020.07.12-11.28.18:151][156]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/ReversePath.ReversePath
+[2020.07.12-11.28.25:979][ 85]BlueprintLog: New page: Compile ReversePath
+[2020.07.12-11.28.26:021][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.07.12-11.29.07:226][928]LogEditorTransaction: Undo Paste clipboard contents
+[2020.07.12-11.29.19:524][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/ResetNextPatrolPoint" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ResetNextPatrolPoint.uasset" SILENT=true
+[2020.07.12-11.29.19:591][336]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ResetNextPatrolPointD13A10CA4914EBEA45CD41BB65D648BC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ResetNextPatrolPoint.uasset'
+[2020.07.12-11.29.19:606][336]AssetCheck: New page: Asset Save: ResetNextPatrolPoint
+[2020.07.12-11.29.19:606][336]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/ResetNextPatrolPoint.ResetNextPatrolPoint
+[2020.07.12-11.29.24:967][974]BlueprintLog: New page: Compile ResetNextPatrolPoint
+[2020.07.12-11.29.25:008][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.07.12-11.29.25:658][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/ResetNextPatrolPoint" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ResetNextPatrolPoint.uasset" SILENT=true
+[2020.07.12-11.29.25:725][ 44]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ResetNextPatrolPoint8932079F4E7E7D4B2967ED8AFD56A74B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ResetNextPatrolPoint.uasset'
+[2020.07.12-11.29.25:738][ 44]AssetCheck: New page: Asset Save: ResetNextPatrolPoint
+[2020.07.12-11.29.25:738][ 44]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/ResetNextPatrolPoint.ResetNextPatrolPoint
+[2020.07.12-11.29.53:701][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/ResetNextPatrolPoint" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ResetNextPatrolPoint.uasset" SILENT=true
+[2020.07.12-11.29.53:769][379]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ResetNextPatrolPointDC9A87744F4B07CAD0150383F9E26698.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ResetNextPatrolPoint.uasset'
+[2020.07.12-11.29.53:786][379]AssetCheck: New page: Asset Save: ResetNextPatrolPoint
+[2020.07.12-11.29.53:786][379]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/ResetNextPatrolPoint.ResetNextPatrolPoint
+[2020.07.12-11.31.26:208][405]BlueprintLog: New page: Compile ResetNextPatrolPoint
+[2020.07.12-11.31.26:250][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.07.12-11.31.35:881][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/ResetNextPatrolPoint" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ResetNextPatrolPoint.uasset" SILENT=true
+[2020.07.12-11.31.35:948][539]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ResetNextPatrolPoint75E800294727B47202220C9D87496B18.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ResetNextPatrolPoint.uasset'
+[2020.07.12-11.31.35:961][539]AssetCheck: New page: Asset Save: ResetNextPatrolPoint
+[2020.07.12-11.31.35:961][539]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/ResetNextPatrolPoint.ResetNextPatrolPoint
+[2020.07.12-11.34.24:182][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/ReversePath" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ReversePath.uasset" SILENT=true
+[2020.07.12-11.34.24:247][466]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ReversePath2AC5BDDB4D9DE1CE06C37395FC828EFB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ReversePath.uasset'
+[2020.07.12-11.34.24:264][466]AssetCheck: New page: Asset Save: ReversePath
+[2020.07.12-11.34.24:265][466]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/ReversePath.ReversePath
+[2020.07.12-11.34.28:528][972]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/AI/Tasks/IncrementNextLocationIndex.IncrementNextLocationIndex
+[2020.07.12-11.34.40:358][314]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/IncrementNextLocationIndex92DCC172454F5023B6CD3D89DDA301A8.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/IncrementNextLocationIndex.uasset'
+[2020.07.12-11.34.40:373][314]AssetCheck: New page: Asset Save: IncrementNextLocationIndex
+[2020.07.12-11.34.40:373][314]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/IncrementNextLocationIndex.IncrementNextLocationIndex
+[2020.07.12-11.34.51:366][569]LogEditorTransaction: Undo Add Node
+[2020.07.12-11.37.39:286][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.07.12-11.37.39:288][121]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.036
+[2020.07.12-11.37.39:289][121]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/AI/Tasks/ReversePath] ([1] browsable assets)...
+[2020.07.12-11.37.39:289][121]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/AI/Tasks/ReversePath]
+[2020.07.12-11.37.39:357][121]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ReversePath_Auto9A77AB72E43C495DFB2AED1ADAC1C9456.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/AI/Tasks/ReversePath_Auto9.uasset'
+[2020.07.12-11.37.39:358][121]LogFileHelpers: Auto-saving content packages took 0.069
+[2020.07.12-11.40.22:475][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/ReversePath" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ReversePath.uasset" SILENT=true
+[2020.07.12-11.40.22:546][475]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ReversePathE6F698BF492EBF96C8359F91FD88DDF2.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ReversePath.uasset'
+[2020.07.12-11.40.22:564][475]AssetCheck: New page: Asset Save: ReversePath
+[2020.07.12-11.40.22:564][475]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/ReversePath.ReversePath
+[2020.07.12-11.40.26:605][723]BlueprintLog: New page: Compile ReversePath
+[2020.07.12-11.40.26:651][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.07.12-11.41.02:338][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/ResetNextPatrolPoint" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ResetNextPatrolPoint.uasset" SILENT=true
+[2020.07.12-11.41.02:407][977]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ResetNextPatrolPointD26494A54D20B386657245B7E5E6D1A2.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ResetNextPatrolPoint.uasset'
+[2020.07.12-11.41.02:425][977]AssetCheck: New page: Asset Save: ResetNextPatrolPoint
+[2020.07.12-11.41.02:425][977]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/ResetNextPatrolPoint.ResetNextPatrolPoint
+[2020.07.12-11.41.18:358][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/ResetNextPatrolPoint" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ResetNextPatrolPoint.uasset" SILENT=true
+[2020.07.12-11.41.18:428][866]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ResetNextPatrolPointDDEC0BA443DE5F8356D5B0A1D817FCCF.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ResetNextPatrolPoint.uasset'
+[2020.07.12-11.41.18:446][866]AssetCheck: New page: Asset Save: ResetNextPatrolPoint
+[2020.07.12-11.41.18:446][866]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/ResetNextPatrolPoint.ResetNextPatrolPoint
+[2020.07.12-11.41.22:968][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/ReversePath" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ReversePath.uasset" SILENT=true
+[2020.07.12-11.41.23:041][390]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ReversePathBABF148346E69BE4F92456BDA103CAEB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ReversePath.uasset'
+[2020.07.12-11.41.23:058][390]AssetCheck: New page: Asset Save: ReversePath
+[2020.07.12-11.41.23:059][390]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/ReversePath.ReversePath
+[2020.07.12-11.41.45:603][ 46]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-11.41.45:603][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-11.41.47:729][290]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-11.41.47:729][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-11.41.49:079][445]LogSlate: Window 'ReversePath' being destroyed
+[2020.07.12-11.41.49:104][445]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-11.41.49:104][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-11.42.08:303][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.07.12-11.42.08:312][730]LogMetaData: Removing '/Game/Characters/AI/Tasks/UpdateNextPatrolPoint.UpdateNextPatrolPoint_C' ref from Metadata '/Game/Characters/AI/Tasks/IncrementNextLocationIndex.PackageMetaData'
+[2020.07.12-11.42.08:312][730]LogMetaData: Removing '/Game/Characters/AI/Tasks/UpdateNextPatrolPoint.SKEL_UpdateNextPatrolPoint_C' ref from Metadata '/Game/Characters/AI/Tasks/IncrementNextLocationIndex.PackageMetaData'
+[2020.07.12-11.42.08:346][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/UpdateNextPatrolPoint" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/UpdateNextPatrolPoint.uasset" SILENT=true
+[2020.07.12-11.42.08:357][730]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/UpdateNextPatrolPoint896FB22C4AA6774E2B9B7385E26CB3FD.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/UpdateNextPatrolPoint.uasset'
+[2020.07.12-11.42.08:633][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.07.12-11.42.08:665][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.07.12-11.42.08:684][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.12-11.42.08:706][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/Patroller_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset" SILENT=true
+[2020.07.12-11.42.08:769][730]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BTFC75F44A44C718EFC56618AF88004777.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset'
+[2020.07.12-11.42.08:840][730]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/AI/Tasks/UpdateNextPatrolPoint.
+[2020.07.12-11.42.08:851][730]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.12-11.42.08:851][730]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/UpdateNextPatrolPoint.UpdateNextPatrolPoint
+[2020.07.12-11.42.08:851][730]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
+[2020.07.12-11.42.09:426][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/UpdateNextPatrolPoint" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/UpdateNextPatrolPoint.uasset" SILENT=true
+[2020.07.12-11.42.09:493][796]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/UpdateNextPatrolPoint9800915145AE86EF8ED90C8BF0D587DA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/UpdateNextPatrolPoint.uasset'
+[2020.07.12-11.42.09:506][796]AssetCheck: New page: Asset Save: UpdateNextPatrolPoint
+[2020.07.12-11.42.09:506][796]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/UpdateNextPatrolPoint.UpdateNextPatrolPoint
+[2020.07.12-11.42.30:124][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.07.12-11.42.30:130][263]LogMetaData: Removing '/Game/Characters/AI/Tasks/ResetPathIndex.ResetPathIndex_C' ref from Metadata '/Game/Characters/AI/Tasks/ResetNextPatrolPoint.PackageMetaData'
+[2020.07.12-11.42.30:130][263]LogMetaData: Removing '/Game/Characters/AI/Tasks/ResetPathIndex.SKEL_ResetPathIndex_C' ref from Metadata '/Game/Characters/AI/Tasks/ResetNextPatrolPoint.PackageMetaData'
+[2020.07.12-11.42.30:163][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/ResetPathIndex" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ResetPathIndex.uasset" SILENT=true
+[2020.07.12-11.42.30:170][263]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ResetPathIndexCB74DDD94E1B70838319FF9967B1D9B7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ResetPathIndex.uasset'
+[2020.07.12-11.42.30:348][263]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.07.12-11.42.30:378][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.07.12-11.42.30:397][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.12-11.42.30:421][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/Patroller_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset" SILENT=true
+[2020.07.12-11.42.30:483][263]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BT4377BFC74386D24B72AB5088C525D1D0.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset'
+[2020.07.12-11.42.30:555][263]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/AI/Tasks/ResetPathIndex.
+[2020.07.12-11.42.30:566][263]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.12-11.42.30:566][263]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/ResetPathIndex.ResetPathIndex
+[2020.07.12-11.42.30:566][263]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
+[2020.07.12-11.42.31:525][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/ResetPathIndex" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ResetPathIndex.uasset" SILENT=true
+[2020.07.12-11.42.31:596][374]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ResetPathIndex88815ED44186D4AE607053ADA14D959F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ResetPathIndex.uasset'
+[2020.07.12-11.42.31:612][374]AssetCheck: New page: Asset Save: ResetPathIndex
+[2020.07.12-11.42.31:612][374]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/ResetPathIndex.ResetPathIndex
+[2020.07.12-11.42.38:407][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.07.12-11.42.38:413][183]LogMetaData: Removing '/Game/Characters/AI/Tasks/ResetPath.ResetPath_C' ref from Metadata '/Game/Characters/AI/Tasks/ResetPathIndex.PackageMetaData'
+[2020.07.12-11.42.38:413][183]LogMetaData: Removing '/Game/Characters/AI/Tasks/ResetPath.SKEL_ResetPath_C' ref from Metadata '/Game/Characters/AI/Tasks/ResetPathIndex.PackageMetaData'
+[2020.07.12-11.42.38:441][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/ResetPath" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ResetPath.uasset" SILENT=true
+[2020.07.12-11.42.38:449][183]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ResetPath2569C009439C26C12E0FF9AF56E62BDD.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ResetPath.uasset'
+[2020.07.12-11.42.38:625][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.07.12-11.42.38:656][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.07.12-11.42.38:675][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.12-11.42.38:696][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/Patroller_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset" SILENT=true
+[2020.07.12-11.42.38:758][183]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BTC7A2B8AA47C5800BFB54FE8655DEAAEB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset'
+[2020.07.12-11.42.38:831][183]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/AI/Tasks/ResetPath.
+[2020.07.12-11.42.38:842][183]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.12-11.42.38:842][183]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/ResetPath.ResetPath
+[2020.07.12-11.42.38:842][183]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
+[2020.07.12-11.42.39:296][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/ResetPath" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ResetPath.uasset" SILENT=true
+[2020.07.12-11.42.39:360][234]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ResetPath489DD9D249DBD30961045AB992354BFA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/ResetPath.uasset'
+[2020.07.12-11.42.39:376][234]AssetCheck: New page: Asset Save: ResetPath
+[2020.07.12-11.42.39:376][234]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/ResetPath.ResetPath
+[2020.07.12-11.43.14:275][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.07.12-11.43.14:281][411]LogMetaData: Removing '/Game/Characters/AI/Tasks/UpdateNextPathIndex.UpdateNextPathIndex_C' ref from Metadata '/Game/Characters/AI/Tasks/UpdateNextPatrolPoint.PackageMetaData'
+[2020.07.12-11.43.14:281][411]LogMetaData: Removing '/Game/Characters/AI/Tasks/UpdateNextPathIndex.SKEL_UpdateNextPathIndex_C' ref from Metadata '/Game/Characters/AI/Tasks/UpdateNextPatrolPoint.PackageMetaData'
+[2020.07.12-11.43.14:309][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/UpdateNextPathIndex" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/UpdateNextPathIndex.uasset" SILENT=true
+[2020.07.12-11.43.14:320][411]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/UpdateNextPathIndexC9C0332149D6ABBA1586EC8749F93EEC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/UpdateNextPathIndex.uasset'
+[2020.07.12-11.43.14:503][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.07.12-11.43.14:534][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.07.12-11.43.14:553][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.07.12-11.43.14:575][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/Patroller_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset" SILENT=true
+[2020.07.12-11.43.14:637][411]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BTC327DA8442302BC273E1F4A4DC9D8FA5.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset'
+[2020.07.12-11.43.14:708][411]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/AI/Tasks/UpdateNextPathIndex.
+[2020.07.12-11.43.14:720][411]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.12-11.43.14:720][411]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/UpdateNextPathIndex.UpdateNextPathIndex
+[2020.07.12-11.43.14:720][411]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
+[2020.07.12-11.43.15:213][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/UpdateNextPathIndex" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/UpdateNextPathIndex.uasset" SILENT=true
+[2020.07.12-11.43.15:287][466]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/UpdateNextPathIndex2716194E411174885B52BBAA0FC9FCD6.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/UpdateNextPathIndex.uasset'
+[2020.07.12-11.43.15:301][466]AssetCheck: New page: Asset Save: UpdateNextPathIndex
+[2020.07.12-11.43.15:301][466]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/UpdateNextPathIndex.UpdateNextPathIndex
+[2020.07.12-11.43.19:906][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.07.12-11.43.19:911][ 11]LogMetaData: Removing '/Game/Characters/AI/Tasks/UpdatePathIndex.UpdatePathIndex_C' ref from Metadata '/Game/Characters/AI/Tasks/UpdateNextPathIndex.PackageMetaData'
+[2020.07.12-11.43.19:911][ 11]LogMetaData: Removing '/Game/Characters/AI/Tasks/UpdatePathIndex.SKEL_UpdatePathIndex_C' ref from Metadata '/Game/Characters/AI/Tasks/UpdateNextPathIndex.PackageMetaData'
+[2020.07.12-11.43.19:942][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/UpdatePathIndex" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/UpdatePathIndex.uasset" SILENT=true
+[2020.07.12-11.43.19:953][ 11]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/UpdatePathIndex84B8518343D9EBE4725225A2C5F27C6E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/UpdatePathIndex.uasset'
+[2020.07.12-11.43.20:124][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.07.12-11.43.20:157][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.07.12-11.43.20:177][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.07.12-11.43.20:198][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/Patroller_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset" SILENT=true
+[2020.07.12-11.43.20:261][ 11]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BT2E954CA642E15B1ADC4DAD8D5E75F1C7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset'
+[2020.07.12-11.43.20:333][ 11]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/AI/Tasks/UpdatePathIndex.
+[2020.07.12-11.43.20:344][ 11]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.12-11.43.20:344][ 11]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/UpdatePathIndex.UpdatePathIndex
+[2020.07.12-11.43.20:344][ 11]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
+[2020.07.12-11.43.26:142][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.07.12-11.43.26:147][699]LogMetaData: Removing '/Game/Characters/AI/Tasks/SetPathIndex.SetPathIndex_C' ref from Metadata '/Game/Characters/AI/Tasks/UpdatePathIndex.PackageMetaData'
+[2020.07.12-11.43.26:147][699]LogMetaData: Removing '/Game/Characters/AI/Tasks/SetPathIndex.SKEL_SetPathIndex_C' ref from Metadata '/Game/Characters/AI/Tasks/UpdatePathIndex.PackageMetaData'
+[2020.07.12-11.43.26:178][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/SetPathIndex" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetPathIndex.uasset" SILENT=true
+[2020.07.12-11.43.26:189][699]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetPathIndex169111B845C8F4FBA393628F43C3D2FB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetPathIndex.uasset'
+[2020.07.12-11.43.26:368][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.07.12-11.43.26:397][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.07.12-11.43.26:417][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.07.12-11.43.26:435][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/Patroller_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset" SILENT=true
+[2020.07.12-11.43.26:498][699]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BT676EE9E2457E5BFC573D719513DAF0BD.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset'
+[2020.07.12-11.43.26:570][699]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/AI/Tasks/SetPathIndex.
+[2020.07.12-11.43.26:581][699]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.12-11.43.26:581][699]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/SetPathIndex.SetPathIndex
+[2020.07.12-11.43.26:581][699]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
+[2020.07.12-11.43.37:006][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.12-11.43.37:029][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.07.12-11.43.37:242][925]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1F8B7382D4FC79AFB076727B6ABAF452E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.12-11.43.37:293][925]AssetCheck: New page: Asset Save: Level1
+[2020.07.12-11.43.37:293][925]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.12-11.43.43:259][627]LogMetaData: Removing '/Game/Characters/AI/Tasks/Pathing/ResetPath.ResetPath_C' ref from Metadata '/Game/Characters/AI/Tasks/ResetPath.PackageMetaData'
+[2020.07.12-11.43.43:259][627]LogMetaData: Removing '/Game/Characters/AI/Tasks/Pathing/ResetPath.SKEL_ResetPath_C' ref from Metadata '/Game/Characters/AI/Tasks/ResetPath.PackageMetaData'
+[2020.07.12-11.43.43:259][627]LogMetaData: Removing '/Game/Characters/AI/Tasks/Pathing/ResetPath.SKEL_ResetPath_C:ReceiveExecuteAI' ref from Metadata '/Game/Characters/AI/Tasks/ResetPath.PackageMetaData'
+[2020.07.12-11.43.43:259][627]LogMetaData: Removing '/Game/Characters/AI/Tasks/Pathing/ResetPath.ResetPath_C:ReceiveExecuteAI' ref from Metadata '/Game/Characters/AI/Tasks/ResetPath.PackageMetaData'
+[2020.07.12-11.43.43:263][627]LogMetaData: Removing '/Game/Characters/AI/Tasks/Pathing/ReversePath.ReversePath_C' ref from Metadata '/Game/Characters/AI/Tasks/ReversePath.PackageMetaData'
+[2020.07.12-11.43.43:263][627]LogMetaData: Removing '/Game/Characters/AI/Tasks/Pathing/ReversePath.SKEL_ReversePath_C' ref from Metadata '/Game/Characters/AI/Tasks/ReversePath.PackageMetaData'
+[2020.07.12-11.43.43:263][627]LogMetaData: Removing '/Game/Characters/AI/Tasks/Pathing/ReversePath.SKEL_ReversePath_C:ReceiveExecuteAI' ref from Metadata '/Game/Characters/AI/Tasks/ReversePath.PackageMetaData'
+[2020.07.12-11.43.43:263][627]LogMetaData: Removing '/Game/Characters/AI/Tasks/Pathing/ReversePath.ReversePath_C:ReceiveExecuteAI' ref from Metadata '/Game/Characters/AI/Tasks/ReversePath.PackageMetaData'
+[2020.07.12-11.43.43:268][627]LogMetaData: Removing '/Game/Characters/AI/Tasks/Pathing/SetPathIndex.SetPathIndex_C' ref from Metadata '/Game/Characters/AI/Tasks/SetPathIndex.PackageMetaData'
+[2020.07.12-11.43.43:268][627]LogMetaData: Removing '/Game/Characters/AI/Tasks/Pathing/SetPathIndex.SKEL_SetPathIndex_C' ref from Metadata '/Game/Characters/AI/Tasks/SetPathIndex.PackageMetaData'
+[2020.07.12-11.43.43:268][627]LogMetaData: Removing '/Game/Characters/AI/Tasks/Pathing/SetPathIndex.SKEL_SetPathIndex_C:ReceiveExecuteAI' ref from Metadata '/Game/Characters/AI/Tasks/SetPathIndex.PackageMetaData'
+[2020.07.12-11.43.43:268][627]LogMetaData: Removing '/Game/Characters/AI/Tasks/Pathing/SetPathIndex.SetPathIndex_C:ReceiveExecuteAI' ref from Metadata '/Game/Characters/AI/Tasks/SetPathIndex.PackageMetaData'
+[2020.07.12-11.43.43:297][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/Pathing/ResetPath" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/Pathing/ResetPath.uasset" SILENT=true
+[2020.07.12-11.43.43:305][627]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ResetPath82CB80A24C425A31D1B5A5BCC42AFA0B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/Pathing/ResetPath.uasset'
+[2020.07.12-11.43.43:306][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/Pathing/ReversePath" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/Pathing/ReversePath.uasset" SILENT=true
+[2020.07.12-11.43.43:315][627]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ReversePath2CD3D27242C74F26F5E7459D0CAC45B4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/Pathing/ReversePath.uasset'
+[2020.07.12-11.43.43:316][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/Pathing/SetPathIndex" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/Pathing/SetPathIndex.uasset" SILENT=true
+[2020.07.12-11.43.43:342][627]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetPathIndex132B70214C7E3D9A3BF08ABFDCD7A5C0.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/Pathing/SetPathIndex.uasset'
+[2020.07.12-11.43.43:731][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.07.12-11.43.43:751][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.07.12-11.43.43:771][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.07.12-11.43.43:800][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.07.12-11.43.43:819][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.07.12-11.43.43:835][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/Patroller_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset" SILENT=true
+[2020.07.12-11.43.43:897][627]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BT254506544C212E54353439BA354D57D3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset'
+[2020.07.12-11.43.43:971][627]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/AI/Tasks/Pathing/ResetPath.
+[2020.07.12-11.43.43:977][627]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/AI/Tasks/Pathing/ReversePath.
+[2020.07.12-11.43.43:983][627]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/AI/Tasks/Pathing/SetPathIndex.
+[2020.07.12-11.43.44:002][627]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.12-11.43.44:002][627]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/Pathing/ResetPath.ResetPath
+[2020.07.12-11.43.44:002][627]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/Pathing/ReversePath.ReversePath
+[2020.07.12-11.43.44:002][627]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/Pathing/SetPathIndex.SetPathIndex
+[2020.07.12-11.43.44:002][627]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
+[2020.07.12-11.43.46:232][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.07.12-11.43.48:255][890]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.12-11.43.48:353][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.07.12-11.43.48:379][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.07.12-11.43.48:398][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.07.12-11.44.33:691][117]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.12-11.44.33:691][117]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.12-11.44.34:003][117]LogEditorViewport: Clicking Background
+[2020.07.12-11.45.31:610][610]LogEditorViewport: Clicking Background
+[2020.07.12-11.45.46:632][909]LogEditorViewport: Clicking on Actor (LMB): Tile2x8_C (Tile2x8)
+[2020.07.12-11.45.46:812][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.12-11.45.46:832][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.07.12-11.45.47:045][925]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1A19F134142A727895F553D9E0C02C9D6.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.12-11.45.47:090][925]AssetCheck: New page: Asset Save: Level1
+[2020.07.12-11.45.47:090][925]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.12-11.45.53:008][625]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Characters/AI/Patroller/Patroller_BB.Patroller_BB
+[2020.07.12-11.45.53:124][625]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
