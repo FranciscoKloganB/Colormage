@@ -2229,3 +2229,1333 @@ GameplayDebuggerCategoryReplicator
 [2020.07.11-23.32.56:105][793]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001323D6BBC00), frame # 203793
 [2020.07.11-23.32.56:108][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
 [2020.07.11-23.32.56:150][794]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.07.11-23.33.43:057][388]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-23.33.43:057][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-23.33.44:283][515]LogSlate: Window 'Arriver_AI' being destroyed
+[2020.07.11-23.33.44:316][515]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.11-23.33.44:316][515]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-23.33.44:316][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-23.33.45:854][682]LogEditorViewport: Clicking Background
+[2020.07.11-23.36.17:806][634]LogEditorViewport: Clicking on Actor (LMB): Tile8_C (Tile16)
+[2020.07.11-23.36.18:932][764]LogEditorViewport: Clicking on Actor (LMB): Tile5x4_C (Tile5x4)
+[2020.07.11-23.36.32:356][235]Cmd: SELECT NONE
+[2020.07.11-23.40.29:431][243]LogEditorViewport: Clicking on Actor (LMB): Tile2x4_C (Tile2x4)
+[2020.07.11-23.40.30:296][340]LogEditorViewport: Clicking Background
+[2020.07.11-23.40.30:872][406]LogEditorViewport: Clicking on Actor (LMB): ScaryKnight_C (ScaryKnight)
+[2020.07.11-23.40.54:506][195]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/AI/Patroller/Patroller_AI.Patroller_AI
+[2020.07.11-23.40.54:902][195]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Characters/AI/Patroller/Patroller_BB.Patroller_BB
+[2020.07.11-23.40.54:992][195]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
+[2020.07.11-23.42.01:773][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.07.11-23.42.01:776][442]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.037
+[2020.07.11-23.42.01:776][442]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/AI/Patroller/Patroller_BT] ([1] browsable assets)...
+[2020.07.11-23.42.01:776][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/AI/Patroller/Patroller_BT]
+[2020.07.11-23.42.01:838][442]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BT_Auto2FD85DE6C4CB3CEE49D0A169E05650DAE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/AI/Patroller/Patroller_BT_Auto2.uasset'
+[2020.07.11-23.42.01:855][442]LogFileHelpers: Auto-saving content packages took 0.079
+[2020.07.11-23.42.47:658][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/Patroller_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset" SILENT=true
+[2020.07.11-23.42.47:717][ 74]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BT975E6B97469DF93DD1A3B09D94C86843.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset'
+[2020.07.11-23.42.47:731][ 74]AssetCheck: New page: Asset Save: Patroller_BT
+[2020.07.11-23.42.47:731][ 74]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
+[2020.07.11-23.43.05:581][894]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.11-23.43.05:600][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.11-23.43.05:601][894]PIE: New page: PIE session: Level1 (Jul 12, 2020, 1:43:05 AM)
+[2020.07.11-23.43.05:601][894]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.11-23.43.05:637][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035531s)
+[2020.07.11-23.43.05:637][894]LogAIModule: Creating AISystem for world Level1
+[2020.07.11-23.43.05:638][894]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001324BA16000), frame # 226894
+[2020.07.11-23.43.05:638][894]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000132215F4B80), frame # 226894
+[2020.07.11-23.43.05:638][894]LogPlayLevel: PIE: World Init took: (0.001335s)
+[2020.07.11-23.43.05:638][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.037058s)
+[2020.07.11-23.43.05:662][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.07.11-23.43.05:663][894]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.11-23.43.05:663][894]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.11-23.43.05:664][894]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.11-23.43.05:664][894]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.11-23.43.05:664][894]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.11-23.43.05:664][894]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.11-23.43.05:664][894]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.11-23.43.05:664][894]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.11-23.43.05:664][894]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.11-23.43.05:664][894]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.11-23.43.05:675][894]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.11-23.43.05:675][894]LogAudioMixer: Display: 1: FrontRight
+[2020.07.11-23.43.05:708][894]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.11-23.43.05:708][894]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.11-23.43.05:708][894]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.11-23.43.05:708][894]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.11-23.43.05:709][894]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.11-23.43.05:721][894]LogInit: FAudioDevice initialized.
+[2020.07.11-23.43.05:729][894]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.11-23.43.05:747][894]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.12-00.43.05
+[2020.07.11-23.43.05:748][894]LogWorld: Bringing up level for play took: 0.018273
+[2020.07.11-23.43.05:748][894]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2020.07.11-23.43.05:761][894]PIE: Server logged in
+[2020.07.11-23.43.05:761][894]PIE: Play in editor total start time 0.164 seconds.
+[2020.07.11-23.43.33:865][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-23.43.33:865][891]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.11-23.43.33:866][891]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-23.43.33:869][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-23.43.33:879][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.11-23.43.33:883][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-23.43.33:925][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-23.43.33:929][891]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000132215F4B80), frame # 229891
+[2020.07.11-23.43.33:929][891]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001324BA16000), frame # 229891
+[2020.07.11-23.43.33:933][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.07.11-23.43.33:971][892]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2020.07.11-23.43.34:821][985]LogEditorViewport: Clicking Background
+[2020.07.11-23.43.48:983][570]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/AI/Tasks/SetNextPatrolLocation.SetNextPatrolLocation
+[2020.07.11-23.50.28:779][427]BlueprintLog: New page: Compile SetNextPatrolLocation
+[2020.07.11-23.50.28:835][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.07.11-23.52.48:418][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.07.11-23.52.48:420][576]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.037
+[2020.07.11-23.52.48:421][576]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/AI/Tasks/SetNextPatrolLocation] ([1] browsable assets)...
+[2020.07.11-23.52.48:421][576]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/AI/Tasks/SetNextPatrolLocation]
+[2020.07.11-23.52.48:494][576]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetNextPatrolLocation_Auto30E1B0FC242AA7821B3D8F4A672C039D9.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/AI/Tasks/SetNextPatrolLocation_Auto3.uasset'
+[2020.07.11-23.52.48:495][576]LogFileHelpers: Auto-saving content packages took 0.075
+[2020.07.11-23.53.03:821][623]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.11-23.53.03:821][623]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.11-23.55.35:484][886]BlueprintLog: New page: Compile SetNextPatrolLocation
+[2020.07.11-23.55.35:533][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.07.11-23.55.36:007][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/SetNextPatrolLocation" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetNextPatrolLocation.uasset" SILENT=true
+[2020.07.11-23.55.36:075][934]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetNextPatrolLocation02C5F12740E2C64B6A6267B57E481A27.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetNextPatrolLocation.uasset'
+[2020.07.11-23.55.36:088][934]AssetCheck: New page: Asset Save: SetNextPatrolLocation
+[2020.07.11-23.55.36:088][934]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/SetNextPatrolLocation.SetNextPatrolLocation
+[2020.07.11-23.55.45:400][840]LogEditorViewport: Clicking Background
+[2020.07.11-23.55.49:144][280]LogEditorViewport: Clicking on Actor (LMB): PatrolPath_C (PatrolPath)
+[2020.07.11-23.55.51:739][582]LogEditorViewport: Clicking on Actor (context menu): Tile2x4_C (Tile2x6)
+[2020.07.11-23.55.53:069][735]LogEditorViewport: Clicking on Actor (LMB): PatrolPath_C (PatrolPath)
+[2020.07.11-23.56.10:676][815]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.11-23.56.10:697][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.11-23.56.10:697][815]PIE: New page: PIE session: Level1 (Jul 12, 2020, 1:56:10 AM)
+[2020.07.11-23.56.10:698][815]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.11-23.56.10:733][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035370s)
+[2020.07.11-23.56.10:734][815]LogAIModule: Creating AISystem for world Level1
+[2020.07.11-23.56.10:734][815]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000013241496800), frame # 282815
+[2020.07.11-23.56.10:734][815]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001324C13DD00), frame # 282815
+[2020.07.11-23.56.10:735][815]LogPlayLevel: PIE: World Init took: (0.001761s)
+[2020.07.11-23.56.10:735][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.037465s)
+[2020.07.11-23.56.10:762][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.07.11-23.56.10:763][815]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.11-23.56.10:763][815]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.11-23.56.10:763][815]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.11-23.56.10:763][815]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.11-23.56.10:763][815]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.11-23.56.10:763][815]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.11-23.56.10:763][815]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.11-23.56.10:763][815]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.11-23.56.10:764][815]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.11-23.56.10:764][815]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.11-23.56.10:779][815]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.11-23.56.10:779][815]LogAudioMixer: Display: 1: FrontRight
+[2020.07.11-23.56.10:818][815]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.11-23.56.10:818][815]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.11-23.56.10:818][815]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.11-23.56.10:818][815]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.11-23.56.10:819][815]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.11-23.56.10:831][815]LogInit: FAudioDevice initialized.
+[2020.07.11-23.56.10:841][815]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.11-23.56.10:862][815]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.12-00.56.10
+[2020.07.11-23.56.10:863][815]LogWorld: Bringing up level for play took: 0.021652
+[2020.07.11-23.56.10:864][815]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2020.07.11-23.56.10:877][815]PIE: Server logged in
+[2020.07.11-23.56.10:878][815]PIE: Play in editor total start time 0.183 seconds.
+[2020.07.11-23.56.48:964][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-23.56.48:964][298]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.11-23.56.48:965][298]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-23.56.48:968][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-23.56.48:979][298]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.11-23.56.48:983][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-23.56.49:029][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-23.56.49:031][298]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001324C13DD00), frame # 286298
+[2020.07.11-23.56.49:031][298]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000013241496800), frame # 286298
+[2020.07.11-23.56.49:035][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.07.11-23.56.49:073][299]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.07.11-23.57.31:403][961]BlueprintLog: New page: Compile SetNextPatrolLocation
+[2020.07.11-23.57.31:451][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.07.11-23.57.31:890][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/SetNextPatrolLocation" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetNextPatrolLocation.uasset" SILENT=true
+[2020.07.11-23.57.31:956][  4]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetNextPatrolLocation1B6782184C2927C0A0BD74A65F5DF5B7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetNextPatrolLocation.uasset'
+[2020.07.11-23.57.31:972][  4]AssetCheck: New page: Asset Save: SetNextPatrolLocation
+[2020.07.11-23.57.31:972][  4]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/SetNextPatrolLocation.SetNextPatrolLocation
+[2020.07.11-23.57.32:333][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.11-23.57.32:364][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.07.11-23.57.32:588][ 42]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1F2DBC4C4463568948C8469A00AC1A7E7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.11-23.57.32:638][ 42]AssetCheck: New page: Asset Save: Level1
+[2020.07.11-23.57.32:638][ 42]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.11-23.57.39:685][414]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.11-23.57.39:705][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.11-23.57.39:705][414]PIE: New page: PIE session: Level1 (Jul 12, 2020, 1:57:39 AM)
+[2020.07.11-23.57.39:706][414]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.11-23.57.39:743][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037818s)
+[2020.07.11-23.57.39:744][414]LogAIModule: Creating AISystem for world Level1
+[2020.07.11-23.57.39:744][414]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000013239665200), frame # 291414
+[2020.07.11-23.57.39:744][414]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000132250F4540), frame # 291414
+[2020.07.11-23.57.39:745][414]LogPlayLevel: PIE: World Init took: (0.001226s)
+[2020.07.11-23.57.39:745][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.039236s)
+[2020.07.11-23.57.39:772][414]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.07.11-23.57.39:774][414]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.11-23.57.39:774][414]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.11-23.57.39:774][414]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.11-23.57.39:774][414]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.11-23.57.39:774][414]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.11-23.57.39:774][414]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.11-23.57.39:774][414]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.11-23.57.39:774][414]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.11-23.57.39:774][414]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.11-23.57.39:774][414]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.11-23.57.39:785][414]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.11-23.57.39:785][414]LogAudioMixer: Display: 1: FrontRight
+[2020.07.11-23.57.39:818][414]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.11-23.57.39:818][414]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.11-23.57.39:818][414]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.11-23.57.39:819][414]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.11-23.57.39:819][414]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.11-23.57.39:831][414]LogInit: FAudioDevice initialized.
+[2020.07.11-23.57.39:841][414]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.11-23.57.39:859][414]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.12-00.57.39
+[2020.07.11-23.57.39:860][414]LogWorld: Bringing up level for play took: 0.018402
+[2020.07.11-23.57.39:860][414]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2020.07.11-23.57.39:873][414]PIE: Server logged in
+[2020.07.11-23.57.39:874][414]PIE: Play in editor total start time 0.172 seconds.
+[2020.07.11-23.57.55:275][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-23.57.55:275][228]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.11-23.57.55:275][228]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-23.57.55:278][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-23.57.55:284][228]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.11-23.57.55:287][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-23.57.55:313][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-23.57.55:334][228]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000132250F4540), frame # 293228
+[2020.07.11-23.57.55:334][228]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000013239665200), frame # 293228
+[2020.07.11-23.57.55:341][228]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2020.07.11-23.57.55:366][229]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.07.11-23.59.12:167][579]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.11-23.59.12:167][579]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.12-00.00.11:147][820]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.12-00.00.11:147][820]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.12-00.00.11:336][820]LogEditorViewport: Clicking Background
+[2020.07.12-00.00.18:916][334]LogEditorViewport: Clicking on Actor (LMB): Tile4_C (Tile22)
+[2020.07.12-00.02.14:409][490]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/AI/Tasks/GetNextPatrolLocation.GetNextPatrolLocation
+[2020.07.12-00.04.22:759][391]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::BreakVector' [Element not found.]
+[2020.07.12-00.04.26:129][757]BlueprintLog: New page: Compile GetNextPatrolLocation
+[2020.07.12-00.04.26:191][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.07.12-00.05.04:065][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/GetNextPatrolLocation" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/GetNextPatrolLocation.uasset" SILENT=true
+[2020.07.12-00.05.04:136][840]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetNextPatrolLocation257EFB4C46DC43C85559CBADE381751F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/GetNextPatrolLocation.uasset'
+[2020.07.12-00.05.04:151][840]AssetCheck: New page: Asset Save: GetNextPatrolLocation
+[2020.07.12-00.05.04:151][840]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/GetNextPatrolLocation.GetNextPatrolLocation
+[2020.07.12-00.05.05:909][ 32]BlueprintLog: New page: Compile GetNextPatrolLocation
+[2020.07.12-00.05.05:983][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.07.12-00.05.06:280][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/GetNextPatrolLocation" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/GetNextPatrolLocation.uasset" SILENT=true
+[2020.07.12-00.05.06:359][ 57]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/GetNextPatrolLocation93A7B5BD4B3BB1FC0DCF9BA3F6F380C4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/GetNextPatrolLocation.uasset'
+[2020.07.12-00.05.06:380][ 57]AssetCheck: New page: Asset Save: GetNextPatrolLocation
+[2020.07.12-00.05.06:380][ 57]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/GetNextPatrolLocation.GetNextPatrolLocation
+[2020.07.12-00.05.07:206][141]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-00.05.07:206][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-00.05.59:457][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Patroller/Patroller_BT" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset" SILENT=true
+[2020.07.12-00.05.59:533][736]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_BT1162686348757A4BAA991A996AC6AE40.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Patroller/Patroller_BT.uasset'
+[2020.07.12-00.05.59:551][736]AssetCheck: New page: Asset Save: Patroller_BT
+[2020.07.12-00.05.59:551][736]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/Patroller/Patroller_BT.Patroller_BT
+[2020.07.12-00.07.59:448][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.07.12-00.07.59:451][699]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.036
+[2020.07.12-00.07.59:452][699]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/AI/Tasks/SetNextPatrolLocation] ([1] browsable assets)...
+[2020.07.12-00.07.59:452][699]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/AI/Tasks/SetNextPatrolLocation]
+[2020.07.12-00.07.59:529][699]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetNextPatrolLocation_Auto4C32789824ACCF118DBF0EA96DA17A0B9.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/AI/Tasks/SetNextPatrolLocation_Auto4.uasset'
+[2020.07.12-00.07.59:546][699]LogFileHelpers: Auto-saving content packages took 0.095
+[2020.07.12-00.10.18:085][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/SetNextPatrolLocation" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetNextPatrolLocation.uasset" SILENT=true
+[2020.07.12-00.10.18:149][239]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetNextPatrolLocationF6C192044ECACB829AE852A353C56DEA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetNextPatrolLocation.uasset'
+[2020.07.12-00.10.18:164][239]AssetCheck: New page: Asset Save: SetNextPatrolLocation
+[2020.07.12-00.10.18:164][239]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/SetNextPatrolLocation.SetNextPatrolLocation
+[2020.07.12-00.10.18:991][336]BlueprintLog: New page: Compile SetNextPatrolLocation
+[2020.07.12-00.10.19:039][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.07.12-00.10.20:026][442]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-00.10.20:026][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-00.10.27:480][  6]LogEditorViewport: Clicking on Actor (LMB): PatrolPath_C (PatrolPath)
+[2020.07.12-00.10.34:851][876]LogEditorViewport: Clicking on Actor (LMB): PatrolPath_C (PatrolPath)
+[2020.07.12-00.10.36:758][102]LogEditorViewport: Clicking on Actor (LMB): ScaryKnight_C (ScaryKnight)
+[2020.07.12-00.10.38:927][356]Cmd: DELETE
+[2020.07.12-00.10.38:927][356]Cmd: ACTOR DELETE
+[2020.07.12-00.10.38:953][356]LogEditorActor: Deleted Actor: ScaryKnight_C
+[2020.07.12-00.10.38:981][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.07.12-00.10.38:983][356]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2020.07.12-00.10.44:644][  7]LogEditorViewport: Clicking on Actor (LMB): ScaryKnight_C (ScaryKnight)
+[2020.07.12-00.10.48:858][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.12-00.10.48:884][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.07.12-00.10.49:110][501]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1D334A81C4EA9DB1B96704DBE77A9CD51.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.12-00.10.49:159][501]AssetCheck: New page: Asset Save: Level1
+[2020.07.12-00.10.49:159][501]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.12-00.10.50:058][607]LogEditorViewport: Clicking on Actor (LMB): PatrolPath_C (PatrolPath)
+[2020.07.12-00.10.52:196][859]Cmd: DELETE
+[2020.07.12-00.10.52:196][859]Cmd: ACTOR DELETE
+[2020.07.12-00.10.52:206][859]LogEditorActor: Deleted Actor: PatrolPath_C
+[2020.07.12-00.10.52:229][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.07.12-00.10.52:231][859]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.07.12-00.10.53:168][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.12-00.10.53:193][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.07.12-00.10.53:417][969]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1A1427EAD450DBB66EA0D7EA8AC99CE9E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.12-00.10.53:467][969]AssetCheck: New page: Asset Save: Level1
+[2020.07.12-00.10.53:467][969]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.12-00.11.01:266][884]LogEditorViewport: Clicking on Actor (LMB): PatrolPath_C (PatrolPath)
+[2020.07.12-00.11.05:220][353]LogEditorViewport: Clicking on Actor (LMB): Tile2x4_C (Tile2x6)
+[2020.07.12-00.11.05:928][435]LogEditorViewport: Clicking on Actor (LMB): PatrolPath_C (PatrolPath)
+[2020.07.12-00.11.10:291][951]LogEditorViewport: Clicking on Actor (LMB): PatrolPath_C (PatrolPath)
+[2020.07.12-00.12.05:851][703]LogEditorViewport: Clicking on Actor (LMB): PatrolPath_C (PatrolPath)
+[2020.07.12-00.12.32:783][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.12-00.12.32:812][902]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.07.12-00.12.33:047][902]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level16854F0184E241386B97C6AA4CB91D9C4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.12-00.12.33:105][902]AssetCheck: New page: Asset Save: Level1
+[2020.07.12-00.12.33:105][902]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.12-00.12.56:574][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.12-00.12.56:599][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.07.12-00.12.56:817][696]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1B34693D248D0E743CB70B1BA93A4B024.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.12-00.12.56:867][696]AssetCheck: New page: Asset Save: Level1
+[2020.07.12-00.12.56:868][696]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.12-00.12.57:259][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.12-00.12.57:282][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.07.12-00.12.57:499][740]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1C5B1DF5E47B39E2EF6B53BAD99416565.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.12-00.12.57:553][740]AssetCheck: New page: Asset Save: Level1
+[2020.07.12-00.12.57:553][740]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.12-00.12.58:845][891]LogEditorViewport: Clicking on Actor (LMB): ScaryKnight_C (ScaryKnight)
+[2020.07.12-00.13.11:433][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.12-00.13.11:457][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.07.12-00.13.11:682][378]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1B9A455D24A7484347681D3BEEBE4870C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.12-00.13.11:728][378]AssetCheck: New page: Asset Save: Level1
+[2020.07.12-00.13.11:728][378]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.12-00.13.13:078][537]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.12-00.13.13:099][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-00.13.13:099][537]PIE: New page: PIE session: Level1 (Jul 12, 2020, 2:13:13 AM)
+[2020.07.12-00.13.13:100][537]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.12-00.13.13:135][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035899s)
+[2020.07.12-00.13.13:136][537]LogAIModule: Creating AISystem for world Level1
+[2020.07.12-00.13.13:136][537]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000013226F01000), frame # 335537
+[2020.07.12-00.13.13:136][537]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000132215F2340), frame # 335537
+[2020.07.12-00.13.13:137][537]LogPlayLevel: PIE: World Init took: (0.001206s)
+[2020.07.12-00.13.13:137][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.037289s)
+[2020.07.12-00.13.13:161][537]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.07.12-00.13.13:162][537]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.12-00.13.13:162][537]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.12-00.13.13:162][537]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.12-00.13.13:162][537]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.12-00.13.13:162][537]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.12-00.13.13:162][537]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.12-00.13.13:162][537]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.12-00.13.13:162][537]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.12-00.13.13:162][537]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.12-00.13.13:162][537]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.12-00.13.13:173][537]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.12-00.13.13:173][537]LogAudioMixer: Display: 1: FrontRight
+[2020.07.12-00.13.13:207][537]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.12-00.13.13:208][537]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.12-00.13.13:208][537]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.12-00.13.13:208][537]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.12-00.13.13:208][537]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.12-00.13.13:221][537]LogInit: FAudioDevice initialized.
+[2020.07.12-00.13.13:229][537]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-00.13.13:247][537]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.12-01.13.13
+[2020.07.12-00.13.13:248][537]LogWorld: Bringing up level for play took: 0.018262
+[2020.07.12-00.13.13:248][537]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2020.07.12-00.13.13:260][537]PIE: Server logged in
+[2020.07.12-00.13.13:260][537]PIE: Play in editor total start time 0.164 seconds.
+[2020.07.12-00.13.39:966][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-00.13.39:966][660]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.12-00.13.39:966][660]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-00.13.39:969][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-00.13.39:977][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-00.13.39:980][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-00.13.40:020][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-00.13.40:021][660]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000132215F2340), frame # 337660
+[2020.07.12-00.13.40:022][660]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000013226F01000), frame # 337660
+[2020.07.12-00.13.40:026][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.07.12-00.13.40:065][661]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2020.07.12-00.13.41:627][843]LogEditorViewport: Clicking on Actor (LMB): ScaryKnight_C (ScaryKnight)
+[2020.07.12-00.13.42:996][999]LogEditorViewport: Clicking on Actor (LMB): PatrolPath_C (PatrolPath)
+[2020.07.12-00.13.49:087][705]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.12-00.13.49:111][705]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-00.13.49:111][705]PIE: New page: PIE session: Level1 (Jul 12, 2020, 2:13:49 AM)
+[2020.07.12-00.13.49:111][705]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.12-00.13.49:144][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034169s)
+[2020.07.12-00.13.49:145][705]LogAIModule: Creating AISystem for world Level1
+[2020.07.12-00.13.49:145][705]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001323A25DC00), frame # 338705
+[2020.07.12-00.13.49:145][705]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001322532DE40), frame # 338705
+[2020.07.12-00.13.49:146][705]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2020.07.12-00.13.49:146][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.035530s)
+[2020.07.12-00.13.49:168][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.07.12-00.13.49:171][705]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.12-00.13.49:171][705]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.12-00.13.49:171][705]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.12-00.13.49:171][705]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.12-00.13.49:171][705]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.12-00.13.49:171][705]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.12-00.13.49:171][705]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.12-00.13.49:171][705]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.12-00.13.49:171][705]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.12-00.13.49:171][705]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.12-00.13.49:182][705]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.12-00.13.49:182][705]LogAudioMixer: Display: 1: FrontRight
+[2020.07.12-00.13.49:213][705]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.12-00.13.49:213][705]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.12-00.13.49:213][705]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.12-00.13.49:213][705]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.12-00.13.49:214][705]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.12-00.13.49:226][705]LogInit: FAudioDevice initialized.
+[2020.07.12-00.13.49:237][705]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-00.13.49:255][705]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.12-01.13.49
+[2020.07.12-00.13.49:256][705]LogWorld: Bringing up level for play took: 0.019145
+[2020.07.12-00.13.49:257][705]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2020.07.12-00.13.49:268][705]PIE: Server logged in
+[2020.07.12-00.13.49:269][705]PIE: Play in editor total start time 0.161 seconds.
+[2020.07.12-00.15.50:165][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-00.15.50:165][962]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.12-00.15.50:165][962]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-00.15.50:168][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-00.15.50:179][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-00.15.50:183][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-00.15.50:206][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-00.15.50:229][962]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001322532DE40), frame # 341962
+[2020.07.12-00.15.50:230][962]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001323A25DC00), frame # 341962
+[2020.07.12-00.15.50:233][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.07.12-00.15.50:264][963]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2020.07.12-00.16.10:797][181]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/AI/Tasks/SetNextPatrolLocation.SetNextPatrolLocation
+[2020.07.12-00.16.17:166][889]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.12-00.16.17:186][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-00.16.17:186][889]PIE: New page: PIE session: Level1 (Jul 12, 2020, 2:16:17 AM)
+[2020.07.12-00.16.17:186][889]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.12-00.16.17:222][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036447s)
+[2020.07.12-00.16.17:223][889]LogAIModule: Creating AISystem for world Level1
+[2020.07.12-00.16.17:223][889]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000013271A60800), frame # 344889
+[2020.07.12-00.16.17:223][889]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000132463E4F40), frame # 344889
+[2020.07.12-00.16.17:223][889]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2020.07.12-00.16.17:224][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.037706s)
+[2020.07.12-00.16.17:248][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.07.12-00.16.17:250][889]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.12-00.16.17:250][889]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.12-00.16.17:250][889]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.12-00.16.17:250][889]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.12-00.16.17:250][889]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.12-00.16.17:250][889]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.12-00.16.17:250][889]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.12-00.16.17:250][889]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.12-00.16.17:250][889]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.12-00.16.17:250][889]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.12-00.16.17:263][889]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.12-00.16.17:263][889]LogAudioMixer: Display: 1: FrontRight
+[2020.07.12-00.16.17:296][889]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.12-00.16.17:296][889]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.12-00.16.17:297][889]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.12-00.16.17:297][889]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.12-00.16.17:297][889]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.12-00.16.17:309][889]LogInit: FAudioDevice initialized.
+[2020.07.12-00.16.17:320][889]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-00.16.17:339][889]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.12-01.16.17
+[2020.07.12-00.16.17:340][889]LogWorld: Bringing up level for play took: 0.019207
+[2020.07.12-00.16.17:340][889]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2020.07.12-00.16.17:353][889]PIE: Server logged in
+[2020.07.12-00.16.17:354][889]PIE: Play in editor total start time 0.171 seconds.
+[2020.07.12-00.16.19:174][ 93]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_MacroInstance', from offset 175
+[2020.07.12-00.16.19:174][ 93]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Characters/AI/Tasks/SetNextPatrolLocation.SetNextPatrolLocation_C:ReceiveExecuteAI
+	Function /Game/Characters/AI/Tasks/SetNextPatrolLocation.SetNextPatrolLocation_C:ExecuteUbergraph_SetNextPatrolLocation
+
+[2020.07.12-00.16.19:181][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_0.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:181][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_0.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:181][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_0.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_0.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_0.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_0.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_0.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_1.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_1.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_1.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_1.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_1.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_1.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_1.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_2.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_2.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_2.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_2.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_2.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_2.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_2.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_3.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_3.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_3.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_3.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_3.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_3.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.19:182][ 93]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_3.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.23:414][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-00.16.23:414][ 93]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.12-00.16.23:415][ 93]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-00.16.23:418][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-00.16.23:430][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-00.16.23:435][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-00.16.23:481][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-00.16.23:483][ 93]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000132463E4F40), frame # 345093
+[2020.07.12-00.16.23:483][ 93]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000013271A60800), frame # 345093
+[2020.07.12-00.16.23:486][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.07.12-00.16.23:516][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2020.07.12-00.16.24:223][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/SetNextPatrolLocation" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetNextPatrolLocation.uasset" SILENT=true
+[2020.07.12-00.16.24:290][163]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetNextPatrolLocationEF38150F46F66B1EA10EDAB8A75F365C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetNextPatrolLocation.uasset'
+[2020.07.12-00.16.24:306][163]AssetCheck: New page: Asset Save: SetNextPatrolLocation
+[2020.07.12-00.16.24:306][163]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/SetNextPatrolLocation.SetNextPatrolLocation
+[2020.07.12-00.16.25:549][301]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.12-00.16.25:570][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-00.16.25:570][301]PIE: New page: PIE session: Level1 (Jul 12, 2020, 2:16:25 AM)
+[2020.07.12-00.16.25:570][301]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.12-00.16.25:604][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034668s)
+[2020.07.12-00.16.25:605][301]LogAIModule: Creating AISystem for world Level1
+[2020.07.12-00.16.25:605][301]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000132462CF200), frame # 345301
+[2020.07.12-00.16.25:605][301]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001324BF8AC00), frame # 345301
+[2020.07.12-00.16.25:606][301]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2020.07.12-00.16.25:606][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.035915s)
+[2020.07.12-00.16.25:632][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.07.12-00.16.25:633][301]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.12-00.16.25:633][301]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.12-00.16.25:633][301]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.12-00.16.25:633][301]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.12-00.16.25:633][301]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.12-00.16.25:633][301]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.12-00.16.25:633][301]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.12-00.16.25:633][301]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.12-00.16.25:633][301]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.12-00.16.25:634][301]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.12-00.16.25:643][301]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.12-00.16.25:644][301]LogAudioMixer: Display: 1: FrontRight
+[2020.07.12-00.16.25:677][301]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.12-00.16.25:677][301]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.12-00.16.25:677][301]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.12-00.16.25:677][301]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.12-00.16.25:677][301]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.12-00.16.25:690][301]LogInit: FAudioDevice initialized.
+[2020.07.12-00.16.25:699][301]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-00.16.25:718][301]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.12-01.16.25
+[2020.07.12-00.16.25:719][301]LogWorld: Bringing up level for play took: 0.020105
+[2020.07.12-00.16.25:720][301]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2020.07.12-00.16.25:731][301]PIE: Server logged in
+[2020.07.12-00.16.25:732][301]PIE: Play in editor total start time 0.165 seconds.
+[2020.07.12-00.16.27:577][503]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_MacroInstance', from offset 175
+[2020.07.12-00.16.27:577][503]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Characters/AI/Tasks/SetNextPatrolLocation.SetNextPatrolLocation_C:ReceiveExecuteAI
+	Function /Game/Characters/AI/Tasks/SetNextPatrolLocation.SetNextPatrolLocation_C:ExecuteUbergraph_SetNextPatrolLocation
+
+[2020.07.12-00.16.27:585][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:585][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:585][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:585][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:585][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:585][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:585][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:585][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:585][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:585][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:585][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:585][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:585][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:585][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:586][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:586][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:586][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:586][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:586][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:586][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:586][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:586][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:586][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:586][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:586][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:586][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:586][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.16.27:586][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:210][503]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2020.07.12-00.17.00:561][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:561][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:561][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:561][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:561][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:561][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:561][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:561][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:561][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:561][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:561][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:561][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:561][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:562][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:562][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:562][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:562][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:562][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:562][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:562][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:562][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:562][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:562][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:562][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:562][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:562][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:562][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.00:562][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:346][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:346][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:346][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:346][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:346][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:346][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:346][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:346][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:346][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:346][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:346][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:346][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:346][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:346][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:346][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:346][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:346][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:346][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:346][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:346][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:346][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:346][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:346][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:347][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:347][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:347][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:347][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:347][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:872][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:873][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:873][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.06:873][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:478][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:478][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:478][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:478][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:478][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:478][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:478][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:478][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:478][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:478][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:478][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:478][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:478][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:478][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:478][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:478][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:479][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:479][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:479][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:479][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:479][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:479][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:479][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:479][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:479][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:479][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:479][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.07:479][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_0.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_1.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_2.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:937][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:938][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.17.42:938][503]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_31.HUD_C_3.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.43:924][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-00.18.43:925][584]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.12-00.18.43:925][584]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-00.18.43:928][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-00.18.43:937][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-00.18.43:941][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-00.18.43:968][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-00.18.43:990][584]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001324BF8AC00), frame # 347584
+[2020.07.12-00.18.43:991][584]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000132462CF200), frame # 347584
+[2020.07.12-00.18.43:996][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.07.12-00.18.44:027][585]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2020.07.12-00.18.50:829][381]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.12-00.18.50:852][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-00.18.50:852][381]PIE: New page: PIE session: Level1 (Jul 12, 2020, 2:18:50 AM)
+[2020.07.12-00.18.50:852][381]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.12-00.18.50:887][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034783s)
+[2020.07.12-00.18.50:888][381]LogAIModule: Creating AISystem for world Level1
+[2020.07.12-00.18.50:888][381]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001326662D800), frame # 348381
+[2020.07.12-00.18.50:888][381]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001327286FEC0), frame # 348381
+[2020.07.12-00.18.50:888][381]LogPlayLevel: PIE: World Init took: (0.001196s)
+[2020.07.12-00.18.50:888][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.036129s)
+[2020.07.12-00.18.50:916][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.07.12-00.18.50:919][381]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.12-00.18.50:919][381]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.12-00.18.50:919][381]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.12-00.18.50:919][381]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.12-00.18.50:919][381]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.12-00.18.50:919][381]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.12-00.18.50:919][381]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.12-00.18.50:919][381]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.12-00.18.50:919][381]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.12-00.18.50:919][381]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.12-00.18.50:930][381]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.12-00.18.50:930][381]LogAudioMixer: Display: 1: FrontRight
+[2020.07.12-00.18.50:963][381]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.12-00.18.50:964][381]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.12-00.18.50:964][381]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.12-00.18.50:964][381]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.12-00.18.50:964][381]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.12-00.18.50:979][381]LogInit: FAudioDevice initialized.
+[2020.07.12-00.18.50:992][381]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-00.18.51:011][381]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.12-01.18.51
+[2020.07.12-00.18.51:012][381]LogWorld: Bringing up level for play took: 0.019686
+[2020.07.12-00.18.51:013][381]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2020.07.12-00.18.51:026][381]PIE: Server logged in
+[2020.07.12-00.18.51:027][381]PIE: Play in editor total start time 0.177 seconds.
+[2020.07.12-00.18.52:873][582]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_SetBlackboardValueAsInt', from offset 139
+[2020.07.12-00.18.52:873][582]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Characters/AI/Tasks/SetNextPatrolLocation.SetNextPatrolLocation_C:ReceiveExecuteAI
+	Function /Game/Characters/AI/Tasks/SetNextPatrolLocation.SetNextPatrolLocation_C:ExecuteUbergraph_SetNextPatrolLocation
+
+[2020.07.12-00.18.52:880][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_0.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:880][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_0.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:880][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_0.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:880][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_0.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:881][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_0.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:881][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_0.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:881][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_0.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:881][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_1.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:881][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_1.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:881][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_1.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:881][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_1.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:881][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_1.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:881][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_1.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:881][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_1.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:881][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_2.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:881][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_2.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:881][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_2.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:881][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_2.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:881][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_2.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:881][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_2.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:881][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_2.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:881][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_3.WidgetTree_0.ProgressBar_1248.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:881][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_3.WidgetTree_0.ProgressBar_1373.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:882][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_3.WidgetTree_0.ProgressBar_1481.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:882][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_3.WidgetTree_0.ProgressBar_1612.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:882][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_3.WidgetTree_0.ProgressBar_1743.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:882][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_3.WidgetTree_0.ProgressBar_2170.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.18.52:882][582]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_32.HUD_C_3.WidgetTree_0.ProgressBar_1931.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2020.07.12-00.20.15:995][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-00.20.15:995][582]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.12-00.20.15:996][582]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-00.20.15:999][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-00.20.16:009][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-00.20.16:015][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-00.20.16:065][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-00.20.16:066][582]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001327286FEC0), frame # 348582
+[2020.07.12-00.20.16:067][582]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001326662D800), frame # 348582
+[2020.07.12-00.20.16:070][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.07.12-00.20.16:101][583]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2020.07.12-00.20.17:312][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/SetNextPatrolLocation" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetNextPatrolLocation.uasset" SILENT=true
+[2020.07.12-00.20.17:376][717]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetNextPatrolLocationDC3F580D4E237DC34F54DAB53D8F708A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetNextPatrolLocation.uasset'
+[2020.07.12-00.20.17:389][717]AssetCheck: New page: Asset Save: SetNextPatrolLocation
+[2020.07.12-00.20.17:389][717]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/SetNextPatrolLocation.SetNextPatrolLocation
+[2020.07.12-00.21.32:826][148]BlueprintLog: New page: Compile SetNextPatrolLocation
+[2020.07.12-00.21.32:876][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.07.12-00.22.40:541][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/SetNextPatrolLocation" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetNextPatrolLocation.uasset" SILENT=true
+[2020.07.12-00.22.40:619][379]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetNextPatrolLocationF2AA75054F7CD3D9CB32F1BCA469ED17.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetNextPatrolLocation.uasset'
+[2020.07.12-00.22.40:638][379]AssetCheck: New page: Asset Save: SetNextPatrolLocation
+[2020.07.12-00.22.40:638][379]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/SetNextPatrolLocation.SetNextPatrolLocation
+[2020.07.12-00.26.18:028][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/SetNextPatrolLocation" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetNextPatrolLocation.uasset" SILENT=true
+[2020.07.12-00.26.18:094][546]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetNextPatrolLocationE1165E6A4AC3C207C06DBFA83840A1BA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetNextPatrolLocation.uasset'
+[2020.07.12-00.26.18:110][546]AssetCheck: New page: Asset Save: SetNextPatrolLocation
+[2020.07.12-00.26.18:110][546]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/SetNextPatrolLocation.SetNextPatrolLocation
+[2020.07.12-00.27.43:715][293]BlueprintLog: New page: Compile SetNextPatrolLocation
+[2020.07.12-00.27.43:768][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.07.12-00.27.44:663][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/SetNextPatrolLocation" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetNextPatrolLocation.uasset" SILENT=true
+[2020.07.12-00.27.44:728][390]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetNextPatrolLocation3C3770E3401BEDE8C93FF3B4351521D4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetNextPatrolLocation.uasset'
+[2020.07.12-00.27.44:742][390]AssetCheck: New page: Asset Save: SetNextPatrolLocation
+[2020.07.12-00.27.44:742][390]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/SetNextPatrolLocation.SetNextPatrolLocation
+[2020.07.12-00.28.01:765][386]BlueprintLog: New page: Compile SetNextPatrolLocation
+[2020.07.12-00.28.01:816][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.07.12-00.28.02:725][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/SetNextPatrolLocation" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetNextPatrolLocation.uasset" SILENT=true
+[2020.07.12-00.28.02:789][483]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetNextPatrolLocation49B904FD448B30B17036A68B2C292F0A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetNextPatrolLocation.uasset'
+[2020.07.12-00.28.02:803][483]AssetCheck: New page: Asset Save: SetNextPatrolLocation
+[2020.07.12-00.28.02:803][483]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/SetNextPatrolLocation.SetNextPatrolLocation
+[2020.07.12-00.35.15:309][695]BlueprintLog: New page: Compile SetNextPatrolLocation
+[2020.07.12-00.35.15:361][695]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.07.12-00.35.17:193][898]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.12-00.35.17:216][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-00.35.17:216][898]PIE: New page: PIE session: Level1 (Jul 12, 2020, 2:35:17 AM)
+[2020.07.12-00.35.17:216][898]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.12-00.35.17:252][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035603s)
+[2020.07.12-00.35.17:253][898]LogAIModule: Creating AISystem for world Level1
+[2020.07.12-00.35.17:253][898]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000013261F1C400), frame # 399898
+[2020.07.12-00.35.17:253][898]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000132251D1300), frame # 399898
+[2020.07.12-00.35.17:254][898]LogPlayLevel: PIE: World Init took: (0.001351s)
+[2020.07.12-00.35.17:254][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.037111s)
+[2020.07.12-00.35.17:283][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.07.12-00.35.17:284][898]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.12-00.35.17:284][898]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.12-00.35.17:284][898]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.12-00.35.17:284][898]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.12-00.35.17:284][898]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.12-00.35.17:284][898]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.12-00.35.17:284][898]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.12-00.35.17:284][898]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.12-00.35.17:285][898]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.12-00.35.17:285][898]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.12-00.35.17:296][898]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.12-00.35.17:296][898]LogAudioMixer: Display: 1: FrontRight
+[2020.07.12-00.35.17:329][898]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.12-00.35.17:329][898]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.12-00.35.17:329][898]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.12-00.35.17:329][898]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.12-00.35.17:330][898]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.12-00.35.17:342][898]LogInit: FAudioDevice initialized.
+[2020.07.12-00.35.17:356][898]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-00.35.17:376][898]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.12-01.35.17
+[2020.07.12-00.35.17:377][898]LogWorld: Bringing up level for play took: 0.020047
+[2020.07.12-00.35.17:377][898]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2020.07.12-00.35.17:392][898]PIE: Server logged in
+[2020.07.12-00.35.17:393][898]PIE: Play in editor total start time 0.179 seconds.
+[2020.07.12-00.35.18:976][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-00.35.18:976][ 61]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.12-00.35.18:976][ 61]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-00.35.18:979][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-00.35.18:990][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-00.35.18:994][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-00.35.19:039][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-00.35.19:040][ 61]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000132251D1300), frame # 400061
+[2020.07.12-00.35.19:040][ 61]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000013261F1C400), frame # 400061
+[2020.07.12-00.35.19:043][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.07.12-00.35.19:075][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2020.07.12-00.35.23:070][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Tasks/SetNextPatrolLocation" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetNextPatrolLocation.uasset" SILENT=true
+[2020.07.12-00.35.23:137][518]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/SetNextPatrolLocationCFE4EEB74DA51665A18AAB89B9424F86.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Tasks/SetNextPatrolLocation.uasset'
+[2020.07.12-00.35.23:151][518]AssetCheck: New page: Asset Save: SetNextPatrolLocation
+[2020.07.12-00.35.23:151][518]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Tasks/SetNextPatrolLocation.SetNextPatrolLocation
+[2020.07.12-00.35.24:139][632]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.12-00.35.24:163][632]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-00.35.24:163][632]PIE: New page: PIE session: Level1 (Jul 12, 2020, 2:35:24 AM)
+[2020.07.12-00.35.24:163][632]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.12-00.35.24:198][632]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034637s)
+[2020.07.12-00.35.24:199][632]LogAIModule: Creating AISystem for world Level1
+[2020.07.12-00.35.24:199][632]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000013294641E00), frame # 400632
+[2020.07.12-00.35.24:199][632]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000013271C48400), frame # 400632
+[2020.07.12-00.35.24:199][632]LogPlayLevel: PIE: World Init took: (0.001087s)
+[2020.07.12-00.35.24:199][632]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.035867s)
+[2020.07.12-00.35.24:227][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.07.12-00.35.24:228][632]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.12-00.35.24:229][632]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.12-00.35.24:229][632]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.12-00.35.24:229][632]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.12-00.35.24:229][632]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.12-00.35.24:229][632]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.12-00.35.24:229][632]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.12-00.35.24:229][632]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.12-00.35.24:229][632]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.12-00.35.24:229][632]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.12-00.35.24:240][632]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.12-00.35.24:240][632]LogAudioMixer: Display: 1: FrontRight
+[2020.07.12-00.35.24:276][632]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.12-00.35.24:276][632]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.12-00.35.24:276][632]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.12-00.35.24:276][632]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.12-00.35.24:276][632]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.12-00.35.24:292][632]LogInit: FAudioDevice initialized.
+[2020.07.12-00.35.24:301][632]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-00.35.24:321][632]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.12-01.35.24
+[2020.07.12-00.35.24:323][632]LogWorld: Bringing up level for play took: 0.021032
+[2020.07.12-00.35.24:323][632]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2020.07.12-00.35.24:338][632]PIE: Server logged in
+[2020.07.12-00.35.24:339][632]PIE: Play in editor total start time 0.179 seconds.
+[2020.07.12-00.35.43:735][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-00.35.43:735][796]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.12-00.35.43:735][796]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-00.35.43:739][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-00.35.43:746][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-00.35.43:750][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-00.35.43:796][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-00.35.43:798][796]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000013271C48400), frame # 402796
+[2020.07.12-00.35.43:798][796]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000013294641E00), frame # 402796
+[2020.07.12-00.35.43:801][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.07.12-00.35.43:842][797]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2020.07.12-00.35.44:252][842]Cmd: SELECT NONE
+[2020.07.12-00.35.45:627][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.07.12-00.35.45:658][  0]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-00.35.45:659][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-00.35.45:715][  0]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-00.35.45:715][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-00.35.45:769][  0]LogSlate: Window 'StandardMacros' being destroyed
+[2020.07.12-00.35.45:774][  0]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-00.35.45:774][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-00.35.45:878][  0]LogSlate: Window 'Colormage - Unreal Editor' being destroyed
+[2020.07.12-00.35.45:879][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.12-00.35.46:052][  1]Cmd: QUIT_EDITOR
+[2020.07.12-00.35.46:052][  1]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.07.12-00.35.46:060][  1]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.07.12-00.35.46:245][  1]LogExit: Preparing to exit.
+[2020.07.12-00.35.46:808][  1]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-00.35.46:808][  1]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-00.35.46:808][  1]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-00.35.46:808][  1]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-00.35.46:808][  1]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-00.35.46:808][  1]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-00.35.46:808][  1]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-00.35.46:808][  1]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-00.35.46:809][  1]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-00.35.46:920][  1]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.07.12-00.35.46:940][  1]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-00.35.46:942][  1]LogExit: Editor shut down
+[2020.07.12-00.35.46:943][  1]LogExit: Transaction tracking system shut down
+[2020.07.12-00.35.46:961][  1]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001319A8CBA00), frame # 403001
+[2020.07.12-00.35.46:961][  1]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001319A5B3B00), frame # 403001
+[2020.07.12-00.35.47:253][  1]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (00000131A0454100), frame # 403001
+[2020.07.12-00.35.47:253][  1]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000131A039B740), frame # 403001
+[2020.07.12-00.35.47:253][  1]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000131A0414A00), frame # 403001
+[2020.07.12-00.35.47:394][  1]LogExit: Object subsystem successfully closed.
+[2020.07.12-00.35.47:418][  1]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.07.12-00.35.47:451][  1]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (796)
+[2020.07.12-00.35.47:451][  1]LogModuleManager: Shutting down and abandoning module Voice (794)
+[2020.07.12-00.35.47:451][  1]LogModuleManager: Shutting down and abandoning module BlueprintGraph (792)
+[2020.07.12-00.35.47:451][  1]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (790)
+[2020.07.12-00.35.47:451][  1]LogModuleManager: Shutting down and abandoning module SceneOutliner (788)
+[2020.07.12-00.35.47:451][  1]LogModuleManager: Shutting down and abandoning module AddContentDialog (786)
+[2020.07.12-00.35.47:452][  1]LogModuleManager: Shutting down and abandoning module WidgetCarousel (785)
+[2020.07.12-00.35.47:452][  1]LogModuleManager: Shutting down and abandoning module EditorWidgets (782)
+[2020.07.12-00.35.47:452][  1]LogModuleManager: Shutting down and abandoning module CollectionManager (780)
+[2020.07.12-00.35.47:452][  1]LogModuleManager: Shutting down and abandoning module StatsViewer (778)
+[2020.07.12-00.35.47:452][  1]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2020.07.12-00.35.47:452][  1]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2020.07.12-00.35.47:452][  1]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2020.07.12-00.35.47:452][  1]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2020.07.12-00.35.47:452][  1]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2020.07.12-00.35.47:452][  1]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2020.07.12-00.35.47:452][  1]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (764)
+[2020.07.12-00.35.47:452][  1]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (762)
+[2020.07.12-00.35.47:452][  1]LogModuleManager: Shutting down and abandoning module AutomationWorker (760)
+[2020.07.12-00.35.47:452][  1]LogModuleManager: Shutting down and abandoning module SteamVREditor (758)
+[2020.07.12-00.35.47:452][  1]LogModuleManager: Shutting down and abandoning module OculusMR (756)
+[2020.07.12-00.35.47:452][  1]LogModuleManager: Shutting down and abandoning module GooglePADEditor (754)
+[2020.07.12-00.35.47:452][  1]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (752)
+[2020.07.12-00.35.47:452][  1]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (750)
+[2020.07.12-00.35.47:452][  1]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (748)
+[2020.07.12-00.35.47:452][  1]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (746)
+[2020.07.12-00.35.47:452][  1]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (744)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (742)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (740)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (738)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (736)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module WebMMedia (734)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (732)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (730)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module SequenceRecorder (729)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (726)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (724)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (722)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (720)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (718)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (716)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (714)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (712)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (710)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (708)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module PlanarCut (706)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module CharacterAI (704)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module TextureAlignMode (702)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module BspMode (700)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module PlacementMode (699)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module GeometryMode (696)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (694)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module SmartSnapping (692)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module SessionServices (690)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module MeshPaint (688)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module ViewportSnapping (686)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module ViewportInteraction (684)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module ClothPainter (682)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (681)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module LogVisualizer (678)
+[2020.07.12-00.35.47:453][  1]LogModuleManager: Shutting down and abandoning module IntroTutorials (676)
+[2020.07.12-00.35.47:454][  1]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (675)
+[2020.07.12-00.35.47:454][  1]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (672)
+[2020.07.12-00.35.47:454][  1]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (670)
+[2020.07.12-00.35.47:454][  1]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (668)
+[2020.07.12-00.35.47:454][  1]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (667)
+[2020.07.12-00.35.47:741][  1]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (664)
+[2020.07.12-00.35.47:741][  1]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (662)
+[2020.07.12-00.35.47:741][  1]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (660)
+[2020.07.12-00.35.47:741][  1]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (658)
+[2020.07.12-00.35.47:741][  1]LogModuleManager: Shutting down and abandoning module TraceInsights (656)
+[2020.07.12-00.35.47:741][  1]LogModuleManager: Shutting down and abandoning module TraceServices (655)
+[2020.07.12-00.35.47:741][  1]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (652)
+[2020.07.12-00.35.47:741][  1]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (650)
+[2020.07.12-00.35.47:741][  1]LogModuleManager: Shutting down and abandoning module InputBindingEditor (648)
+[2020.07.12-00.35.47:741][  1]LogModuleManager: Shutting down and abandoning module MergeActors (646)
+[2020.07.12-00.35.47:741][  1]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (644)
+[2020.07.12-00.35.47:741][  1]LogModuleManager: Shutting down and abandoning module LocalizationService (643)
+[2020.07.12-00.35.47:741][  1]LogModuleManager: Shutting down and abandoning module HardwareTargeting (640)
+[2020.07.12-00.35.47:741][  1]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (638)
+[2020.07.12-00.35.47:741][  1]LogModuleManager: Shutting down and abandoning module UndoHistory (636)
+[2020.07.12-00.35.47:741][  1]LogModuleManager: Shutting down and abandoning module XmlParser (634)
+[2020.07.12-00.35.47:741][  1]LogModuleManager: Shutting down and abandoning module Blutility (632)
+[2020.07.12-00.35.47:741][  1]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (630)
+[2020.07.12-00.35.47:741][  1]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (629)
+[2020.07.12-00.35.47:742][  1]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (626)
+[2020.07.12-00.35.47:742][  1]LogModuleManager: Shutting down and abandoning module SettingsEditor (624)
+[2020.07.12-00.35.47:742][  1]LogModuleManager: Shutting down and abandoning module ProjectLauncher (622)
+[2020.07.12-00.35.47:742][  1]LogModuleManager: Shutting down and abandoning module SessionFrontend (620)
+[2020.07.12-00.35.47:742][  1]LogModuleManager: Shutting down and abandoning module ProfilerClient (618)
+[2020.07.12-00.35.47:742][  1]LogModuleManager: Shutting down and abandoning module DeviceManager (616)
+[2020.07.12-00.35.47:742][  1]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (615)
+[2020.07.12-00.35.47:775][  1]LogModuleManager: Shutting down and abandoning module AutomationController (612)
+[2020.07.12-00.35.47:775][  1]LogModuleManager: Shutting down and abandoning module AutomationWindow (610)
+[2020.07.12-00.35.47:775][  1]LogModuleManager: Shutting down and abandoning module Layers (608)
+[2020.07.12-00.35.47:775][  1]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (606)
+[2020.07.12-00.35.47:775][  1]LogModuleManager: Shutting down and abandoning module DetailCustomizations (604)
+[2020.07.12-00.35.47:775][  1]LogModuleManager: Shutting down and abandoning module PackagesDialog (602)
+[2020.07.12-00.35.47:775][  1]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (600)
+[2020.07.12-00.35.47:775][  1]LogModuleManager: Shutting down and abandoning module Persona (598)
+[2020.07.12-00.35.47:775][  1]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (597)
+[2020.07.12-00.35.47:775][  1]LogModuleManager: Shutting down and abandoning module AnimGraph (595)
+[2020.07.12-00.35.47:775][  1]LogModuleManager: Shutting down and abandoning module Kismet (592)
+[2020.07.12-00.35.47:782][  1]LogModuleManager: Shutting down and abandoning module KismetWidgets (591)
+[2020.07.12-00.35.47:783][  1]LogModuleManager: Shutting down and abandoning module GraphEditor (588)
+[2020.07.12-00.35.47:783][  1]LogModuleManager: Shutting down and abandoning module StructViewer (586)
+[2020.07.12-00.35.47:783][  1]LogModuleManager: Shutting down and abandoning module ClassViewer (584)
+[2020.07.12-00.35.47:785][  1]LogModuleManager: Shutting down and abandoning module Toolbox (582)
+[2020.07.12-00.35.47:785][  1]LogModuleManager: Shutting down and abandoning module ModuleUI (580)
+[2020.07.12-00.35.47:785][  1]LogModuleManager: Shutting down and abandoning module OutputLog (578)
+[2020.07.12-00.35.47:787][  1]LogModuleManager: Shutting down and abandoning module GammaUI (576)
+[2020.07.12-00.35.47:787][  1]LogModuleManager: Shutting down and abandoning module Documentation (574)
+[2020.07.12-00.35.47:787][  1]LogModuleManager: Shutting down and abandoning module LiveCoding (572)
+[2020.07.12-00.35.47:787][  1]LogModuleManager: Shutting down and abandoning module LevelSequence (570)
+[2020.07.12-00.35.47:787][  1]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (568)
+[2020.07.12-00.35.47:787][  1]LogModuleManager: Shutting down and abandoning module MovieScene (566)
+[2020.07.12-00.35.47:787][  1]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (564)
+[2020.07.12-00.35.47:787][  1]LogModuleManager: Shutting down and abandoning module LauncherPlatform (562)
+[2020.07.12-00.35.47:787][  1]LogModuleManager: Shutting down and abandoning module AnalyticsET (560)
+[2020.07.12-00.35.47:787][  1]LogModuleManager: Shutting down and abandoning module PortalServices (558)
+[2020.07.12-00.35.47:787][  1]LogModuleManager: Shutting down and abandoning module PortalRpc (556)
+[2020.07.12-00.35.47:787][  1]LogModuleManager: Shutting down and abandoning module MessagingRpc (554)
+[2020.07.12-00.35.47:787][  1]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (552)
+[2020.07.12-00.35.47:787][  1]LogModuleManager: Shutting down and abandoning module AudioMixerCore (551)
+[2020.07.12-00.35.47:787][  1]LogModuleManager: Shutting down and abandoning module AIModule (548)
+[2020.07.12-00.35.47:787][  1]LogModuleManager: Shutting down and abandoning module GameplayDebugger (547)
+[2020.07.12-00.35.47:788][  1]LogModuleManager: Shutting down and abandoning module AITestSuite (545)
+[2020.07.12-00.35.47:788][  1]LogModuleManager: Shutting down and abandoning module NavigationSystem (543)
+[2020.07.12-00.35.47:788][  1]LogModuleManager: Shutting down and abandoning module ProfilerService (540)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module TaskGraph (538)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module ScreenshotTools (536)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module SynthesisEditor (534)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module Synthesis (532)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (530)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (528)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module OculusEditor (526)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module OculusInput (524)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (522)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module GooglePAD (520)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module EditableMesh (518)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (516)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module CableComponent (514)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module AudioCapture (512)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (511)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module AssetTags (508)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (506)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (504)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module AppleImageUtils (502)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module AndroidPermission (500)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (498)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (496)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module TemplateSequence (494)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (492)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (490)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (488)
+[2020.07.12-00.35.47:918][  1]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (486)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (485)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (482)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (480)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module MediaCompositing (478)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module ImgMedia (476)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (474)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (472)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (470)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (468)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (466)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (462)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module MeshConversion (460)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module DynamicMesh (458)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (456)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module GeometricObjects (454)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (452)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (451)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (448)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (446)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (444)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (442)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module ChaosNiagara (440)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module FractureEditor (438)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (436)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module ChaosCloth (434)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module BackChannel (432)
+[2020.07.12-00.35.47:919][  1]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (430)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module AutomationUtils (428)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module AlembicImporter (426)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module AlembicLibrary (425)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (418)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (416)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (414)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module PluginBrowser (412)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (410)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (408)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (406)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module CurveEditorTools (404)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (402)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module CryptoKeys (400)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (398)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (396)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module UObjectPlugin (394)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (392)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (390)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (388)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (386)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module GitSourceControl (384)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module SourceControl (383)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (380)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (378)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (376)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (374)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (372)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (370)
+[2020.07.12-00.35.47:920][  1]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (368)
+[2020.07.12-00.35.47:921][  1]LogModuleManager: Shutting down and abandoning module Paper2DEditor (366)
+[2020.07.12-00.35.47:921][  1]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2020.07.12-00.35.47:921][  1]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2020.07.12-00.35.47:921][  1]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2020.07.12-00.35.47:921][  1]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2020.07.12-00.35.47:921][  1]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2020.07.12-00.35.47:921][  1]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2020.07.12-00.35.47:921][  1]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2020.07.12-00.35.48:022][  1]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2020.07.12-00.35.48:123][  1]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2020.07.12-00.35.48:123][  1]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2020.07.12-00.35.48:123][  1]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2020.07.12-00.35.48:123][  1]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2020.07.12-00.35.48:123][  1]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2020.07.12-00.35.48:123][  1]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.07.12-00.35.48:123][  1]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2020.07.12-00.35.48:123][  1]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2020.07.12-00.35.48:123][  1]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2020.07.12-00.35.48:123][  1]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2020.07.12-00.35.48:123][  1]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2020.07.12-00.35.48:123][  1]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.07.12-00.35.48:123][  1]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2020.07.12-00.35.48:123][  1]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2020.07.12-00.35.48:123][  1]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2020.07.12-00.35.48:123][  1]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2020.07.12-00.35.48:123][  1]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2020.07.12-00.35.48:123][  1]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2020.07.12-00.35.48:123][  1]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2020.07.12-00.35.48:123][  1]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2020.07.12-00.35.48:123][  1]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2020.07.12-00.35.48:123][  1]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2020.07.12-00.35.48:124][  1]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2020.07.12-00.35.48:124][  1]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2020.07.12-00.35.48:124][  1]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2020.07.12-00.35.48:124][  1]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2020.07.12-00.35.48:125][  1]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2020.07.12-00.35.48:125][  1]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2020.07.12-00.35.48:125][  1]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2020.07.12-00.35.48:125][  1]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2020.07.12-00.35.48:125][  1]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2020.07.12-00.35.48:125][  1]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2020.07.12-00.35.48:125][  1]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2020.07.12-00.35.48:125][  1]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2020.07.12-00.35.48:125][  1]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2020.07.12-00.35.48:125][  1]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2020.07.12-00.35.48:132][  1]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2020.07.12-00.35.48:132][  1]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2020.07.12-00.35.48:132][  1]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2020.07.12-00.35.48:132][  1]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2020.07.12-00.35.48:132][  1]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2020.07.12-00.35.48:132][  1]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2020.07.12-00.35.48:132][  1]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2020.07.12-00.35.48:132][  1]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2020.07.12-00.35.48:132][  1]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2020.07.12-00.35.48:132][  1]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2020.07.12-00.35.48:132][  1]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2020.07.12-00.35.48:132][  1]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2020.07.12-00.35.48:132][  1]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2020.07.12-00.35.48:132][  1]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2020.07.12-00.35.48:132][  1]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2020.07.12-00.35.48:133][  1]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2020.07.12-00.35.48:133][  1]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2020.07.12-00.35.48:133][  1]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2020.07.12-00.35.48:133][  1]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2020.07.12-00.35.48:135][  1]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2020.07.12-00.35.48:135][  1]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2020.07.12-00.35.48:135][  1]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2020.07.12-00.35.48:136][  1]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2020.07.12-00.35.48:136][  1]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2020.07.12-00.35.48:136][  1]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2020.07.12-00.35.48:136][  1]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2020.07.12-00.35.48:136][  1]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2020.07.12-00.35.48:136][  1]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2020.07.12-00.35.48:136][  1]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2020.07.12-00.35.48:136][  1]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2020.07.12-00.35.48:136][  1]LogModuleManager: Shutting down and abandoning module Core (216)
+[2020.07.12-00.35.48:136][  1]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2020.07.12-00.35.48:136][  1]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2020.07.12-00.35.48:136][  1]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2020.07.12-00.35.48:136][  1]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2020.07.12-00.35.48:138][  1]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2020.07.12-00.35.48:138][  1]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2020.07.12-00.35.48:138][  1]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2020.07.12-00.35.48:138][  1]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2020.07.12-00.35.48:138][  1]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2020.07.12-00.35.48:138][  1]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2020.07.12-00.35.48:138][  1]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2020.07.12-00.35.48:138][  1]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2020.07.12-00.35.48:138][  1]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2020.07.12-00.35.48:138][  1]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2020.07.12-00.35.48:138][  1]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2020.07.12-00.35.48:138][  1]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2020.07.12-00.35.48:138][  1]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2020.07.12-00.35.48:139][  1]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2020.07.12-00.35.48:139][  1]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2020.07.12-00.35.48:139][  1]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2020.07.12-00.35.48:139][  1]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2020.07.12-00.35.48:139][  1]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2020.07.12-00.35.48:139][  1]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2020.07.12-00.35.48:139][  1]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2020.07.12-00.35.48:139][  1]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2020.07.12-00.35.48:139][  1]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2020.07.12-00.35.48:139][  1]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2020.07.12-00.35.48:139][  1]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2020.07.12-00.35.48:139][  1]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2020.07.12-00.35.48:139][  1]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2020.07.12-00.35.48:139][  1]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2020.07.12-00.35.48:139][  1]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2020.07.12-00.35.48:139][  1]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2020.07.12-00.35.48:139][  1]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2020.07.12-00.35.48:139][  1]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2020.07.12-00.35.48:139][  1]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2020.07.12-00.35.48:139][  1]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2020.07.12-00.35.48:139][  1]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2020.07.12-00.35.48:146][  1]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2020.07.12-00.35.48:149][  1]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2020.07.12-00.35.48:149][  1]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2020.07.12-00.35.48:149][  1]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2020.07.12-00.35.48:150][  1]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2020.07.12-00.35.48:150][  1]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2020.07.12-00.35.48:150][  1]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.07.12-00.35.48:150][  1]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.07.12-00.35.48:150][  1]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2020.07.12-00.35.48:150][  1]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2020.07.12-00.35.48:181][  1]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2020.07.12-00.35.48:197][  1]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2020.07.12-00.35.48:197][  1]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2020.07.12-00.35.48:197][  1]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2020.07.12-00.35.48:197][  1]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2020.07.12-00.35.48:197][  1]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2020.07.12-00.35.48:197][  1]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2020.07.12-00.35.48:197][  1]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2020.07.12-00.35.48:197][  1]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2020.07.12-00.35.48:197][  1]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2020.07.12-00.35.48:197][  1]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2020.07.12-00.35.48:197][  1]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2020.07.12-00.35.48:197][  1]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2020.07.12-00.35.48:197][  1]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2020.07.12-00.35.48:197][  1]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2020.07.12-00.35.48:197][  1]LogHMD: Freeing OpenVRDLLHandle.
+[2020.07.12-00.35.48:197][  1]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2020.07.12-00.35.48:197][  1]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.07.12-00.35.48:197][  1]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.07.12-00.35.48:197][  1]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.07.12-00.35.48:197][  1]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.07.12-00.35.48:198][  1]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2020.07.12-00.35.48:198][  1]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2020.07.12-00.35.48:241][  1]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2020.07.12-00.35.48:241][  1]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2020.07.12-00.35.48:242][  1]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2C38A373-4A18-DAD1-71B0-D49F6BCFC6AA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=70a6b89f4b683017b9245f9cc1260927%7C2342c603b8a64765b1d89819ebdf3ffa%7Cec95e6da-4d5e-476e-b7bc-294f77e94304&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.07.12-00.35.48:242][  1]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2C38A373-4A18-DAD1-71B0-D49F6BCFC6AA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=70a6b89f4b683017b9245f9cc1260927%7C2342c603b8a64765b1d89819ebdf3ffa%7Cec95e6da-4d5e-476e-b7bc-294f77e94304&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.07.12-00.35.48:284][  1]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2020.07.12-00.35.48:288][  1]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2020.07.12-00.35.48:290][  1]LogModuleManager: Shutting down and abandoning module Media (61)
+[2020.07.12-00.35.48:291][  1]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2020.07.12-00.35.48:291][  1]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2020.07.12-00.35.48:292][  1]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2020.07.12-00.35.48:292][  1]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.07.12-00.35.48:292][  1]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.07.12-00.35.48:297][  1]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.07.12-00.35.48:297][  1]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.07.12-00.35.48:297][  1]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.07.12-00.35.48:297][  1]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.07.12-00.35.48:297][  1]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.07.12-00.35.48:297][  1]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.07.12-00.35.48:297][  1]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.07.12-00.35.48:297][  1]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.07.12-00.35.48:298][  1]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.07.12-00.35.48:298][  1]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.07.12-00.35.48:298][  1]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.07.12-00.35.48:298][  1]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.07.12-00.35.48:302][  1]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.07.12-00.35.48:302][  1]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.07.12-00.35.48:302][  1]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.07.12-00.35.48:302][  1]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.07.12-00.35.48:302][  1]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.07.12-00.35.48:302][  1]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.07.12-00.35.48:303][  1]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.07.12-00.35.48:303][  1]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.07.12-00.35.48:303][  1]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.07.12-00.35.48:303][  1]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.07.12-00.35.48:303][  1]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.07.12-00.35.48:303][  1]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.07.12-00.35.48:303][  1]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.07.12-00.35.49:059][  1]LogD3D11RHI: Shutdown
+[2020.07.12-00.35.49:059][  1]LogD3D11RHI: CleanupD3DDevice
+[2020.07.12-00.35.49:096][  1]LogExit: Exiting.
+[2020.07.12-00.35.49:100][  1]Log file closed, 07/12/20 01:35:49
