@@ -1577,3 +1577,88 @@ Make sure 'Player2D_C' has been compiled for  Get RunSpeedMultiplier
 [2020.07.13-20.15.10:024][878]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Player2D4F097B2044C90AEC8B3B23BEB9E7C68F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Player2D.uasset'
 [2020.07.13-20.15.10:040][878]AssetCheck: New page: Asset Save: Player2D
 [2020.07.13-20.15.10:040][878]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/Player2D.Player2D
+[2020.07.13-20.15.34:750][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.07.13-20.15.34:752][ 69]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/First/Level1' took 0.049
+[2020.07.13-20.15.34:752][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/AI/Services/ChangeNPCSpeed] ([1] browsable assets)...
+[2020.07.13-20.15.34:752][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/AI/Services/ChangeNPCSpeed]
+[2020.07.13-20.15.34:875][ 69]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ChangeNPCSpeed_Auto285B47C3B4A71B708AF61EBBA6EE4CE2A.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/AI/Services/ChangeNPCSpeed_Auto2.uasset'
+[2020.07.13-20.15.34:876][ 69]LogFileHelpers: Auto-saving content packages took 0.124
+[2020.07.13-20.42.53:862][945]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.13-20.42.53:862][945]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.13-20.45.18:580][863]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.13-20.45.18:580][863]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.13-20.45.54:055][  3]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/AI/Services/ChangeNPCSpeed.ChangeNPCSpeed
+[2020.07.13-20.45.56:675][275]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.07.13-20.45.56:680][275]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.07.13-20.47.24:339][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-20.47.24:516][437]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D4C0C17BB452E835A051F7EA3E4FC22A9.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-20.47.24:536][437]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-20.47.24:536][437]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-20.47.27:512][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-20.47.27:646][786]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D48705FCC4409101EF544F589EA882382.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-20.47.27:662][786]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-20.47.27:662][786]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-20.47.29:853][ 39]BlueprintLog: New page: Compile ChangeNPCSpeed
+[2020.07.13-20.47.29:889][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.07.13-20.47.30:525][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Services/ChangeNPCSpeed" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Services/ChangeNPCSpeed.uasset" SILENT=true
+[2020.07.13-20.47.30:605][110]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ChangeNPCSpeed21C1D470482E5B8B21B107AF8475C934.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Services/ChangeNPCSpeed.uasset'
+[2020.07.13-20.47.30:621][110]AssetCheck: New page: Asset Save: ChangeNPCSpeed
+[2020.07.13-20.47.30:621][110]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Services/ChangeNPCSpeed.ChangeNPCSpeed
+[2020.07.13-20.47.56:355][ 22]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.13-20.47.56:375][ 22]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.07.13-20.47.56:382][ 22]LogPlayLevel: [PlayLevel] Compiling Player2D before play...
+[2020.07.13-20.47.56:477][ 22]LogPlayLevel: [PlayLevel] Compiling Enemy2D before play...
+[2020.07.13-20.47.56:581][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.07.13-20.47.56:582][ 22]LogPlayLevel: PlayLevel: Blueprint regeneration took 207 ms (2 blueprints)
+[2020.07.13-20.47.56:582][ 22]PIE: New page: PIE session: Level1 (Jul 13, 2020, 10:47:56 PM)
+[2020.07.13-20.47.56:582][ 22]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.13-20.47.56:617][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034459s)
+[2020.07.13-20.47.56:618][ 22]LogAIModule: Creating AISystem for world Level1
+[2020.07.13-20.47.56:618][ 22]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000216DF065C00), frame # 353022
+[2020.07.13-20.47.56:618][ 22]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000216D02A2980), frame # 353022
+[2020.07.13-20.47.56:618][ 22]LogPlayLevel: PIE: World Init took: (0.001270s)
+[2020.07.13-20.47.56:618][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.035922s)
+[2020.07.13-20.47.56:645][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.07.13-20.47.56:646][ 22]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.13-20.47.56:646][ 22]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.13-20.47.56:646][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.13-20.47.56:646][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.13-20.47.56:646][ 22]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.13-20.47.56:646][ 22]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.13-20.47.56:646][ 22]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.13-20.47.56:646][ 22]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.13-20.47.56:647][ 22]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.13-20.47.56:647][ 22]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.13-20.47.56:657][ 22]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.13-20.47.56:657][ 22]LogAudioMixer: Display: 1: FrontRight
+[2020.07.13-20.47.56:690][ 22]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.13-20.47.56:690][ 22]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.13-20.47.56:690][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.13-20.47.56:690][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.13-20.47.56:691][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.13-20.47.56:704][ 22]LogInit: FAudioDevice initialized.
+[2020.07.13-20.47.56:716][ 22]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.13-20.47.56:734][ 22]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.13-21.47.56
+[2020.07.13-20.47.56:734][ 22]LogWorld: Bringing up level for play took: 0.017209
+[2020.07.13-20.47.56:734][ 22]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.07.13-20.47.56:741][ 22]PIE: Server logged in
+[2020.07.13-20.47.56:742][ 22]PIE: Play in editor total start time 0.368 seconds.
+[2020.07.13-20.47.57:391][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.13-20.47.57:391][ 89]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.13-20.47.57:392][ 89]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-20.47.57:395][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-20.47.57:403][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.13-20.47.57:407][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-20.47.57:435][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.13-20.47.57:455][ 89]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000216D02A2980), frame # 353089
+[2020.07.13-20.47.57:455][ 89]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000216DF065C00), frame # 353089
+[2020.07.13-20.47.57:458][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.07.13-20.47.57:483][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.07.13-20.48.37:831][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-20.48.37:967][740]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D3BC3E6EF43B80600926A448F5B67F192.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-20.48.37:985][740]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-20.48.37:985][740]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-20.48.57:535][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Services/ChangeNPCSpeed" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Services/ChangeNPCSpeed.uasset" SILENT=true
+[2020.07.13-20.48.57:616][ 42]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ChangeNPCSpeedC235557F438DD90D65B24CAF69CAEE70.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Services/ChangeNPCSpeed.uasset'
+[2020.07.13-20.48.57:632][ 42]AssetCheck: New page: Asset Save: ChangeNPCSpeed
+[2020.07.13-20.48.57:632][ 42]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Services/ChangeNPCSpeed.ChangeNPCSpeed
