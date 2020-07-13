@@ -1668,3 +1668,53 @@ Make sure 'Player2D_C' has been compiled for  Get RunSpeedMultiplier
 [2020.07.13-20.50.01:803][836]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ChangeNPCSpeedA50CDD394042A3ACC2F4A685574026C4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Services/ChangeNPCSpeed.uasset'
 [2020.07.13-20.50.01:815][836]AssetCheck: New page: Asset Save: ChangeNPCSpeed
 [2020.07.13-20.50.01:816][836]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Services/ChangeNPCSpeed.ChangeNPCSpeed
+[2020.07.13-20.51.18:167][109]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Characters/AI/BTNodes/Guard.Guard
+[2020.07.13-20.52.13:800][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/BTNodes/Guard" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/BTNodes/Guard.uasset" SILENT=true
+[2020.07.13-20.52.13:882][756]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Guard5E12E86D43C0CD13E17FBA9C31D54DF2.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/BTNodes/Guard.uasset'
+[2020.07.13-20.52.13:898][756]AssetCheck: New page: Asset Save: Guard
+[2020.07.13-20.52.13:898][756]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/BTNodes/Guard.Guard
+[2020.07.13-20.53.03:365][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/BTNodes/Guard" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/BTNodes/Guard.uasset" SILENT=true
+[2020.07.13-20.53.03:445][228]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Guard675E7914498F65DDB62C8FAE3002481F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/BTNodes/Guard.uasset'
+[2020.07.13-20.53.03:458][228]AssetCheck: New page: Asset Save: Guard
+[2020.07.13-20.53.03:458][228]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/BTNodes/Guard.Guard
+[2020.07.13-20.58.46:029][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Services/ChangeNPCSpeed" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Services/ChangeNPCSpeed.uasset" SILENT=true
+[2020.07.13-20.58.46:118][216]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ChangeNPCSpeed0465FDA5406FF2C853C7DA883B836569.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Services/ChangeNPCSpeed.uasset'
+[2020.07.13-20.58.46:138][216]AssetCheck: New page: Asset Save: ChangeNPCSpeed
+[2020.07.13-20.58.46:138][216]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Services/ChangeNPCSpeed.ChangeNPCSpeed
+[2020.07.13-20.58.46:818][296]BlueprintLog: New page: Compile ChangeNPCSpeed
+[2020.07.13-20.58.46:868][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.07.13-20.58.51:182][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Services/ChangeNPCSpeed" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Services/ChangeNPCSpeed.uasset" SILENT=true
+[2020.07.13-20.58.51:264][803]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ChangeNPCSpeed83DBCEF945556CF9D78F24A029FCC575.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Services/ChangeNPCSpeed.uasset'
+[2020.07.13-20.58.51:278][803]AssetCheck: New page: Asset Save: ChangeNPCSpeed
+[2020.07.13-20.58.51:278][803]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Services/ChangeNPCSpeed.ChangeNPCSpeed
+[2020.07.13-20.59.07:749][772]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Event Receive Activation AI  and was replaced as a Custom Event!
+[2020.07.13-20.59.37:207][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Services/ChangeNPCSpeed" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Services/ChangeNPCSpeed.uasset" SILENT=true
+[2020.07.13-20.59.37:290][208]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ChangeNPCSpeed2AF704B247AE519333AA14B02AFFDDF7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Services/ChangeNPCSpeed.uasset'
+[2020.07.13-20.59.37:310][208]AssetCheck: New page: Asset Save: ChangeNPCSpeed
+[2020.07.13-20.59.37:310][208]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Services/ChangeNPCSpeed.ChangeNPCSpeed
+[2020.07.13-20.59.38:771][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Services/ChangeNPCSpeed" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Services/ChangeNPCSpeed.uasset" SILENT=true
+[2020.07.13-20.59.38:852][379]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ChangeNPCSpeedD59890B04FDD471688584D93F75FFB39.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Services/ChangeNPCSpeed.uasset'
+[2020.07.13-20.59.38:868][379]AssetCheck: New page: Asset Save: ChangeNPCSpeed
+[2020.07.13-20.59.38:868][379]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Services/ChangeNPCSpeed.ChangeNPCSpeed
+[2020.07.13-20.59.41:008][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Services/ChangeNPCSpeed" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Services/ChangeNPCSpeed.uasset" SILENT=true
+[2020.07.13-20.59.41:089][632]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ChangeNPCSpeed3918ACDF48B76701A9B762BCE9BE687F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Services/ChangeNPCSpeed.uasset'
+[2020.07.13-20.59.41:103][632]AssetCheck: New page: Asset Save: ChangeNPCSpeed
+[2020.07.13-20.59.41:103][632]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Services/ChangeNPCSpeed.ChangeNPCSpeed
+[2020.07.13-20.59.49:634][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Services/ChangeNPCSpeed" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Services/ChangeNPCSpeed.uasset" SILENT=true
+[2020.07.13-20.59.49:715][647]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ChangeNPCSpeedAEAD4A6745291854317137A2E2F78F22.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Services/ChangeNPCSpeed.uasset'
+[2020.07.13-20.59.49:727][647]AssetCheck: New page: Asset Save: ChangeNPCSpeed
+[2020.07.13-20.59.49:727][647]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Services/ChangeNPCSpeed.ChangeNPCSpeed
+[2020.07.13-20.59.51:409][845]BlueprintLog: New page: Compile ChangeNPCSpeed
+[2020.07.13-20.59.51:455][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.07.13-20.59.52:140][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Services/ChangeNPCSpeed" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Services/ChangeNPCSpeed.uasset" SILENT=true
+[2020.07.13-20.59.52:219][923]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ChangeNPCSpeedD207FA1546F5E39AC94BBF87FF29A753.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Services/ChangeNPCSpeed.uasset'
+[2020.07.13-20.59.52:236][923]AssetCheck: New page: Asset Save: ChangeNPCSpeed
+[2020.07.13-20.59.52:236][923]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Services/ChangeNPCSpeed.ChangeNPCSpeed
+[2020.07.13-20.59.52:662][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Services/ChangeNPCSpeed" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Services/ChangeNPCSpeed.uasset" SILENT=true
+[2020.07.13-20.59.52:743][970]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ChangeNPCSpeedC5554CFE49EA439B5B3768A1DC3E583B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Services/ChangeNPCSpeed.uasset'
+[2020.07.13-20.59.52:759][970]AssetCheck: New page: Asset Save: ChangeNPCSpeed
+[2020.07.13-20.59.52:759][970]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Services/ChangeNPCSpeed.ChangeNPCSpeed
+[2020.07.13-21.00.01:113][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/BTNodes/Guard" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/BTNodes/Guard.uasset" SILENT=true
+[2020.07.13-21.00.01:194][949]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Guard5035781346A0B8F6F726C693E9AF7A50.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/BTNodes/Guard.uasset'
+[2020.07.13-21.00.01:210][949]AssetCheck: New page: Asset Save: Guard
+[2020.07.13-21.00.01:210][949]LogContentValidation: Display: Validating BehaviorTree /Game/Characters/AI/BTNodes/Guard.Guard
