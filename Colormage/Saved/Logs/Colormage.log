@@ -1114,3 +1114,186 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.13-22.22.12:655][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
 [2020.07.13-22.22.12:683][872]LogPlayLevel: Display: Destroying online subsystem :Context_5
 [2020.07.13-22.22.32:288][215]LogEditorViewport: Clicking on Actor (LMB): ZombieFemale_C (ZombieFemale)
+[2020.07.13-22.22.57:207][ 60]LogEditorViewport: Clicking on Actor (LMB): ZombieMale_C (ZombieMale2)
+[2020.07.13-22.22.59:950][377]LogEditorViewport: Clicking on Actor (LMB): PaperGroupedSpriteActor (PaperGroupedSpriteActor)
+[2020.07.13-22.23.00:628][452]LogEditorViewport: Clicking on Actor (LMB): PaperGroupedSpriteActor (PaperGroupedSpriteActor)
+[2020.07.13-22.23.03:862][835]LogEditorViewport: Clicking on Actor (LMB): ZombieFemale_C (ZombieFemale)
+[2020.07.13-22.23.39:065][781]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/Zombies/ZombieMale/ZombieMale.ZombieMale
+[2020.07.13-22.23.48:013][788]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-22.23.48:013][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-22.24.11:290][524]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/Zombies/ZombieFemale/ZombieFemale.ZombieFemale
+[2020.07.13-22.24.25:091][113]LogSlate: Window 'Color Picker' being destroyed
+[2020.07.13-22.24.34:022][159]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-22.24.34:022][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-22.24.34:084][159]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/Zombies/ZombieFemale/ZombieFemale.ZombieFemale
+[2020.07.13-22.25.40:806][ 21]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-22.26.00:216][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-22.26.00:344][254]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D0AD65711452A252352D14997669EC937.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-22.26.00:361][254]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-22.26.00:361][254]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-22.26.47:303][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-22.26.47:430][332]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D8BB59E994ADA8B0E40E239A916E049C5.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-22.26.47:448][332]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-22.26.47:448][332]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-22.27.07:167][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-22.27.07:292][679]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D36350A81464B94ADBEAB07BF3520B826.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-22.27.07:306][679]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-22.27.07:306][679]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-22.27.22:710][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-22.27.22:837][462]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2DA33C656E432B3A098808F6B97F011503.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-22.27.22:855][462]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-22.27.22:855][462]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-22.27.34:933][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.13-22.27.34:996][842]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.07.13-22.27.35:228][842]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level120E45E02463A41728906CFA7C3D9FE7D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.13-22.27.35:280][842]AssetCheck: New page: Asset Save: Level1
+[2020.07.13-22.27.35:280][842]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.13-22.27.38:995][244]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ZombieFemale69B5F07648C9FC1860572CB973EA44CC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Zombies/ZombieFemale/ZombieFemale.uasset'
+[2020.07.13-22.27.39:086][244]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ZombieMale6EBF1CEB4EFADA2095A751AE0D8CAF45.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Zombies/ZombieMale/ZombieMale.uasset'
+[2020.07.13-22.27.39:110][244]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.13-22.27.39:110][244]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Zombies/ZombieFemale/ZombieFemale.ZombieFemale
+[2020.07.13-22.27.39:110][244]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Zombies/ZombieMale/ZombieMale.ZombieMale
+[2020.07.13-22.28.29:649][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-22.28.29:778][210]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D763027E84BE97900135455A7CD65AC0D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-22.28.29:796][210]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-22.28.29:796][210]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-22.28.30:987][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-22.28.31:117][350]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D8E294CD64A0CAF1AB034E2A00C8C009B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-22.28.31:135][350]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-22.28.31:135][350]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-22.28.33:628][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-22.28.33:753][642]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D6B024331425B32934BD1D386817EEB99.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-22.28.33:768][642]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-22.28.33:768][642]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-22.29.36:846][725]LogSlate: Window 'EnemyBB' being destroyed
+[2020.07.13-22.29.36:850][725]LogSlate: Window 'EnemyBB' being destroyed
+[2020.07.13-22.29.39:471][ 16]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.13-22.29.39:489][ 16]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.07.13-22.29.39:497][ 16]LogPlayLevel: [PlayLevel] Compiling Enemy2D before play...
+[2020.07.13-22.29.39:498][ 16]LogPlayLevel: [PlayLevel]   Compiling ZombieFemale as a dependent...
+[2020.07.13-22.29.39:498][ 16]LogPlayLevel: [PlayLevel]   Compiling ZombieMale as a dependent...
+[2020.07.13-22.29.39:509][ 16]LogBlueprint: Error: [Compiler Enemy2D] This blueprint (self) is not a PaperFlipbookComponent, therefore ' Target generated from expanding Promote Flipbook Components To Variables ' must have a connection.
+[2020.07.13-22.29.39:509][ 16]LogBlueprint: Error: [Compiler Enemy2D] This blueprint (self) is not a PaperFlipbookComponent, therefore ' Target generated from expanding Promote Flipbook Components To Variables ' must have a connection.
+[2020.07.13-22.29.39:510][ 16]LogBlueprint: Error: [Compiler Enemy2D] This blueprint (self) is not a PaperFlipbookComponent, therefore ' Target generated from expanding Promote Flipbook Components To Variables ' must have a connection.
+[2020.07.13-22.29.39:510][ 16]LogBlueprint: Error: [Compiler Enemy2D] This blueprint (self) is not a PaperFlipbookComponent, therefore ' Target generated from expanding Promote Flipbook Components To Variables ' must have a connection.
+[2020.07.13-22.29.39:510][ 16]LogBlueprint: Error: [Compiler Enemy2D] This blueprint (self) is not a PaperFlipbookComponent, therefore ' Target generated from expanding Promote Flipbook Components To Variables ' must have a connection.
+[2020.07.13-22.29.39:510][ 16]LogBlueprint: Error: [Compiler Enemy2D] This blueprint (self) is not a PaperFlipbookComponent, therefore ' Target generated from expanding Promote Flipbook Components To Variables ' must have a connection.
+[2020.07.13-22.29.39:688][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.07.13-22.29.39:691][ 16]LogPlayLevel: PlayLevel: Blueprint regeneration took 202 ms (3 blueprints)
+[2020.07.13-22.29.39:691][ 16]BlueprintLog: Warning: Blueprint failed to compile:  Enemy2D
+[2020.07.13-22.29.39:691][ 16]LogCustomDialog: Dialog displayed:
+[2020.07.13-22.29.46:619][ 16]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2020.07.13-22.30.03:432][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-22.30.03:556][994]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D46AB81DB49FED755423E7699A2601CF2.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-22.30.03:572][994]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-22.30.03:572][994]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-22.30.13:260][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-22.30.13:390][135]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D7394944646790361DBDF32BB9E81235E.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-22.30.13:405][135]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-22.30.13:405][135]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-22.30.21:035][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.13-22.30.21:061][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.07.13-22.30.21:310][ 30]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level15A672006427A60F07B1387B42F47E148.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.13-22.30.21:361][ 30]AssetCheck: New page: Asset Save: Level1
+[2020.07.13-22.30.21:361][ 30]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.13-22.30.22:071][114]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.13-22.30.22:090][114]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.07.13-22.30.22:096][114]LogPlayLevel: [PlayLevel] Compiling Enemy2D before play...
+[2020.07.13-22.30.22:096][114]LogPlayLevel: [PlayLevel]   Compiling ZombieFemale as a dependent...
+[2020.07.13-22.30.22:096][114]LogPlayLevel: [PlayLevel]   Compiling ZombieMale as a dependent...
+[2020.07.13-22.30.22:265][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.07.13-22.30.22:267][114]LogPlayLevel: PlayLevel: Blueprint regeneration took 177 ms (3 blueprints)
+[2020.07.13-22.30.22:267][114]PIE: New page: PIE session: Level1 (Jul 14, 2020, 12:30:22 AM)
+[2020.07.13-22.30.22:304][114]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.13-22.30.22:339][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034573s)
+[2020.07.13-22.30.22:340][114]LogAIModule: Creating AISystem for world Level1
+[2020.07.13-22.30.22:340][114]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025EA3BEDE00), frame # 74114
+[2020.07.13-22.30.22:340][114]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025EA5A24900), frame # 74114
+[2020.07.13-22.30.22:340][114]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2020.07.13-22.30.22:340][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.035885s)
+[2020.07.13-22.30.22:366][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.07.13-22.30.22:367][114]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.13-22.30.22:367][114]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.13-22.30.22:367][114]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.13-22.30.22:367][114]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.13-22.30.22:367][114]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.13-22.30.22:367][114]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.13-22.30.22:367][114]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.13-22.30.22:367][114]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.13-22.30.22:367][114]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.13-22.30.22:367][114]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.13-22.30.22:377][114]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.13-22.30.22:377][114]LogAudioMixer: Display: 1: FrontRight
+[2020.07.13-22.30.22:408][114]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.13-22.30.22:408][114]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.13-22.30.22:408][114]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.13-22.30.22:408][114]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.13-22.30.22:409][114]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.13-22.30.22:423][114]LogInit: FAudioDevice initialized.
+[2020.07.13-22.30.22:435][114]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.13-22.30.22:453][114]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.13-23.30.22
+[2020.07.13-22.30.22:454][114]LogWorld: Bringing up level for play took: 0.017679
+[2020.07.13-22.30.22:454][114]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.07.13-22.30.22:460][114]PIE: Server logged in
+[2020.07.13-22.30.22:461][114]PIE: Play in editor total start time 0.372 seconds.
+[2020.07.13-22.30.22:468][115]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.050914 > MaxSimulationTimeStep (0.050) for 'Player2D_C_0', movement 'Walking'
+[2020.07.13-22.30.28:355][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.13-22.30.28:355][807]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.13-22.30.28:356][807]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-22.30.28:359][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-22.30.28:369][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.13-22.30.28:374][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-22.30.28:400][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.13-22.30.28:422][807]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025EA5A24900), frame # 74807
+[2020.07.13-22.30.28:422][807]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025EA3BEDE00), frame # 74807
+[2020.07.13-22.30.28:425][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.07.13-22.30.28:471][808]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.07.13-22.30.38:546][149]LogEditorViewport: Clicking on Actor (LMB): ZombieFemale_C (ZombieFemale)
+[2020.07.13-22.30.42:841][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.13-22.30.42:868][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.07.13-22.30.43:102][649]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level101049A8B4B655214B9C389926E5B3DCA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.13-22.30.43:152][649]AssetCheck: New page: Asset Save: Level1
+[2020.07.13-22.30.43:152][649]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.13-22.30.51:233][608]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-22.30.51:233][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-22.30.52:663][769]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.13-22.30.52:663][769]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-22.30.52:664][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-22.30.58:132][417]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.13-22.30.58:132][417]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-22.30.58:132][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-22.31.06:939][452]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/Zombies/ZombieFemale/ZombieFemale.ZombieFemale
+[2020.07.13-22.31.12:616][ 83]LogRenderer: Reallocating scene render targets to support 1916x600 Format 10 NumSamples 1 (Frame:1).
+[2020.07.13-22.31.41:990][563]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ZombieFemaleB78FDF424ACA71FABDA6289E4C575288.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Zombies/ZombieFemale/ZombieFemale.uasset'
+[2020.07.13-22.31.42:013][563]AssetCheck: New page: Asset Save: ZombieFemale
+[2020.07.13-22.31.42:013][563]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Zombies/ZombieFemale/ZombieFemale.ZombieFemale
+[2020.07.13-22.32.05:762][389]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ZombieFemale231F2A1D466D78B24645359F579C8B8F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Zombies/ZombieFemale/ZombieFemale.uasset'
+[2020.07.13-22.32.05:778][389]AssetCheck: New page: Asset Save: ZombieFemale
+[2020.07.13-22.32.05:778][389]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Zombies/ZombieFemale/ZombieFemale.ZombieFemale
+[2020.07.13-22.32.17:618][795]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-22.32.17:618][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-22.32.21:380][225]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/Zombies/ZombieMale/ZombieMale.ZombieMale
+[2020.07.13-22.32.27:496][880]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ZombieMale564101AC427E66A32C376CA9FE5465A5.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Zombies/ZombieMale/ZombieMale.uasset'
+[2020.07.13-22.32.27:511][880]AssetCheck: New page: Asset Save: ZombieMale
+[2020.07.13-22.32.27:511][880]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Zombies/ZombieMale/ZombieMale.ZombieMale
+[2020.07.13-22.32.31:001][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.13-22.32.31:032][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.07.13-22.32.31:273][290]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level141AE1CC0455A374E53E0FFA1C639EE8F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.13-22.32.31:320][290]AssetCheck: New page: Asset Save: Level1
+[2020.07.13-22.32.31:320][290]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
+[2020.07.13-22.32.54:619][ 56]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ZombieMale8E66960540975D761CB860B1BF11C3C3.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Zombies/ZombieMale/ZombieMale.uasset'
+[2020.07.13-22.32.54:634][ 56]AssetCheck: New page: Asset Save: ZombieMale
+[2020.07.13-22.32.54:634][ 56]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Zombies/ZombieMale/ZombieMale.ZombieMale
+[2020.07.13-22.33.04:510][224]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ZombieMale2E1E15914271103FDABC13BBC4BD5A08.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Zombies/ZombieMale/ZombieMale.uasset'
+[2020.07.13-22.33.04:523][224]AssetCheck: New page: Asset Save: ZombieMale
+[2020.07.13-22.33.04:523][224]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Zombies/ZombieMale/ZombieMale.ZombieMale
+[2020.07.13-22.33.08:283][661]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ZombieMaleECC815734425B56EFC9137A114F595AB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Zombies/ZombieMale/ZombieMale.uasset'
+[2020.07.13-22.33.08:299][661]AssetCheck: New page: Asset Save: ZombieMale
+[2020.07.13-22.33.08:299][661]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Zombies/ZombieMale/ZombieMale.ZombieMale
+[2020.07.13-22.33.09:368][785]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-22.33.09:368][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-22.33.11:103][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.13-22.33.11:126][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.07.13-22.33.11:383][975]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level189BF17214C9FE03198D92FA48C489767.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.13-22.33.11:434][975]AssetCheck: New page: Asset Save: Level1
+[2020.07.13-22.33.11:434][975]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
