@@ -2214,3 +2214,60 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.13-10.44.26:733][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/AI/Patroller/Patroller_AI]
 [2020.07.13-10.44.26:836][502]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Patroller_AI_Auto10803E7AF4CDC1AE4F9EF8E8322F4D383.tmp' to '../../../../../../GitHub/Colormage/Colormage/Saved/Autosaves/Game/Characters/AI/Patroller/Patroller_AI_Auto1.uasset'
 [2020.07.13-10.44.26:837][502]LogFileHelpers: Auto-saving content packages took 0.105
+[2020.07.13-10.46.35:610][159]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.13-10.46.35:629][159]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.07.13-10.46.35:629][159]LogPlayLevel: [PlayLevel] Compiling BaseEnemy_AI before play...
+[2020.07.13-10.46.35:632][159]LogBlueprint: Error: [Compiler BaseEnemy_AI] The property associated with  <Unnamed>  could not be found in '/Game/Characters/AI/BaseEnemy_AI.BaseEnemy_AI_C'
+[2020.07.13-10.46.35:632][159]LogBlueprint: Error: [Compiler BaseEnemy_AI] The property associated with  Patrol Loop  could not be found in '/Game/Characters/AI/BaseEnemy_AI.BaseEnemy_AI_C'
+[2020.07.13-10.46.35:644][159]LogPlayLevel: [PlayLevel] Compiling BaseEnemy before play...
+[2020.07.13-10.46.35:743][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.07.13-10.46.35:748][159]LogPlayLevel: PlayLevel: Blueprint regeneration took 119 ms (2 blueprints)
+[2020.07.13-10.46.35:748][159]BlueprintLog: Warning: Blueprint failed to compile:  BaseEnemy_AI
+[2020.07.13-10.46.35:749][159]LogCustomDialog: Dialog displayed:
+[2020.07.13-10.46.40:810][159]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/AI/BaseEnemy_AI.BaseEnemy_AI
+[2020.07.13-10.46.42:572][159]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2020.07.13-10.46.42:665][159]LogSlate: Took 0.025073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.07.13-10.48.12:224][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/BaseEnemy_AI" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/BaseEnemy_AI.uasset" SILENT=true
+[2020.07.13-10.48.12:319][471]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/BaseEnemy_AICE5E9FD44DAFBE4722ED229F8B9BCA2B.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/BaseEnemy_AI.uasset'
+[2020.07.13-10.48.12:333][471]AssetCheck: New page: Asset Save: BaseEnemy_AI
+[2020.07.13-10.48.12:333][471]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/BaseEnemy_AI.BaseEnemy_AI
+[2020.07.13-10.48.14:009][654]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-10.48.14:009][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-10.48.22:757][307]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.13-10.48.22:775][307]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.07.13-10.48.22:776][307]LogPlayLevel: [PlayLevel] Compiling BaseEnemy_AI before play...
+[2020.07.13-10.48.22:814][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.07.13-10.48.22:819][307]LogPlayLevel: PlayLevel: Blueprint regeneration took 43 ms (1 blueprints)
+[2020.07.13-10.48.22:819][307]PIE: New page: PIE session: Level1 (Jul 13, 2020, 12:48:22 PM)
+[2020.07.13-10.48.22:820][307]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.13-10.48.22:855][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035594s)
+[2020.07.13-10.48.22:856][307]LogAIModule: Creating AISystem for world Level1
+[2020.07.13-10.48.22:856][307]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B1370E6200), frame # 579307
+[2020.07.13-10.48.22:856][307]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B16A0DF880), frame # 579307
+[2020.07.13-10.48.22:856][307]LogPlayLevel: PIE: World Init took: (0.001251s)
+[2020.07.13-10.48.22:856][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.037065s)
+[2020.07.13-10.48.22:878][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.07.13-10.48.22:879][307]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.13-10.48.22:879][307]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.13-10.48.22:879][307]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.13-10.48.22:879][307]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.13-10.48.22:879][307]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.13-10.48.22:879][307]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.13-10.48.22:880][307]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.13-10.48.22:880][307]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.13-10.48.22:880][307]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.13-10.48.22:880][307]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.13-10.48.22:891][307]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.13-10.48.22:891][307]LogAudioMixer: Display: 1: FrontRight
+[2020.07.13-10.48.22:926][307]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.13-10.48.22:927][307]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.13-10.48.22:927][307]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.13-10.48.22:927][307]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.13-10.48.22:927][307]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.13-10.48.22:938][307]LogInit: FAudioDevice initialized.
+[2020.07.13-10.48.22:948][307]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.13-10.48.22:967][307]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.13-11.48.22
+[2020.07.13-10.48.22:968][307]LogWorld: Bringing up level for play took: 0.019477
+[2020.07.13-10.48.22:968][307]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2020.07.13-10.48.22:976][307]PIE: Server logged in
+[2020.07.13-10.48.22:976][307]PIE: Play in editor total start time 0.202 seconds.
