@@ -1424,3 +1424,156 @@ Make sure 'Player2D_C' has been compiled for  Get RunSpeedMultiplier
 [2020.07.13-19.59.56:232][600]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Player2D711DCB004D5E2D4BB0705391CA436E57.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Player2D.uasset'
 [2020.07.13-19.59.56:252][600]AssetCheck: New page: Asset Save: Player2D
 [2020.07.13-19.59.56:252][600]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/Player2D.Player2D
+[2020.07.13-20.01.18:135][756]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-20.01.46:681][ 71]LogSlate: Window 'Enemy2D' being destroyed
+[2020.07.13-20.02.43:729][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-20.02.43:868][824]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D247D5C194C9FA778CFBB57989D2C4EFA.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-20.02.43:881][824]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-20.02.43:881][824]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-20.03.02:151][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-20.03.02:287][983]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2DFDC2CDF548763B5D77FC6180BEE424DE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-20.03.02:299][983]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-20.03.02:299][983]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-20.03.16:966][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-20.03.17:105][727]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D50915A4D4045762CAA8DFCB1B22106CD.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-20.03.17:123][727]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-20.03.17:123][727]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-20.03.20:224][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-20.03.20:359][ 90]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D8330A24543D74EC976F55086F391C691.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-20.03.20:375][ 90]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-20.03.20:375][ 90]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-20.04.45:566][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-20.04.45:698][196]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D6A64016640822B74086D68B62251E8B6.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-20.04.45:711][196]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-20.04.45:711][196]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-20.05.20:899][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-20.05.21:044][340]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2DEE4BC171429CBEB437D2EDBF9284C81C.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-20.05.21:061][340]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-20.05.21:061][340]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-20.05.29:494][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-20.05.29:626][326]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2DE415BB5A4F4491726A0B3CABFDCCF409.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-20.05.29:640][326]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-20.05.29:640][326]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-20.05.32:261][634]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.13-20.05.32:279][634]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.07.13-20.05.32:286][634]LogPlayLevel: [PlayLevel] Compiling Player2D before play...
+[2020.07.13-20.05.32:370][634]LogPlayLevel: [PlayLevel] Compiling ChangeNPCSpeed before play...
+[2020.07.13-20.05.32:372][634]LogPlayLevel: [PlayLevel]   Compiling Enemy2D as a dependent...
+[2020.07.13-20.05.32:463][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.07.13-20.05.32:465][634]LogPlayLevel: PlayLevel: Blueprint regeneration took 185 ms (3 blueprints)
+[2020.07.13-20.05.32:465][634]PIE: New page: PIE session: Level1 (Jul 13, 2020, 10:05:32 PM)
+[2020.07.13-20.05.32:465][634]LogPlayLevel: Creating play world package: /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.13-20.05.32:500][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034808s)
+[2020.07.13-20.05.32:501][634]LogAIModule: Creating AISystem for world Level1
+[2020.07.13-20.05.32:501][634]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000216AB293600), frame # 260634
+[2020.07.13-20.05.32:501][634]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000216B6407EC0), frame # 260634
+[2020.07.13-20.05.32:501][634]LogPlayLevel: PIE: World Init took: (0.001242s)
+[2020.07.13-20.05.32:501][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/First/Level1.Level1 to /Game/Levels/First/UEDPIE_0_Level1.Level1 (0.036272s)
+[2020.07.13-20.05.32:525][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.07.13-20.05.32:526][634]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.13-20.05.32:526][634]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.13-20.05.32:526][634]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.13-20.05.32:526][634]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.13-20.05.32:526][634]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.13-20.05.32:526][634]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.13-20.05.32:526][634]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.13-20.05.32:526][634]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.13-20.05.32:527][634]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.13-20.05.32:527][634]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.13-20.05.32:539][634]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.13-20.05.32:539][634]LogAudioMixer: Display: 1: FrontRight
+[2020.07.13-20.05.32:573][634]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (2- Realtek High Definition Audio)
+[2020.07.13-20.05.32:573][634]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.13-20.05.32:573][634]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.13-20.05.32:573][634]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.13-20.05.32:573][634]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.13-20.05.32:586][634]LogInit: FAudioDevice initialized.
+[2020.07.13-20.05.32:598][634]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.13-20.05.32:616][634]LogWorld: Bringing World /Game/Levels/First/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.13-21.05.32
+[2020.07.13-20.05.32:616][634]LogWorld: Bringing up level for play took: 0.017822
+[2020.07.13-20.05.32:617][634]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.07.13-20.05.32:623][634]PIE: Server logged in
+[2020.07.13-20.05.32:624][634]PIE: Play in editor total start time 0.345 seconds.
+[2020.07.13-20.05.33:399][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.13-20.05.33:399][715]LogWorld: BeginTearingDown for /Game/Levels/First/UEDPIE_0_Level1
+[2020.07.13-20.05.33:399][715]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.13-20.05.33:403][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-20.05.33:412][715]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.13-20.05.33:416][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.13-20.05.33:439][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.13-20.05.33:462][715]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000216B6407EC0), frame # 260715
+[2020.07.13-20.05.33:462][715]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000216AB293600), frame # 260715
+[2020.07.13-20.05.33:466][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.07.13-20.05.33:494][716]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.07.13-20.06.04:634][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-20.06.04:768][397]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D30CA634846B6BD3BF11252A86AEE09CC.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-20.06.04:784][397]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-20.06.04:784][397]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-20.06.19:739][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-20.06.19:873][163]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D64F3473642BE041ED2A90F87CE3E6DE9.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-20.06.19:887][163]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-20.06.19:887][163]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-20.08.04:866][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-20.08.05:016][581]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D2D85C4C0476CA8D0527AD98FBAC25A3F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-20.08.05:032][581]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-20.08.05:032][581]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-20.08.47:125][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-20.08.47:265][529]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2DA7B9E4214F928BF5B03884885934DA61.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-20.08.47:279][529]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-20.08.47:279][529]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-20.08.59:722][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-20.08.59:861][ 10]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2DAC23F3D1430AB9EBEDE5888B91505E53.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-20.08.59:874][ 10]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-20.08.59:874][ 10]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-20.09.17:239][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-20.09.17:382][ 22]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D8DC7C33145B85D4A75513BB3DB524E57.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-20.09.17:397][ 22]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-20.09.17:397][ 22]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-20.09.46:759][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-20.09.46:901][448]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D97E7FFB1418501420DFB77BBDB333E15.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-20.09.46:919][448]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-20.09.46:919][448]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-20.10.38:575][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-20.10.38:710][546]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D1E0627C940AFF87B975502953BD0ABA1.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-20.10.38:724][546]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-20.10.38:724][546]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-20.11.21:391][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-20.11.21:534][528]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D23B82F1147C1EFEFD13F9DB6E8AB5654.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-20.11.21:553][528]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-20.11.21:553][528]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-20.12.16:613][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-20.12.16:752][ 32]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D0254B87B45DD5B302AA1B79D33E4CDEB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-20.12.16:770][ 32]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-20.12.16:770][ 32]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-20.12.40:516][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/Player2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Player2D.uasset" SILENT=true
+[2020.07.13-20.12.40:687][811]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Player2DDE4589B947DE0E390BACF680C57951D8.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Player2D.uasset'
+[2020.07.13-20.12.40:703][811]AssetCheck: New page: Asset Save: Player2D
+[2020.07.13-20.12.40:703][811]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/Player2D.Player2D
+[2020.07.13-20.13.21:844][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-20.13.21:986][569]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D241DDED54E3E589D5F8ED6A560CCFA83.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-20.13.21:999][569]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-20.13.21:999][569]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-20.13.31:656][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-20.13.31:790][708]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D39C33B8344CBCC46D5D04082ABA08D4D.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-20.13.31:810][708]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-20.13.31:810][708]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-20.14.11:165][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/Player2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Player2D.uasset" SILENT=true
+[2020.07.13-20.14.11:332][197]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Player2D1CE3DA9C4C804259D07548A5BEDFD3AB.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Player2D.uasset'
+[2020.07.13-20.14.11:348][197]AssetCheck: New page: Asset Save: Player2D
+[2020.07.13-20.14.11:348][197]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/Player2D.Player2D
+[2020.07.13-20.14.39:344][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/Player2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Player2D.uasset" SILENT=true
+[2020.07.13-20.14.39:516][502]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Player2D0A96B315412579DB561BE58471EFA56F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Player2D.uasset'
+[2020.07.13-20.14.39:533][502]AssetCheck: New page: Asset Save: Player2D
+[2020.07.13-20.14.39:533][502]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/Player2D.Player2D
+[2020.07.13-20.14.44:340][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset" SILENT=true
+[2020.07.13-20.14.44:478][ 57]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Enemy2D880808CA42B1DC8C65AB9B88441E76B7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Enemies/Enemy2D.uasset'
+[2020.07.13-20.14.44:498][ 57]AssetCheck: New page: Asset Save: Enemy2D
+[2020.07.13-20.14.44:498][ 57]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/Enemy2D.Enemy2D
+[2020.07.13-20.14.55:020][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/Player2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Player2D.uasset" SILENT=true
+[2020.07.13-20.14.55:189][199]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Player2DDD9E213F4B882911B4ABE0942129E664.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Player2D.uasset'
+[2020.07.13-20.14.55:204][199]AssetCheck: New page: Asset Save: Player2D
+[2020.07.13-20.14.55:204][199]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/Player2D.Player2D
+[2020.07.13-20.15.09:845][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Players/Player2D" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Player2D.uasset" SILENT=true
+[2020.07.13-20.15.10:024][878]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Player2D4F097B2044C90AEC8B3B23BEB9E7C68F.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/Players/Player2D.uasset'
+[2020.07.13-20.15.10:040][878]AssetCheck: New page: Asset Save: Player2D
+[2020.07.13-20.15.10:040][878]LogContentValidation: Display: Validating Blueprint /Game/Characters/Players/Player2D.Player2D
