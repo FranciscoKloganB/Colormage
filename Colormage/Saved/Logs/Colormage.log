@@ -1662,3 +1662,9 @@ Make sure 'Player2D_C' has been compiled for  Get RunSpeedMultiplier
 [2020.07.13-20.48.57:616][ 42]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ChangeNPCSpeedC235557F438DD90D65B24CAF69CAEE70.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Services/ChangeNPCSpeed.uasset'
 [2020.07.13-20.48.57:632][ 42]AssetCheck: New page: Asset Save: ChangeNPCSpeed
 [2020.07.13-20.48.57:632][ 42]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Services/ChangeNPCSpeed.ChangeNPCSpeed
+[2020.07.13-20.50.01:287][792]BlueprintLog: New page: Compile ChangeNPCSpeed
+[2020.07.13-20.50.01:320][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.07.13-20.50.01:721][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/AI/Services/ChangeNPCSpeed" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Services/ChangeNPCSpeed.uasset" SILENT=true
+[2020.07.13-20.50.01:803][836]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/ChangeNPCSpeedA50CDD394042A3ACC2F4A685574026C4.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Characters/AI/Services/ChangeNPCSpeed.uasset'
+[2020.07.13-20.50.01:815][836]AssetCheck: New page: Asset Save: ChangeNPCSpeed
+[2020.07.13-20.50.01:816][836]LogContentValidation: Display: Validating Blueprint /Game/Characters/AI/Services/ChangeNPCSpeed.ChangeNPCSpeed
