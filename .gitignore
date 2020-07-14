@@ -81,3 +81,4 @@ Colormage/Saved/Autosaves/PackageRestoreData.json
 Colormage/Saved/Config/Windows/Engine.ini
 Colormage/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 *.log
+*.ini
