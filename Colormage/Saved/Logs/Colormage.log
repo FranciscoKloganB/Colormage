@@ -2540,3 +2540,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.14-12.15.39:887][ 88]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001686183A400), frame # 287088
 [2020.07.14-12.15.39:891][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
 [2020.07.14-12.15.39:934][ 89]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2020.07.14-12.16.30:639][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Pickups/Potions/HealthPotion" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Items/Pickups/Potions/HealthPotion.uasset" SILENT=true
+[2020.07.14-12.16.30:730][653]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/HealthPotion9FBBA8564B2B16FAA7C5D0B98189B3E7.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Items/Pickups/Potions/HealthPotion.uasset'
+[2020.07.14-12.16.30:746][653]AssetCheck: New page: Asset Save: HealthPotion
+[2020.07.14-12.16.30:746][653]LogContentValidation: Display: Validating Blueprint /Game/Items/Pickups/Potions/HealthPotion.HealthPotion
