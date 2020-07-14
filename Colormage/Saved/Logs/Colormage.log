@@ -1131,3 +1131,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.14-20.54.43:253][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
 [2020.07.14-20.54.43:273][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
 [2020.07.14-20.54.43:292][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.07.14-21.01.24:857][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/First/Level1" FILE="../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.14-21.01.24:878][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.07.14-21.01.25:141][ 40]LogSavePackage: Moving '../../../../../../GitHub/Colormage/Colormage/Saved/Level1132932994DBAAE6786AFC1943AE1CAEE.tmp' to '../../../../../../GitHub/Colormage/Colormage/Content/Levels/First/Level1.umap'
+[2020.07.14-21.01.25:197][ 40]AssetCheck: New page: Asset Save: Level1
+[2020.07.14-21.01.25:197][ 40]LogContentValidation: Display: Validating World /Game/Levels/First/Level1.Level1
