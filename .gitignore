@@ -75,12 +75,16 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Colormage/Saved/Logs/
+Colormage/Saved/Config/
+Colormage/Saved/Collections/
 Colormage/Saved/AutoScreenshot.png
-Colormage/Intermediate/CachedAssetRegistry.bin
 Colormage/Saved/Autosaves/PackageRestoreData.json
 Colormage/Saved/Config/Windows/Engine.ini
 Colormage/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Colormage/Intermediate/CachedAssetRegistry.bin
+
+# File Extensions
 *.log
 *.ini
-Colormage/Saved/Autosaves/PackageRestoreData.json
-Colormage/Intermediate/CachedAssetRegistry.bin
+*.bin
