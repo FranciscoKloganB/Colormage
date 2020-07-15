@@ -88,3 +88,5 @@ Colormage/Intermediate/CachedAssetRegistry.bin
 *.log
 *.ini
 *.bin
+*.runtime-xml
+*.dmp
